@@ -1,0 +1,24 @@
+steps:
+  - name: Setup ruby environment
+    plugin: Script
+    script:
+      - gem uninstall bundler
+      - apt-get update
+      # Install the thing that lets us install ruby along with imagemagick.
+      - apt-get install -y software-properties-common imagemagick
+      - apt-add-repository -y ppa:brightbox/ruby-ng
+      - apt-get update
+      - sudo apt-get install -y ruby2.2 ruby2.2-dev
+      - update-alternatives --config ruby
+      - gem install bundler
+  - name: Install gems via bundler
+    plugin: Script
+    script:
+      - cd $SRC_DIR
+      - gem install ethon -v '0.8.1'
+      - bundle install --path vendor/bundle
+      - locale-gen en_US.UTF-8
+  - name: Build site with Jekyll
+    plugin: Script
+    script:
+      - LC_ALL=en_US.UTF-8 LANG=en_US.UTF-8 LANGUAGE=en_US.UTF-8 bundle exec jekyll build --destination=/var/www/html

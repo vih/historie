@@ -1,0 +1,24 @@
+# Site settings
+title: Vejle Idrætshøjskoles Historie
+email: webmaster@vih.dk
+phone: "+45 7582 0811"
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+google_analytics_code: ""
+facebook_pixel_code: ""
+
+# Other settings
+timezone: Europe/Copenhagen
+exclude:
+include: ["_pages"]
+permalink: /:title/
+
+# Build settings
+kramdown:
+  input: GFM
+  parse_block_html: true
+  remove_block_html_tags: true
+
+sass:
+  style: compressed

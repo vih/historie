@@ -12,7 +12,6 @@ facebook_pixel_code: ""
 timezone: Europe/Copenhagen
 exclude: ["vendor"]
 include: ["_pages"]
-permalink: /:title/
 
 # Build settings
 kramdown:
@@ -22,6 +21,12 @@ kramdown:
 
 sass:
   style: compressed
+
+# Pages as collections
+collections:
+  pages:
+    output: true
+    permalink: /:title
 
 # Prose integration
 prose:

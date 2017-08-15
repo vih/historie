@@ -10,7 +10,7 @@ facebook_pixel_code: ""
 
 # Other settings
 timezone: Europe/Copenhagen
-exclude:
+exclude: ["vendor"]
 include: ["_pages"]
 permalink: /:title/
 
@@ -22,3 +22,31 @@ kramdown:
 
 sass:
   style: compressed
+
+# Prose integration
+prose:
+  siteurl: "http://historie.vih.dk"
+  media: 'assets/img'
+  ignore:
+    - .codio
+    - .htaccess
+    - .gitignore
+    - .probo.yaml
+    - .sass-lint.yml
+    - .travis.yml
+    - _config.yml
+    - CNAME
+    - favicon.ico
+    - Gemfile
+    - Gemfile.lock
+    - gulpfile.js
+    - LICENCE
+    - package.json
+    - README.md
+    - /_layouts
+    - /_sass
+    - /css
+    - /font-awesome
+    - /fonts
+    - /js
+    - stylesheets

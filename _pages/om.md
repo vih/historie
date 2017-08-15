@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Om denne side
+permalink: /om/
 ---
 
 Denne side er oprettet i forbindelse med Vejle Idrætshøjskoles 75 års jubilæum. I den anledning har vi samlet alle arkiverne, som var spredt rundt omkring på højskolen.

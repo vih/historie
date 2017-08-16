@@ -29,7 +29,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'message']
   branch                 : "gh-pages"
   commitMessage          : "Ny kommentar."
   filename               : comment-{@timestamp}
@@ -231,6 +231,14 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  places:
+    output: true
+    permalink: /:collection/:path/
+  timelines:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -242,6 +250,28 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      comments: true
+      share: true
+      related: true
+# _place
+  - scope:
+      path: ""
+      type: places
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
+# _timelines
+  - scope:
+      path: ""
+      type: timelines
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
       comments: true
       share: true
       related: true

@@ -81,19 +81,19 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Danmarks bedste idrætshøjskole."
   location         : "Vejle"
-  email            :
+  email            : "webmaster@vih.dk"
   uri              : "https://vih.dk/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/groups/655406751295188"
   foursquare       :
-  github           :
+  github           : "http://github.com/vih/historie.git"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "http://instagram.com/vihdk"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -101,11 +101,11 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "http://twitter.com/vihdk"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"
 
 
 # Reading Files

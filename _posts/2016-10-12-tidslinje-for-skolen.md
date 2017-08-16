@@ -1,7 +1,7 @@
 ---
-layout: single
 title:  Tidslinje for skolen
-categories: tidslinje
+categories: 
+  - tidslinje
 permalink: /tidslinje-vih/
 ---
 

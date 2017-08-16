@@ -8,7 +8,7 @@ Follow [instructions here](http://kappataumu.com/articles/vagrant-jekyll-github-
 
     $ git clone https://github.com/kappataumu/vagrant-up-github-pages.git
     $ cd vagrant-up-github-pages
-    $ export REPO='https://github.com/kappataumu/kappataumu.github.com.git'
+    $ export REPO='https://github.com/vih/historie.git'
     $ vagrant up
     $ vagrant ssh
     $ gem install bundle

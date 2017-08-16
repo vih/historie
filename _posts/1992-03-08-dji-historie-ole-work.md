@@ -9,6 +9,8 @@ tags:
   - historie
 ---
 
+{% include toc icon="gears" title="Indhold i artiklen" %}
+
 En 50-års fødselsdag bliver ofte lejligheden til at se bagud. Hvordan startede det? Hvorfor og hvordan starte en ny skole under den tyske besættelse af Danmark ?
 Den Jyske Idrætsskole i Vejle havde en meget svær fødsel for 50 år siden.
 Denne lille artikel omhandler tiden fra de diffuse ideers opståen til Den Jyske Idrætsskole endelig blev godkendt - og godkendt med een forstander i 1948. Tyngden i artiklen ligger dog på de allerførste år. Artiklen er alene baseret på skriftlige vidnesbyrd.

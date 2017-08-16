@@ -236,6 +236,9 @@ collections:
   places:
     output: true
     permalink: /:collection/:path/
+  timelines:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -254,6 +257,17 @@ defaults:
   - scope:
       path: ""
       type: places
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
+# _timelines
+  - scope:
+      path: ""
+      type: timelines
     values:
       layout: single
       author_profile: true

@@ -9,5 +9,5 @@ tags:
 ---
 
 {% include figure
-    image_path="https://lh3.googleusercontent.com/uNTXpdxm4ZzcSTJzLaumc1regFxnoFWTRSwnD_wZd_AxgVK1lt4Uxwz7wyDx2oq6-WlYtui-Vc89bpA=w1920-h948-rw"
+    image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXVWFJY2MxZ29UT0E"
     caption="Oversigtsbillede over Nørreskoven taget af Luftwaffe 1944" %}

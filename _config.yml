@@ -233,7 +233,7 @@ compress_html:
 
 # Collections
 collections:
-  place:
+  places:
     output: true
     permalink: /:collection/:path/
 
@@ -253,7 +253,7 @@ defaults:
 # _place
   - scope:
       path: ""
-      type: place
+      type: places
     values:
       layout: single
       author_profile: true

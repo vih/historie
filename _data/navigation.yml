@@ -7,7 +7,7 @@ main:
   - title: "Tidslinjer"
     url: /tidslinjer/
   - title: "Steder"
-     url: /steder/
+    url: /steder/
   - title: "Arkiv"
     url: /arkiv/
   - title: "Hjælp"

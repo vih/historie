@@ -8,7 +8,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: mm-home-page-feature.jpg
   cta_label: "<i class='fa fa-download'></i> Bidrag til historien"
-  cta_url: "/opdagelse/"
+  cta_url: "/bidrag/"
   caption:
 excerpt: 'Dyk ned i Vejle Idrætshøjskoles historie og bidrag selv til den. Dette site er oprettet i forbindelse med skolens 75 års jubilæum i 2017-2018.'
 intro:

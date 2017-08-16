@@ -29,7 +29,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'message']
   branch                 : "gh-pages"
   commitMessage          : "Ny kommentar."
   filename               : comment-{@timestamp}

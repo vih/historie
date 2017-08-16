@@ -8,4 +8,4 @@ header:
 
 {% include figure 
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXVEpVZ21tLUtyNWs"
-    caption="Oprindelige spisesal som i dag er pedellernes værksted" %}
+    caption="Svømmebassin fotograferet omkring 1959" %}

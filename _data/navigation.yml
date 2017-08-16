@@ -6,9 +6,9 @@ main:
     url: /start/
   - title: "Tidslinjer"
     url: /tidslinjer/
+  - title: "Steder"
+     url: /steder/
   - title: "Arkiv"
     url: /arkiv/
   - title: "Hjælp"
     url: /opdagelse/
-  # - title: "Sitemap"
-  #   url: /sitemap/

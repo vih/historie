@@ -231,6 +231,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  place:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -242,6 +247,17 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      comments: true
+      share: true
+      related: true
+# _place
+  - scope:
+      path: ""
+      type: place
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
       comments: true
       share: true
       related: true

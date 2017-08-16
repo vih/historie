@@ -1,12 +1,14 @@
 # main links
 main:
+  - title: "Om"
+    url: /om/
+  - title: "Start"
+    url: /start/
+  - title: "Tidslinjer"
+    url: /tidslinjer/
   - title: "Arkiv"
-    url: /arkiv
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+    url: /arkiv/
+  - title: "Hjælp"
+    url: /opdagelse/
   # - title: "Sitemap"
   #   url: /sitemap/

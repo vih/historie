@@ -1,18 +1,10 @@
 ---
-layout: default
-title: Om denne side
-permalink: /om/
+layout: single
+title: Den Jyske Idrætsskoles fødsel - for 50 år siden (1942-1948)
+permalink: /dji-start/
 author: ole_worm
+date:   1992-03-08 16:16:01 +0100
 ---
-
-# Vejle Idrætshøjskoles start
-
-Den Jyske Idrætsskoles fødsel
-- for 50 år siden.
-
-1942-1948
-Ole Worm
-1992
 
 En 50-års fødselsdag bliver ofte lejligheden til at se bagud. Hvordan startede det? Hvorfor og hvordan starte en ny skole under den tyske besættelse af Danmark ?
 Den Jyske Idrætsskole i Vejle havde en meget svær fødsel for 50 år siden.
@@ -20,15 +12,15 @@ Denne lille artikel omhandler tiden fra de diffuse ideers opståen til Den Jyske
 Det har længe generet mig ikke at vide klar besked med disse år. En del medarbejdere har ligeledes ønsket en historisk behandling af skolens tilblivelse. En faghistoriker bør ved passende lejlighed skrive skolens historie dette første halve hundrede år.
 Man kan kun kvalitativt springe fremad, når man har fast grund under fødderne.
 
+## Artiklens korte version
 
-Artiklens korte version.
-25.01. 1942 Idrætsskolen fastlægges
-09.08. 1942 DJI som selvejende institution med hovedbestyrelse
-03.10. 1942 grundstensnedlæggelse
-03.07. 1943 1. kursus Dansk Håndbold Forbund.
-03.11. 1943 1. elevhold starter
-05.12. 1943 DJI åbner officielt
-30.05. 1945 DJI godkendes som faghøjskole
+- 25.01.1942 Idrætsskolen fastlægges
+- 09.08.1942 DJI som selvejende institution med hovedbestyrelse
+- 03.10.1942 grundstensnedlæggelse
+- 03.07.1943 1. kursus Dansk Håndbold Forbund.
+- 03.11.1943 1. elevhold starter
+- 05.12.1943 DJI åbner officielt
+- 30.05.1945 DJI godkendes som faghøjskole
 
 ## Baggrund
 
@@ -46,8 +38,7 @@ Svend Aage Thomsen (20.02.1911 - 26.03.1961) var autodidakt uden formel uddannel
 Fra forstander Niels Bukh, Ollerup, udsprang sidst i 30`erne og begyndelsen af 40`erne en række skoleledere med egne ideer, der ikke på alle områder kunne forenes med Niels Bukhs. Det var viljestærke personer, der ønskede kraftudfoldelse andet steds.
 Tysklands besættelse af Danmark betød, at Svend Aage Thomsen blev arbejdsløs. Han var på et 3 måneders idrætslederkursus (06.01.1941-29.03.1941) på Danmarks Højskole for Legemsøvelser, hvis mål var:
 
-    "...til Afhjælpning af Manglen paa Idrætsledere en Række Kurser til Uddannelse af Lærere i den frivillige Gymnastik og Idræt.
-    De paagældende Kursus fandt Sted dels paa Danmarks Højskole for Legemsøvelser i København, dels paa forskellige Højskoler i Provinsen."..
+> "...til Afhjælpning af Manglen paa Idrætsledere en Række Kurser til Uddannelse af Lærere i den frivillige Gymnastik og Idræt. De paagældende Kursus fandt Sted dels paa Danmarks Højskole for Legemsøvelser i København, dels paa forskellige Højskoler i Provinsen."..
 
 SAaT modtog afgangsbevis fra dette kursus i atletik.
 
@@ -60,15 +51,15 @@ Men Svend Aage var jyde.
 
 Svend Aage Thomsen angav, at de konkrete tanker om at oprette en jysk idrætsskole modnedes i august 1941. I løbet af dette efterår samlede SAaT en række støtteerklæringer fra ledende specialforbundsformænd og formænd for DIF og D.D.G. Formanden for D.D.G., P.J. Skriver(PJS), udtalte sin støtte til SAaTs planer, men skulle dog først have dem konfirmeret på et landsstyrelsesmøde. PJS understregede dog her den 21.11.1941, at han støttede en idrætshøjskole samtidig med, at han gjorde opmærksom på, at
 
-    "man et andet Sted i Jylland har haft Planer om en lignende skole."
+> "man et andet Sted i Jylland har haft Planer om en lignende skole."
 
 Lillejuleaften 1941 fik SAaT en skriftlig udtalelse fra DIF's formand oberst H. Sander(1941-47), hvori han støttede skolens oprettelse, og hvori oberst Sander påpegede, at
 
-    "Lederen af Skolen skal have DIF's og Specialforbunds Tillid"
+> "Lederen af Skolen skal have DIF's og Specialforbunds Tillid"
 
 Som atletikmand under atletikforbundet og dermed knyttet til DIF, var denne betingede støtte med udgangen af 1941 væsentlig, hvis andre skulle overtales til at støtte ideen. Disse og flere andre støtteerklæringer var givet sket med baggrund i et ikke-dateret duplikeret stykke papir, hvori Svend Aage Thomsen redegjorde for sine tanker om en kommende jysk idrætsskoles virksomhed
 
-    " Skolen skal i første Række være et Sted, hvor man kan lære det grundlæggende i al Idræt og frugtbargøre de Fremskridt, der paa det idrætslige Omraade fremkommer saavel i Indland som Udland. ....vil lægge Vægt paa den rent idrætslige Uddannelse, skal den ogsaa være aaben for enhver sund aandelige Paavirkning. Videnskabsmænd, Højskolemænd .... delagtiggøre Eleverne i de kulturelle og aandelige Spørgsmaal..Grundpillen ... 4-5 Maaneders Delingsfører- og Idrætslæreruddannelse"
+> "Skolen skal i første Række være et Sted, hvor man kan lære det grundlæggende i al Idræt og frugtbargøre de Fremskridt, der paa det idrætslige Omraade fremkommer saavel i Indland som Udland. ....vil lægge Vægt paa den rent idrætslige Uddannelse, skal den ogsaa være aaben for enhver sund aandelige Paavirkning. Videnskabsmænd, Højskolemænd .... delagtiggøre Eleverne i de kulturelle og aandelige Spørgsmaal..Grundpillen ... 4-5 Maaneders Delingsfører- og Idrætslæreruddannelse"
 
 Denne første maskinskrevne, duplikerede hensigtserklæring var et resultat af Svend Aages og rådgiveres tanker. Det er værd at bemærke, at hensigtserklæringen ikke omtaler oprettelsen af en højskole som institution. Væsentlige dele fra erklæringen indgik senere i fundatsudkastet. Senere i erklæringen anførte SAaT yderligere, at skolen skulle være en ny form. Med påpegningen af idrætslæreruddannelsen som eet af skolens mål, bevægede SAaT bevidst eller utilsigtet sig ind på et kompetenceområde, hvor døre hurtigt klappede i. Idrætsuddannelse kunne kun finde sted eet sted.
 Med denne erklæring som basis havde Svend Aage søgt kontakt til organisationer og flere jyske byer i 1941-42. Dog skal bemærkes, at SAaT efter råd fra bankmanden Otto Lassen forstod at tilpasse ordlyden i hensigtserklæringen, således den passede indholdsmæssigt til modtageren. Eksempelvis fremhævedes faget gymnastik som havende de fornemste kvaliteter, når modtageren var en gymnastikorganisation. I ingen af erklæringerne til foreningerne i perioden nov. 1942 til sept. 1943 anførtes, at højskolen var målet
@@ -111,7 +102,7 @@ Loven trådte i kraft 15. juli 1942.
 
 En ny højskolelov var således på trapperne, da det første møde afholdtes. Der er intet i DJI's forhandlingsprotokol, der indikerer, at man ville læne sig op af den gamle lov eller afvente den nye. Man ville blot være beslutningsdygtig, hvorfor det besluttedes at ændre status fra initiativ til kompetent forsamling, der kunne
 
-    "indgive Andragende om KongeligKonfirmation paa den vedtagne Fundats."
+> "indgive Andragende om KongeligKonfirmation paa den vedtagne Fundats."
 
 dvs. få skolen blåstemplet på en eller anden måde for at opnå økonomisk støtte.
 
@@ -125,15 +116,18 @@ Hvis Den jyske Idrætsskole havde ønsket at blive højskole, havde den således
 Den 15. juni 1942 bevilligedes 124.847,35 kr. fra beskæftigelsescentralen under Arbejds- og Socialministeriet gældende indtil 17.05 1944. Den 10. juli 1943 godkendte Arbejdsministeriet støtte til opførelse af anlæg af skolebygninger og idrætsanlæg. Ministeriet kunne imidlertid ikke bevillige penge uden at kende hensigten bag ansøgningen. Ad indirekte vej måtte ministeriet påbegynde en godkendelsesprocedure. Dette skete ved at indhente svar fra enkeltpersoner inden for som uden for ministeriet. De første fundatsforslag var upræcise. - især fundatsens §2. Hvilken skoleform ønskedes? Havde ønsket været en højskole ville det naturligt have stået i de første fundatsudkast. I den interne kommunikation i ministeriet herskede der let forvirring. Godkendelsen af skolen fik derfor et meget langt forløb og sluttede først i maj 1944. Det gjorde det heller ikke lettere for ministeriets embedsmænd, at den nye højskolelov måske åbnede op for en type skole, som måske lå gemt i SAaT ideer. Faghøjskolebegrebet omfattede måske en idrætsskole? I den stærke interne drøftelser blandt ministeriets embedsmænd om tolkningen af loven.
 Almenbegrebet og den tilhørende undervisningsplan voldte ligeledes en del ministerielle problemer. Ministeriet fastslog, at idræt var faglige timer og ikke almene timer. Spørgsmålet var, om man skulle kræve paritet mellem faglige timer og almendannelse i den samlede undervisningsmængde og/ eller mindst 24 ugentlige almene timer. SAaT indsendte af flere omgange undervisningsplaner, som mindede meget om tilsvarende fra Ollerup og Gerlev.
 
-ugeplan:
+### ugeplan:
 
-| foredrag | 12 timer |
-| dansk | 4 timer |
-| regning/bogføring | 4 timer |
-| anatomi, fysiologi, træningslære | 3 timer |
-| gymnastik | 5 timer |
-| idræt | 5 timer |
-| metodik | 7 timer |
+| Fag                              | Timer    |
+|----------------------------------|---------:|
+| foredrag                         | 12 timer |
+| dansk                            | 4 timer  |
+| regning/bogføring                | 4 timer  |
+| anatomi, fysiologi, træningslære | 3 timer  |
+| gymnastik                        | 5 timer  |
+| idræt                            | 5 timer  |
+| metodik                          | 7 timer  |
+
 
 Den 11. oktober 1943 udsendtes fra Undervisningsministeriet en cirkulærskrivelse til samtlige skoleråd og Københavns Magistrat, hvori Den Jyske Idrætsskole var godkendt som en faghøjskole. Den Jyske Idrætsskole var godkendt som højskole. Forstanderen endnu ikke.
 Den ikke-formelle godkendelse - accept - af idrættens organisationer var også vigtig. Det er værd at notere sig, at hovedstyrelserne for De Danske Skytte-Gymnastik og Idrætsforeninger og De danske Gymnastikforeninger ikke ønskede at indtræde i Den jyske Idrætsskoles hovedbestyrelse, givet vis fordi Svend Aages idegrundlag lå de grundtvigske ledere i disse organisationer fjernt samt en indtræden kunne hæmme bestræbelserne på at starte en ny gymnastikhøjskole i Viborg som en folkehøjskole med delingsføreruddannelse. PJS svarede således efter et landsstyrelsesmøde den 26. juli 1942 følgende på SAaTs opfordring til indtræden:
@@ -141,27 +135,32 @@ Som Svar på Deres Skrivelse hertil skal jeg meddele Dem, at D.D.G. ikke ønsker
 Signalet til en lille bitter strid mellem støttekredsen til en gymnastikhøjskole i Viborg og de folkevalgte repræsentanter på DJI var lagt.
 Hovedbestyrelsen for DJI med støtte fra de lokale amtsforeninger i ovennævnte idrætsorganisationer færdiggjorde DJI's fundats. Det blev overladt forretningsudvalget
 
-    "snarest muligt at indsende den saaledes ændrede Fundats til allerhøjeste Stadsfæstelse ved kongelig Konfirmation".
+> "snarest muligt at indsende den saaledes ændrede Fundats til allerhøjeste Stadsfæstelse ved kongelig Konfirmation".
 
 Den jyske Idrætsskole blev en selvejende institution. De formelle kriterier for godkendelse efter den nye højskolelov, havde således tvunget hovedbestyrelsen til at tilpasse de oprindelige fundatsparagraffer til den nye lovsituation uden dog at ændre navnet. Svend Aage Thomsen angav i en redegørelse, som han havde fået optaget i Ungdom og Idræt, at udeladelsen af højskolebetegnelsen skyldtes, at det skulle være en speciel skole og derfor ikke kunne "dække den danske Folkehøjskoles Undervisningsplan". Han angav samtidigt en ydmyghed for højskolebetegnelsen, idet han ikke mente, at han kunne honorere det kontinentale krav til højskole som værende et universitet eller højere læreanstalt. Det sidste forekommer besynderligt af en mand, der kendte højskolebevægelsen på egen krop og sjæl fra højskoleopholdet på Ollerup og som kendte tvetydigheden i ordet. Usikkerheden herom øges, idet SAaT ved flere lejligheder faktisk søgte at få skolens undervisningsplaner godkendt inden for rammerne af 1942-loven.
 
-    " I Samraad med mine Raadgivere blev Skolens Navn Den jyske Idrætsskole".
+> "I Samraad med mine Raadgivere blev Skolens Navn Den jyske Idrætsskole".
 
 .........
 
-"Skolen maa betragtes som en Special- eller Fagskole; men helt paa Linie med Folkehøjskolen og i dens Aand."
+> "Skolen maa betragtes som en Special- eller Fagskole; men helt paa Linie med Folkehøjskolen og i dens Aand."
+
 Understregningen er foretaget af SAaT.
+
 Den Jyske Idrætsskole var ikke tænkt som en højskole. Den skulle være noget nyt - dog uden at brænde alle broer bag sig..
-"og Danmarks første og eneste Idrætsskole, Den jyske Idrætsskole har allerede vundet et godt Navn - en Institution af uvurderlig Betydning for Idrætslivet"
+
+> "og Danmarks første og eneste Idrætsskole, Den jyske Idrætsskole har allerede vundet et godt Navn - en Institution af uvurderlig Betydning for Idrætslivet"
+
 Den skulle indfri et behov for trænere i foreningerne. Uddannelsen skulle have et fagligt sigte. Den var måske tænkt som en skole med kompetencegivende sigte, der på enkelte områder kunne dække det uddannelsesbehov, som det etablerede uddannelsessystem ikke dækkede. Det er tænkeligt, at den skulle være et vestligt folkeligt modstykke til DHL's idrætslederuddannelse! Mente SAaT med begrebet idrætslærere, at det var undervisere, der kunne gå ind og overtage seminarie/universitetsuddannedes job? På dette tidspunkt fungerede en del delingsførere som idrætslærere på det gymnasiale niveau uden at have en akademisk grad. Rektor for DHL opfattede i sit høringssvar til ministeriet initiativet som en mulig ny idrætsuddannelse. Rektor & professor Emanuel Hansen kunne ikke anbefale staten at yde statslån til dette initiativ, før det i nogle år havde bevist sin eksistensberettigelse. En dødsdom i en situation, hvor de økonomiske midler var meget små. EH ønskede ikke at udtale sig om DJI's højskolemæssige mulighed.
-- personen / forstanderen.
+
+## personen / forstanderen.
 
 Svend Aage Thomsen konstitueredes på et møde i august 1942 som forstander for Den jyske Idrætsskole. Det er altid den folkevalgte forsamling, der ansætter og afskediger en forstander. Det ligger uden for ministeriets kompetence; men ministeriet skal godkende personen, der ansættes, idet staten ønsker at have en repræsentant på stedet. Godkendelse af en skole er derfor knyttet til forstanderen. - herunder hans uddannelse og tidligere virksomhed. Svend Aage Thomsen kunne ikke godkendes umiddelbart. I ministeriet drøftedes i efteråret 1942 SAaT´s kvalifikationer. Flere fandt dem utilstrækkelige; men pga. utilstrækkelig information besluttede Statskonsulenten for Undervisningsministeriet i Sager vedr. Ungdomsundervisningen, Novrup, i marts 1943 at besøge Svend Aage Thomsen. SAaT gjorde ved denne lejlighed et overmåde tiltalende indtryk på statskonsulenten og ændrede hans indstilling til SAaTs evner som leder, hvorefter Novrup mente, at kun spørgsmålet om omfanget af den almendannende undervisning på skolen var tilbage at løse for en godkendelse kunne gives. Den 2. marts 1943 drøftedes i ministeriet det rimelige i at indsætte en medforstander for at få en forstandergodkendelse på plads og den 4. december 1943 omtales igen i et internt notat løsningen med 2 forstandere som en forudsætning for at opfylde ministeriets krav.
 Den jyske Idrætsskole havde derfor i 5-6 år to forstandere, hvor nedennævnte var medforstandere til Svend Aage Thomsen. Den 5. december 1943 åbnede skolen officielt.
 
-S. Haugstrup Jensen 01.11. 1943 - 31.07. 1944
-J. E. Hagelsø 01.11. 1944 - 30.04. 1945
-Rask Nielsen 01.05. 1945 - 31.08. 1948
+- S. Haugstrup Jensen 01.11. 1943 - 31.07. 1944
+- J. E. Hagelsø 01.11. 1944 - 30.04. 1945
+- Rask Nielsen 01.05. 1945 - 31.08. 1948
 
 I fortegnelser over godkendte højskoler den 01. april 1944 er Den jyske Idrætsskole( faghøjskole) godkendt med forstandere Svend Aage Thomsen & S. Haugstrup Jensen.
 
@@ -174,17 +173,22 @@ I fgl. fortegnelse over godkendte højskoler den 1. april 1944 er Den jyske Idr�
 Fra visse højskole- og organisationskredse var der modstand mod Svend Aage Thomsens tanker om at rejse en skole af denne karakter. SAaT måtte ved flere lejligheder redegøre for sine ideer og han fik optaget en artikel i D.D.G.s blad Ungdom og Idræt, som skal ses som svar på et tidligere indlæg i 1942. Artiklen er placeret umiddelbart efter Jørgine Abildgaards, Snoghøj, artikel, om højskolen som
 " det at høre - og saa at kaldes -. Vækkelsen skulde være Baggrund for Gymnastikbevægelsen."
 
-"..Idrætten alene er ikke Maalet, nej det er rigtigt...at vi i Idrætten har et Middel
-udover det sædvanlige.. her er Liv og Aktiviteter, her er Realiteter... noget at
-bruge sit Overskud af Kræfter til."
+> "..Idrætten alene er ikke Maalet, nej det er rigtigt...at vi i Idrætten har et Middel udover det sædvanlige.. her er Liv og Aktiviteter, her er Realiteter... noget at bruge sit Overskud af Kræfter til."
+
 Kontrasten er ikke til at tage fejl af. En religiøs, let sekterisk mod en verdslig, pragmatisk opfattelse af idrætshøjskolers sigte. Internt i ministeriet betegnedes de to skoler, hvor
-"Aandsliv omsætter sig i Gymnastik, hvor Vejle Idrætshøjskole omsætter Idrætten til Aand"
+
+> "Aandsliv omsætter sig i Gymnastik, hvor Vejle Idrætshøjskole omsætter Idrætten til Aand"
+
 Modstanden kom overraskende klart frem i P.J. Skrivers nytårshilsen 1942/43 til organisationens medlemmer
-"Delingsførerens aandelige Paavirkning, hvilket ganske vist forudsætter, at han er mere end Idrætsleder, at han tillige er dansk Ungdomsleder... De danske Delingsførere var tidligere udgaaet særlig fra grundtvigske Kredse i vort Folk, og de blev alle uddannetpaa grundtvigske Højskoler...
+
+> "Delingsførerens aandelige Paavirkning, hvilket ganske vist forudsætter, at han er mere end Idrætsleder, at han tillige er dansk Ungdomsleder... De danske Delingsførere var tidligere udgaaet særlig fra grundtvigske Kredse i vort Folk, og de blev alle uddannetpaa grundtvigske Højskoler...
+
 Krop og ånd varsåledes sider af samme mønt
 
-- Viborgstriden
+## Viborgstriden
+
 Den 23.1.1943 udsendte Komiteen for Oprettelse af en Gymnastikhøjskole ved Viborg en skrivelse, som opfordrede en række jyske amtsgymnastikforeninger til økonomiske støtteaktioner for en gymnastikhøjskole i denne by. Der anførtes, at der ikke lå nogen højskole med delingsføreruddannelse nord for Snoghøj, hvilket formelt var rigtigt, idet DJI endnu ikke var godkendt og endnu ikke havde haft et elevhold. Den jyske Idrætsskole følte imidlertid sin eksistens truet. Svend Aage Thomsen udfærdigede den 18. februar 1942 en redegørelse til pressen. Viborgkomiteen svarer via advokat, og i nogle år småskændtes de to skoler på et stadig højere juridisk niveau. Der foreligger en brevveksling mellem de to højskolekollegaer fra Ollerup, Svend Aage Thomsen og Mads Nielsen, som var udset til at blive leder i Viborg. Begge argumenterede de for deres egen sag og søgte at gøre striden så lidet personlig som muligt. Svend Aage modificerede sin redegørelse til Mads Nielsen, idet et påtænkt skrevet brev ikke afsendtes, men omformuleredes for at bevare venskabet og respekten for den anden part. Det var forskellig opfattelse af højskoletanker, der adskilte - måske også brødnid. Svend Aages far var een af hans vigtigste rådgivere. Dette ses tydeligt i faderens bidrag i den ideologiske/eksistentielle debat med støttekredsen bag oprettelsen af en gymnastikhøjskole i Viborg. Svend Aage Thomsens far kom sin søn til undsætning og skrev en artikel "For meget af det gode " stilet til Komiteen i Viborg. Svend Aage påførte den " Fars Meninger og Tanker"
+
 Denne artikel var et bittert angreb på dem, der kunne true sønnens livsværk, samtidig bekræftede den, at Den Jyske Idrætsskole ikke var tænkt som en højskole.
 
 ## Drift
@@ -195,9 +199,10 @@ Den jyske Idrætsskole aflagde første gang regnskab for perioden fra dens stift
 Væsentlige indtægter var landbrugsdriften, idet en del af matriklen blev brugt til kornavl, kartoffeldyrkning samt beskedent kreaturhold mv. På udgiftssiden bemærkes, at SAaT fik 4000 kr i løn indtil 30. 9. 1942.
 Skolens 2 første normale regnskabsår fremviser følgende nøgletal i % af de samlede indtægter:
 
-Regnskab
+### Regnskab
 
 |                 | 1944/45 | 1945/46 |
+|-----------------|:-------:|:-------:|
 | statsstøtte     | 20      | 25      |
 | skolepenge      | 37      | 34      |
 | kursusindtægter | 37      | 33      |

@@ -13,6 +13,10 @@ tags:
     caption="Oversigtsbillede over Nørreskoven taget af Luftwaffe 1944" %}
 
 {% include figure
+    image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXWDQ3bEZVT0lJSUk"
+    caption="Oversigtsbillede over skolen fra 1940'erne eller 1950'erne" %}
+
+{% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXVUw2RTRyTlpBVnM"
     caption="Oversigtsbillede fra 1958 efter bygning af hal og svømmebassin" %}
 

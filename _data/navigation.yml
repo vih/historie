@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Om"
+    url: /om/
+  - title: "Start"
+    url: /start/
+  - title: "Tidslinjer"
+    url: /tidslinjer/
+  - title: "Arkiv"
+    url: /arkiv/
+  - title: "Hjælp"
+    url: /opdagelse/
+  # - title: "Sitemap"
+  #   url: /sitemap/

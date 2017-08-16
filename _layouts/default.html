@@ -1,34 +1,34 @@
-<!DOCTYPE html>
-<html lang="en-us">
-<head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="/stylesheets/normalize.css" media="screen">
-    <link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="/stylesheets/github-light.css" media="screen">
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-</head>
-<body>
-<section class="page-header">
-    <h1 class="project-name">Historie</h1>
-    <h2 class="project-tagline"></h2>
-    <a href="https://vih.dk/" class="btn">Website</a>
-    <a href="https://derfor.vih.dk" class="btn">Derfor</a>
-    <a href="https://fond.vih.dk" class="btn">Fond</a>
-</section>
+---
+---
 
-<section class="main-content">
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.5.0 by Michael Rose
+  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
     {{ content }}
 
-    <footer class="site-footer">
-        <span class="site-footer-owner"><a href="https://github.com/vih/historie">Fork Historie on Github</a> vedligeholdes <a href="https://vih.dk">Vejle Idrætshøjskole</a>.</span>
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
 
-        <span class="site-footer-credits">Baseret på <a href="https://docs.google.com/spreadsheets/d/1bixNJH_FfOzt0yZg_APSEL1Rn8zk3X3vUJoD6njoLgk/edit?usp=sharing">Google Spreadsheet</a> vises <a href="https://timeline.knightlab.com/">TimelineJS3</a>. Siden er udarbejdet af ansatte, elevforeningen, venner og elever.</span>
-    </footer>
+    {% include scripts.html %}
 
-</section>
-
-</body>
+  </body>
 </html>

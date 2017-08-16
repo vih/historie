@@ -30,8 +30,8 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
-  commitMessage          : "New comment."
+  branch                 : "gh-pages"
+  commitMessage          : "Ny kommentar."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
@@ -242,6 +242,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true

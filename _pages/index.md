@@ -13,6 +13,27 @@ header:
 excerpt: 'Dyk ned i Vejle Idrætshøjskoles historie og bidrag selv til den. Dette site er oprettet i forbindelse med skolens 75 års jubilæum i 2017-2018.'
 intro:
   - excerpt: 'Tilmeld dig den historiske gruppe &nbsp; [<i class="fa fa-facebook"></i> VIH Historiske Gruppe](https://www.facebook.com/groups/655406751295188/?ref=ts&fref=ts){: .btn .btn--facebook}'
+feature_row:
+  - image_path: https://drive.google.com/uc?id=0B5v4mAibvkKXVWFJY2MxZ29UT0E
+    alt: "Højskolens begyndelse"
+    title: "Højskolens begyndelse fra 1942-1948"
+    excerpt: "Tidligere forstander, Ole Worm, fremlægger historien fra 1942-1948 og skolens tilblivelse."
+    url: "/dji-start/"
+    btn_label: "Læs artiklen"
+    btn_class: "btn--inverse"
+  - image_path: https://drive.google.com/uc?id=0B5v4mAibvkKXb0lvbGt2SHpqaTQ
+    alt: "Tidslinjer fra skolen"
+    title: "Tidslinjer fra skolen"
+    excerpt: "Dyk ned i et par af skolens tidslinjer."
+    url: "/tidslinjer/"
+    btn_label: "Få overblik"
+    btn_class: "btn--inverse"
+  - image_path: https://drive.google.com/uc?id=0B5v4mAibvkKXMHRVdU4zWUswa1E
+    title: "Bidrag til historien"
+    excerpt: "Hvordan kan du bidrage til at fortælle højskolens historie?"
+    url: "/tidslinjer/"
+    btn_label: "Giv dit bidrag"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row id="intro" type="center" %}

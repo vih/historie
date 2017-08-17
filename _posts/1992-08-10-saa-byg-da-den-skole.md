@@ -2,7 +2,7 @@
 title: "Så byg da den idrætsskole, du går og fabler om dreng"
 author: jub92
 header:
-  image: https://drive.google.com/uc?id0B5v4mAibvkKXMHRVdU4zWUswa1E
+  image: https://drive.google.com/uc?id=0B5v4mAibvkKXMHRVdU4zWUswa1E
   caption: Byggeplads anno 1942, da skolens hovedbygning tog form. I dag ville stilladsets opbygning give røde knopper hos Arbejdstilsynet.
 category:
   - Jubilæumsskrift

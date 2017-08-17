@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "da"
+locale                   : "en"
 title                    : "Vejle Idrætshøjskoles Historie"
 title_separator          : "-"
 name                     : "Vejle Idrætshøjskole"

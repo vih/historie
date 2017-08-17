@@ -152,4 +152,4 @@ Ved jubilæumssammenkomsten 3 oktober 1967 sagde skolens daværende formand Otto
 
 > Det står enhver frit for at vurdere, om Otte Larsens ønske er gået i opfyldelse med dette jubilæumsår, slutter Bjarne Hauge
 
-_ Artiklen er oprindeligt bragt i Den Jyske Idrætsskoles jubilæumsskrift fra 1992_
+_Artiklen er oprindeligt bragt i Den Jyske Idrætsskoles jubilæumsskrift fra 1992_

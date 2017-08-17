@@ -297,4 +297,4 @@ Det var små elevhold i skolens første år og væsentligt for overlevelsen var,
 
 Den Jyske Idrætsskoles første formand for hovedbestyrelsen og forretningsudvalget var borgmester N.P. Jensen, Vejle, der besad posten indtil 1947. Han afløstes af Vejles borgmester Willy Sørensen. I det hele taget ydede Vejle Kommune en livgivende støtte til skolen i dens betrængte første år.
 
-_Denne artikel er skrevet af Ole Worm ifm. skolens 50 års jubilæum_
+_Denne artikel er skrevet af Ole Worm omkring 1992_

@@ -92,4 +92,4 @@ Når blot fornyelsen får lov at slå iցenոen - om end med 2-3 års forsinkels
 
 > Det ydre er et arkitektonisk rod, men det er det indre der tæller - OG DET ER GODT.
 
-_ Artiklen er oprindeligt bragt i Den Jyske Idrætsskoles jubilæumsskrift fra 1992_
+_Artiklen er oprindeligt bragt i Den Jyske Idrætsskoles jubilæumsskrift fra 1992_

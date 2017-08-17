@@ -103,4 +103,4 @@ Ingrid Thomsen døde i 1968, 64 år gammel, under en ferie i Spa men med sønnen
 
 {% include video id="_CBgGRb9XWA" provider="youtube" %}
 
-_ Artiklen er oprindeligt bragt i Den Jyske Idrætsskoles jubilæumsskrift fra 1992_
+_Artiklen er oprindeligt bragt i Den Jyske Idrætsskoles jubilæumsskrift fra 1992_

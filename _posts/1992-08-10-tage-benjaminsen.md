@@ -1,5 +1,5 @@
 ---
-title: "Der er danset nok på denne skole denne vinter"
+title: Der er danset nok på denne skole denne vinter
 author: jub92
 category:
   - Jubilæumsskrift
@@ -10,7 +10,7 @@ tags:
 excerpt: "Tage Benjaminsen har haft fire “møder" med Den jyske Idrætsskole lige fra puritanismens dage via ungdomsoprør med forsinkelse og til at være forstander for en splittet lærerkreds."
 ---
 
-**Tage Benjaminsen har haft fire “møder" med Den jyske Idrætsskole lige fra puritanismens dage via ungdomsoprør med forsinkelse og til at være forstander for en splittet lærerkreds.**
+**Tage Benjaminsen har haft fire "møder" med Den jyske Idrætsskole lige fra puritanismens dage via ungdomsoprør med forsinkelse og til at være forstander for en splittet lærerkreds.**
 
 Som elev i 1959 oplevede han Den lyske Idrætsskole fra den puritanske side. Efter en fransk visit udlånt fra seminariet i 1964 tilbage som uddannet lærer fra 1966 til 72 sneg ungdomsoprøret sig ind med flere års forsinkelse, og som forstander perioden 1982-84 stod han i centrum af en skarp debat mellem en splittet lærerkreds. Tage Benjaminsen - i dag forstander på Sundhedshøjskolen i Skagen – har således haft sine fire "møder med den jyske"
 

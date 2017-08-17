@@ -31,7 +31,7 @@ feature_row:
   - image_path: https://drive.google.com/uc?id=0B5v4mAibvkKXMHRVdU4zWUswa1E
     title: "Bidrag til historien"
     excerpt: "Hvordan kan du bidrage til at fortælle højskolens historie?"
-    url: "/tidslinjer/"
+    url: "/bidrag/"
     btn_label: "Giv dit bidrag"
     btn_class: "btn--inverse"
 ---

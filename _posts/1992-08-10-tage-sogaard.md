@@ -10,12 +10,12 @@ tags:
   - jubilæumsskrift 1992
   - forstander
   - Tage Søgaard
-excerpt: "For første gang fortæller Tage Søgaard sin version af et dramatisk kapitel i DJ/s historie, da han som forstander blev frataget ledelsen og sagde op med bitterhed i 1964."
+excerpt: "Tage Søgaard fortæller bl.a. sin version af, da han som forstander blev frataget ledelsen og sagde op med bitterhed i 1964."
 ---
 
 {% include toc %}
 
-**For første gang fortæller Tage Søgaard sin version af et dramatisk kapitel i DJ/s historie, da han som forstander blev frataget ledelsen og sagde op med bitterhed i 1964.**
+**For første gang fortæller Tage Søgaard sin version af et dramatisk kapitel i DJIs historie, da han som forstander blev frataget ledelsen og sagde op med bitterhed i 1964.**
 
 28\. april 1964 står mejslet i erindringen hos Tage Søgaard. Det blev hans Sidste reelle arbejdsdag på Den Jyske Idrætsskole. Han søgte siden i august - tvunget af magtkamp og moral - sin afsked som forstander og fik den efter 18 års tilknytning. Her - 28 år efter de dramafiske 64-dage - fortæller Tage Søgaard for første gang historien bag sin afsked. Gravhunden og Tage Søgaard tager mod denne solrige junidag 1992 i Villaen i udkanten af Kolding. Hustruen, Ulla, er taget på arbejde hos den kommunale tandpleje. I februar fyldte han 70 år og gik definitivt på pension fra jobbet som lærer på Øvelsesskolen i Kolding – hans arbejdsplads siden 1. august 1964.
 

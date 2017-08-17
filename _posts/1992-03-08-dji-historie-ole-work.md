@@ -7,6 +7,7 @@ category:
   - historie
 tags:
   - historie
+excerpt: "Hvordan startede den Jyske Idrætsskole - og hvilke udfordringer var der i starten fra 1942-1948"
 ---
 
 {% include toc %}

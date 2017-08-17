@@ -8,6 +8,7 @@ category:
   - Årsskrift
 tags:
   - årsskrift 1958
+excerpt: "Kongen kom på besøg på Den Jyske Idrætsskole for at deltage i genindvielsen i 1958."
 ---
 
 Sommersolen og Danmarks konge kappedes om at kaste glans over Den jyske Idrætsskoles indvielse. Kongen ankom præcis kl. 14, og efter at være blevet ført til sin plads i idrætshallen blev kongen budt velkommen af bestyrelsens formand, borgmester Willy Sørensen, Vejle.

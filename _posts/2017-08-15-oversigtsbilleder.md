@@ -6,19 +6,30 @@ category:
   - oversigtsbillede
 tags:
   - oversigtsbillede
+excerpt: "Oversigtsbilleder fra skolens historie"
 ---
+
+{% include toc %}
+
+## 1944
 
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXVWFJY2MxZ29UT0E"
     caption="Oversigtsbillede over Nørreskoven taget af Luftwaffe 1944" %}
 
+## 1940'erne eller 50'erne
+
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXWDQ3bEZVT0lJSUk"
     caption="Oversigtsbillede over skolen fra 1940'erne eller 1950'erne" %}
 
+## Efter 1958
+
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXVUw2RTRyTlpBVnM"
     caption="Oversigtsbillede fra 1958 efter bygning af hal og svømmebassin" %}
+
+## Luftbillede fra 2012
 
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXN0RnMmczQW9oc2c"

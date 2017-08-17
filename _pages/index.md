@@ -12,7 +12,7 @@ header:
   caption:
 excerpt: 'Dyk ned i Vejle Idrætshøjskoles historie og bidrag selv til den. Dette site er oprettet i forbindelse med skolens 75 års jubilæum i 2017-2018.'
 intro:
-  - excerpt: 'Tilmeld dig den historiske gruppe &nbsp; [<i class="fa fa-facebook"></i> VIH Historiske Gruppe](https://www.facebook.com/groups/655406751295188/?ref=ts&fref=ts){: .btn .btn--facebook}'
+  - excerpt: 'Tilmeld dig den historiske gruppe &nbsp; [<i class="fa fa-facebook"></i> VIH Historiske Gruppe](https://www.facebook.com/groups/655406751295188/){: .btn .btn--facebook}'
 feature_row:
   - image_path: https://drive.google.com/uc?id=0B5v4mAibvkKXVWFJY2MxZ29UT0E
     alt: "Højskolens begyndelse"

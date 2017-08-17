@@ -42,7 +42,7 @@ To år efter i 1966 vendte han tilbage som lærer og til en epoke, hvor Den Jysk
 
 Sammen med Flemming Blach og Signe Troelsen ønskede Tage Benjaminsen en ændring til 8 måneders kurser med fifty-fifty af piger og drenge. Bjarne Hauger blev forstander i 1968 og fik frie hænder til at skabe en ny skole og kom selv med ideen om et sammenhængende, længerevarende forløb. Det er reelt skolens nuværende struktur med vægt på en uddannelse af ledere til foreningslivet.
 
-> Hauger oplevede det nok som om, at vi var modstandere. Det var vi nu ikke. Han kom med et erfaringsgrundlag fra skolen i Sønderborg, og han referede hele tiden til, at "sådan gjorde man | Sønderborg". Det kunne vi ikke helt kapere. Men sådan er vi nok alle. Vi bygger på vor erfaringsgrundlag fra tidligere jobs, siger Tage Benjaminsen.
+> Hauger oplevede det nok som om, at vi var modstandere. Det var vi nu ikke. Han kom med et erfaringsgrundlag fra skolen i Sønderborg, og han referede hele tiden til, at "sådan gjorde man i Sønderborg". Det kunne vi ikke helt kapere. Men sådan er vi nok alle. Vi bygger på vor erfaringsgrundlag fra tidligere jobs, siger Tage Benjaminsen.
 
 ## Konstruktivt elevråd
 

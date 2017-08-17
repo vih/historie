@@ -28,7 +28,7 @@ Kombinationen Søgaard/Bjerregaard var også et udslag af forskellige interesser
 
 Hans veldyrkede renomme i eliteidrætten skaffede skolen besøg af mange kursushold og perlerækker af kendte navne fra topsporten. DIF var en af de flittigste gæster hos Bjerregaard. I offentlighedens projektørlys så det spændende ud, men udenfor lyssøjlen på de indre linier - var der flere  problemer, end man kunne ønske sig.
 
-Aksel Bjerregaard fik private problemer, endda i Stigende grad, og han tillagde sig en livsførelse, der var uforenelig med Stillingen som forstander på Den Jyske Idrætsskole. Han flyttede tilbage til København og døde 13. Juni 1982 på Frederiksberg, kun 65 år.
+Aksel Bjerregaard fik private problemer, endda i Stigende grad, og han tillagde sig en livsførelse, der var uforenelig med Stillingen som forstander på Den Jyske Idrætsskole. Han flyttede tilbage til København og døde 13. juni 1982 på Frederiksberg, kun 65 år.
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/BKHbSa1LjwbFuAU6ZzPBoyww5WV-5MlKVWoVZEZ715atmYibpB6gpHvF0pOxBje_i6vjkCEwVAVb0pSnq0C5RQwtBXul73-2njPxNaoGu5E1N0hCpqKsfIPvVPeBkoCHIgCKK4iUluo"

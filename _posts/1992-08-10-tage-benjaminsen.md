@@ -1,5 +1,5 @@
 ---
-title: "Der er danset nok på denne skole denne vinter”
+title: "Der er danset nok på denne skole denne vinter"
 author: jub92
 category:
   - Jubilæumsskrift

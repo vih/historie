@@ -4,7 +4,7 @@ title: Skrivevejledning
 permalink: /skrivevejledning/
 header:
   image: http://www.publicdomainpictures.net/pictures/170000/velka/typewriter-1462562129n95.jpg
-  caption: Billede: [Public Domain Pictures](http://www.publicdomainpictures.net)
+  caption: "Billede: [Public Domain Pictures](http://www.publicdomainpictures.net)"
 ---
 
 Vejle Idrætshøjskole vil meget gerne bringe din personlige højskolefortælling på hjemmesiden for at sikre eftertidens historiefortælling om skolen.

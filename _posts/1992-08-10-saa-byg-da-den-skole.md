@@ -1,6 +1,9 @@
 ---
 title: "Så byg da den idrætsskole, du går og fabler om dreng"
 author: jub92
+header:
+  image: https://drive.google.com/uc?id0B5v4mAibvkKXMHRVdU4zWUswa1E
+  caption: Byggeplads anno 1942, da skolens hovedbygning tog form. I dag ville stilladsets opbygning give røde knopper hos Arbejdstilsynet.
 category:
   - Jubilæumsskrift
 tags:
@@ -8,6 +11,8 @@ tags:
   - Svend Aage Thomsen
   - forstander
 ---
+
+{% include toc %}
 
 Sådan lød den klare melding fra far til søn. – Stenhuggeren fra Bredal, Svend Aage Thomsen, løftede opgaven - Og døde for den.
 
@@ -35,12 +40,21 @@ Den Jyske Idrætsskole kom på skinner, og toget rullede af sted med 20.000 elev
 
 Imens skød andre skoler op omkring DJI. Det pinte Svend Aage Thomsen i en grad, som ingen forstod dengang. Hans datter Birte fortæller:
 
-> ## "Far blev slidt op"
+{% include figure
+    image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXN05ONlNJR3MxbmM"
+    caption="Svend Aage Thomsen lykønskes af hans kongelige højhed, Frederik d. 9. ved genindvielsen i 1958. Affotograferet fra jubilæumsskriftet 1992." %}
+
+## "Far blev slidt op"
+
 > "Årene frem til udvidelsen i 1958 tog meget hårdt på far. Det var psykisk krævende at komme igennem med planerne, alt imens der var store problemer med at få skolen til at overleve på baggrund af de praktiske begrænsninger fra starten. Far blev slidt op, så han døde allerede som 50-årig.”
 
 Kong Frederik og Svend Aage Thomsen var de to hovedpersoner, da DJI blev udvidet for tre millioner kroner og genindviet i 1958. 20. februar 1961 blev Svend Aage Thomsen hyldet og fejret som den 50 årige idealist, der viede sit liv til idrætten, først som aktiv og siden som lederen af det store foretagende, han selv skabte, for at andre kunne få del i de glæder, han selv oplevede på sportsbanerne.
 
 > "Thomsen har naturligvis ikke skabt Skolen alene. Men det er ham, der har skabt den særegne ånd, hvori skolen drives, og hvormed han og hans medarbejdere Smitter enhver elev eller kursist, som møder med et åbent sind og en ærlig vilje til at modtage", hed det blandt andet i hyldestartiklerne.
+
+{% include figure
+    image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXWGdPdWxtSnpXcHM"
+    caption="Familieidyl - Svend Aage og Ingrid Thomsen med sønnen Bjarne. Affotograferet fra jubilæumsskriftet 1992." %}
 
 ## "Kom igen, når jeg bliver 70”
 
@@ -70,6 +84,10 @@ Hendes og broderen Bjarnes opvækst på DJI foregik med behersket hensyntagen ti
 
 > Far havde gennem hele arbejdet med skolen sin trofaste hjælp og Støtte i Vores mor, og at det var en gerning, de stod sammen om, undlod far heller aldrig at give udtryk for.
 
+{% include figure
+    image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXSE5mVlgyRGlSTWM"
+    caption="Bordbøn og ingen albuer på bordet - sådan var bl.a. skik og brug i spisesalen, hvor familien Thomsen her spiser med ved bordet i forgrunden. Den gamle spisesal benyttes i dag som undervisningslokale og har også i en periode fungeret som vægttræningslokale. Affotograferet fra jubilæumsskriftet 1992." %}
+
 ## Inspirerende og ambitiøs
 
 > Som skolemand var han inspirerende og ambitiøs, og han gik meget seriøst til værks. Når han gik ind for en sag brændte han for den, og det virkede afsmittende på andre i hans nærhed, siger datteren Birte.
@@ -77,5 +95,11 @@ Hendes og broderen Bjarnes opvækst på DJI foregik med behersket hensyntagen ti
 Birte hedder nu Christensen er 53 år og overlærer på Spurvelund skolen i Odense. Hun bor Sammen i sin mand i Blommenslyst. Bjarne Thomsen er 47, gift og har tre børn. Han er produktionschef hos Micro Matic i Odense og bor i Middelfart.
 
 Ingrid Thomsen døde i 1968, 64 år gammel, under en ferie i Spa men med sønnen Bjarne.
+
+{% include figure
+    image_path="https://lh3.googleusercontent.com/4cP177ztTneQLWQwigVSRTcqFstj4R7ZX-S1XMU0cqnI6-GJY-9eMINRA28fhIZmYOfi-ML00P85Dwvhx9wHmZdLbrDK7y3Vq07mj-evF8oKR9AdWl5_CYXUx_9gr2ABXlJL0f94ni8"
+    caption="Svend Aage Thomsen var også ivrig smalfilmsfotograf som du kan se et eksempel på nedenunder. Affotograferet fra jubilæumsskriftet 1992." %}
+
+{% include video id="_CBgGRb9XWA" provider="youtube" %}
 
 _ Artiklen er oprindeligt bragt i Den Jyske Idrætsskoles jubilæumsskrift fra 1992_

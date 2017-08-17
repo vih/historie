@@ -13,9 +13,11 @@ tags:
 excerpt: "Bjarne Hauger gennemførte 8-måneders skoleformen og måtte sluge nogle kameler, da 70'ernes frigørelse, ligestilling og elev-indflydelse vendte op og ned på normer og samvær."
 ---
 
+{% include toc %}
+
 **Bjarne Hauger gennemførte 8-måneders skoleformen og måtte sluge nogle kameler, da 70'ernes frigørelse, ligestilling og elev-indflydelse vendte op og ned på normer og samvær.**
 
-11. juli 1967
+11\. juli 1967
 
 Telefonen ringer:
 
@@ -26,7 +28,7 @@ Bjarne Hauger har fastholdt dette øjebliksbillede af sit liv, fordi samtalen fi
 
 > Jeg var glad for at uddanne lærere i Esbjerg. Skulle man vende tilbage til højskolen ville familien gå med til at flytte endnu en gang? Der var vist sket og andet på den skole i de foregående år? Tankerne kværnede rundt, fortæller Bjarne Hauger om de uger, hvor han overvejede tilbuddet fra Aage Feldt.
 
-6. september 1967 mødtes Hauger med forretningsudvalg. Aage Feldt sagde dengang:
+6\. september 1967 mødtes Hauger med forretningsudvalg. Aage Feldt sagde dengang:
 
 > Du skal rejse skolen som fugl Phønix.
 
@@ -55,6 +57,10 @@ Skovl, spade og malerkost blev brugt flittigt. Sideløbende rørtes PR-trommerne
 Bjarne Hauger fortæller:
 
 > Rejser, emnedage, emneuger og arrangementer afløste hinanden i en lind strøm i de kommende år. Aktiviteterne skulle sikre eleverne det bedst mulige udbytte af opholdet. Gennem en undervisiningsmæssig fleksibilitet prøvede man at finde ind, hvor elevernes behov og lærernes skolens muligheder mødtes. Så skulle der også være gode chancer for at løse vor fornemmeste opgave: **"at forene IDRÆT og HØJSKOLE med det formål at uddanne en flok duelige ledere til det frie ungdomsarbejde med en så bred almen menneskelig indsigt og med en så god faglig viden som muligt."**
+
+{% include figure
+    image_path="https://lh3.googleusercontent.com/ymNJUitXBgzJxlRTNZx7n-Fty5EjaGtUsXccJ9G9zQTXj0AO_tPERWnB7zTQwEvV2oskJbXmEAXfq1xZ3pHNnI-fa5d0JxPiXk-2TzIBt-65exW01BtIv_6hkTT-7PyA2xulai4PxqI"
+    caption="Bjarne Hauger overrækker præmier efter en idrætsdag på skolen. Affotograferet fra jubilæumsskriftet 1992." %}
 
 ## Fornyelse eller blot eksperimenter
 

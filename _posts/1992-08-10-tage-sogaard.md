@@ -1,6 +1,9 @@
 ---
 title: Tabte magtkampen til den offentlige moral
 author: jub92
+header:
+  image: https://lh3.googleusercontent.com/OOCTVD3dEsm7nMBuSIvy8AMGT1Xwz8nlY14RpZmx_aBPDgCT1ETnFvOq9J8MRf9QG2q4M3OQ7qdUk8pDQyWZueKHvAiEmQUVgXXcXr2wGN-7BnCNyR8iKiymjnzpy0lKoC_DcGqXdu8
+  caption: Tage Søgaard er ved at ordne udstyr. Affotograferet fra Jubilæumsskriftet 1992.
 category:
   - Jubilæumsskrift
 tags:
@@ -10,9 +13,11 @@ tags:
 excerpt: "For første gang fortæller Tage Søgaard sin version af et dramatisk kapitel i DJ/s historie, da han som forstander blev frataget ledelsen og sagde op med bitterhed i 1964."
 ---
 
+{% include toc %}
+
 **For første gang fortæller Tage Søgaard sin version af et dramatisk kapitel i DJ/s historie, da han som forstander blev frataget ledelsen og sagde op med bitterhed i 1964.**
 
-28. april 1964 står mejslet i erindringen hos Tage Søgaard. Det blev hans Sidste reelle arbejdsdag på Den Jyske Idrætsskole. Han søgte siden i august - tvunget af magtkamp og moral - sin afsked som forstander og fik den efter 18 års tilknytning. Her - 28 år efter de dramafiske 64-dage - fortæller Tage Søgaard for første gang historien bag sin afsked. Gravhunden og Tage Søgaard tager mod denne solrige junidag 1992 i Villaen i udkanten af Kolding. Hustruen, Ulla, er taget på arbejde hos den kommunale tandpleje. I februar fyldte han 70 år og gik definitivt på pension fra jobbet som lærer på Øvelsesskolen i Kolding – hans arbejdsplads siden 1. august 1964.
+28\. april 1964 står mejslet i erindringen hos Tage Søgaard. Det blev hans Sidste reelle arbejdsdag på Den Jyske Idrætsskole. Han søgte siden i august - tvunget af magtkamp og moral - sin afsked som forstander og fik den efter 18 års tilknytning. Her - 28 år efter de dramafiske 64-dage - fortæller Tage Søgaard for første gang historien bag sin afsked. Gravhunden og Tage Søgaard tager mod denne solrige junidag 1992 i Villaen i udkanten af Kolding. Hustruen, Ulla, er taget på arbejde hos den kommunale tandpleje. I februar fyldte han 70 år og gik definitivt på pension fra jobbet som lærer på Øvelsesskolen i Kolding – hans arbejdsplads siden 1. august 1964.
 
 > Skolens daværende formand, Otto Lassen, mødte op og bad om en samtale med mig. Heri beskyldte han mig for at have haft et forhold til en elev under opholdet og fratog mig ansvaret for Sommerskolen, som jeg havde tilrettelagt, og som skulle begynde få dage senere. Jeg var chokeret og bad om at få forelagt beviser for påstanden. Det kunne jeg ikke få, men Otto Lassen fastholdt, og jeg måtte acceptere formandens afgørelse, siger Tage Søgaard.
 
@@ -31,6 +36,10 @@ Forholdet udviklede sig imidlertid hurtigt efter skolens afslutning. Tage Søgaa
 Magtkampen på skolen fulgte i årene efter Svend Aage Thomsens pludselige død i 1960. Tage Søgaard blev konstitueret som daglig leder, inden den egentlige afgørelse om forstander-stillingen i efteråret skulle træffes i bestyrelsen. Dansk Idræts-Forbund havde i flere omgange hjulpet Svend Aage Thomsen, når økonomien havde det værst på Den Jyske Idrætsskole. Med pengene fulgte naturligt en vis indflydelse på skolens hverdag. DIFs daværende formand, Leo Frederiksen kaldet "Løven", så gerne Aksel Bjerregaard ansat på Den Jyske Idrætsskole.
 
 > DIF havde dengang ansat Aksel Bjeregaard som en slags træner-konsulent, men havde nærmest fortrudt oprettelsen af stillingen og så derfor gerne en jobmulighed i Vejle. Jeg begik mit livs største dumhed, da jeg accepterede en deling af forstander-jobbet, hvor Aksel skulle tage sig af kursusvirksomheden, mens jeg skulle varetage den egentlige højskole, siger Tage Søgaard.
+
+{% include figure
+    image_path="https://lh3.googleusercontent.com/quV8BrzO86_rXDhjur3OBdaZ7TGJydNPNxcPBqfkjhRuXx_DdeJLmNL5daQ7zKAh3XRivd0wFMaj6inxsZJ5bMy_Gc_IRWoc7TY8I-pua0cEDqeH6s6IQA-eBknca8IIeR1LbWTFRPU"
+    caption="Tage Søgaard - i et muntert udstyrsstykke-optrin med Signe Troelsen. Affotograferet fra jubilæumsskriftet 1992." %}
 
 ## Konflikter med forretningsføreren
 
@@ -106,4 +115,4 @@ En time efter kom ambulancen, men da var det for sent. Fortælleglæden hos mand
 
 Ingen behøver at tvivle på, at Tage Søgaard stadig føler meget for Den Jyske Idrætsskole, selv om "de to har måttet leve hver for sig – 20 km fra hinanden – i de Seneste 28 år.
 
-_ Artiklen er oprindeligt bragt i Den Jyske Idrætsskoles jubilæumsskrift fra 1992_
+_Artiklen er oprindeligt bragt i Den Jyske Idrætsskoles jubilæumsskrift fra 1992_

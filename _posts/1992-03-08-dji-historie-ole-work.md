@@ -9,12 +9,16 @@ tags:
   - historie
 ---
 
-{% include toc icon="gears" title="Indhold i artiklen" %}
+{% include toc %}
 
 En 50-års fødselsdag bliver ofte lejligheden til at se bagud. Hvordan startede det? Hvorfor og hvordan starte en ny skole under den tyske besættelse af Danmark ?
+
 Den Jyske Idrætsskole i Vejle havde en meget svær fødsel for 50 år siden.
+
 Denne lille artikel omhandler tiden fra de diffuse ideers opståen til Den Jyske Idrætsskole endelig blev godkendt - og godkendt med een forstander i 1948. Tyngden i artiklen ligger dog på de allerførste år. Artiklen er alene baseret på skriftlige vidnesbyrd.
+
 Det har længe generet mig ikke at vide klar besked med disse år. En del medarbejdere har ligeledes ønsket en historisk behandling af skolens tilblivelse. En faghistoriker bør ved passende lejlighed skrive skolens historie dette første halve hundrede år.
+
 Man kan kun kvalitativt springe fremad, når man har fast grund under fødderne.
 
 ## Artiklens korte version
@@ -43,6 +47,10 @@ Idrætshøjskolen ved Slagelse (Gerlev) slog den første breche i højskolens sy
 
 Den nordiske opfattelse af kropskultur havde deres folkehøjskoler. Den kontinentale opfattelse af idrætten havde ingen - endnu!
 
+{% include figure
+    image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXc1ZhSmczNW1pLXc"
+    caption="Jomsborg. Affotograferet fra jubilæumsskriftet 1992." %}
+
 ## Skaberen
 
 Svend Aage Thomsen (20.02.1911 - 26.03.1961) var autodidakt uden formel uddannelsesmæssig pædagogisk kompetence. Han fik en delingsføreruddannelse på Gymnastikhøjskolen i Ollerup, der primært sigtede mod at lede gymnastikken på landet. Hans egen dybtfølte idrætserfaring kom fra atletikken på meget højt nationalt niveau, hvor han i alt havde 11 danske mesterskaber i atletik. Som forstander var han stadig på landsholdet og kunne ikke undgå at blive opfattet som eliteidrætsmand - ja stjerne. I øvrigt besad han stor allround idrætserfaring fra mange idrætsgrene.
@@ -57,6 +65,10 @@ Tysklands besættelse af Danmark betød, at Svend Aage Thomsen blev arbejdsløs.
 SAaT modtog afgangsbevis fra dette kursus i atletik.
 
 Det er tænkeligt, at Svend Aage Thomsen her så en mulighed for at lave sin egen type uddannelse i provinsen eller måske fik sin højskolebaggrund justeret. SAaT fik i hvert tilfælde set og prøvet idrætten i et lidt bredere perspektiv. Desuden blev idrættens begreber videnskabeliggjort for praktikeren. Lederudviklingen fortsatte, idet han kom på Folketjenestens lederskole i Karlslunde i efteråret 1941 <cite>(Delingsføreren, Gerlev . nr. 10 okt. 1942 2. årg.)</cite>.
+
+{% include figure
+    image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXUUFEMjN1M1RvZzg"
+    caption="Svend Aage Thomsen. Affotograferet fra jubilæumsskriftet 1992." %}
 
 ## Ideen
 

@@ -1,6 +1,12 @@
-# Historie
+# History of Vejle Idrætshøjskole
 
-Based on this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1bixNJH_FfOzt0yZg_APSEL1Rn8zk3X3vUJoD6njoLgk/edit?usp=sharing) using [TimelineJS3](https://timeline.knightlab.com/).
+Site created in Jekyll based on Minimal Made Mistakes theme.
+
+## Tools used
+
+- **Timelines** are created using [TimelineJS3](https://timeline.knightlab.com/)
+- **Google Photos**. Links directly to Google Photos are created using [CTRLQ.org](https://ctrlq.org/google/photos/). 
+- **Google Drive**. Images are shared, and then urls are rewritten to `uc?id=`
 
 ## Develop using Vagrant
 
@@ -12,3 +18,5 @@ Follow [instructions here](http://kappataumu.com/articles/vagrant-jekyll-github-
     $ vagrant up
     $ vagrant ssh
     $ gem install bundle
+
+When starting up the server on later occassions, you need to do `vagrant provision` to get jekyll running. You can find the site at `http://localhost:4000`.

@@ -55,7 +55,7 @@ Der eksisterede altså en interessekonflikt mellem Tage Søgaard og Viktor Niels
 
 > I 1963 ville bestyrelsen tage imod et tilbud fra Grønlandsministeriet, der for mill. kr. ville bygge en kursusfløj. hvorefter vi i lange perioder skulle have 30-40 grønlændere boende med egne lærere. Vi skulle blot tage os af dem udenfor normal undervisning. Jeg gik stærkt imod det engagement, da det efter min opfattelse ville ødelægge skolen. Beskeden var bestyrelsen lød: Jeg stod i vejen for Den Jyske Idrætsskoles udvikling.
 
- Tage Søgaard var alltså i opposition på flere fronter – både overfor bestyrelse og forretningsfører, ligesom samarbejdet med Aksel Bjerregaard aldrig blev reelt. Flere havde altså gode grunde til at gribe en kærkommen lejlighed og få gjort op med Tage Søgaard, der havde ydet "hjerteblod” for Den Jyske Idrætsskole siden 1946. Anledningen hed Ulla, og da Otto Lassen mødte op på skolen 28. april 1964, vendte det op og ned på Tage Søgaards tilværelse fra minut til minut. Fra at være en højt respekteret leder og underviser var han pludselig forstanderen, som alle undgik. Den offentlige moral blev magtkampens Sværd. Og det var i 1964 midt i den tid, hvor P-pillen og den lårkorte mode var udtryk for et spirende frisind, der kaldte på forargelsen.
+Tage Søgaard var alltså i opposition på flere fronter – både overfor bestyrelse og forretningsfører, ligesom samarbejdet med Aksel Bjerregaard aldrig blev reelt. Flere havde altså gode grunde til at gribe en kærkommen lejlighed og få gjort op med Tage Søgaard, der havde ydet "hjerteblod” for Den Jyske Idrætsskole siden 1946. Anledningen hed Ulla, og da Otto Lassen mødte op på skolen 28. april 1964, vendte det op og ned på Tage Søgaards tilværelse fra minut til minut. Fra at være en højt respekteret leder og underviser var han pludselig forstanderen, som alle undgik. Den offentlige moral blev magtkampens Sværd. Og det var i 1964 midt i den tid, hvor P-pillen og den lårkorte mode var udtryk for et spirende frisind, der kaldte på forargelsen.
 
 ## "Hvad kunne jeg bruge en sejr til"
 
@@ -77,7 +77,7 @@ Som 23-årig søgte han job på skolen Vejle Nordjyden med stort talent for bold
 
 ## Fripladser var lokkemad
 
-Tage Søgaard kender om nogen til DJI’s svære start. Han kørte i en lejet bil i 40'erne rundt i Danmark for at sikre sig eleverne, så skolen kunne opfylde sin årsnorm og dermed retten til statslige tilskud.
+Tage Søgaard kender om nogen til DJI's svære start. Han kørte i en lejet bil i 40'erne rundt i Danmark for at sikre sig eleverne, så skolen kunne opfylde sin årsnorm og dermed retten til statslige tilskud.
 
 > Jeg havde halve fripladser og i ekstreme tilfælde hele fripladser med som lokkemad på mine ture rundt i Danmark. Det ved kun de færreste, men det forklarer skolens trængte situation. Vi havde en række interesserede emner, der havde rekvireret vores brochure.
 

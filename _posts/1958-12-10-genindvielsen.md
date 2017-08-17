@@ -89,11 +89,17 @@ Bestyrelsens formand, borgmester Willy Sørensen, og Svend Aage Thomsen fik over
 Borgmester Willy Sørensen sluttede festen.
 
 > Kære gæster. En stor og begivenhedsrig dag er nu ved at være slut for Den jyske Idrætsskole. Jeg skal ikke forlænge den lange række af taler, der allerede er holdt; men jeg vil dog gerne som bestyrelsens formand bringe en afsluttende tak til de mange, der har haft ordet, og for de mange gaver, vi har fået.
+>
 > Svend Aage Thomsen og jeg siger tak til Dansk IdrætsForbund for guldnålen, vi forstår at værdsætte det, der ligger bagved, og de forpligtelser, der følger med.
+>
 > Vi har jo nogle gange måttet slide trapper i Vester Voldgade, og vi kom der altid, når vi var længst nede, vi blev altid godt modtaget, og hjælpen fik vi, og det skal du, Leo Frederiksen, have en stor tak for. Det er i grunden vemodigt, at vi ikke længere skal derover, der var så hyggeligt hos jer; men vi kommer nu nok alligevel.
+>
 > Dernæst vil jeg gerne rette en almindelig tak til alle, til de ministerier og de mange embedsmænd, vi har måttet fortrædige, mens hele denne sag stod på. Vi har jo måttet mase på, og vi har vist ikke altid vist vor helt pæne side udad, men må vi så i dag kvittere med vor taknemlighed. Vi vil også gerne rette en tak til de pengeinstitutter, der har hjulpet os, og til alle de øvrige, der på en eller anden måde har været os behjælpelige.
+>
 > Og så vil jeg gerne som formand rette en tak til Svend Aage Thomsen som forstander, til arkitekt, ingeniør, til sagfører og til hvem, vi har haft med at gøre under byggeriet. Jeg vil gerne takke bestyrelsens næstformand for godt medarbejderskab, du har måttet trække et stort læs og et tungt læs, Otto Lassen, trods det, du er en lige så optaget mand, som jeg selv, men tak for den tid, der gik.
+>
 > Og til dig, Svend Aage Thomsen, din kone og din familie. Tak for de hyggelige stunder, hvor vi skiftevis strålede som små sole, og til andre tider var grebet af det dybeste mismod. Nu er alt dette overstået, og skolen står med sine bygninger og anlæg, og nu er det din tur, Svend Aage Thomsen, til rigtigt at tage fat. Du har slidt godt i det indtil nu og ansvaret mangedoblet i forhoId til det, der har været. Vi vil fra bestyrelsens side ønske dig al mulig lykke og held. Vi  stoler på dig, vi tror på dig, du skal forvente støtte og medhjælp fra alle de, der er samlet til denne indvielsesfest, det kan du være overbevist om. Vi tror og stoler på, at sådan som skolen har fået den rigtige ramme, sådan har den også fremover den rigtige ånd.
+>
 > Lad os alle huske, at denne skole ikke er skabt af en enkelt mand eller en lille håndfuld mennesker, men det er det danske samfund som sådan, der har rejst denne skole. Over for dette samfund er vi alle forpligtede, og Svend Aage Thomsen vil som forstander have de største forpligtelser.
 
 Jeg synes, det kunne være en værdig afslutning på denne festlige sammenkomst, at vi forener os i et leve for det land, vi alle er medborgere i. Dette skønne land, som i dag har vist sig fra sin allersmukkeste side, og som har tegnet sig sådan, som vi allerhelst ønsker vort land. Med et sommerligt landskab, med or folkelige konge på besøg her, hvor en folkeopgave er blevet løst.

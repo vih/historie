@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Gå selv på opdagelse
-permalink: /opdagelse/
+permalink: /bidrag/
 comments: true
 ---
 

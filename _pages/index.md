@@ -6,7 +6,7 @@ author_profile: true
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: mm-home-page-feature.jpg
+  overlay_image: https://drive.google.com/uc?id=0B5v4mAibvkKXWDQ3bEZVT0lJSUk
   cta_label: "<i class='fa fa-download'></i> Bidrag til historien"
   cta_url: "/bidrag/"
   caption:

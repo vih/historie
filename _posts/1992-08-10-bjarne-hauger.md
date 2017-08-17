@@ -1,5 +1,9 @@
 ---
 title: 68'er-oprøret kom ned ført badekåbe og papillotter
+header:
+  image: https://lh3.googleusercontent.com/iSnFODaRrIyJnsiLKf1eBOuJWqdp9d3fWldY6b2t_bMjgFKEUaLLhC1MmUxW-t9J5-WJB-ZSxbKtO-u4u8X4DG6P7DQXsn5lNDAaM2IJhvH27qmb6a-xFvvPQja7rMEDOk_XhA_ykb8
+  caption: Bjarne og Benthe Hauger fotograferet i privaten i 1992.
+author: jub92
 category:
   - Jubilæumsskrift
 tags:
@@ -15,7 +19,7 @@ excerpt: "Bjarne Hauger gennemførte 8-måneders skoleformen og måtte sluge nog
 
 Telefonen ringer:
 
-> "Det er Aage Feldt, mellem af Den jyske Idrætsskoles forretningsudvalg. Kunne du tænke dig at ve forstander i Vejle? … lang pause…”
+> "Det er Aage Feldt, mellem af Den jyske Idrætsskoles forretningsudvalg. Kunne du tænke dig at være forstander i Vejle? … lang pause…”
 > "Det vil jeg have lov til at spekulere på. I skal høre fra mig!”
 
 Bjarne Hauger har fastholdt dette øjebliksbillede af sit liv, fordi samtalen fik stor betydning for hans løbebane. Den blev indledningen til 15 spændende år med store omvæltninger som forstander frem til 1982, inden han og fru Benthe pensionerede sig selv og flyttede ud på lystgården i Vestjylland.

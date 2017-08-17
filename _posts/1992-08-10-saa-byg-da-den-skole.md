@@ -1,9 +1,12 @@
 ---
 title: "Så byg da den idrætsskole, du går og fabler om dreng"
+author: jub92
 category:
   - Jubilæumsskrift
 tags:
   - jubilæumsskrift 1992
+  - Svend Aage Thomsen
+  - forstander
 ---
 
 Sådan lød den klare melding fra far til søn. – Stenhuggeren fra Bredal, Svend Aage Thomsen, løftede opgaven - Og døde for den.

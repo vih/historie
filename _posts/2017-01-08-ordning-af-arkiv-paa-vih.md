@@ -6,6 +6,8 @@ categories:
   - arkiv
   - vih
   - dji
+header:
+  image: https://lh3.googleusercontent.com/Ib_s2HAG1STGmIp9nnU6_oAyoXI-DH8TQctO_1KLUwiQABw1UXSXYnxF_CDhP6IEqnYMfVztNcerN5PS0OgnLN705YUYsYvmXS3VQ_49lV4_fFzvBHiBMHb_rjxv2OlKHEqYbr3WWSk
 ---
 
 Efter at arkivet på Vejle Idrætshøjskole har været forsømt i rigtig mange år, gik vi i gang med at få samlet alt materialet på et sted - og der var virkelig meget materiale spredt rundt omkring på skolen.

@@ -1,9 +1,10 @@
 ---
 title: VIHs skolesang fra 2010
-author: signy_jensen
+author: mille-christensen
 category:
   - Sange
 excerpt: "Skolesang skrevet sammen med forårsholdet 2010."
+permalink: /sang/2010/
 ---
 
 **Tekst**: Elever på forårsholdet 2010 og Mille Sigsgaard Christensen

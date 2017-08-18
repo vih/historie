@@ -4,6 +4,7 @@ author: william_hansen
 category:
   - Sange
 excerpt: "Den oprindelige skolesang på Den Jyske Idrætsskole."
+permalink: /sang/oprindelig/
 ---
 
 **Tekst**: William O. Hansen

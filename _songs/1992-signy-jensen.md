@@ -7,6 +7,7 @@ tags:
   - Jubilæum 1992
   - jubilæum
 excerpt: "Skolesang skrevet i forbindelse med indvielsen af DJIs nye foredragssal, Globen."
+permalink: /sang/1992/
 ---
 
 **Musik**: Signy Jensen

@@ -8,6 +8,8 @@ main:
     url: /tidslinjer/
   - title: "Steder"
     url: /steder/
+  - title: "Sange"
+    url: /sange/
   - title: "Arkiv"
     url: /arkiv/
   - title: "Bidrag"

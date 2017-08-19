@@ -1,6 +1,5 @@
 ---
 title: Planer om en tidslinje for skolens historie
-permalink: /oversigtsbilleder/
 category:
   - tidslinje
 tags:

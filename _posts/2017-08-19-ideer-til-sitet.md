@@ -16,6 +16,7 @@ Vi har et rigt arkiv, og der blev lavet en glimrende opsamling i 1992 med Jubil�
 ## Planlagte indsatsområder
 
 - Interviews med forstandere siden 1992 (Ole Worm, Bent Serup, Torben Espersen, Lars Kjærsgaard, Erik Sidenius og Ole Damgaard).
+- Beskrivelser af centrale personer i skolens historie (Signe Troelsen, Knud Thomassen)
 - Beskrivelse af forløbet omkring oprettelsen af efterskolen i 2007.
 - Beskrivelse af forløbet omkring opførelsen af Center for Sundhed, Test og Læring.
 - Beskrivelse af forløbet omkring fundingen og opførelsen af AquaScape.

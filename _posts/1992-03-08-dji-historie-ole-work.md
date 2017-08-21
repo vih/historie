@@ -25,6 +25,7 @@ Man kan kun kvalitativt springe fremad, når man har fast grund under fødderne.
 ## Artiklens korte version
 
 - 25.01.1942 Idrætsskolen fastlægges
+- 16.06.1942 Første spadestik
 - 09.08.1942 DJI som selvejende institution med hovedbestyrelse
 - 03.10.1942 grundstensnedlæggelse
 - 03.07.1943 1. kursus Dansk Håndbold Forbund.

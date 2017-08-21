@@ -105,8 +105,9 @@ Med denne erklæring som basis havde Svend Aage søgt kontakt til organisationer
 
 Det var idrættens skole.
 
-Først i oktober måned 1943 ses højskolebetegnelsen direkte i en justeret hensigtserklæring, der tjente som annoncetekst til den kommende vinterskole, som skulle starte sit 1. elevhold til november .
-Fødslen <cite>(kilde: A4 tekstside okt. 1943. DJIs arkiv)</cite>.
+Først i oktober måned 1943 ses højskolebetegnelsen direkte i en justeret hensigtserklæring, der tjente som annoncetekst til den kommende vinterskole, som skulle starte sit 1. elevhold til november <cite>(kilde: A4 tekstside okt. 1943. DJIs arkiv)</cite>.
+
+## Fødslen
 
 Den Jyske Idrætsskole i Vejle havde en meget svær fødsel. Den var baseret på een mands ønske og vilje og ikke udsprunget af en større folkelig kreds. Skolens første forstander følte et behov og vakte en interesse. Den folkelige støtte kom - men langsomt.
 

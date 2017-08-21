@@ -10,7 +10,7 @@ excerpt: "Skolesang skrevet i forbindelse med indvielsen af DJIs nye foredragssa
 permalink: /sang/1992/
 ---
 
-**Musik**: Signy Jensen
+**Musik**: Signy Jensen  
 **Tekst**: Sten Kaalø
 
 Som grenen bryder ud afstammen,  

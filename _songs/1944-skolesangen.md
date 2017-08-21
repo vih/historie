@@ -7,7 +7,7 @@ excerpt: "Den oprindelige skolesang på Den Jyske Idrætsskole."
 permalink: /sang/oprindelig/
 ---
 
-**Tekst**: William O. Hansen
+**Tekst**: William O. Hansen  
 **Musik**: Karl-Olav Dahlbæk
 
 **Vers 1**  

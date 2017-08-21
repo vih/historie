@@ -1,7 +1,5 @@
 ---
 title:  Jomsborg
-categories: 
-  - sted
 header:
     teaser: https://drive.google.com/uc?id=0B5v4mAibvkKXc1ZhSmczNW1pLXc
 ---
@@ -15,3 +13,5 @@ header:
     caption="Jomsborg placering da kursusfløjen fra 1971 blev bygget" %}
 
 Hvis du ved hvilket år, Jomsborg blev bygget, så skriv det endelig i kommentarerne.
+
+Er der nogen der vil supplere med historier fra og om stedet, så brug gerne kommentarerne.

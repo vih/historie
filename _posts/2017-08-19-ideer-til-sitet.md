@@ -15,12 +15,27 @@ Vi har et rigt arkiv, og der blev lavet en glimrende opsamling i 1992 med Jubil�
 
 ## Planlagte indsatsområder
 
-- Interviews med forstandere siden 1992 (Ole Worm, Bent Serup, Torben Espersen, Lars Kjærsgaard, Erik Sidenius og Ole Damgaard).
-- Beskrivelser af centrale personer i skolens historie (Signe Troelsen, Knud Thomassen)
-- Tilføje flere historiske steder (Jomfruburet, pedellernes skur og da det blev flyttet)
-- Beskrivelse af forløbet omkring oprettelsen af efterskolen i 2007.
-- Beskrivelse af forløbet omkring opførelsen af Center for Sundhed, Test og Læring.
-- Beskrivelse af forløbet omkring fundingen og opførelsen af AquaScape.
+- Interviews med forstandere siden 1992
+  - [ ] Ole Worm
+  - [ ] Bent Serup
+  - [ ] Torben Espersen
+  - [ ] Lars Kjærsgaard
+  - [ ] Erik Sidenius
+  - [ ] Ole Damgaard
+- Hvorfor _idrætsskole_ i stedet for _idræts**høj**skole_?
+- Udviklingen af repræsentantskabet fra starten og den tætte DIF-tilknytning til 2017 med ændret repræsentantskab (Peter Sebastian Pedersen).
+- Beskrivelser af centrale personer i skolens historie
+  - [ ] Svend Aage Thomsen
+  - [ ] Signe Troelsen
+  - [ ] Knud Thomassen
+- Tilføje flere historiske steder
+  - [ ] Jomfruburet
+  - [ ] Pedellernes skur og da det blev flyttet
+  - [ ] Talerstolen
+  - [ ] Fanen
+- Beskrivelse af forløbet omkring oprettelsen af efterskolen i 2007 (Per Jensen).
+- Beskrivelse af forløbet omkring opførelsen af Center for Sundhed, Test og Læring (Dina Knudsen).
+- Beskrivelse af forløbet omkring fundingen og opførelsen af AquaScape (Dina Knudsen).
 
 ## Dine ideer
 

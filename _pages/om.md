@@ -16,6 +16,8 @@ Vejle Idrætshøjskole siger tak til alle, der har bidraget til sitets tilblivel
 
 Materialet på siden stammer hovedsageligt fra vores eget arkiv, men vi har også brugt masser af tid på at søge på [Arkiv.dk](http://arkiv.dk) og siddet på læsesalen på [Vejle Stadsarkiv](http://vejlestadsarkiv.dk) og gennemgå materialet.
 
+## Bidrag selv til sitet
+
 Denne side er tænkt som et sted, hvor alle der har haft tilknytning til Vejle Idrætshøjskole kan [bidrage med ideer, historier og ny viden om højskolens historie](/bidrag/).
 
 {% include figure

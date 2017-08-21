@@ -25,6 +25,7 @@ Man kan kun kvalitativt springe fremad, når man har fast grund under fødderne.
 ## Artiklens korte version
 
 - 25.01.1942 Idrætsskolen fastlægges
+- 16.06.1942 Første spadestik
 - 09.08.1942 DJI som selvejende institution med hovedbestyrelse
 - 03.10.1942 grundstensnedlæggelse
 - 03.07.1943 1. kursus Dansk Håndbold Forbund.
@@ -76,13 +77,13 @@ Det er tænkeligt, at Svend Aage Thomsen her så en mulighed for at lave sin ege
 
 Svend Aage Thomsen angav i et interview under besættelsen, at han omkring 1939 havde syslet med tanken om en jysk idrætsskole dvs. en jysk pendant til Ollerup på Fyn; Gerlev (1938) på Sjælland. Dette kunne tolkes i retning af, at SAaT på dette tidspunkt ville lave en højskole. Men Svend Aage var jyde.
 
-Svend Aage Thomsen angav, at de konkrete tanker om at oprette en jysk idrætsskole modnedes i august 1941 <cite>(Den jyske Idrætsskole Vejle Aarsskrift 1944 s.4)</cite>. I løbet af dette efterår samlede SAaT en række støtteerklæringer fra ledende specialforbundsformænd og formænd for DIF og D.D.G. Formanden for D.D.G., P.J. Skriver(PJS), udtalte sin støtte til SAaTs planer, men skulle dog først have dem konfirmeret på et landsstyrelsesmøde. PJS understregede dog her den 21.11.1941, at han støttede en idrætshøjskole samtidig med, at han gjorde opmærksom på, at
+Svend Aage Thomsen angav, at de konkrete tanker om at oprette en jysk idrætsskole modnedes i august 1941 <cite>(Den jyske Idrætsskole Vejle Aarsskrift 1944 s.4)</cite>. I løbet af dette efterår samlede SAaT en række støtteerklæringer fra ledende specialforbundsformænd og formænd for DIF og D.D.G. Formanden for D.D.G., P.J. Skriver (PJS), udtalte sin støtte til SAaTs planer, men skulle dog først have dem konfirmeret på et landsstyrelsesmøde. PJS understregede dog her den 21.11.1941, at han støttede en idrætshøjskole samtidig med, at han gjorde opmærksom på, at
 
 > "man et andet Sted i Jylland har haft Planer om en lignende skole."
 >
 > -- <cite>dublikeret udskrift af SAaT i en samlet støtteerklæring, Rigsarkivet (utrykt)</cite>
 
-Lillejuleaften 1941 fik SAaT en skriftlig udtalelse fra DIF's formand oberst H. Sander(1941-47), hvori han støttede skolens oprettelse, og hvori oberst Sander påpegede, at
+Lillejuleaften 1941 fik SAaT en skriftlig udtalelse fra DIF's formand oberst H. Sander (1941-47), hvori han støttede skolens oprettelse, og hvori oberst Sander påpegede, at
 
 > "Lederen af Skolen skal have DIF's og Specialforbunds Tillid"
 >
@@ -104,8 +105,9 @@ Med denne erklæring som basis havde Svend Aage søgt kontakt til organisationer
 
 Det var idrættens skole.
 
-Først i oktober måned 1943 ses højskolebetegnelsen direkte i en justeret hensigtserklæring, der tjente som annoncetekst til den kommende vinterskole, som skulle starte sit 1. elevhold til november .
-Fødslen <cite>(kilde: A4 tekstside okt. 1943. DJIs arkiv)</cite>.
+Først i oktober måned 1943 ses højskolebetegnelsen direkte i en justeret hensigtserklæring, der tjente som annoncetekst til den kommende vinterskole, som skulle starte sit 1. elevhold til november <cite>(kilde: A4 tekstside okt. 1943. DJIs arkiv)</cite>.
+
+## Fødslen
 
 Den Jyske Idrætsskole i Vejle havde en meget svær fødsel. Den var baseret på een mands ønske og vilje og ikke udsprunget af en større folkelig kreds. Skolens første forstander følte et behov og vakte en interesse. Den folkelige støtte kom - men langsomt.
 
@@ -214,7 +216,7 @@ Understregningen er foretaget af SAaT. Den Jyske Idrætsskole var ikke tænkt so
 
 Den skulle indfri et behov for trænere i foreningerne. Uddannelsen skulle have et fagligt sigte. Den var måske tænkt som en skole med kompetencegivende sigte, der på enkelte områder kunne dække det uddannelsesbehov, som det etablerede uddannelsessystem ikke dækkede. Det er tænkeligt, at den skulle være et vestligt folkeligt modstykke til DHL's idrætslederuddannelse! Mente SAaT med begrebet idrætslærere, at det var undervisere, der kunne gå ind og overtage seminarie/universitetsuddannedes job? På dette tidspunkt fungerede en del delingsførere som idrætslærere på det gymnasiale niveau uden at have en akademisk grad. Rektor for DHL opfattede i sit høringssvar til ministeriet initiativet som en mulig ny idrætsuddannelse. Rektor & professor Emanuel Hansen kunne ikke anbefale staten at yde statslån til dette initiativ, før det i nogle år havde bevist sin eksistensberettigelse. En dødsdom i en situation, hvor de økonomiske midler var meget små. EH ønskede ikke at udtale sig om DJI's højskolemæssige mulighed.
 
-## Personen / forstanderen.
+## Personen / forstanderen
 
 Svend Aage Thomsen konstitueredes på et møde i august 1942 som forstander for Den jyske Idrætsskole. Det er altid den folkevalgte forsamling, der ansætter og afskediger en forstander. Det ligger uden for ministeriets kompetence; men ministeriet skal godkende personen, der ansættes, idet staten ønsker at have en repræsentant på stedet. Godkendelse af en skole er derfor knyttet til forstanderen. - herunder hans uddannelse og tidligere virksomhed <cite>(kilde: lovtid. 1943 nr. 5)</cite>. Svend Aage Thomsen kunne ikke godkendes umiddelbart. I ministeriet drøftedes i efteråret 1942 SAaT´s kvalifikationer. Flere fandt dem utilstrækkelige; men pga. utilstrækkelig information besluttede Statskonsulenten for Undervisningsministeriet i Sager vedr. Ungdomsundervisningen, Novrup, i marts 1943 at besøge Svend Aage Thomsen. SAaT gjorde ved denne lejlighed et overmåde tiltalende indtryk på statskonsulenten og ændrede hans indstilling til SAaTs evner som leder, hvorefter Novrup mente, at kun spørgsmålet om omfanget af den almendannende undervisning på skolen var tilbage at løse for en godkendelse kunne gives (kilde: Novrups interne referat til ministeriet 16.03 1943. Kult. min/Rigsarkivet utrykt.). Den 2. marts 1943 drøftedes i ministeriet det rimelige i at indsætte en medforstander for at få en forstandergodkendelse på plads og den 4. december 1943 omtales igen i et internt notat <cite>(kilde: internt notat 04.12.1943, Kult.min/Rigsarkivet utrykt)</cite> løsningen med 2 forstandere som en forudsætning for at opfylde ministeriets krav <cite>(kilde: DJIs Årsskrift 1944)</cite>.
 

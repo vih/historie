@@ -77,13 +77,13 @@ Det er tænkeligt, at Svend Aage Thomsen her så en mulighed for at lave sin ege
 
 Svend Aage Thomsen angav i et interview under besættelsen, at han omkring 1939 havde syslet med tanken om en jysk idrætsskole dvs. en jysk pendant til Ollerup på Fyn; Gerlev (1938) på Sjælland. Dette kunne tolkes i retning af, at SAaT på dette tidspunkt ville lave en højskole. Men Svend Aage var jyde.
 
-Svend Aage Thomsen angav, at de konkrete tanker om at oprette en jysk idrætsskole modnedes i august 1941 <cite>(Den jyske Idrætsskole Vejle Aarsskrift 1944 s.4)</cite>. I løbet af dette efterår samlede SAaT en række støtteerklæringer fra ledende specialforbundsformænd og formænd for DIF og D.D.G. Formanden for D.D.G., P.J. Skriver(PJS), udtalte sin støtte til SAaTs planer, men skulle dog først have dem konfirmeret på et landsstyrelsesmøde. PJS understregede dog her den 21.11.1941, at han støttede en idrætshøjskole samtidig med, at han gjorde opmærksom på, at
+Svend Aage Thomsen angav, at de konkrete tanker om at oprette en jysk idrætsskole modnedes i august 1941 <cite>(Den jyske Idrætsskole Vejle Aarsskrift 1944 s.4)</cite>. I løbet af dette efterår samlede SAaT en række støtteerklæringer fra ledende specialforbundsformænd og formænd for DIF og D.D.G. Formanden for D.D.G., P.J. Skriver (PJS), udtalte sin støtte til SAaTs planer, men skulle dog først have dem konfirmeret på et landsstyrelsesmøde. PJS understregede dog her den 21.11.1941, at han støttede en idrætshøjskole samtidig med, at han gjorde opmærksom på, at
 
 > "man et andet Sted i Jylland har haft Planer om en lignende skole."
 >
 > -- <cite>dublikeret udskrift af SAaT i en samlet støtteerklæring, Rigsarkivet (utrykt)</cite>
 
-Lillejuleaften 1941 fik SAaT en skriftlig udtalelse fra DIF's formand oberst H. Sander(1941-47), hvori han støttede skolens oprettelse, og hvori oberst Sander påpegede, at
+Lillejuleaften 1941 fik SAaT en skriftlig udtalelse fra DIF's formand oberst H. Sander (1941-47), hvori han støttede skolens oprettelse, og hvori oberst Sander påpegede, at
 
 > "Lederen af Skolen skal have DIF's og Specialforbunds Tillid"
 >

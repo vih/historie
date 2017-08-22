@@ -6,11 +6,12 @@ permalink: /jub92/
 
 {% include base_path %}
 
+{% capture jub92posts %}
+  {{ site.tags where: 'jubilæumsskrift 1992' %}
+{% endcapture %}
+
 <div class="grid__wrapper">
-  {% for post in site.tags."jubilæumsskrift 1992" %}
-    {% include archive-single.html %}
-  {% endfor %}
-  {% for post in site.posts %}
+  {% for jub92posts %}
     {% include archive-single.html %}
   {% endfor %}
 </div>

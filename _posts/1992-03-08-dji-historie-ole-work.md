@@ -131,7 +131,7 @@ Anlægsregnskabets hovedposter så i øvrigt således ud:
 - tilskud fra beskæftigelsesarbejder 124.847,35 kr.
 - diverse indtægter 8.78,89 kr.
 
-hvor anlægsudgifterne pr. 1.4. 1944 i alt var knap 1/2 mio. kr <cite>^[kilde: regnskab fra start den 16, fe,1942 til 31. marts 1944. Revision J. Nr. 21.510]</cite>.
+hvor anlægsudgifterne pr. 1.4. 1944 i alt var knap 1/2 mio. kr <cite>^[kilde: regnskab fra start den 16. feb. 1942 til 31. marts 1944. Revision J. Nr. 21.510]</cite>.
 
 ## Tegninger
 

@@ -67,7 +67,7 @@ Tysklands besættelse af Danmark betød, at Svend Aage Thomsen blev arbejdsløs.
 
 SAaT modtog afgangsbevis fra dette kursus i atletik.
 
-Det er tænkeligt, at Svend Aage Thomsen her så en mulighed for at lave sin egen type uddannelse i provinsen eller måske fik sin højskolebaggrund justeret. SAaT fik i hvert tilfælde set og prøvet idrætten i et lidt bredere perspektiv. Desuden blev idrættens begreber videnskabeliggjort for praktikeren. Lederudviklingen fortsatte, idet han kom på Folketjenestens lederskole i Karlslunde i efteråret 1941 <cite>(Delingsføreren, Gerlev . nr. 10 okt. 1942 2. årg.)</cite>.
+Det er tænkeligt, at Svend Aage Thomsen her så en mulighed for at lave sin egen type uddannelse i provinsen eller måske fik sin højskolebaggrund justeret. SAaT fik i hvert tilfælde set og prøvet idrætten i et lidt bredere perspektiv. Desuden blev idrættens begreber videnskabeliggjort for praktikeren. Lederudviklingen fortsatte, idet han kom på Folketjenestens lederskole i Karlslunde i efteråret 1941 ^[Delingsføreren, Gerlev . nr. 10 okt. 1942 2. årg.].
 
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXUUFEMjN1M1RvZzg"

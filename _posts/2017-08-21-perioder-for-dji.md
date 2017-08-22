@@ -10,13 +10,13 @@ Tidligere højskoleforstander, Ole Worm, har i et oplæg holdt for de daværende
 
 Ole Worm brugte disse perioder:
 
-| Årstal | Titel |
-|________|_______|
-| 1942-1958 | Etableringen - det seje jyske træk |
-| 1958-1961 | Målopfyldelsen |
+| Årstal    | Titel                                            |
+|-----------|--------------------------------------------------|
+| 1942-1958 | Etableringen - det seje jyske træk               |
+| 1958-1961 | Målopfyldelsen                                   |
 | 1961-1967 | Konflikten mellem folkehøjskole og idræt / sport |
-| 1967-1998 | Tilpasning & nybrud |
-| 1998- | ? |
+| 1967-1998 | Tilpasning & nybrud                              |
+| 1998-     | ?                                                |
 
 Har du nogle synspunkter på, hvordan man kan betragte højskolens historie i overordnede linjer, så brug gerne kommentarerne.
 

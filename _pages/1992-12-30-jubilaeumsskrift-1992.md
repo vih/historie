@@ -7,7 +7,7 @@ permalink: /jub92/
 {% include base_path %}
 
 {% capture jub92posts %}
-  {{ site.tags where: 'jubilæumsskrift 1992' %}
+  {% site.tags | where: 'jubilæumsskrift 1992' %}
 {% endcapture %}
 
 <div class="grid__wrapper">

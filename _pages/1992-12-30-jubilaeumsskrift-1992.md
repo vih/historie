@@ -6,9 +6,7 @@ permalink: /jub92/
 
 {% include base_path %}
 
-{% capture jub92posts %}
-  {% site.tags | where: 'jubilæumsskrift 1992' %}
-{% endcapture %}
+{% assign jub92posts = site.tags | where: 'jubilæumsskrift 1992' %}
 
 <div class="grid__wrapper">
   {% for jub92posts %}

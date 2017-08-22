@@ -74,6 +74,7 @@ Et af de første Arbejder i Forbindelse med Skolen var Istandsættelse af den ga
 
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXR2tTQjRHaWNxQkU"
+    alt="Løbere ned af skihopbakken"
     caption="Løb ned af skihopbakken." %}
 
 Et andet Arbejde, som blev udført den følgende Vinter, var Anlæget af en Skihopbakke i Skoven lige neden for Skolen paa Gyllingshøj. Den første Skihopbakke herhjemme. Skihopbakken falder smukt ind i Landskabet og er et flittigt besøgt Udsigtspunkt. 
@@ -140,6 +141,7 @@ Det, som der hidtil har været fortalt om, drejer sig væsentlig om Hovedbygning
 
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXcnVOdGZTRlF0b2M"
+    alt="Den finske badstue"
     caption="Den finske Badstue." %}
 
 Paa mine Rejser i Udlandet havde jeg stiftet Bekendtskab med den finske Badstue, og det stod klart for mig, at en saadan Badstue hørte hjemme paa Den jyske Idrætsskole, og at jeg vilde arbejde hen paa, at en finsk Badstue kunde staa klar til Brug, naar Skolen aabnede sine Døre for dansk Ungdom.
@@ -160,6 +162,7 @@ I Løbet af Foraaret 44 kom der en Række Forespørgsler om Kursus til Afholdels
 
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXc1ZhSmczNW1pLXc"
+    alt="Jomsborg"
     caption="Jomsborg. Redaktøren af dette site går ud fra, at det er Jomsborg Svend Aage Thomsen refererer til. Hvis det ikke er rigtigt, brug rigtig gerne kommentarerne." %}
 
 I Foraaret medforpagtede jeg endvidere Norremarksgaarden, vor Nabo mod Vest, hvorved vi fik et pænt Stuehus til Raadighed til Lærerbolig m. m. og i Udhusene god Plads til vore Husdyr.

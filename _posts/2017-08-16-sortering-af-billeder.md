@@ -24,12 +24,14 @@ Ved du fx hvem det her det er?
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/7zb2Xbno9qAFoIrIuz9LIj2Q41TKJ_TrJULhk09Hbis9teDohapg6BJHzZNpI50Tjeaqdvvra67m5NlQXEgZP3csdGqwzN45T72W9kp_sBTYQQ56JHlxh0HTuPkoWpTsVaN2VBJGp5k"
+    alt="Ukendt oprindelse og billede"
     caption="Hvem er på billedet - og hvornår er det fra?" %}
 
 eller 
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/t-jKLP-B4EKTxVgQtpWrtjmmEje45aysBXMCMPnYgveBueFjXcwvsAN1XnUW02Yb9VGuIp4vhLbSz0inuXc7EUw_7d6_olOGpeMzJDXG3csXg69Uc9f5SeVwRvcVOGgyGxdd5At4rfw"
+    alt="Ukendt oprindelse og billede"
     caption="Hvem er på billedet - og hvornår er det fra?" %}
 
 ## Hvad gør man med trykklicheer?
@@ -38,6 +40,7 @@ Samtidig har vi en masse trykklicheer, som vi helt ærligt ikke helt ved, hvad v
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/Q4d7lqw2Pi4uNlyVQqbq4NSx-Nyev0dRE5mBPoTMlX5cnFGZu1aE4k7W181NxXmI7WkXCALGaOexyJFy-SLf-i5CccQeAIX03yzjRkvsUsk_7rHWX9lew1R634EdqtOmPTLTX-1oLrg"
+    alt="Billede af trykklicheer"
     caption="Hvad gør vi ved alle disse?" %}
 
 Brug endelig kommentarerne, hvis du kan hjælpe os med det? 

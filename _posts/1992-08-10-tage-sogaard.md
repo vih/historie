@@ -39,6 +39,7 @@ Magtkampen på skolen fulgte i årene efter Svend Aage Thomsens pludselige død 
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/quV8BrzO86_rXDhjur3OBdaZ7TGJydNPNxcPBqfkjhRuXx_DdeJLmNL5daQ7zKAh3XRivd0wFMaj6inxsZJ5bMy_Gc_IRWoc7TY8I-pua0cEDqeH6s6IQA-eBknca8IIeR1LbWTFRPU"
+    alt="Tage Søgaard og Signe Troelsen"
     caption="Tage Søgaard - i et muntert udstyrsstykke-optrin med Signe Troelsen. Affotograferet fra jubilæumsskriftet 1992." %}
 
 ## Konflikter med forretningsføreren

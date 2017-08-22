@@ -6,10 +6,10 @@ permalink: /jub92/
 
 {% include base_path %}
 
-{% assign jubposts = site.tags | where: 'jubilæumsskrift 1992' %}
-
 <div class="grid__wrapper">
-  {% for jubposts %}
-    {% include archive-single.html %}
+  {% for post in site.posts %}
+    {% if post.tags contains 'jubilæumsskrift 1992' %}
+      {% include archive-single.html %}
+    {% endif %}
   {% endfor %}
 </div>

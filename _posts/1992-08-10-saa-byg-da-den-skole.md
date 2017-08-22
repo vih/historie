@@ -88,6 +88,7 @@ Hendes og broderen Bjarnes opvækst på DJI foregik med behersket hensyntagen ti
 
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXSE5mVlgyRGlSTWM"
+    alt="Bordbøn og ingen albuer på bordet i spisesalen"
     caption="Bordbøn og ingen albuer på bordet - sådan var bl.a. skik og brug i spisesalen, hvor familien Thomsen her spiser med ved bordet i forgrunden. Den gamle spisesal benyttes i dag som undervisningslokale og har også i en periode fungeret som vægttræningslokale. Affotograferet fra jubilæumsskriftet 1992." %}
 
 ## Inspirerende og ambitiøs
@@ -100,6 +101,7 @@ Ingrid Thomsen døde i 1968, 64 år gammel, under en ferie i Spa men med sønnen
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/4cP177ztTneQLWQwigVSRTcqFstj4R7ZX-S1XMU0cqnI6-GJY-9eMINRA28fhIZmYOfi-ML00P85Dwvhx9wHmZdLbrDK7y3Vq07mj-evF8oKR9AdWl5_CYXUx_9gr2ABXlJL0f94ni8"
+    alt="Svend Aage Thomsen med sit smalfilmskamera"
     caption="Svend Aage Thomsen var også ivrig smalfilmsfotograf som du kan se et eksempel på nedenunder. Affotograferet fra jubilæumsskriftet 1992." %}
 
 {% include video id="_CBgGRb9XWA" provider="youtube" %}

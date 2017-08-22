@@ -2,7 +2,7 @@
 title: Den Jyske Idrætsskoles fødsel - for 50 år siden (1942-1948)
 permalink: /dji-start/
 author: ole_worm
-date:   1992-03-08 16:16:01 +0100
+date: 1992-03-08 16:16:01 +0100
 category:
   - historie
 tags:
@@ -45,9 +45,11 @@ Urbaniseringen accentuerede behovet for at få uddannede trænere til andet end 
 
 En ny skoleform i et andet regi for et nyt marked var måske til stede!
 
-Idrætshøjskolen ved Slagelse (Gerlev) slog den første breche i højskolens syn på indholdet i en delingsføreruddannelse ved at markere, at skolen fra 1936 var en idrætshøjskole og ikke en gymnastikhøjskole, og parallelt hermed vægtede idrætten i samme grad som gymnastikken. Det samme overordnede idrætssyn tilkendegav DJI's første forstander ved flere lejligheder.
+Idrætshøjskolen ved Slagelse (Gerlev) slog den første breche i navnet på en højskole med legemsøvelse som fremherskende fag. Skolens første forstander Kristian Kroghede / K. A. Knudsen fremfører, at ændringen i skolens navn var mere af markedsføringsmæssige årsager for at adskille den fra de to allerede etablerede, og ikke af ideologiske årsager, idet gymnastik stadig skulle være det dominerende; men fremfører dog samtidigt, at skolen fik fat i en del byungdom, som ikke havde lavet gymnastik før <cite>^[Idræt Vor Tids store Folkeopdrager b. II s 390, Odense 1943]</cite>. Den nordiske opfattelse af kropskultur havde deres folkehøjskoler. Et ændret overordnet idrætssyn tilkendegav DJIs første forstander, Svend Aage Thomsen, ved flere lejligheder. K. A. Knudsen beskriver samme sted dog planerne i Vejle som en idrætsskole uden højskolefag. Dette måtte han dog korrigere i bind II:
 
-Den nordiske opfattelse af kropskultur havde deres folkehøjskoler. Den kontinentale opfattelse af idrætten havde ingen - endnu!
+> "viser det sig, at den stiller sig paa Linie med de øvrige Gymnastik- og Idrætshøjskoler"
+>
+> -- <cite>^[kilde: Idræt Vor Tids store Folkeopdrager b. II s 390, Odense 1943]</cite>
 
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXc1ZhSmczNW1pLXc"
@@ -58,13 +60,13 @@ Den nordiske opfattelse af kropskultur havde deres folkehøjskoler. Den kontinen
 
 Svend Aage Thomsen (20.02.1911 - 26.03.1961) var autodidakt uden formel uddannelsesmæssig pædagogisk kompetence. Han fik en delingsføreruddannelse på Gymnastikhøjskolen i Ollerup, der primært sigtede mod at lede gymnastikken på landet. Hans egen dybtfølte idrætserfaring kom fra atletikken på meget højt nationalt niveau, hvor han i alt havde 11 danske mesterskaber i atletik. Som forstander var han stadig på landsholdet og kunne ikke undgå at blive opfattet som eliteidrætsmand - ja stjerne. I øvrigt besad han stor allround idrætserfaring fra mange idrætsgrene.
 
-Fra forstander Niels Bukh, Ollerup, udsprang sidst i 30'erne og begyndelsen af 40'erne en række skoleledere (Krogshede i Gerlev, Sv. Aage Thomsen i Vejle i Viborg) med egne ideer, der ikke på alle områder kunne forenes med Niels Bukhs. Det var viljestærke personer, der ønskede kraftudfoldelse andet steds.
+Fra forstander Niels Bukh, Ollerup, udsprang sidst i 30'erne og begyndelsen af 40'erne en række skoleledere <cite>^[Krogshede i Gerlev, Sv. Aage Thomsen i Vejle] med egne ideer, der ikke på alle områder kunne forenes med Niels Bukhs. Det var viljestærke personer, der ønskede kraftudfoldelse andet steds.
 
 Tysklands besættelse af Danmark betød, at Svend Aage Thomsen blev arbejdsløs. Han var på et 3 måneders idrætslederkursus (06.01.1941-29.03.1941) på Danmarks Højskole for Legemsøvelser, hvis mål var:
 
 > "...til Afhjælpning af Manglen paa Idrætsledere en Række Kurser til Uddannelse af Lærere i den frivillige Gymnastik og Idræt. De paagældende Kursus fandt Sted dels paa Danmarks Højskole for Legemsøvelser i København, dels paa forskellige Højskoler i Provinsen."
 >
-> -- <cite>Danmarks Højskole for Legemsøvelser, Aarsberetning 1940-41 v/ Emanuel Hansen</cite>
+> -- <cite>^[kilde: Danmarks Højskole for Legemsøvelser, Aarsberetning 1940-41 v/ Emanuel Hansen]</cite>
 
 SAaT modtog afgangsbevis fra dette kursus i atletik.
 
@@ -82,19 +84,19 @@ Svend Aage Thomsen angav, at de konkrete tanker om at oprette en jysk idrætssko
 
 > "man et andet Sted i Jylland har haft Planer om en lignende skole."
 >
-> -- <cite>dublikeret udskrift af SAaT i en samlet støtteerklæring, Rigsarkivet (utrykt)</cite>
+> -- <cite>^[kilde: dublikeret udskrift af SAaT i en samlet støtteerklæring, Rigsarkivet (utrykt)]</cite>
 
 Lillejuleaften 1941 fik SAaT en skriftlig udtalelse fra DIF's formand oberst H. Sander (1941-47), hvori han støttede skolens oprettelse, og hvori oberst Sander påpegede, at
 
 > "Lederen af Skolen skal have DIF's og Specialforbunds Tillid"
 >
-> -- <cite>dublikeret udskrift af SAaT i en samlet støtteerklæring, Rigsarkivet (utrykt)</cite>
+> -- <cite>^[kilde: dublikeret udskrift af SAaT i en samlet støtteerklæring, Rigsarkivet (utrykt)]</cite>
 
 Som atletikmand under atletikforbundet og dermed knyttet til DIF, var denne betingede støtte med udgangen af 1941 væsentlig, hvis andre skulle overtales til at støtte ideen. Disse og flere andre støtteerklæringer var givet sket med baggrund i et ikke-dateret duplikeret stykke papir, hvori Svend Aage Thomsen redegjorde for sine tanker om en kommende jysk idrætsskoles virksomhed
 
 > "Skolen skal i første Række være et Sted, hvor man kan lære det grundlæggende i al Idræt og frugtbargøre de Fremskridt, der paa det idrætslige Omraade fremkommer saavel i Indland som Udland. ....vil lægge Vægt paa den rent idrætslige Uddannelse, skal den ogsaa være aaben for enhver sund aandelige Paavirkning. Videnskabsmænd, Højskolemænd .... delagtiggøre Eleverne i de kulturelle og aandelige Spørgsmaal..Grundpillen ... 4-5 Maaneders Delingsfører- og Idrætslæreruddannelse."
 >
-> -- <cite>maskinskrevet A4 papir (ikke offentliggjort) DJI arkiv.</cite>
+> -- <cite>^[kilde: maskinskrevet A4 papir (ikke offentliggjort) DJI arkiv]</cite>
 
 Denne første maskinskrevne, duplikerede hensigtserklæring var et resultat af Svend Aages og rådgiveres tanker. Det er værd at bemærke, at hensigtserklæringen ikke omtaler oprettelsen af en højskole som institution. Væsentlige dele fra erklæringen indgik senere i fundatsudkastet. Senere i erklæringen anførte SAaT yderligere, at skolen skulle være en ny form. Med påpegningen af idrætslæreruddannelsen som eet af skolens mål, bevægede SAaT bevidst eller utilsigtet sig ind på et kompetenceområde, hvor døre hurtigt klappede i. Idrætsuddannelse kunne kun finde sted eet sted.
 
@@ -102,7 +104,7 @@ Med denne erklæring som basis havde Svend Aage søgt kontakt til organisationer
 
 > Danmarks første og eneste Idrætsskole, Den jyske Idrætsskole, har allerede vundet et godt Navn - en Institution af uvurderlig Betydning for Idrætslivet!
 >
-> -- <cite>udateret kladde til reklametekst DJIs arkiv.</cite>
+> -- <cite>^[kilde: udateret kladde til reklametekst DJIs arkiv]</cite>
 
 Det var idrættens skole.
 
@@ -157,7 +159,7 @@ En ny højskolelov var således på trapperne, da det første møde afholdtes. D
 
 > "indgive Andragende om KongeligKonfirmation paa den vedtagne Fundats."
 >
-> -- <cite>DJIs forhandlingsprotokol jan. 1942</cite>
+> -- <cite>^[kilde: DJIs forhandlingsprotokol jan. 1942]</cite>
 
 dvs. få skolen blåstemplet på en eller anden måde for at opnå økonomisk støtte.
 
@@ -193,7 +195,7 @@ Den ikke-formelle godkendelse - accept - af idrættens organisationer var også 
 
 > Som Svar på Deres Skrivelse hertil skal jeg meddele Dem, at D.D.G. ikke ønsker at til træde Hovedbestyrelsen for Deres skole i Vejle. Det er jo nok muligt, at enkelte af vore Medlemmer vil kunne have nytte af et ophold på Deres skole, men Hovedorganisationen som sådan kan ikke tiltræde Hovedbestyrelsen for Skolen.
 >
-> -- <cite>udskrift af referat fra D.D.Gs landsstyrelsesmøde</cite>
+> -- <cite>^[kilde: udskrift af referat fra D.D.Gs landsstyrelsesmøde]</cite>
 
 Signalet til en lille bitter strid mellem støttekredsen til en gymnastikhøjskole i Viborg og de folkevalgte repræsentanter på DJI var lagt.
 
@@ -201,7 +203,7 @@ Hovedbestyrelsen for DJI med støtte fra de lokale amtsforeninger i ovennævnte 
 
 > "snarest muligt at indsende den saaledes ændrede Fundats til allerhøjeste Stadsfæstelse ved kongelig Konfirmation".
 >
-> -- <cite>DJIs forhandlingsprotokol fra 1942</cite>
+> -- <cite>^[kilde: DJIs forhandlingsprotokol fra 1942]</cite>
 
 Den jyske Idrætsskole blev en selvejende institution <cite>^[kilde: Den jyske Idrætsskoles Aarsskrift 1944 s. 9]</cite>. De formelle kriterier for godkendelse efter den nye højskolelov, havde således tvunget hovedbestyrelsen til at tilpasse de oprindelige fundatsparagraffer til den nye lovsituation uden dog at ændre navnet. Svend Aage Thomsen angav i en redegørelse, som han havde fået optaget i _Ungdom og Idræt_ <cite>^[kilde: Ungdom og Idræt, nr. 51 1942 s. 651f]</cite>, at udeladelsen af højskolebetegnelsen skyldtes, at det skulle være en speciel skole og derfor ikke kunne <q>"dække den danske Folkehøjskoles Undervisningsplan"</q>. Han angav samtidigt en ydmyghed for højskolebetegnelsen, idet han ikke mente, at han kunne honorere det kontinentale krav til højskole som værende et universitet eller højere læreanstalt. Det sidste forekommer besynderligt af en mand, der kendte højskolebevægelsen på egen krop og sjæl fra højskoleopholdet på Ollerup og som kendte tvetydigheden i ordet. Usikkerheden herom øges, idet SAaT ved flere lejligheder faktisk søgte at få skolens undervisningsplaner godkendt inden for rammerne af 1942-loven.
 
@@ -213,7 +215,7 @@ Understregningen er foretaget af SAaT. Den Jyske Idrætsskole var ikke tænkt so
 
 > "og Danmarks første og eneste Idrætsskole, Den jyske Idrætsskole har allerede vundet et godt Navn - en Institution af uvurderlig Betydning for Idrætslivet"
 >
-> -- <cite>udkast til annoncering om bidrag til udv. af DJI 1943 ( DJIs arkiv)</cite>
+> -- <cite>^[kilde: udkast til annoncering om bidrag til udv. af DJI 1943 (DJIs arkiv)]</cite>
 
 Den skulle indfri et behov for trænere i foreningerne. Uddannelsen skulle have et fagligt sigte. Den var måske tænkt som en skole med kompetencegivende sigte, der på enkelte områder kunne dække det uddannelsesbehov, som det etablerede uddannelsessystem ikke dækkede. Det er tænkeligt, at den skulle være et vestligt folkeligt modstykke til DHL's idrætslederuddannelse! Mente SAaT med begrebet idrætslærere, at det var undervisere, der kunne gå ind og overtage seminarie/universitetsuddannedes job? På dette tidspunkt fungerede en del delingsførere som idrætslærere på det gymnasiale niveau uden at have en akademisk grad. Rektor for DHL opfattede i sit høringssvar til ministeriet initiativet som en mulig ny idrætsuddannelse. Rektor & professor Emanuel Hansen kunne ikke anbefale staten at yde statslån til dette initiativ, før det i nogle år havde bevist sin eksistensberettigelse. En dødsdom i en situation, hvor de økonomiske midler var meget små. EH ønskede ikke at udtale sig om DJI's højskolemæssige mulighed.
 
@@ -243,19 +245,19 @@ Fra visse højskole- og organisationskredse var der modstand mod Svend Aage Thom
 >
 > "..Idrætten alene er ikke Maalet, nej det er rigtigt...at vi i Idrætten har et Middel udover det sædvanlige.. her er Liv og Aktiviteter, her er Realiteter... noget at bruge sit Overskud af Kræfter til."
 >
-> -- <cite>Ungdom og Idræt nr. 51, 1942</cite>
+> -- <cite>^[kilde: Ungdom og Idræt nr. 51, 1942]</cite>
 
 Kontrasten er ikke til at tage fejl af. En religiøs, let sekterisk mod en verdslig, pragmatisk opfattelse af idrætshøjskolers sigte. Internt i ministeriet betegnedes de to skoler, hvor
 
 > "Aandsliv omsætter sig i Gymnastik, hvor Vejle Idrætshøjskole omsætter Idrætten til Aand"
 >
-> -- <cite>DJIs akter i Kult.min/Rigsarkivet utrykt</cite>
+> -- <cite>^[kilde: DJIs akter i Kult.min/Rigsarkivet utrykt]</cite>
 
 Modstanden kom overraskende klart frem i P.J. Skrivers nytårshilsen 1942/43 til organisationens medlemmer
 
 > "Delingsførerens aandelige Paavirkning, hvilket ganske vist forudsætter, at han er mere end Idrætsleder, at han tillige er dansk Ungdomsleder... De danske Delingsførere var tidligere udgaaet særlig fra grundtvigske Kredse i vort Folk, og de blev alle uddannet paa grundtvigske Højskoler..."
 >
-> -- <cite>Ungdom og Idræt, nr. 1-2, 1943</cite>
+> -- <cite>^[kilde: Ungdom og Idræt, nr. 1-2, 1943]</cite>
 
 Krop og ånd varsåledes sider af samme mønt
 

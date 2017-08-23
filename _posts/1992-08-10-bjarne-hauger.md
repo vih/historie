@@ -60,6 +60,7 @@ Bjarne Hauger fortæller:
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/ymNJUitXBgzJxlRTNZx7n-Fty5EjaGtUsXccJ9G9zQTXj0AO_tPERWnB7zTQwEvV2oskJbXmEAXfq1xZ3pHNnI-fa5d0JxPiXk-2TzIBt-65exW01BtIv_6hkTT-7PyA2xulai4PxqI"
+    alt="Bjarne Hauger overrækker præmier efter idrætsdag"
     caption="Bjarne Hauger overrækker præmier efter en idrætsdag på skolen. Affotograferet fra jubilæumsskriftet 1992." %}
 
 ## Fornyelse eller blot eksperimenter

@@ -31,4 +31,3 @@ Inden du skriver, er du velkommen til at drøfte din ide med en fra højskolen.
 - Teksten gerne som en vedhæftet Word-fil med få formateringer.
 - Billederne gerne som vedhæftede, separate jpg-filer.
 - Hvis du får tekniske problemer, hjælper vi med at løse dem.
-

@@ -74,6 +74,7 @@ Det er tænkeligt, at Svend Aage Thomsen her så en mulighed for at lave sin ege
 
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXUUFEMjN1M1RvZzg"
+    alt="Svend Aage Thomsen"
     caption="Svend Aage Thomsen. Affotograferet fra jubilæumsskriftet 1992." %}
 
 ## Ideen

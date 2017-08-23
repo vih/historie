@@ -26,6 +26,7 @@ Svend Aage Thomsen in memoriam
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/AECzB47E9hQa3kVX1qyj0NgOi512jCT4MapV6AYrlwvz2HHjN9n_Jd8wtowK7wZ6eY6l6Bl8ufO9bEfsTfsA2rkQTqLFy3L0_Tqi0kanq0LXXcUJI_bjMrrxMzJCpSDEDmjJg50Tfiw"
+    alt="Thormod Petersen afslører mindestenen for Svend Aage Thomsen"
     caption="Thormod Petersen afslører billedhuggeren Knud Nellemoses mindesten for Svend Aage Thomsen. Affotograferet fra jubilæumsskriftet 1992." %}
 
 Ved elev mødet den 10. juli 1966 blev mindestenen over Den Jyske Idrætsskoles skaber, Svend Aage Thomsen, afsløret. Jeg er blevet anmodet om her i årsskriftet at fortælle lidt om baggrunden for mindestenen og det, der ligger bag rejsningen af Den Jyske Idrætsskole.

@@ -32,6 +32,7 @@ Aksel Bjerregaard fik private problemer, endda i Stigende grad, og han tillagde 
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/fgU6HkGPTI34EmhFCOs3E_l_HTNOBmjSgRm06nb0PERNNER4KT_FpCpZeKr_gLkx_aNXCS9scCe2PgLVhkQNdxZy8dvaS0Ejidck6WMJJhOzcDNxPFravy1Zow-ujz8zfKMuxHyI1hI"
+    alt="Aksel Bjerregaard"
     caption="Aksel Bjerregaard, der kom med nye træningsmetoder - tager pulsen på håndboldlandsholdets Jørgen Peter Hansen, Tarup, under et træningsophold før OL i Rom. Tv. Sten Pedersen, Helsingør. Billede affotograferet fra Jubilæumsskriftet fra 1992." %}
 
 _Artiklen er oprindeligt bragt i Den Jyske Idrætsskoles jubilæumsskrift fra 1992_

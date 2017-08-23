@@ -37,6 +37,8 @@ Vi har et rigt arkiv, og der blev lavet en glimrende opsamling i 1992 med Jubil�
 - Navneændringen fra Den Jyske Idrætsskole til Vejle Idrætshøjskole
 - Beskrivelse af forløbet omkring oprettelsen af efterskolen i 2007 (Per Jensen).
 - Beskrivelse af forløbet omkring opførelsen af Center for Sundhed, Test og Læring (Dina Knudsen).
+- Beskrivelse af forløbet omkring fundingen og opførelsen af AquaScape (Dina Knudsen).
+- Beskrivelse af jubilæumsåret (Lars Olesen)
 - Beskrivelse af forløbet omkring fundingen og opførelsen af AquaScape (Dina Knudsen)
 
 ## Dine ideer

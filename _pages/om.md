@@ -22,4 +22,5 @@ Denne side er tænkt som et sted, hvor alle der har haft tilknytning til Vejle I
 
 {% include figure
     image_path="https://scontent-arn2-1.xx.fbcdn.net/v/t31.0-8/11149522_1024715294208598_6214685737923202994_o.jpg?oh=be68b86df0413a9c9a395bca0106f3f1&oe=5A2BF872"
+    alt="Vejle Stadsarkiv"
     caption="Vejle Stadsarkiv. Billede fra stadsarkivets Facebook-side" %}

@@ -57,7 +57,8 @@ Det er mit håb, at skolen her må kunne komme til stå som et symbol på de tre
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/oIDkwtw_QrPqnlOawGyubnxje8o_dSXkTlC29o66Jb-jkgo7TkKGURHQDBpU9F2f02pKCtSDho3AJqmFZLNhY7ga_dI1pS940yRHZY5kvSozYo2fc54yv3PwJir3G8DzS_gSrAkApws"
-    caption="Tale til kongens besøg. Hvis du kender vedkommende på talerskolen, så brug endelig kommentarerne. Affotograferet fra årsskriftet fra 1958." %}
+    alt="Tale til kongens besøg i 1958"
+    caption="Tale til kongens besøg i 1958. Hvis du kender vedkommende på talerskolen, så brug endelig kommentarerne. Affotograferet fra årsskriftet fra 1958." %}
 
 Derefter viste Sommerpigerne gymnastik, 98 så talte Hans Majestæt Kongen:
 
@@ -76,6 +77,7 @@ Så pænt, som Ordene skrevet står, blev de ikke sagt, dertil var Svend Aage Th
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/C31Ka_HhD--CVXs5h3ZSvEFsuW1KDmZyWf2myImtqd1WRd7gYiUm2icCae3yHoq1QS-YsN00fkxIx7blUynRpEzd5NSCVAq4pANEGlQxw9tLOfXzqbf0_FNu6TVOR_K6fKUfBlMqL9o"
+    alt="Kongen på rundvisning på Den Jyske Idrætsskole"
     caption="Kongen på rundvisning på Den Jyske Idrætsskole. Affotograferet fra årsskriftet fra 1958." %}
 
 Borgmesteren sluttede med en tak til alle sider, og derpå beså kongen hele skolen og endte oppe hos forstanderen hvor der var et hyggeligt og tvangfrit samvær med kongen. Da der var taget afsked med kongen, blev der tid til at slappe af et øjeblik, før festen fortsatte ved kaffebordene i idrætshallen.
@@ -112,6 +114,7 @@ Og vi andre sad tilbage med taknemmelighed i sindet for, hvad vi havde oplevet.
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/HIlL0yKEfwlfB5hMZ6VlubhejQv9dnJY6mcuHzMu47amoVZ6qtt8_rg4NzARsMYABbKMI3ROWvVU21-PGquPCDMs1a4_xDO8d3aoPiyBRDF7T_4knQM5dnxBoSLKEU1b49m2JX35bg8"
+    alt="Kongebilen foran den Jyske Idrætsskole"
     caption="Kongebilen foran Den Jyske Idrætsskole. Affotograferet fra årsskriftet fra 1958." %}
 
 _Skrevet af Thormod Petersen. Bragt i Den Jyske Idrætsskoles årsskrift 1958_

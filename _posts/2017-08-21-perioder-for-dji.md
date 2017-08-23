@@ -6,7 +6,7 @@ tags:
 excerpt: "Hvordan kan perioderne i idrætsskolens / højskolens levetid beskrives historisk?"
 ---
 
-Tidligere højskoleforstander, Ole Worm, har i et oplæg holdt for de daværende lærere i 2013 givet sit bud på, hvordan højskolen kunne inddeles periodevist.
+Tidligere højskoleforstander, Ole Worm, har i et oplæg holdt for de daværende lærere i 2013 givet sit bud på, hvordan Den Jyske Idrætsskole / Vejle Idrætshøjskole kunne inddeles periodevist.
 
 Ole Worm brugte disse perioder:
 

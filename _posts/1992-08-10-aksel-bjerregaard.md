@@ -31,7 +31,7 @@ Hans veldyrkede renomme i eliteidrætten skaffede skolen besøg af mange kursush
 Aksel Bjerregaard fik private problemer, endda i Stigende grad, og han tillagde sig en livsførelse, der var uforenelig med Stillingen som forstander på Den Jyske Idrætsskole. Han flyttede tilbage til København og døde 13. juni 1982 på Frederiksberg, kun 65 år.
 
 {% include figure
-    image_path="https://lh3.googleusercontent.com/BKHbSa1LjwbFuAU6ZzPBoyww5WV-5MlKVWoVZEZ715atmYibpB6gpHvF0pOxBje_i6vjkCEwVAVb0pSnq0C5RQwtBXul73-2njPxNaoGu5E1N0hCpqKsfIPvVPeBkoCHIgCKK4iUluo"
+    image_path="https://lh3.googleusercontent.com/fgU6HkGPTI34EmhFCOs3E_l_HTNOBmjSgRm06nb0PERNNER4KT_FpCpZeKr_gLkx_aNXCS9scCe2PgLVhkQNdxZy8dvaS0Ejidck6WMJJhOzcDNxPFravy1Zow-ujz8zfKMuxHyI1hI"
     alt="Aksel Bjerregaard"
     caption="Aksel Bjerregaard, der kom med nye træningsmetoder - tager pulsen på håndboldlandsholdets Jørgen Peter Hansen, Tarup, under et træningsophold før OL i Rom. Tv. Sten Pedersen, Helsingør. Billede affotograferet fra Jubilæumsskriftet fra 1992." %}
 

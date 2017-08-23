@@ -1,0 +1,13 @@
+---
+layout: archive
+title: FAQ - Ofte stillede spørgsmål
+permalink: /faq/
+---
+
+{% include base_path %}
+
+<div class="grid__wrapper">
+    {% for post in site.faq %}
+    {% include archive-single.html %}
+    {% endfor %}
+</div>

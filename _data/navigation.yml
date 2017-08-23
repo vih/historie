@@ -10,6 +10,8 @@ main:
     url: /steder/
   - title: "Sange"
     url: /sange/
+  - title: "FAQ"
+    url: /faq/
   - title: "Arkiv"
     url: /arkiv/
   - title: "Bidrag"

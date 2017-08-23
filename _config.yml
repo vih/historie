@@ -242,6 +242,9 @@ collections:
   songs:
     output: true
     permalink: /:collection/:path/
+  faq:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -287,6 +290,17 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
+      comments: true
+      share: true
+      related: true
+# _faq
+  - scope:
+      path: ""
+      type: faq
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
       comments: true
       share: true
       related: true

@@ -13,7 +13,7 @@ permalink: /sang/1992/
 **Musik**: Signy Jensen  
 **Tekst**: Sten Kaalø
 
-Som grenen bryder ud afstammen,  
+Som grenen bryder ud af stammen,  
 og bladet springer af sit skud,  
 sådan er krop og tanke sammen,  
 et evigt samspil foldes ud.  

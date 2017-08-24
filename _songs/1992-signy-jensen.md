@@ -18,7 +18,7 @@ og bladet springer af sit skud,
 sådan er krop og tanke sammen,  
 et evigt samspil foldes ud.  
 Så svæv min sjæl i kroppens vinge,   
-og løft dig krop mod tankenstinde.
+og løft dig krop mod tankens tinde.
 
 I fordums tider opstod legen,  
 og formed sig til kamp for sjov,   

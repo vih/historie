@@ -238,13 +238,11 @@ Den jyske Idrætsskole havde derfor i 5-6 år to forstandere, hvor nedennævnte 
 - J. E. Hagelsø 01.11. 1944 - 30.04. 1945
 - Rask Nielsen 01.05. 1945 - 31.08. 1948
 
-I fortegnelser over godkendte højskoler den 01. april 1944 er Den jyske Idrætsskole (faghøjskole) godkendt med forstandere Svend Aage Thomsen & S. Haugstrup Jensen <cite>^[kilde: U.min højskolefortegnelser]</cite>.
-
-Fra 01.9.1948 var Svend Aage Thomsen eneforstander på Den Jyske Idrætsskole i Vejle.
-
 Onsdag den 09. februar 1944 var der forretningsudvalgsmøde på skolen. Undervisningsministeriet havde krævet nogle afsluttende ændringer i fundatsen. Disse blev på mødet godkendt med en enkelt tilføjelse. På samme møde redegjorde skolens sagfører for de første forhandlinger om optagelse af statslån i henhold til højskoleloven. Som underskriver ses S. Haugstrup Jensen. Det er første gang, at medforstanderen anes i forhandlingsprotokollen.
 
-I fgl. fortegnelse over godkendte højskoler den 1. april 1944 er Den jyske Idrætsskole (faghøjskole), Vejle godkendt med forstandere Svend Aage Thomsen og S. Haugstrup Jensen <cite>^[kilde: fort. 52 s. 8]</cite>.
+I flg. fortegnelse over godkendte højskoler den 01. april 1944 er Den jyske Idrætsskole (faghøjskole), Vejle godkendt med forstandere Svend Aage Thomsen og S. Haugstrup Jensen <cite>^[kilde: U.min højskolefortegnelser fort. 52, s. 8]</cite>.
+
+Fra 01.9.1948 var Svend Aage Thomsen eneforstander på Den Jyske Idrætsskole i Vejle.
 
 ## Modstand
 

@@ -5,9 +5,6 @@ permalink: /tilblivelsen/
 header:
   image: https://drive.google.com/uc?id=0B5v4mAibvkKXMHRVdU4zWUswa1E
   caption: Hovedbygningen på Den Jyske Idrætsskole er i gang.
-category:
-  - Svend Aage Thomsen
-  - Årsskrift
 tags:
   - Svend Aage Thomsen
   - forstander

@@ -226,7 +226,11 @@ Den skulle indfri et behov for trænere i foreningerne. Uddannelsen skulle have 
 
 ## Personen / forstanderen
 
-Svend Aage Thomsen konstitueredes på et møde i august 1942 som forstander for Den jyske Idrætsskole. Det er altid den folkevalgte forsamling, der ansætter og afskediger en forstander. Det ligger uden for ministeriets kompetence; men ministeriet skal godkende personen, der ansættes, idet staten ønsker at have en repræsentant på stedet. Godkendelse af en skole er derfor knyttet til forstanderen. - herunder hans uddannelse og tidligere virksomhed <cite>^[kilde: lovtid. 1943 nr. 5]</cite>. Svend Aage Thomsen kunne ikke godkendes umiddelbart. I ministeriet drøftedes i efteråret 1942 SAaT´s kvalifikationer. Flere fandt dem utilstrækkelige; men pga. utilstrækkelig information besluttede Statskonsulenten for Undervisningsministeriet i Sager vedr. Ungdomsundervisningen, Novrup, i marts 1943 at besøge Svend Aage Thomsen. SAaT gjorde ved denne lejlighed et overmåde tiltalende indtryk på statskonsulenten og ændrede hans indstilling til SAaTs evner som leder, hvorefter Novrup mente, at kun spørgsmålet om omfanget af den almendannende undervisning på skolen var tilbage at løse for en godkendelse kunne gives <cite>^[kilde: Novrups interne referat til ministeriet 16.03 1943. Kult. min/Rigsarkivet utrykt]. Den 2. marts 1943 drøftedes i ministeriet det rimelige i at indsætte en medforstander for at få en forstandergodkendelse på plads og den 4. december 1943 omtales igen i et internt notat <cite>^[kilde: internt notat 04.12.1943, Kult.min/Rigsarkivet utrykt]</cite> løsningen med 2 forstandere som en forudsætning for at opfylde ministeriets krav <cite>^[kilde: DJIs Årsskrift 1944]</cite>.
+Svend Aage Thomsen konstitueredes på et møde i august 1942 som forstander for Den jyske Idrætsskole. Det er altid den folkevalgte forsamling, der ansætter og afskediger en forstander. Det ligger uden for ministeriets kompetence; men ministeriet skal godkende personen, der ansættes, idet staten ønsker at have en repræsentant på stedet. Godkendelse af en skole er derfor knyttet til forstanderen. - herunder hans uddannelse og tidligere virksomhed <cite>^[kilde: lovtid. 1943 nr. 5]</cite>. Svend Aage Thomsen kunne ikke godkendes umiddelbart. 
+
+I ministeriet drøftedes i efteråret 1942 SAaT´s kvalifikationer. Flere fandt dem utilstrækkelige; men pga. utilstrækkelig information besluttede Statskonsulenten for Undervisningsministeriet i Sager vedr. Ungdomsundervisningen, Novrup, i marts 1943 at besøge Svend Aage Thomsen. SAaT gjorde ved denne lejlighed et overmåde tiltalende indtryk på statskonsulenten og ændrede hans indstilling til SAaTs evner som leder, hvorefter Novrup mente, at kun spørgsmålet om omfanget af den almendannende undervisning på skolen var tilbage at løse for en godkendelse kunne gives <cite>^[kilde: Novrups interne referat til ministeriet 16.03 1943. Kult. min/Rigsarkivet utrykt]</cite>. 
+
+Den 2. marts 1943 drøftedes i ministeriet det rimelige i at indsætte en medforstander for at få en forstandergodkendelse på plads og den 4. december 1943 omtales igen i et internt notat <cite>^[kilde: internt notat 04.12.1943, Kult.min/Rigsarkivet utrykt]</cite> løsningen med 2 forstandere som en forudsætning for at opfylde ministeriets krav <cite>^[kilde: DJIs Årsskrift 1944]</cite>.
 
 Den jyske Idrætsskole havde derfor i 5-6 år to forstandere, hvor nedennævnte var medforstandere til Svend Aage Thomsen. Den 5. december 1943 åbnede skolen officielt.
 
@@ -234,13 +238,11 @@ Den jyske Idrætsskole havde derfor i 5-6 år to forstandere, hvor nedennævnte 
 - J. E. Hagelsø 01.11. 1944 - 30.04. 1945
 - Rask Nielsen 01.05. 1945 - 31.08. 1948
 
-I fortegnelser over godkendte højskoler den 01. april 1944 er Den jyske Idrætsskole (faghøjskole) godkendt med forstandere Svend Aage Thomsen & S. Haugstrup Jensen <cite>^[kilde: U.min højskolefortegnelser]</cite>.
-
-Fra 01.9.1948 var Svend Aage Thomsen eneforstander på Den Jyske Idrætsskole i Vejle.
-
 Onsdag den 09. februar 1944 var der forretningsudvalgsmøde på skolen. Undervisningsministeriet havde krævet nogle afsluttende ændringer i fundatsen. Disse blev på mødet godkendt med en enkelt tilføjelse. På samme møde redegjorde skolens sagfører for de første forhandlinger om optagelse af statslån i henhold til højskoleloven. Som underskriver ses S. Haugstrup Jensen. Det er første gang, at medforstanderen anes i forhandlingsprotokollen.
 
-I fgl. fortegnelse over godkendte højskoler den 1. april 1944 er Den jyske Idrætsskole (faghøjskole), Vejle godkendt med forstandere Svend Aage Thomsen og S. Haugstrup Jensen <cite>^[kilde: fort. 52 s. 8]</cite>.
+I flg. fortegnelse over godkendte højskoler den 01. april 1944 er Den jyske Idrætsskole (faghøjskole), Vejle godkendt med forstandere Svend Aage Thomsen og S. Haugstrup Jensen <cite>^[kilde: U.min højskolefortegnelser fort. 52, s. 8]</cite>.
+
+Fra 01.9.1948 var Svend Aage Thomsen eneforstander på Den Jyske Idrætsskole i Vejle.
 
 ## Modstand
 

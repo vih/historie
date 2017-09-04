@@ -1,34 +1,35 @@
 svend_aage_thomsen:
-  name: Svend Aage Thomsen
-  bio: Den Jyske Idrætshøjskoles grundlægger og idemanden bag projektet. Forstander på skolen indtil sin død i 1961.
+  name: "Svend Aage Thomsen"
+  bio: "Den Jyske Idrætshøjskoles grundlægger og idemanden bag projektet. Forstander på skolen indtil sin død i 1961."
 ole_worm:
-  name: Ole Worm
-  bio: Lærer på Den Jyske Idrætsskole fra 1968 til 1984, hvor han blev forstander indtil 1999. Ole Worm var bl.a. idemager bag Globen og navneskiftet fra DJI til Vejle Idrætshøjskole.
+  name: "Ole Worm"
+  bio: "Lærer på Den Jyske Idrætsskole fra 1968 til 1984, hvor han blev forstander indtil 1999. Ole Worm var bl.a. idemager bag Globen og navneskiftet fra DJI til Vejle Idrætshøjskole."
 lsolesen:
-  name: Lars Olesen
-  bio: Højskolelærer på Vejle Idrætshøjskole siden 1999 og siden 2013 viceforstander.
-  email: lars@vih.dk
-  linkedin: https://www.linkedin.com/in/lsolesen/
+  name: "Lars Olesen"
+  bio: "Højskolelærer på Vejle Idrætshøjskole siden 1999 og siden 2013 viceforstander."
+  email: "lars@vih.dk"
+  linkedin: "https://www.linkedin.com/in/lsolesen/"
 thormod_petersen:
-  name: Thormod Petersen
-  bio: Elev på DJI i 1944/1945. Efter højskoletiden var Thormod praktisk medarbejder på DJI fra 1945-1946. Derefter uddannet lærer og fungerede som lærer indtil pension i 1985.
+  name: "Thormod Petersen"
+  bio: "Elev på DJI i 1944/1945. Efter højskoletiden var Thormod praktisk medarbejder på DJI fra 1945-1946. Derefter uddannet lærer og fungerede som lærer indtil pension i 1985."
 jub92:
-  name: Klaus Hansen og Ib Pilegaard
-  bio: Klaus Hansen og Ib Pilegaard var med i redaktionen, der samlede jubilæumsskriftet for den Jyske Idrætsskole i 1992 "-At tænke med hjertet" - og vi mener, at de har skrevet denne artikel.
+  name: "Klaus Hansen og Ib Pilegaard"
+  bio: "Klaus Hansen og Ib Pilegaard var med i redaktionen, der samlede jubilæumsskriftet for den Jyske Idrætsskole i 1992 "-At tænke med hjertet" - og vi mener, at de har skrevet denne artikel."
 signy_jensen:
-  name: Signy Jensen
-  bio: Højskolelærer og musiklærer på Den Jyske Idrætsskole fra 1976 til 1996.
+  name: "Signy Jensen"
+  bio: "Højskolelærer og musiklærer på Den Jyske Idrætsskole fra 1976 til 1996."
 mille_christensen:
-  name: Mille Sigsgaard Christensen
-  bio: Højskolelærer og musiklærer på Vejle Idrætshøjskole fra 2009.
+  name: "Mille Sigsgaard Christensen"
+  bio: "Højskolelærer og musiklærer på Vejle Idrætshøjskole fra 2009."
 william_hansen:
-  name: William O. Hansen
-  bio: Har skrevet den oprindelige skolesang. Hvis du ved mere om ham, så brug endelig kommentarerne.
+  name: "William O. Hansen"
+  bio: "Har skrevet den oprindelige skolesang. Hvis du ved mere om ham, så brug endelig kommentarerne."
 alice_kragh:
-  name: Alice Grønborg Kragh
-  bio: Alice var højskolelærer på Den Jyske Idrætsskole fra 1979 til 1998. Hun underviste bl.a. i rytmisk gymnastik.
+  name: "Alice Grønborg Kragh"
+  bio: "Alice var højskolelærer på Den Jyske Idrætsskole fra 1979 til 1998. Hun underviste bl.a. i rytmisk gymnastik."
 bent_aalbaek_nielsen:
-  name: Bent Aalbæk-Nielsen
-  bio: Bent Aalbæk-Nielsen, søn af Rask Nielsen, der var medforstander på skolen i årene 1945-1948.
-  website: http://www.aalbaek-nielsen.dk/
-  facebook: https://www.facebook.com/bent.aalbaeknielsen
+  name: "Bent Aalbæk-Nielsen"
+  bio: "Bent Aalbæk-Nielsen, søn af Rask Nielsen, der var medforstander på skolen i årene 1945-1948."
+  uri: "http://www.aalbaek-nielsen.dk/"
+  facebook: "https://www.facebook.com/bent.aalbaeknielsen"
+  avatar: "/assets/images/authors/bent-aalbaek-nielsen.jpg"

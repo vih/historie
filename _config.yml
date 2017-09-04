@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "vihdk"
 facebook:
-  username               :
+  username               : "vihdk"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Vejle Idrætshøjskole"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Danmarks bedste idrætshøjskole."
+  avatar           : "/assets/images/authors/vih-logo.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til."
   location         : "Vejle"
   email            : "webmaster@vih.dk"
   uri              : "https://vih.dk/"

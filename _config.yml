@@ -304,3 +304,10 @@ defaults:
       comments: true
       share: true
       related: true
+
+# Search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [home.md, search.html]

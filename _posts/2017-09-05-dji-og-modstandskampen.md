@@ -6,12 +6,15 @@ tags:
 excerpt: "Hvad var den Jyske Idrætssskoles rolle egentlig under modstandskampen?"
 ---
 
+{% include toc %}
+
 Der er antydningsvise referencer rundt omkring i Jubilæumsskriftet fra 1992, at Den Jyske Idrætsskole hjalp under modstandskampen. Fx går følgende vandrehistorier på skolen.
 
-- I den tidligere kursusbygning, Jomsborg, var der gemt våben under gulvbrædderne - og at der angiveligt er videooptagelser af det.
-- Der blev lavet våbeninstruktion i Jomsborg - og at der angiveligt er videooptagelser af det.
+- I den tidligere kursusbygning, Jomsborg, var der gemt våben under gulvbrædderne - og at der er videooptagelser af det.
+- Der blev lavet våbeninstruktion i Jomsborg - og det er der videooptagelser af.
 - Nogle af politiets folk blev skjult på skolen, da tyskerne forsøgte at lukke det danske politi ned.
 - Den tidligere medforstander, Rask Nielsen, hjalp med at gemme våben under halmet på Nørremarksgården, som Svende Aage Thomsen ejede, og som Rask Nielsen boede på fra 1945-1948, som det fortælles om i [Bent Aalbæk-Nielsens erindringer]/mine-aar-paa-dji-bent-aalbaek/).
+- Thormod Petersen skriver i Jubilæumsskriftet fra 1992, at Haugstrups "stærke" ord betød en del for eleverne på det tidspunkt.
 
 Jeg har besluttet mig for at finde ud af i hvor høj udstrækning Den Jyske Idrætsskole var en del af modstandskampen. Artiklen er baseret på en række vidnesbyrd og en søgning på Vejle Stadsarkiv.
 
@@ -22,6 +25,8 @@ I [filmen F86 fra Vejle Stadsarkiv om _Modstandsbevægelsen i Vejle arbejder_](h
 - Fra 3:40 er Thormod Petersen angiveligt med ude i skoven og finde våbendepot.
 - Efter 6:00 minutter på F86 ser vi angiveligt på våbeninstruktion i Jomsborg. 
 - Fra 22:00 minutter fjernes brædderne ved en seng, og et våbendepot kommer til syne nedenunder.
+
+_Disse klip illustrerer meget godt det Bent Aalbæk-Nielsen fortæller om i sine erindringer._
 
 ## 2. Kompagni holdt skydeøvelser på DJI
 
@@ -45,9 +50,15 @@ Disse begivenheder omtaler Bent Aalbæk-Nielsen netop også i [sine erindringer 
 
 Der er [billeder af Tirsbæksprængningen på Vejle Stadsarkiv](https://arkiv.dk/soeg?searchstring=tirsb%C3%A6k+sabotage&arkiv=321).
 
+_Jeg kan ikke finde en film af selve sprængningen af Tirsbæk jernbanestrækningen. Findes den?_
+
 ## Politifolk under dække på Vejle Idrætshøjskole
 
 > og da vi nåede hen til marts 1945 var vi ialt 85 mand, der blev formeret som 5. Kompagni i Vejles undergrundshær. Af disse 85 mand var der 23 fra politikasernen, der da holdt til på Idrætsskolen, medens de øvrige var Vejle politifolk.[^Hanner, utrykt]
+
+_Var politikfolkene skrevet ind og derved figurerer de på holdbillederne fra den periode?_
+
+_Findes der et billede af 5. kompagni i Vejle - ligesom der gør med 2. kompagni?_
 
 ## Kan du hjælpe?
 

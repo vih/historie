@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Sortering af billeder"
-categories:
+tags:
   - arkiv
   - vih
   - dji
@@ -9,7 +9,6 @@ header:
   image: https://lh3.googleusercontent.com/JBTzsRgN4qJXFng3GVNAWkfhB1kgYggpP6sR9jtTO9mUHG_1A6lChybR6iuN-9bZfQ9_a2F5fUH2dW1AkoAuh6uNNuo5Ef1sVAbjgRg0m5KMHVXQ3O3V8X4RYUd-JM3CVQXZPAVQfO4
   teaser: https://lh3.googleusercontent.com/JBTzsRgN4qJXFng3GVNAWkfhB1kgYggpP6sR9jtTO9mUHG_1A6lChybR6iuN-9bZfQ9_a2F5fUH2dW1AkoAuh6uNNuo5Ef1sVAbjgRg0m5KMHVXQ3O3V8X4RYUd-JM3CVQXZPAVQfO4
   caption: Billederne i arkivet sorteres.
-  alt: Billederne i arkivet sorteres
 excerpt: "Vi sorterer billeder i arkivet - måske ved du noget?"
 ---
 

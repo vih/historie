@@ -14,7 +14,8 @@ Der er antydningsvise referencer rundt omkring i Jubilæumsskriftet fra 1992, at
 - Der blev lavet våbeninstruktion i Jomsborg - og det er der videooptagelser af.
 - Nogle af politiets folk blev skjult på skolen, da tyskerne forsøgte at lukke det danske politi ned.
 - Den tidligere medforstander, Rask Nielsen, hjalp med at gemme våben under halmet på Nørremarksgården, som Svende Aage Thomsen ejede, og som Rask Nielsen boede på fra 1945-1948, som det fortælles om i [Bent Aalbæk-Nielsens erindringer](/mine-aar-paa-dji-bent-aalbaek/).
-- Thormod Petersen skriver i Jubilæumsskriftet fra 1992, at Haugstrups "stærke" ord betød en del for eleverne på det tidspunkt.
+- Thormod Petersen fortæller til Jubilæumsskriftet fra 1992, at Haugstrups "stærke" ord betød en del for eleverne på det tidspunkt.
+- Thormod Petersen har i årsskriftet fra 1945 skrevet en [glimrende artikel om det illegale arbejde under modstandskampen på DJI]().
 
 Jeg har besluttet mig for at finde ud af i hvor høj udstrækning Den Jyske Idrætsskole var en del af modstandskampen. Artiklen er baseret på en række vidnesbyrd og en søgning på Vejle Stadsarkiv.
 

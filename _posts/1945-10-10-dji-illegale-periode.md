@@ -1,5 +1,5 @@
 ---
-title: Indvielsesfesten
+title: Det illegale arbejde på Den Jyske Idrætsskole
 author: thormod_petersen
 tags:
   - årsskrift 1945

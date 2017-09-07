@@ -1,5 +1,6 @@
 ---
 title: Indvielsesfesten
+permalink: /genindvielsen/
 header:
   image: https://lh3.googleusercontent.com/XIi0uhxS-eGEYBGBj_TPcRcONzr59kYzyap5vzu23JoSTyZLu1hgQuL24uWs7IscaPmjB1pOAI3xoFx-Aah-Gdzm5EwAm6FsWBZMfXZSSoP0f3xHNxLkQt-Fxp3Fvwsr46N1j4QzGD8
   caption: Kongeskibet på vej ind i Vejle Havn fotograferet fra 1958 (affotograferet fra årsskriftet samme år)

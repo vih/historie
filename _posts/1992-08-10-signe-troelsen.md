@@ -107,8 +107,9 @@ Signe Troelsen har selv et bud på skolens fremtidige opgave i en omskiftelig ti
 
 ## Uddanne unge til foreningslivet
 
-> Idrætsskolen skal suge flest mulige unge til sig, som bagefter - frivilligt - vil tage ud og arbejde for den danske og nordiske idræt i foreningerne. Opholdet skal gøre dem glade, enthusiastiske, og så skal de lære at være trofaste og til at stole på, en god moral, men de skal være ansvarlige og kunne sprede glæde og humør, hvor de kommer. De skal lære at administrere deres tilværelse og være stærke psykisk og fysisk, mener Signe Troelsen. Det vil være en falliterklæring, hvis alle efterhånden forlanger løn for at udføre foreningsopgaver. 
-“Hvad er penge - uden venner?”,  spørger hun.
+> Idrætsskolen skal suge flest mulige unge til sig, som bagefter - frivilligt - vil tage ud og arbejde for den danske og nordiske idræt i foreningerne. Opholdet skal gøre dem glade, enthusiastiske, og så skal de lære at være trofaste og til at stole på, en god moral, men de skal være ansvarlige og kunne sprede glæde og humør, hvor de kommer. De skal lære at administrere deres tilværelse og være stærke psykisk og fysisk, mener Signe Troelsen. Det vil være en falliterklæring, hvis alle efterhånden forlanger løn for at udføre foreningsopgaver.
+>
+> "Hvad er penge - uden venner?",  spørger hun.
 
 > Du kære skole ærværdig stå -  
 > i læ af skærmende grønne kroner.  

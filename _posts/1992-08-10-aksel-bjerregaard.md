@@ -12,6 +12,7 @@ excerpt: "Aksel Bjerregaard høstede stor anerkendelse på den engelske træning
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/BKHbSa1LjwbFuAU6ZzPBoyww5WV-5MlKVWoVZEZ715atmYibpB6gpHvF0pOxBje_i6vjkCEwVAVb0pSnq0C5RQwtBXul73-2njPxNaoGu5E1N0hCpqKsfIPvVPeBkoCHIgCKK4iUluo"
+    alt="Aksel Bjerregaard overvårger, at en af øvelserne i hans engelsk inspirerede cirquit-træningsprogram gennemføres effektivt. Billede affotograferet fra Jubilæumsskriftet fra 1992."
     caption="Aksel Bjerregaard overvårger, at en af øvelserne i hans engelsk inspirerede cirquit-træningsprogram gennemføres effektivt. Billede affotograferet fra Jubilæumsskriftet fra 1992." %}
 
 **Aksel Bjerregaard høstede stor anerkendelse på den engelske træning, men kunne ikke overføre successen til forstanderstillingen på DJI.**

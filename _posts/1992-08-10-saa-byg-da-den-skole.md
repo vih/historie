@@ -44,6 +44,7 @@ Imens skød andre skoler op omkring DJI. Det pinte Svend Aage Thomsen i en grad,
 
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXN05ONlNJR3MxbmM"
+    alt="Svend Aage Thomsen lykønskes af hans kongelige højhed, Frederik d. 9. ved genindvielsen i 1958. Affotograferet fra jubilæumsskriftet 1992."
     caption="Svend Aage Thomsen lykønskes af hans kongelige højhed, Frederik d. 9. ved genindvielsen i 1958. Affotograferet fra jubilæumsskriftet 1992." %}
 
 ## "Far blev slidt op"
@@ -56,6 +57,7 @@ Kong Frederik og Svend Aage Thomsen var de to hovedpersoner, da DJI blev udvidet
 
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXWGdPdWxtSnpXcHM"
+    alt="Familieidyl - Svend Aage og Ingrid Thomsen med sønnen Bjarne."
     caption="Familieidyl - Svend Aage og Ingrid Thomsen med sønnen Bjarne. Affotograferet fra jubilæumsskriftet 1992." %}
 
 ## "Kom igen, når jeg bliver 70”

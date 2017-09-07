@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Sortering af billeder"
-categories:
+tags:
   - arkiv
   - vih
   - dji

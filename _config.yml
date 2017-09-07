@@ -11,8 +11,8 @@ title                    : "Vejle Idrætshøjskoles Historie"
 title_separator          : "-"
 name                     : "Vejle Idrætshøjskole"
 description              : "Vejle Idrætshøjskoles Historie."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vih/historie" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -87,13 +87,13 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/groups/655406751295188"
+  facebook         : "groups/655406751295188"
   foursquare       :
-  github           : "http://github.com/vih/historie.git"
+  github           : "vih/historie.git"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "http://instagram.com/vihdk"
+  instagram        : "vihdk"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -101,7 +101,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "http://twitter.com/vihdk"
+  twitter          : "vihdk"
   vine             :
   weibo            :
   xing             :
@@ -143,6 +143,10 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+#Build settings
+github: [metadata]
 
 
 # Conversion
@@ -230,6 +234,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 # Collections
 collections:

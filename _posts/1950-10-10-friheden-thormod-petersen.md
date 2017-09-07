@@ -59,7 +59,7 @@ Det, jeg har berørt her, dækker ikke helt det, jeg ville sige. Derfor slutter 
 > Hvad skal jeg kjempe med, hvad er mit våpen?
 >
 > Her er ditt vern mot vold
-> her er ditt Sverd:
+> her er ditt sverd:
 > Troen på livet vort,
 > menneskets verd.
 > For all vår fremtids skyld,

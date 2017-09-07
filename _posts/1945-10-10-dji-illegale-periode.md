@@ -78,12 +78,10 @@ Samme Dag samledes nogle af dem, der herfra havde været aktivt med i Modstandsb
 
 Frihedskampen er forbi. Den gav vi unge Oplevelser, som vil være af stor Betydning for vor hele Udvikling, men den gav ogsaa Smerte. Intet har dog maaske smertet os mere end den uforstaaende Kritik, der blev rettet mod vort Arbejde af Mænd, der holdt sig passive, den Gang, det gjaldt, og som i Kraft af, at der var andre, som vovede Trøjen, kom igennem uden Men. Det gør os usigelig ondt, naar de Handlinger, der blev udført af den bedste og modigste Del af dansk Ungdom, nu af saadanne Mænd offentlig kan blive betegnet som Mord, og det er os meget vanskeligt at taale, at vore faldne Kammeraters Ære paa denne Maade bliver krænket,
 
-Men naar Historien skal skrives, saa er jeg ikke i Tvivl om, at Frihedsbevægelsen vil faa den Plads, den tilkommer. Der vil til fjerne Tider gaa Gny af de Bedrifter, der fandt Sted. Dansk Ungdom har givet sit Svar paa den Kritik og megen Tale om afsporet Ungdom, der fandt Sted under BeSaettelsen.
+Men naar Historien skal skrives, saa er jeg ikke i Tvivl om, at Frihedsbevægelsen vil faa den Plads, den tilkommer. Der vil til fjerne Tider gaa Gny af de Bedrifter, der fandt Sted. Dansk Ungdom har givet sit Svar paa den Kritik og megen Tale om afsporet Ungdom, der fandt Sted under Besættelsen.
 
 Dansk Ungdom er altid parat til at gøre en Indsats, naar det bliver krævet af den. Bare der bliver vist de Unge Tillid og Forstaaelse, bare der bliver stillet Krav til dem, saa er de ogsaa rede til at gøre deres Pligt.
 
-Vi har en Ungdom paa godt og ondt. Det gælder om at
+Vi har en Ungdom paa godt og ondt. Det gælder om at appellere til det gode i dens Sind, saa tror jeg ogsaa, det vil slaa igennem og give Resultat.
 
-appellere til det gode i dens Sind, saa tror jeg ogsaa, det vil slaa igennem og give Resultat.
-
-_Oprindeligt bragt i årsskriftet fra 1995 skrevet af Thormod Petersen._
+_Oprindeligt bragt i årsskriftet fra 1945 skrevet af Thormod Petersen._

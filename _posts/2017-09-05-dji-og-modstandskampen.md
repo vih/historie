@@ -24,7 +24,7 @@ Jeg har besluttet mig for at finde ud af i hvor høj udstrækning Den Jyske Idr�
 
 I [filmen F86 fra Vejle Stadsarkiv om _Modstandsbevægelsen i Vejle arbejder_](https://arkiv.dk/vis/2271918) er der en række interessante klip fra Den Jyske Idrætssskole.
 
-- Fra 3:40 er Thormod Petersen angiveligt med ude i skoven og finde våbendepot.
+- Fra 3:40 er Thormod Petersen (med skovl) angiveligt med ude i skoven og finde våbendepot.
 - Efter 6:00 minutter på F86 ser vi angiveligt på våbeninstruktion i Jomsborg. 
 - Fra 22:00 minutter fjernes brædderne ved en seng, og et våbendepot kommer til syne nedenunder.
 
@@ -35,6 +35,10 @@ _Disse klip illustrerer meget godt det [Bent Aalbæk-Nielsen fortæller om i sin
 > 2. Kompagni gjorde længe før kapitulationen et stort stykke arbejde. Mandskabet holdt sine skydeøvelser på den jyske idrætsskole, hvis forstander, SV. Aage Thomsen, velvilligt stillede sin skole til rådighed. [^Christensen 1945, side 116]
 
 I 2. Kompagni fremgår det bl.a. at landmand, Thormod Petersen, var en del af [^Christensen 1945, side 117]. Jeg antager at det er den samme Thormod Petersen, som også blev ansat på skolen og som blev en del af skolens elevforening.
+
+> Det var dette kompagni, der blandt arresterede den berygtede S. S. mand Henry Nielsen, der havde skjult sig på Idrætsskolen.
+
+Det kan undre lidt, hvordan Henry Nielsen havde skjult sig på Idrætsskolen.
 
 Der er et [billede af 2. Kompagni på Vejle Stadsarkiv](https://arkiv.dk/vis/2385024).
 
@@ -57,6 +61,8 @@ _Jeg kan ikke finde en film af selve sprængningen af Tirsbæk jernbanestræknin
 ## Politifolk under dække på Vejle Idrætshøjskole
 
 > og da vi nåede hen til marts 1945 var vi ialt 85 mand, der blev formeret som 5. Kompagni i Vejles undergrundshær. Af disse 85 mand var der 23 fra politikasernen, der da holdt til på Idrætsskolen, medens de øvrige var Vejle politifolk.[^Hanner, utrykt]
+
+Jeg er ikke stødt på andre steder, hvor det er nævnt at selve kasernen skulle holde til på Idrætshøjskolen, men [Thormod Petersen skriver at der var 9 betjente indskrevet på skolen](/dji-illegale-periode/).
 
 _Var politikfolkene skrevet ind og derved figurerer de på holdbillederne fra den periode?_
 

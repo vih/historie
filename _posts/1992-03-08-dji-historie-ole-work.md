@@ -49,7 +49,7 @@ Urbaniseringen accentuerede behovet for at få uddannede trænere til andet end 
 
 En ny skoleform i et andet regi for et nyt marked var måske til stede!
 
-Idrætshøjskolen ved Slagelse (Gerlev) slog den første breche i navnet på en højskole med legemsøvelse som fremherskende fag. Skolens første forstander Kristian Kroghede / K. A. Knudsen fremfører, at ændringen i skolens navn var mere af markedsføringsmæssige årsager for at adskille den fra de to allerede etablerede, og ikke af ideologiske årsager, idet gymnastik stadig skulle være det dominerende; men fremfører dog samtidigt, at skolen fik fat i en del byungdom, som ikke havde lavet gymnastik før <cite>^[Idræt Vor Tids store Folkeopdrager b. II s 390, Odense 1943]</cite>. Den nordiske opfattelse af kropskultur havde deres folkehøjskoler. Et ændret overordnet idrætssyn tilkendegav DJIs første forstander, Svend Aage Thomsen, ved flere lejligheder. K. A. Knudsen beskriver samme sted dog planerne i Vejle som en idrætsskole uden højskolefag. Dette måtte han dog korrigere i bind II:
+Idrætshøjskolen ved Slagelse (Gerlev) slog den første breche i navnet på en højskole med legemsøvelse som fremherskende fag. Skolens første forstander Kristian Krogshede / K. A. Knudsen fremfører, at ændringen i skolens navn var mere af markedsføringsmæssige årsager for at adskille den fra de to allerede etablerede, og ikke af ideologiske årsager, idet gymnastik stadig skulle være det dominerende; men fremfører dog samtidigt, at skolen fik fat i en del byungdom, som ikke havde lavet gymnastik før <cite>^[Idræt Vor Tids store Folkeopdrager b. II s 390, Odense 1943]</cite>. Den nordiske opfattelse af kropskultur havde deres folkehøjskoler. Et ændret overordnet idrætssyn tilkendegav DJIs første forstander, Svend Aage Thomsen, ved flere lejligheder. K. A. Knudsen beskriver samme sted dog planerne i Vejle som en idrætsskole uden højskolefag. Dette måtte han dog korrigere i bind II:
 
 > "viser det sig, at den stiller sig paa Linie med de øvrige Gymnastik- og Idrætshøjskoler"
 >
@@ -64,7 +64,7 @@ Idrætshøjskolen ved Slagelse (Gerlev) slog den første breche i navnet på en 
 
 Svend Aage Thomsen (20.02.1911 - 26.03.1961) var autodidakt uden formel uddannelsesmæssig pædagogisk kompetence. Han fik en delingsføreruddannelse på Gymnastikhøjskolen i Ollerup, der primært sigtede mod at lede gymnastikken på landet. Hans egen dybtfølte idrætserfaring kom fra atletikken på meget højt nationalt niveau, hvor han i alt havde 11 danske mesterskaber i atletik. Som forstander var han stadig på landsholdet og kunne ikke undgå at blive opfattet som eliteidrætsmand - ja stjerne. I øvrigt besad han stor allround idrætserfaring fra mange idrætsgrene.
 
-Fra forstander Niels Bukh, Ollerup, udsprang sidst i 30'erne og begyndelsen af 40'erne en række skoleledere <cite>^[Krogshede i Gerlev, Sv. Aage Thomsen i Vejle] med egne ideer, der ikke på alle områder kunne forenes med Niels Bukhs. Det var viljestærke personer, der ønskede kraftudfoldelse andet steds.
+Fra forstander Niels Bukh, Ollerup, udsprang sidst i 30'erne og begyndelsen af 40'erne en række skoleledere <cite>^[Krogshede i Gerlev, Sv. Aage Thomsen i Vejle]</cite> med egne ideer, der ikke på alle områder kunne forenes med Niels Bukhs. Det var viljestærke personer, der ønskede kraftudfoldelse andet steds.
 
 Tysklands besættelse af Danmark betød, at Svend Aage Thomsen blev arbejdsløs. Han var på et 3 måneders idrætslederkursus (06.01.1941-29.03.1941) på Danmarks Højskole for Legemsøvelser, hvis mål var:
 

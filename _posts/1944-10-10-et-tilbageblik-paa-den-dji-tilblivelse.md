@@ -28,11 +28,11 @@ Jeg drøftede Tingene med min Far og sagde noget om, at jeg gerne vilde bygge en
 
 Der laa Tro og Tillid bag Ordene, de bed sig fast, blev gemt, men ikke glemt, og dukkede op igen med fuld Vaegt, da den 9. April 1940 satte Sindene i Bevægelse og yderligere beredte Jordbunden for aktivt Ungdomsarbejde i den Vanskelige Tid, man vidste maatte komme.
 
-I Efteraaret 1940 blev jeg optaget paa en Skole for Ungdomsledere i Nærheden af København. Under fortræffelige Lærere fik jeg stort Udbytte af Opholdet. Straks efter og jeg tre Maaneder paa Statens Højskole for Legemsøvelser og virkede i Sommeren 1941 aktivt som Ungdomsleder og Idrætsinstruktør i en Række jyske Byer. Under alt dette havde Tanken om en jysk Idrætsskole vokset sig stor og stærk. Nu skulde det være Og i August Maaned, da jeg Opholdt mig i Ry, tog jeg fat paa Opgaven.
+I Efteraaret 1940 blev jeg optaget paa en Skole for Ungdomsledere i Nærheden af København. Under fortræffelige Lærere fik jeg stort Udbytte af Opholdet. Straks efter og jeg tre Maaneder paa Statens Højskole for Legemsøvelser og virkede i Sommeren 1941 aktivt som Ungdomsleder og Idrætsinstruktør i en Række jyske Byer. Under alt dette havde Tanken om en jysk Idrætsskole vokset sig stor og stærk. Nu skulde det være og i August Maaned, da jeg opholdt mig i Ry, tog jeg fat paa Opgaven.
 
 ## Mulighederne undersøges
 
-Det første var at Undersøge, om der skulde være Grobund for Tanken, og Om der kunde Opnaas Interesse for Planen dér, hvor Skolens Beliggenhed kunde tænkes. I første Omgang Ry. Da den lokale Interesse syntes at være god, gik jeg i Gang med at Søge Landets Idrætsorganisationer Om Støtte, ikke med Penge, for dem har Idrætten ikke mange af, men Organisationernes mOralske Støtte og Tilkendegivelse af, at Skolen var Daa krævet, maatte jeg have, inden jeg gik videre med Planerne.
+Det første var at Undersøge, om der skulde være Grobund for Tanken, og Om der kunde Opnaas Interesse for Planen dér, hvor Skolens Beliggenhed kunde tænkes. I første Omgang Ry. Da den lokale Interesse syntes at være god, gik jeg i Gang med at Søge Landets Idrætsorganisationer om Støtte, ikke med Penge, for dem har Idrætten ikke mange af, men Organisationernes moralske Støtte og Tilkendegivelse af, at Skolen var paakrævet, maatte jeg have, inden jeg gik videre med Planerne.
 
 Denne Tid var en lykkelig Tid for mig og meget opmuntrende, for jeg fik ikke Nej eet eneste Sted. Overalt blev der vist mig en enestaaende Velvilje, og da Dansk Idræts-Forbund med en ganske udmærket Udtalelse viste sin Interesse, var der kun et at gøre, at vise sig værdig til den Tillid, som fra alle Sider blev tilkendegivet overfor Skoleplan.
 

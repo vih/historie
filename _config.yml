@@ -145,7 +145,7 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
-#Build settings
+# Build settings
 github: [metadata]
 
 

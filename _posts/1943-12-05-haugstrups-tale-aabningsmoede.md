@@ -14,7 +14,7 @@ excerpt: "Søren Haugstrup skriver lidt om ordvalget og hvorvidt DJI skulle opfa
 
 Den ny Idrætsskole, som i Dag fejrer sin Aabning, er tænkt ikke blot som en Skole med faglig Uddannelse i Gymnastik, Idræt og Boldspil, men ogsaa som en dansk Folkehøjskole. Den jyske Idrætsskole skal altsaa for saa vidt ikke være noget helt nyt under Solen, men den skulde helst glide naturligt ind ved Siden af vore øvrige Skoler med Delingsføreruddannelse. Paa Linie med disse Skoler skulde den prøve at finde sin Plads, saa den kan komme til at tjene dansk Ungdomsliv og dansk Folkeliv til Forædling, Opvækkelse og Oplysning. Det er ikke noget ringe Maal, der dermed er sat for Idrætsskolens Virksomhed og den ønsker nu kun at maatte blive taget i Brug af de unge, ikke blot som Idrætsskole, men ogsaa og i lige saa høj Grad som Højskole, saa vist som det tidligere ikke har været Skik her i Danmark, at Gymnastikken og Idrætten er gaaet paa egen Haand, men tværtimod har hørt til Folkehøjskolens bedste Følgesvende.
 
-Det er en gammelkendt Sag, at hvis Livet skal forme sig lykkeligt, da maa der stræbes efter Harmoni mellem Natur og Aand, Samklang imellem det ydre og det indre Menneskeliv. <p>Forenet er de to Ting Jordens største Smykke</q>, siger Oehlenschläger. Eller som Jakob Knudsen udtrykker en lignende Tanke:
+Det er en gammelkendt Sag, at hvis Livet skal forme sig lykkeligt, da maa der stræbes efter Harmoni mellem Natur og Aand, Samklang imellem det ydre og det indre Menneskeliv. <q>Forenet er de to Ting Jordens største Smykke</q>, siger Oehlenschläger. Eller som Jakob Knudsen udtrykker en lignende Tanke:
 
 > Det kan ikke nytte, det blot er aandeligt, det maa ogsaa være naturligt.
 

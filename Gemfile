@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "rake", "~> 10.1.1"
 gem 'html-proofer'
 gem "github-pages", group: :jekyll_plugins
 

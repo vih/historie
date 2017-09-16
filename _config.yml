@@ -5,11 +5,24 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+<<<<<<< HEAD
 remote_theme:            "mmistakes/minimal-mistakes@4.19.1"
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Jekyll specific
 future: true
+=======
+# GitHub
+username:             lsolesen
+repo:                 vih.github.io
+branch:               source
+
+
+# Jekyll source / destination
+source:               .
+destination:          _site
+
+>>>>>>> Getting ready to publish from source branch
 
 # Site Settings
 locale                   : "da"

@@ -13,8 +13,12 @@ matrix:
 install:
   - travis_retry bundle install
 script:
+before_script:
   - bundle exec jekyll build
   - bundle exec htmlproofer ./_site --only-4xx --assume-extension --check-favicon --check-html --allow-hash-href
+script:
+  - bundle exec rake site:deploy --quiet
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+    - secure: "S5Dp0EtnEJVunf3Zm3KjkksoE+CQPiV1rXW/nLUcrmsxlVfXc4+Z4qVA58sHmOkAv305m+pN3d6om5gDDrNi7I1SwUmSIEc5nbFuWM6/hVPD9F4bZAPLeTIr5IGloVIOXgLq9E693YqpGM7o8/THan4MQ5N2rf2SrECJMp2TQI4Rd2+HedwNAhIg4NlUmPgW/DVzHSGS2HaMvZO9apw2WM63l13Yuus/yzO9RynJaSE8B9xvxuGdGcLjymaE0vXlDnYaqRzX++kMJqWAaDEuTIquiaHAlCvYJodfo8VHPz/WBS52vmTT862IvifODy/NqJG1BPznPvqEo/Kc/IKIGa3fwfDSKwC3AmthQouQl62cVTkK+Az4Gj/+wsgv6AJ6Fe/e4+ohfizAryy1SgLSAYHG81kt2Ov3/2KmbFItO9Nq5OMSxTgeNUpmzV+WsSsr84R71SlXt0yCINl8mYwQvXAl5GOH3nzZuf5JECx7amwFrQWu5pVaH5W+8gXxqIbH9mACfPsz3g4TZ3XyaLHx6phRI45aTVpGgz2XbDFoLW+RCBzBpvPz/3U/FDE50UCnzqCsmfUgYS8RTJKHqQU/zhtZ7TxGC9GrSRRmZhFrOqtz10JHXUKYnP2NXgLim9vp4E2N/x6oDYsDr8HC16dn/OhXh4d39tUfsaTrBu7NZdA="

@@ -1,5 +1,5 @@
 ---
-title: Det var dengang, sommerpigerne fangede "blottere"
+title: Det var dengang, sommerpigerne fangede blottere
 header:
   image: https://lh3.googleusercontent.com/oovbREsJKEwtnYIn3y_q7ikmUBlxfJHs9O4TUygGOvWX11QYwY8odg4EE7Qdss7I_-o8XGTm2sqRLajWgRB2Y9zPLCcDlRYEaomD1tccBLFV-3VHO7_TL6hyEgKaI-BcA12j06-HcIs
   caption: Signe Troelsen - på tronstol med mikrofon - som en slags gymnastikkens dronning
@@ -14,7 +14,7 @@ excerpt: "Signe Troelsen har en masse erindringer fra sin tid på Den Jyske Idr�
 
 **Signe Troelsen oplevede Svend Aage Thomsen som maler og billedhugger og har søgt at fastholde erindringer fra 60'erne - stort og småt - i sorg og glæde**
 
-Signe Troelsen kom til Den Jyske Idrætsskole fra Sjælland i 1954. Hun blev der i 30 år, kommer der fortsat Ofte og er gennem årene blevet en institution som skolen selv. Det er ikke forkert, når hun omtaler skolen som "mit andet hjem”. 
+Signe Troelsen kom til Den Jyske Idrætsskole fra Sjælland i 1954. Hun blev der i 30 år, kommer der fortsat Ofte og er gennem årene blevet en institution som skolen selv. Det er ikke forkert, når hun omtaler skolen som "mit andet hjem". 
 
 Minderne er mangfoldige, og Signe Troelsen har været stillet overfor et svært valg. Det blev dog gjort en smule nemmere, da hun blev bedt om primært at se på 60'erne. 
 
@@ -79,7 +79,7 @@ Op gennem 60'erne - indtil Bjarne Hauger blev forstander - forløb med 5 månede
     alt="Lucia-optog på DJI"
     caption="Tidligere var der tradition for vækning med Lucia-optog og sang 13. december" %}
 
-- I samspil med en talentfuld ledelse og tresserårenes samfundsopsving stod skolen nu på tærskelen til en ny æra. Signe Troelsen har dykket i hukommelsen og sat en række løsrevne erindringer sammen under overskriften "Det var dengang”...
+- I samspil med en talentfuld ledelse og tresserårenes samfundsopsving stod skolen nu på tærskelen til en ny æra. Signe Troelsen har dykket i hukommelsen og sat en række løsrevne erindringer sammen under overskriften "Det var dengang"...
 - at der var fuldt skema - også om lørdagen 
 - at Skoleforløbet afsluttedes prover og eksamen i idrætsfag 
 - da drengene ikke måtte ses på pigeværelserne - og omvendt. Brud på denne ordensregel - med efterfølgende bortvisning af den “modige" synder - fandt som nævnt tidligere i artiklen sted. Men - de forelskede par må ha’ fundet ud af det - på deres måde, da mange tresserpar forlængst har fejret sølvbryllup og siden har deres voksne børn været elever på skolen. 

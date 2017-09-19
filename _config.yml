@@ -14,7 +14,7 @@
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
 username:             vih
-repo:                 historie
+repo:                 vih.github.io/historie
 branch:               source
 
 

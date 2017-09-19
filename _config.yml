@@ -270,7 +270,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: collection-single
       author_profile: true
       read_time: true
       comments: true
@@ -281,7 +281,7 @@ defaults:
       path: ""
       type: places
     values:
-      layout: single
+      layout: collection-single
       author_profile: true
       read_time: false
       comments: true
@@ -292,7 +292,7 @@ defaults:
       path: ""
       type: timelines
     values:
-      layout: single
+      layout: collection-single
       author_profile: true
       read_time: false
       comments: true
@@ -303,7 +303,7 @@ defaults:
       path: ""
       type: songs
     values:
-      layout: single
+      layout: collection-single
       author_profile: true
       read_time: false
       comments: true
@@ -314,7 +314,7 @@ defaults:
       path: ""
       type: faq
     values:
-      layout: single
+      layout: collection-single
       author_profile: true
       read_time: true
       comments: true

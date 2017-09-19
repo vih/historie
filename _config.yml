@@ -11,10 +11,11 @@ minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Jekyll specific
 future: true
+<<<<<<<<< saved version
 =======
 # GitHub
 username:             vih
-repo:                 vih.github.io
+repo:                 vih.github.io/historie
 branch:               source
 
 
@@ -23,6 +24,9 @@ source:               .
 destination:          _site
 
 >>>>>>> Getting ready to publish from source branch
+=========
+
+>>>>>>>>> local version
 
 # Site Settings
 locale                   : "da"
@@ -301,7 +305,6 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: collection-single
       author_profile: true
       read_time: true
       listen_time: false

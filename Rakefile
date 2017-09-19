@@ -17,13 +17,8 @@ REPO = CONFIG["repo"] || "#{USERNAME}.github.io"
 # User or organization: source -> master
 # Project: master -> gh-pages
 # Name of source branch for user/organization defaults to "source"
-if REPO == "#{USERNAME}.github.io"
-  SOURCE_BRANCH = CONFIG['branch'] || "source"
-  DESTINATION_BRANCH = "master"
-else
-  SOURCE_BRANCH = "master"
-  DESTINATION_BRANCH = "gh-pages"
-end
+SOURCE_BRANCH = CONFIG['branch'] || "source"
+DESTINATION_BRANCH = "gh-pages"
 
 #############################################################################
 #

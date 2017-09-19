@@ -301,7 +301,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: collection-single
       author_profile: true
       read_time: true
       listen_time: false

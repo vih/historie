@@ -21,6 +21,7 @@ branch:               source
 # Jekyll source / destination
 source:               .
 destination:          ../gh-pages/
+relative_source:      ../source/
 
 
 # Site Settings

@@ -5,9 +5,12 @@ rvm:
 matrix:
   allow_failures:
     - 2.1
+    - 2.3.1
     - jruby
     - rbx-2
   fast_finish: true
+install:
+  - travis_retry bundle install
 script:
   - bundle exec jekyll build
   - bundle exec htmlproofer ./_site --only-4xx --assume-extension --check-favicon --check-html --allow-hash-href

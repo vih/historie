@@ -1,6 +1,7 @@
 ---
 title: Kære gamle Elever! fra Årsskrift 1945
 author: svend_aage_thomsen
+permalink: /elevbrev-1945-svend-aage-thomsen/
 category:
   - Årsskrift
 tags:

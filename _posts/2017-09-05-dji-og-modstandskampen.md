@@ -24,8 +24,8 @@ Jeg har besluttet mig for at finde ud af i hvor høj udstrækning Den Jyske Idr�
 
 Birte skriver i en e-mail <q>Far fik filmene fra Danmarks Frihedsråd, og skulle bare filme. Sådan mener jeg bestemt det gik til med fotograferingen. Når far var afsted om natten vidste  mor ingentig, så hun ikke kunne afsløre noget.</q>. En del af disse film kan findes på Vejle Stadsarkiv, ligesom nogle af hans optagelser også er med i [Det gælder din frihed](http://filmcentralen.dk/alle/film/det-gaelder-din-frihed) fra 1946. Optagelser herfra blev også brugt i [De fem år](https://fjernleje.filmstriben.dk/film/9000001085/de-fem-ar).
 
-Både [Svend Aage Thomsen](/årsskrift/elevbrev-svend-aage-thomsen/) og [Thormod Petersen](/dji-illegale-periode/) beskriver hvordan Svend Aage Thomsen dokumenterede modstandskampen. 
-
+Både [Svend Aage Thomsen](/elevbrev-1945-svend-aage-thomsen/) og [Thormod Petersen](/dji-illegale-periode/) beskriver hvordan Svend Aage Thomsen dokumenterede modstandskampen.
+ 
 ## Gemte våben og våbeninstruktion i Jomsborg
 
 I [filmen F86 fra Vejle Stadsarkiv om _Modstandsbevægelsen i Vejle arbejder_](https://arkiv.dk/vis/2271918) er der en række interessante klip fra Den Jyske Idrætssskole.

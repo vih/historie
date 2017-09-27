@@ -20,7 +20,7 @@ branch:               master
 
 # Jekyll source / destination
 source:               .
-destination:          _site
+destination:          ../gh-pages/
 
 
 # Site Settings

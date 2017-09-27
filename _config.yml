@@ -15,13 +15,12 @@
 # or "master" otherwise
 username:             vih
 repo:                 historie
-branch:               source
+branch:               master
 
 
 # Jekyll source / destination
 source:               .
-destination:          ../gh-pages/
-relative_source:      ../source/
+destination:          _site
 
 
 # Site Settings

@@ -4,11 +4,11 @@ rvm:
   - 2.2.7
 matrix:
   allow_failures:
-    - 2.1
-    - 2.3.4
-    - 2.4.1
-    - jruby
-    - rbx-2
+    - rvm: 2.1
+    - rvm: 2.3.4
+    - rvm: 2.4.1
+    - rvm: jruby
+    - rvm: rbx-2
   fast_finish: true
 install:
   - travis_retry bundle install

@@ -20,7 +20,7 @@ branch:               master
 
 # Jekyll source / destination
 source:               .
-destination:          ../vih.github.io/historie-gh-pages/
+destination:          ../historie-gh-pages/
 
 
 # Site Settings

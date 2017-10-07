@@ -1,6 +1,7 @@
 ---
 title: Idrætsskole eller Folkehøjskole
 author: haugstrup
+permalink: /haugstrups-tale-aabningsmoede/
 category:
   - Årsskrift
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Idrætsskole eller Folkehøjskole
 author: haugstrup
+permalink: /haugstrups-tale-aabningsmoede/
 category:
   - Årsskrift
 tags:
@@ -24,12 +25,12 @@ Vi tror ikke, det er nok med det naturlige; det aandelige maa ogsaa have sin Pla
 
 Det er nu henved to Menneskealdre, siden Forstander Ernst Trier fik bygget et særligt Gymnastikhus ved Vallekilde Højskole, og nu til Februar er netop 60 Aar forløbet, siden den første Opvisning fandt Sted der. Det var Pehr Henrik Lings svenske Gymnastik, som dermed kom til Danmark. Og det var nok ikke blot et Lykketræf, at det skete saadan. Just ved at rykke ind paa en dansk Højskole fandt Gymnastikken sin rette Vokseplads i Danmark. Grundtvig havde sat det som et Maal at genoplive »Nordens Helteaand til kristelige Bedrifter paa en med Tidens Tarv og Vilkaar stemmende Bane.« – Pehr Henrik Ling vilde »give Norden tilbage til sine Mænd«. – –Hans Skrifter er fyldt af hans store Tanke om en folkelig Genfødelse gennem Legemsøvelser og Digtning. Derfor blev det et lykkeligt Møde mellem de to Mænds Lærlinge i Foraaret 1884 paa Vallekilde. Vi kan faa et Begreb om, hvor dybt og kønt Trier forstod at sammenfatte Grundtvigs og Lings Syn paa Menneskelivet, naar vi læser hans Tale ved denne første Opvisning. Han siger deri saadan: »Legemsøvelser skulde være et gavnligt Led i Folkeopdragelsens Tjeneste, et Middel, der kunde hjælpe til, at det Gudbilledlige, det, der egentlig skiller Mennesket fra Dyret. kommer til sin Ret, saa vi ved at se paa Mennesket faar Øjet op for, at Mennesket er Jordens ypperste Skabning. Med de Ord ramte Trier netop det, som er Kærnen i det folkelige Arbejde med Legemsøvelser, hvad enten vi kalder det Gymnastik eller Idræt. – Digterpræsten Jens Chr. Hostrup anslog lignende Toner med sin Sang »Vi fik ej under Tidernes Tryk «, som han havde skrevet til samme Lejlighed:
 
-> Kun Fod for Fod vi se, hvor vi gaa,
-> men véd dog godt, hvorhen vi skal naa;
-> Til dybt i Barm at ha vort Kompas
-> og ej blot finde, men fylde vor Plads.
-> Ja, vor Gang maa blive fast, vi er fribaarnes Æt,
-> Og vor Higen maa faa Hast, og Vor Fod blive let,
+> Kun Fod for Fod vi se, hvor vi gaa,  
+> men véd dog godt, hvorhen vi skal naa;  
+> Til dybt i Barm at ha vort Kompas  
+> og ej blot finde, men fylde vor Plads.  
+> Ja, vor Gang maa blive fast, vi er fribaarnes Æt,  
+> Og vor Higen maa faa Hast, og Vor Fod blive let,  
 > Øjet opladt, Haanden øvet, Tanken paa Flugt over Støvet.
 
 Og Hostrup slutter et andet af Versene:

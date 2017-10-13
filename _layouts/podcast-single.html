@@ -27,11 +27,15 @@ layout: default
             {% unless page.header.overlay_color or page.header.overlay_image %}
             <header>
                 {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
-                {% if page.read_time %}
-                <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-                {% endif %}
-                {% if page.podcast_duration %}
-                <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ page.podcast_duration }} minutter </p>
+                {% if page.podcast_duration or page.read_time %}
+                <p class="page__meta">
+                    {% if page.podcast_duration %}
+                    <i class="fa fa-clock-o" aria-hidden="true"></i> {{ page.podcast_duration }} minutters lytning
+                    {% endif %}
+                    {% if page.read_time %}
+                        <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}
+                    {% endif %}
+                </p>
                 {% endif %}
             </header>
             {% endunless %}

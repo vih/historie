@@ -328,7 +328,7 @@ defaults:
 
 # Podcast
 podcast_url: http://historie.vih.dk/podcast
-podcast_album_art: /assets/base/Whaddya-Know-Joe-Album-Art.png
+podcast_album_art: /assets/podcasts/cover-stemmer.png
 podcast_title: Vejle Idrætshøjskoles Stemmer
 podcast_owner: Vejle Idræsthøjskole
 podcast_email: webmaster@vih.dk

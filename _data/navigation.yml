@@ -1,18 +1,20 @@
 # main links
 main:
-  - title: "Om"
-    url: /om/
   - title: "Start"
     url: /start/
+  - title: "Arkiv"
+    url: /arkiv/
   - title: "Tidslinjer"
     url: /tidslinjer/
+  - title: "Podcast"
+    url: /podcasts/
   - title: "Steder"
     url: /steder/
   - title: "Sange"
     url: /sange/
   - title: "FAQ"
     url: /faq/
-  - title: "Arkiv"
-    url: /arkiv/
   - title: "Bidrag"
     url: /bidrag/
+  - title: "Om"
+    url: /om/

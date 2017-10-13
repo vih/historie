@@ -1,0 +1,13 @@
+---
+layout: archive
+title: Vejle Idrætshøjskoles Stemmer
+permalink: /podcasts/
+---
+
+{% include base_path %}
+
+<div class="grid__wrapper">
+  {% for post in site.podcasts %}
+    {% include podcast-single.html %}
+  {% endfor %}
+</div>

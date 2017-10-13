@@ -327,6 +327,7 @@ defaults:
 
 
 # Podcast
+podcast_site_url: http://historie.vih.dk
 podcast_url: http://historie.vih.dk/podcast
 podcast_album_art: /assets/podcasts/cover-stemmer.png
 podcast_title: Vejle Idrætshøjskoles Stemmer

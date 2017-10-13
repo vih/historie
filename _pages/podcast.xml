@@ -16,8 +16,8 @@ permalink: /feed/podcast/
 
     <channel>
         <title>{{ site.podcast_title }}</title>
-        <atom:link href="{{ site.url }}/feed/podcast" rel="self" type="application/rss+xml"/>
-        <link>{{ site.url }}</link>
+        <atom:link href="{{ site.podcast_site_url }}/feed/podcast" rel="self" type="application/rss+xml"/>
+        <link>{{ site.podcast_site_url }}</link>
         <description>{{ site.podcast_description }}</description>
         <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
         <language>en-US</language>
@@ -27,7 +27,7 @@ permalink: /feed/podcast/
         <itunes:summary>{{ site.podcast_summary }}</itunes:summary>
         <itunes:author>{{ site.podcast_author }}</itunes:author>
         <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
-        <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}"/>
+        <itunes:image href="{{ site.podcast_site_url }}{{ site.podcast_album_art }}"/>
         <itunes:owner>
             <itunes:name>{{ site.podcast_owner }}</itunes:name>
             <itunes:email>{{ site.podcast_email }}</itunes:email>
@@ -36,8 +36,8 @@ permalink: /feed/podcast/
         <itunes:subtitle>{{ site.podcast_subtitle }}</itunes:subtitle>
         <image>
             <title>{{ site.podcast_title }}</title>
-            <url>{{ site.url }}{{ site.podcast_album_art }}</url>
-            <link>{{ site.url }}</link>
+            <url>{{ site.podcast_site_url }}{{ site.podcast_album_art }}</url>
+            <link>{{ site.podcast_site_url }}</link>
         </image>
         <itunes:category text="{{ site.podcast_category }}">
             <itunes:category text="{{ site.podcast_subcategory_one }}"/>
@@ -46,8 +46,8 @@ permalink: /feed/podcast/
         {% for ep in site.podcasts %}
         <item>
             <title>{{ ep.title }}</title>
-            <link>{{ site.url }}{{ ep.url }}</link>
-            <comments>{{ site.url }}{{ ep.url }}#comments</comments>
+            <link>{{ site.podcast_site_url }}{{ ep.url }}</link>
+            <comments>{{ site.podcast_site_url }}{{ ep.url }}#comments</comments>
             <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
             <dc:creator><![CDATA[{{ site.author | cdata_escape }}]]></dc:creator>
             {% for category in ep.categories %}
@@ -56,22 +56,22 @@ permalink: /feed/podcast/
             {% for category in ep.tags %}
             <category><![CDATA[{{ category | cdata_escape }}]]></category>
             {% endfor %}
-            <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">{{ site.url }}{% if
+            <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">{{ site.podcast_site_url }}{% if
                 ep.podcast_guid %}/{{ ep.podcast_guid }}{% else %}{{ ep.url }}{% endif %}
             </guid>
             <description>
-                <![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
+                <![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.podcast_site_url | cdata_escape }}]]>
             </description>
             <content:encoded>
-                <![CDATA[{{ ep.content | expand_urls: site.url | cdata_escape }}]]>
+                <![CDATA[{{ ep.content | expand_urls: site.podcast_site_url | cdata_escape }}]]>
             </content:encoded>
 
             <enclosure url="{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg"/>
             <itunes:subtitle>
-                <![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
-            <itunes:summary><![CDATA[{{ ep.content | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
+                <![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.podcast_site_url | cdata_escape }}]]></itunes:subtitle>
+            <itunes:summary><![CDATA[{{ ep.content | expand_urls: site.podcast_site_url | cdata_escape }}]]></itunes:summary>
             <itunes:author>{{ site.podcast_author }}</itunes:author>
-            <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}"/>
+            <itunes:image href="{{ site.podcast_site_url }}{{ site.podcast_album_art }}"/>
             <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
             <itunes:duration>{{ ep.podcast_duration }}</itunes:duration>
         </item>

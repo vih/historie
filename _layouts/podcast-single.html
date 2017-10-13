@@ -30,10 +30,18 @@ layout: default
                 {% if page.read_time %}
                 <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
                 {% endif %}
+                {% if page.duration %}
+                <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ page.duration }}</p>
+                {% endif %}
             </header>
             {% endunless %}
 
             <section class="page__content" itemprop="text">
+                <audio controls>
+                    <source src="{{ page.podcast_link }}" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+
                 {{ content }}
                 {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
             </section>

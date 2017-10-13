@@ -15,3 +15,5 @@ podcast_length: 27204281
 ---
 
 Interview med Jørn Richter om, hvordan menneskesynet og idrætssynet i hans tid som højskolelærer fra 1973 - 2005 blev sat på dagsorden på Den Jyske Idrætsskole og Vejle Idrætshøjskole.
+
+Hjælp meget gerne med at transkribere showet i kommentarerne. Så kan vi nemlig fokusere på at lave flere afsnit.

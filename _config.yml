@@ -251,6 +251,9 @@ collections:
   faq:
     output: true
     permalink: /:collection/:path/
+  podcasts:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -310,3 +313,30 @@ defaults:
       comments: true
       share: true
       related: true
+# _podcasts
+  - scope:
+      path: ""
+      type: podcasts
+    values:
+      layout: podcast-single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+
+# Podcast
+podcast_url: http://historie.vih.dk/podcast
+podcast_album_art: /assets/base/Whaddya-Know-Joe-Album-Art.png
+podcast_title: Vejle Idrætshøjskoles Stemmer
+podcast_owner: Vejle Idræsthøjskole
+podcast_email: webmaster@vih.dk
+podcast_category: Vejle Idrætshøjskole
+podcast_subcategory_one: Historie
+podcast_subcategory_two: Gadgets
+podcast_explicit: "no"
+podcast_author: Lars Olesen
+podcast_description: Stemmer fra Vejle Idrætshøjskoles historie kommer til orde.
+podcast_summary: Lars Olesen, viceforstander, lader stemmerne fra Vejle Idrætshøjskole komme til orde. Vi samler på historier, viden, gode oplevelser, diskussioner fra før og nu i højskolens historie.
+podcast_subtitle: Stemmer fra Vejle Idrætshøjskoles historie.  Vært er Lars Olesen.

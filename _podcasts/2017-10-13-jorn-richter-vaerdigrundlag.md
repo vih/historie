@@ -24,7 +24,7 @@ chapters:
 - '00:00:00.000 Intro'
 - '00:00:34.000 Præsentation af udsendelsen'
 - '00:01:12.000 Om idrætssynet på højskolen'
-- '00:15:20.000 Outro'
+- '00:16:13.000 Outro'
 transcript: http://historie.vih.dk/assets/podcasts/richter-vaerdigrundlag.txt
 ---
 

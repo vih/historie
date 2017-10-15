@@ -25,7 +25,7 @@ chapters:
 - '00:00:34.000 Præsentation af udsendelsen'
 - '00:01:12.000 Om idrætssynet på højskolen'
 - '00:15:20.000 Outro'
-transcript: http://0.0.0.0:4000/assets/podcasts/richter-vaerdigrundlag.txt
+transcript: http://historie.vih.dk/assets/podcasts/richter-vaerdigrundlag.txt
 ---
 
 Interview med Jørn Richter om, hvordan menneskesynet og idrætssynet i hans tid som højskolelærer fra 1973 - 2005 blev sat på dagsorden på Den Jyske Idrætsskole og Vejle Idrætshøjskole.

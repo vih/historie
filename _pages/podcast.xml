@@ -49,7 +49,7 @@ permalink: /feed/podcast/
             <link>{{ site.podcast_site_url }}{{ ep.url }}</link>
             <comments>{{ site.podcast_site_url }}{{ ep.url }}#comments</comments>
             <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
-            <dc:creator><![CDATA[{{ site.author | cdata_escape }}]]></dc:creator>
+            <dc:creator><![CDATA[{{ site.author | expand_urls: site.podcast_site_url | cdata_escape }}]]></dc:creator>
             {% for category in ep.categories %}
             <category><![CDATA[{{ category | cdata_escape }}]]></category>
             {% endfor %}
@@ -66,13 +66,13 @@ permalink: /feed/podcast/
                 <![CDATA[{{ ep.content | expand_urls: site.podcast_site_url | cdata_escape }}]]>
             </content:encoded>
 
-            <enclosure url="{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg"/>
+            <enclosure url="{{ site.podcast_site_url }}{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg"/>
             <itunes:subtitle>
                 <![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.podcast_site_url | cdata_escape }}]]></itunes:subtitle>
             <itunes:summary><![CDATA[{{ ep.content | expand_urls: site.podcast_site_url | cdata_escape }}]]></itunes:summary>
             <itunes:author>{{ site.podcast_author }}</itunes:author>
             <itunes:image href="{{ site.podcast_site_url }}{{ site.podcast_album_art }}"/>
-            <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
+            <itunes:explicit>{{ ep.explicit }}</itunes:explicit>
             <itunes:duration>{{ ep.podcast_duration }}</itunes:duration>
         </item>
         {% endfor %}

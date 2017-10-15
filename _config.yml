@@ -324,6 +324,8 @@ defaults:
       comments: true
       share: true
       related: true
+      episode_cover: /assets/podcasts/cover-stemmer.png
+      explicit: "no"
 
 
 # Podcast
@@ -331,11 +333,11 @@ podcast_site_url: http://historie.vih.dk
 podcast_url: http://historie.vih.dk/podcast
 podcast_album_art: /assets/podcasts/cover-stemmer.png
 podcast_title: Vejle Idrætshøjskoles Stemmer
-podcast_owner: Vejle Idræsthøjskole
+podcast_owner: Vejle Idrætshøjskole
 podcast_email: webmaster@vih.dk
 podcast_category: Vejle Idrætshøjskole
 podcast_subcategory_one: Historie
-podcast_subcategory_two: Gadgets
+podcast_subcategory_two: Tankegods
 podcast_explicit: "no"
 podcast_author: Lars Olesen
 podcast_description: Stemmer fra Vejle Idrætshøjskoles historie kommer til orde.

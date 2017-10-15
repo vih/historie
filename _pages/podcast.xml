@@ -66,7 +66,7 @@ permalink: /feed/podcast/
                 <![CDATA[{{ ep.content | expand_urls: site.podcast_site_url | cdata_escape }}]]>
             </content:encoded>
 
-            <enclosure url="{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg"/>
+            <enclosure url="{{ site.podcast_site_url }}{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg"/>
             <itunes:subtitle>
                 <![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.podcast_site_url | cdata_escape }}]]></itunes:subtitle>
             <itunes:summary><![CDATA[{{ ep.content | expand_urls: site.podcast_site_url | cdata_escape }}]]></itunes:summary>

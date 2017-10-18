@@ -1,6 +1,6 @@
 ---
-title: Jørn Richter - menneskesyn, idrætssyn og værdigrundlag
-#subtitle: A Subtle Subtitle
+title: Jørn Richter om idrætssyn og værdigrundlag
+subtitle: Om udviklingen af menneskesyn, idrætssyn og værdigrundlag
 description: "Interview med Jørn Richter om, hvordan menneskesynet og idrætssynet i hans tid som højskolelærer fra 1973 - 2005 blev sat på dagsorden på Den Jyske Idrætsskole og Vejle Idrætshøjskole."
 author: lsolesen
 tags:
@@ -10,16 +10,11 @@ tags:
   - idrætssyn
 excerpt: "Interview med Jørn Richter om, hvordan menneskesynet og idrætssynet i hans tid som højskolelærer fra 1973 - 2005 blev sat på dagsorden på Den Jyske Idrætsskole og Vejle Idrætshøjskole."
 image: /assets/podcasts/cover-stemmer.jpg
-podcast_link: /assets/podcasts/richter-vaerdigrundlag.mp3
-media:
+media: # requires a mp3-entry
   mp3: http://historie.vih.dk/assets/podcasts/richter-vaerdigrundlag.mp3
-#  m4a: http://historie.vih.dk/assets/podcasts/richter-vaerdigrundlag.mp3
-#  ogg: name.ogg
-#  opus: name.opus
-podcast_file_size: 27.2 MB
-podcast_duration: "16:30"
-#duration: "16:30"
-podcast_length: 27204281
+podcast_file_size: 27.2 MB # for mp3-file
+podcast_duration: "16:30" # for mp3-file
+podcast_length: 27204281 # for mp3-file
 chapters:
 - '00:00:00.000 Intro'
 - '00:00:34.000 Præsentation af udsendelsen'

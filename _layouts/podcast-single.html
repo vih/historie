@@ -40,47 +40,9 @@ layout: default
             </header>
             {% endunless %}
 
-            <section class="page__content" itemprop="text">
+            <section class="page__content itemprop="text">
 
-                <script>
-                    window.playerConfiguration = {
-                        "episode": {
-                            "media": {
-                                {% for audio in page.media %}
-                                "{{ audio[0] }}": "{{ audio[1] }}"{% if forloop.last != true %},{% endif %}
-                                {% endfor %}
-                            },
-                            "title": "{{ page.title }}",
-                            {% if page.subtitle %}
-                            "subtitle": "{{ page.subtitle }}",
-                            {% endif %}
-                            {% if page.description %}
-                            "description": "{{ page.description }}",
-                            {% endif %}
-                            "url": "{{ site.podcast_site_url }}{{ page.url }}",
-                            {% if page.chapters %}
-                            "chaptermarks": [
-                                {% for chapters in page.chapters %}
-                                 {% assign chapter = chapters | split: ' ' %}
-                                {"start": "{{ chapter | first }}", "title": "{{ chapter | shift | join: " " }}"}{% if forloop.last != true %},{% endif %}
-                                {% endfor %}
-                            ],
-                            {% endif %}
-                            {% if page.transcript %}
-                            "transcript": "{{ page.transcript }}",
-                            {% endif %}
-                            "coverUrl": "{{ site.podcast_site_url }}{{ page.episode_cover }}"
-                    }
-                }
-                </script>
-                <script class="podigee-podcast-player" src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
-                <noscript>
-                    <audio controls>
-                        <source src="{{ page.media.mp3 }}" type="audio/mpeg">
-                        Your browser does not support the audio element.
-                        <a href="{{ page.media.mp3 }}">Download podcast</a>
-                    </audio>
-                </noscript>
+                {% include podcast-player.html %}
 
                 {{ content }}
                 {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}

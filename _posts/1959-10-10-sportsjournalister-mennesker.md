@@ -82,14 +82,23 @@ En aften sad jeg på en trappe, det var det eneste sted, hvor man kunne få øre
 Det blev til følgende:
 
 Hans opførsel skal være stilfærdig og venlig.
+
 Overdreven familaritet med idrætsmænd og ledere skræmmer. En vis respekt for pressen gør, at man finder sig i det, men det vækker ofte aversion og irritation.
+
 Han skal vide, at han er en bekendt person, og at såvel han som hans referater bliver bedømt efter hans opførsel i selskab med idrætsmænd og ledere.
+
 Han må kunne indrømme en fejltagelse og ikke absolut fordre at få sidste ord for enhver pris. Den altid bedrevidende er en ubehagelig person.
+
 Han skal være objektiv og upartisk, ellers fortaber man retten til at rose, give gode råd, kritisere og revse
+
 Han må kunne sige nej, hvis ledere gennem invitationer søger at påvirke ham til at give ekstra gode anmeldelser og referater. Han må vide, at den » forkælelse«, som han kan komme ud for, sjældent skyldes interesse for hans person, men for det, han evt. kan være til fordel med. Han må være nøgtern og mådeholden under sin gerning, navnlig når han vil tale med idrætsudøverne, for derved skaber han respekt og tillid om sin person og derved mulighed for at få det stof, han gerne vil have.
+
 Han må aldrig tale nedsættende om en kollega, derved stempler han sig selv.
+
 Min unge ven sad lidt og tyggede på det, så sagde han: nu har du fået lov til at udrede dit syn på os, nu skal jeg fortælle dig, hvorledes jeg synes, den ideelle forstander ved en idrætshøjskole skal være.
+
 Det gjorde han, og jeg tav.
+
 Jeg tror ikke, det er sund for et menneske at være fuldkomment. 
  
 _Artiklen af Svend Aage Thomsen blev opfindeligt bragt i Årsskriftet fra 1959_

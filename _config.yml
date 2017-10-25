@@ -239,6 +239,9 @@ collections:
   faq:
     output: true
     permalink: /:collection/:path/
+  persons:
+    output: true
+    permalink: /:collection/:path/
   podcasts:
     output: true
     permalink: /:collection/:path/
@@ -271,6 +274,17 @@ defaults:
       author_profile: true
       listen_time: false
       video_time: false
+      read_time: false
+      comments: true
+      share: true
+      related: true
+# _persons
+  - scope:
+      path: ""
+      type: persons
+    values:
+      layout: collection-single
+      author_profile: true
       read_time: false
       comments: true
       share: true

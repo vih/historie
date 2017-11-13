@@ -8,4 +8,18 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="theme-color" content="#ffffff">
 
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+
+<meta name="DC.Creator" content="{{ author.name }}">
+<meta name="DC.Description" content="{{ page.excerpt }}">
+<meta name="DC.Publisher" content="Vejle Idrætshøjskole">
+<meta name="DC.Type" content="Text">
+<meta name="DC.Format" content="text/html">
+<meta name="DC.Language" content="da-DK">
+<meta name="DC.Rights" content="Copyright Vejle Idrætshøjskole">
+
 <!-- end custom head snippets -->

@@ -326,6 +326,7 @@ defaults:
       related: true
       episode_cover: /assets/podcasts/cover-stemmer.png
       explicit: "no"
+      type: "Podcast"
 
 
 # Podcast

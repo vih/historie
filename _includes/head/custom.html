@@ -14,12 +14,22 @@
   {% assign author = site.author %}
 {% endif %}
 
+<meta name="DC.Title" content="{{ page.title }}">
 <meta name="DC.Creator" content="{{ author.name }}">
+{% if page.source %}
+  <meta name="DC.Source" content="{{ page.source }}">
+{% endif %}
 <meta name="DC.Description" content="{{ page.excerpt }}">
-<meta name="DC.Publisher" content="Vejle Idrætshøjskole">
-<meta name="DC.Type" content="Text">
+{% if page.publisher %}
+  <meta name="DC.Publisher" content="{{ page.publisher }}">
+{% else %}
+  <meta name="DC.Publisher" content="Vejle Idrætshøjskole">
+{% endif %}
+{% if page.type %}
+  <meta name="DC.Type" content="{{ page.type }}">
+{% endif %}
 <meta name="DC.Format" content="text/html">
-<meta name="DC.Language" content="da-DK">
-<meta name="DC.Rights" content="Copyright Vejle Idrætshøjskole">
+<meta name="DC.Language" content="da">
+<meta name="DC.Rights" content="All rights reserved">
 
 <!-- end custom head snippets -->

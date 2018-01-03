@@ -10,10 +10,10 @@
   padding-left: 1em;
   padding-right: 1em;
   -webkit-animation: $intro-transition;
-          animation: $intro-transition;
+  animation: $intro-transition;
   max-width: 100%;
-  -webkit-animation-delay: 0.35s;
-          animation-delay: 0.35s;
+  -webkit-animation-delay: 0.15s;
+  animation-delay: 0.15s;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -21,7 +21,6 @@
 }
 
 .page {
-
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
@@ -68,13 +67,14 @@
 }
 
 .page__content {
-
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
+  p,
+  li,
+  dl {
     font-size: 1em;
   }
 
@@ -91,9 +91,7 @@
     }
   }
 
-  a {
-    text-decoration: none;
-
+  a:not(.btn) {
     &:hover {
       text-decoration: underline;
 
@@ -131,9 +129,9 @@
   margin-bottom: 2em;
   @include clearfix;
   -webkit-animation: $intro-transition;
-          animation: $intro-transition;
+  animation: $intro-transition;
   -webkit-animation-delay: 0.25s;
-          animation-delay: 0.25s;
+  animation-delay: 0.25s;
 
   &--overlay {
     position: relative;
@@ -144,9 +142,9 @@
     background-repeat: no-repeat;
     background-position: center;
     -webkit-animation: $intro-transition;
-            animation: $intro-transition;
+    animation: $intro-transition;
     -webkit-animation-delay: 0.25s;
-            animation-delay: 0.25s;
+    animation-delay: 0.25s;
 
     a {
       color: #fff;
@@ -243,14 +241,13 @@
   text-transform: uppercase;
 }
 
-
 /*
    Page meta
    ========================================================================== */
 
 .page__meta {
   margin-top: 2em;
-  color: mix(#fff, $gray, 25%);
+  color: $muted-text-color;
   font-family: $sans-serif;
   font-size: $type-size-6;
 
@@ -268,7 +265,6 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-
 
 /*
    Page taxonomy
@@ -290,7 +286,7 @@
   margin-bottom: 8px;
   padding: 5px 10px;
   text-decoration: none;
-  border: 1px solid $light-gray;
+  border: 1px solid mix(#000, $border-color, 25%);
   border-radius: $border-radius;
 
   &:hover {
@@ -298,7 +294,6 @@
     color: $link-color-hover;
   }
 }
-
 
 /*
    Comments
@@ -322,8 +317,6 @@
 }
 
 .page__comments-form {
-  padding: 1em;
-  background: $lighter-gray;
   -webkit-transition: $global-transition;
   transition: $global-transition;
 
@@ -399,7 +392,6 @@
     text-decoration: none;
   }
 }
-
 
 /*
    Related

@@ -19,7 +19,7 @@
 {% if page.source %}
   <meta name="DC.Source" content="{{ page.source }}">
 {% endif %}
-<meta name="DC.Description" content="{{ page.excerpt }} - Fra: {{ page.source }}">
+<meta name="DC.Description" content="{{ page.excerpt | strip_html }} - Fra: {{ page.source }}">
 {% if page.publisher %}
   <meta name="DC.Publisher" content="{{ page.publisher }}">
 {% else %}

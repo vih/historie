@@ -11,6 +11,6 @@ title: Idræts- og sportsmuseum
 > 
 > Museet havde store planer om eksperimentarium i Idrættens Hus i Vejle. Museet standsede i 1994 indsamlingerne grundet dårlig økonomi, men også fordi der nu blev arbejdet på nye planer i København. I 2003 opgav man helt i Sportsmuseet i Vejle, og de indsamlede genstande blev spredt, idet noget blev givet tilbage til giverne eller til nationalmuseet og lokale museer (Poulsen, 2005).
 >
-> -- [^Kilde: [Else Trangbæk (2013): Hvordan går det med idrætten, kulturarven og visionen om et idrætsmuseum?, i: Forum for Idræt,  Årg. 29, Nr. 1](https://tidsskrift.dk/forumforidraet/article/view/31640/29085)]
+> -- [^Kilde: Else Trangbæk (2013): [Hvordan går det med idrætten, kulturarven og visionen om et idrætsmuseum?, i: Forum for Idræt,  Årg. 29, Nr. 1](https://tidsskrift.dk/forumforidraet/article/view/31640/29085)]
 
 I 2017 i anledning af oprydning i arkivet på Vejle Idrætshøjskole overdrog vi de sidste effekter fra Sportsmuseet til DIF's Idrætsmuseum.

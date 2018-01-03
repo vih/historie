@@ -21,6 +21,6 @@ Materialet på siden stammer hovedsageligt fra vores eget arkiv, men vi har ogs�
 Denne side er tænkt som et sted, hvor alle der har haft tilknytning til Vejle Idrætshøjskole kan [bidrage med ideer, historier og ny viden om højskolens historie](/bidrag/).
 
 {% include figure
-    image_path="https://scontent-arn2-1.xx.fbcdn.net/v/t31.0-8/11149522_1024715294208598_6214685737923202994_o.jpg?oh=be68b86df0413a9c9a395bca0106f3f1&oe=5A2BF872"
+    image_path="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vejle_Stadsarkiv_-_Vejle_-_Danmark.JPG/1200px-Vejle_Stadsarkiv_-_Vejle_-_Danmark.JPG"
     alt="Vejle Stadsarkiv"
     caption="Vejle Stadsarkiv. Billede fra stadsarkivets Facebook-side" %}

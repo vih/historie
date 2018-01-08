@@ -31,4 +31,14 @@ Det er lidt af et puslespil at få styr på de forskellige formænd, men vi har 
 
 {% include timeline.html source="1Q4owmzuRpnP_22kB_yj9w4aRDXv5que-5FcfE6Z5g1o" %}
 
-Hvis du har kommentarer, tilføjelser, små anekdoter, karakteristika for formandsperioden mv., så skriv endelig.
+## Medlemmer, gensynsweekend og kontingent
+
+Her er en foreløbig statistik over medlemmerne i elevforeningen.
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8CB8kUrlrdCQkE5pFg2q-dPUb6Z2QJUw5AzbscmYU7LfrwLVA-QAG25tPzRUOcOgdrw5c-iHAC5Db/pubchart?oid=1443129613&amp;format=interactive"></iframe>
+
+Hvis du vil [hjælpe med at lave lidt statistik over medlemmer mv., så må du meget gerne forespørge om adgang til dette regneark, så vi kan samarbejde omkring det](https://docs.google.com/spreadsheets/d/1PW66L7vKTdD9dAaKX3G6OiakozXkxhJbnQADZ8CRlX0/edit?usp=sharing).
+
+## Kommentarer, anekdoter eller andet
+
+Hvis du har kommentarer, tilføjelser, små anekdoter, karakteristika for formandsperioden mv., så skriv endelig i kommentarerne. Du kan også [crowdsource nogle oplysninger ved at forespørge om adgang til dette dokument og give dit besyv med](https://docs.google.com/document/d/1VzlPKdzmBmbrVbVNCMq7qquWNmZfTHwZeZWWktLF3tc/edit?usp=sharing).

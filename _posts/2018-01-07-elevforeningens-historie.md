@@ -17,7 +17,7 @@ Hvis du kender mere til elevforeningens start, så brug endelig kommentarerne, s
 Hvis du kan supplere med mere af elevforeningens historie fra 1944 - 1959 kunne det være vældig hjælpsomt - og du kan fx bruge kommentarerne til det.
 
 ## 1959-1972
-Ria Andersen har beskrevet historien fra 1959 - 1972 i årsskriftet fra 1982. Du kan [læse hele Rias beskrivelse af elevforeningen her](/elevforeningens-historie-1959-1952/). Hvis du har noget at supplere med, så brug endelig kommentarerne.
+Ria Andersen har beskrevet historien fra 1959 - 1972 i årsskriftet fra 1982. Du kan [læse hele Rias beskrivelse af elevforeningen her](/elevforeningens-historie-1959-1972/). Hvis du har noget at supplere med, så brug endelig kommentarerne.
 
 ## 1972-1982
 Henning Rasmussen har beskrevet historien fra 1972 - 1982 i årsskriftet fra 1982. Du kan [læse hele Hennings beretningen her](/elevforeningens-historie-1972-1982/). Hvis du kan supplere med noget viden, anekdoter eller andet, så brug endelig kommentarerne. 

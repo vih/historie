@@ -12,9 +12,8 @@ tags:
   - Svend Aage Thomsen
   - forstander
 excerpt: "Svend Aage Thomsen fik klar besked af sin far til at gå i gang med projektet, Den Jyske Idrætsskole."
+toc: true
 ---
-
-{% include toc %}
 
 Sådan lød den klare melding fra far til søn. – Stenhuggeren fra Bredal, Svend Aage Thomsen, løftede opgaven - Og døde for den.
 

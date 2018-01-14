@@ -13,9 +13,8 @@ tags:
   - forstander
   - årsskrift 1966
 excerpt: "Indtryk fra afsløringen af mindestenen for Svend Åge Thomsen i 1966"
+toc: true
 ---
-
-{% include toc %}
 
 Svend Aage Thomsen in memoriam
 > » Fæ dør, freende dør. 

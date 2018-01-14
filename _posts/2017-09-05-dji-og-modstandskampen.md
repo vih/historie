@@ -4,9 +4,8 @@ author: lsolesen
 tags:
   - modstandskampen
 excerpt: "Hvad var den Jyske Idrætssskoles rolle egentlig under modstandskampen?"
+toc: true
 ---
-
-{% include toc %}
 
 Der er antydningsvise referencer rundt omkring i Jubilæumsskriftet fra 1992, at Den Jyske Idrætsskole hjalp under modstandskampen. Fx går følgende vandrehistorier på skolen.
 

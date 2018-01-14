@@ -7,9 +7,8 @@ category:
 tags:
   - oversigtsbillede
 excerpt: "Oversigtsbilleder fra skolens historie"
+toc: true
 ---
-
-{% include toc %}
 
 ## 1944
 

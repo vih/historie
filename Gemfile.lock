@@ -112,8 +112,6 @@ GEM
       commonmarker (~> 0.17.6)
       jekyll-commonmark (~> 1)
       rouge (~> 2)
-    jekyll-data (1.0.0)
-      jekyll (~> 3.3)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
     jekyll-feed (0.9.2)
@@ -248,12 +246,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
-  jekyll-data
-  jekyll-feed
-  jekyll-gist
-  jekyll-paginate
-  jekyll-sitemap
-  jemoji
 
 BUNDLED WITH
    1.16.1

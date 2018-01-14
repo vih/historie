@@ -10,9 +10,8 @@ header:
   teaser: https://lh3.googleusercontent.com/JBTzsRgN4qJXFng3GVNAWkfhB1kgYggpP6sR9jtTO9mUHG_1A6lChybR6iuN-9bZfQ9_a2F5fUH2dW1AkoAuh6uNNuo5Ef1sVAbjgRg0m5KMHVXQ3O3V8X4RYUd-JM3CVQXZPAVQfO4
   caption: Billederne i arkivet sorteres.
 excerpt: "Vi sorterer billeder i arkivet - måske ved du noget?"
+toc: true
 ---
-
-{% include toc %}
 
 Som du kan se på ovenstående billede, så er der en del at lave i vores arkiv med at få sorteret billederne i arkivet - og finde ud af hvornår de er fra, og hvad de forestiller.
 

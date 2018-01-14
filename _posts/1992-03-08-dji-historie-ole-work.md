@@ -12,9 +12,8 @@ category:
 tags:
   - historie
 excerpt: "Hvordan startede den Jyske Idrætsskole - og hvilke udfordringer var der i starten fra 1942-1948"
+toc: true
 ---
-
-{% include toc %}
 
 En 50-års fødselsdag bliver ofte lejligheden til at se bagud. Hvordan startede det? Hvorfor og hvordan starte en ny skole under den tyske besættelse af Danmark?
 

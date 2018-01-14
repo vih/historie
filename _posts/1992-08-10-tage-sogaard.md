@@ -11,9 +11,8 @@ tags:
   - forstander
   - Tage Søgaard
 excerpt: "Tage Søgaard fortæller bl.a. sin version af, da han som forstander blev frataget ledelsen og sagde op med bitterhed i 1964."
+toc: true
 ---
-
-{% include toc %}
 
 **For første gang fortæller Tage Søgaard sin version af et dramatisk kapitel i DJIs historie, da han som forstander blev frataget ledelsen og sagde op med bitterhed i 1964.**
 

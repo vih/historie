@@ -15,12 +15,12 @@
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
-        {% if teaser contains "://" %}
-          "{{ teaser }}"
-        {% else %}
-          "{{ teaser | absolute_url }}"
-        {% endif %}
-        alt="{{ title }}">
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | absolute_url }}"
+          {% endif %}
+          alt="{{ title }}">
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">

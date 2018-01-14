@@ -239,6 +239,9 @@ collections:
   podcasts:
     output: true
     permalink: /:collection/:path/
+  yearbooks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -318,6 +321,17 @@ defaults:
       episode_cover: /assets/podcasts/cover-stemmer.png
       explicit: "no"
       type: "Podcast"
+# _yearbooks
+  - scope:
+      path: ""
+      type: yearbooks
+    values:
+      layout: collection-single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 
 # Podcast

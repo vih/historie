@@ -6,6 +6,12 @@
   {% assign words = page.content | strip_html | number_of_words %}
 {% endif %}
 
+{% if post.podcast_duration %}
+  {{ post.podcast_duration }} minutters lytning og
+{% elsif page.podcast_duration %}
+  {{ page.podcast_duration }} minutters lytning og
+{% endif %}
+
 {% if words < words_per_minute %}
   {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
 {% elsif words == words_per_minute %}

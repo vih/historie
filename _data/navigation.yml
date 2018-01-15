@@ -2,18 +2,20 @@
 main:
   - title: "Start"
     url: /start/
-  - title: "Arkiv"
-    url: /arkiv/
-  - title: "Tidslinjer"
-    url: /tidslinjer/
   - title: "Podcast"
     url: /podcast/
+  - title: "Årsskrift"
+    url: /yearbooks/
   - title: "Video"
     url: /videoes/
-  - title: "Steder"
-    url: /steder/
+  - title: "Arkiv"
+    url: /arkiv/
   - title: "Sange"
     url: /sange/
+  - title: "Tidslinjer"
+    url: /tidslinjer/
+  - title: "Steder"
+    url: /steder/
   - title: "FAQ"
     url: /faq/
   - title: "Bidrag"

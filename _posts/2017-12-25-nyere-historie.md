@@ -7,7 +7,7 @@ excerpt: "Her får du de helt store historiske linjer siden 2006, hvor det senes
 header:
   overlay_image: https://drive.google.com/uc?id=1TFpE4_mJpycIgglSRLOXc02ryqHIEXZi
   caption: "Luftfoto 2017"
-  overlay_color: #2ae
+  overlay_color: "#2ae"
 toc: true
 sidebar:
   nav: "yearbook-2017"

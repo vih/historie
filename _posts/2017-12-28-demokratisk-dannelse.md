@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/yearbooks/2017/demokratisk-dannelse.jpg
   teaser: /assets/images/yearbooks/2017/demokratisk-dannelse.jpg
   caption: "Demokratisk dannelse - højskolen til debat"
-  overlay_color: #2ae
+  overlay_color: "#2ae"
 toc: true
 sidebar:
   - title: "Årsskriftet 2017"

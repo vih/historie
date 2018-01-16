@@ -6,7 +6,7 @@ tags:
 excerpt: "Christoffers og Esthers tale til afslutningsmiddagen for efterårsholdet 2017."
 header:
   teaser: /assets/images/yearbooks/2017/christoffer-esther.jpg
-  overlay_color: #2ae
+  overlay_color: "#2ae"
 sidebar:
   nav: "yearbook-2017"
 ---

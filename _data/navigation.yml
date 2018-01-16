@@ -22,3 +22,10 @@ main:
     url: /bidrag/
   - title: "Om"
     url: /om/
+
+yearbook-2017:
+  - title: Årsskrift 2017
+    url: /yearbooks/2017/
+    children:
+    - title: "Introduction"
+      url: ""

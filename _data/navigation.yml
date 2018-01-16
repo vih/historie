@@ -8,6 +8,8 @@ main:
     url: /tidslinjer/
   - title: "Podcast"
     url: /podcast/
+  - title: "Video"
+    url: /videoes/
   - title: "Steder"
     url: /steder/
   - title: "Sange"

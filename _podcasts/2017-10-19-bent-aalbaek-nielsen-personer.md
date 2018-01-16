@@ -10,9 +10,9 @@ excerpt: "Interview med Bent Aalbæk-Nielsen om de interessante personer, han hu
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
   mp3: http://historie.vih.dk/assets/podcasts/bent-aalbaek-nielsen-personer.mp3
-podcast_file_size: 32.9 MB # for mp3-file
-podcast_duration: "18:00" # for mp3-file
-podcast_length: 34570240 # for mp3-file
+podcast_file_size: 41.9 MB # for mp3-file
+podcast_duration: "22:56" # for mp3-file
+podcast_length: 44040192 # for mp3-file
 chapters:
   - '00:00:00.0 Intro'
   - '00:00:09.0 Talt intro'

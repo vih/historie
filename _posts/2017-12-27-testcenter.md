@@ -5,17 +5,29 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2017
-excerpt: ""
+excerpt: "Testcenteret i Center for Sundhed, Test og Læring har efterhånden arbejdet sig ind i skolens hverdag."
 header:
-  #image: /assets/images/unsplash-image-1.jpg
-  #image_description: "A description of the image"
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  #overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  #overlay_filter: rgba(255, 0, 0, 0.5)
+  overlay_image: /assets/images/yearbooks/2017/testcenter-cykel.jpg
+  caption: "Testcenteret har tid til dig"
   overlay_color: "#2ae"
-  #cta_label: "More Info"
-  #cta_url: "https://unsplash.com"
-toc: true
+  cta_url: "http://testcenter.vih.dk"
+  cta_label: "<i class='fas fa-arrow-alt-circle-right'></i> Book din egen tid i testcenteret"
+toc: false
 sidebar:
   nav: "yearbook-2017"
+gallery:
+  - url: "/assets/images/yearbooks/2017/testcenter-cykel.jpg"
+    image_path: "/assets/images/yearbooks/2017/testcenter-cykel.jpg"
+    alt: "Cykeltests i Testcenteret"
+    title: "Cykeltests"
+  - url: "/assets/images/yearbooks/2017/testcenter-run.jpg"
+    image_path: "/assets/images/yearbooks/2017/testcenter-run.jpg"
+    alt: "Løbetests i Testcenteret"
+    title: "Løbetests"
+  - url: "/assets/images/yearbooks/2017/testcenter-triatlon.jpg"
+    image_path: "/assets/images/yearbooks/2017/testcenter-triatlon.jpg"
+    alt: "Triatlontests i Testcenteret"
+    title: "Triatlontests"
 ---
+
+{% include gallery caption="Tilbud i testcenteret" %}

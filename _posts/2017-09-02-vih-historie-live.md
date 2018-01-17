@@ -1,6 +1,6 @@
 ---
-title: Vejle Idrætshøjskoles Historie #Live
-excerpt: "I anledning af Vejle Idrætshøjskoles 75 års jubilæum og elevmødet 2017, var der Højskolens Historie #Live, hvor der var besøg på scenen af en masse af de personligheder, der har været med til at skabe højskolen."
+title: "Vejle Idrætshøjskoles Historie #Live"
+excerpt: "Foredrag i anledning af Vejle Idrætshøjskoles 75 års jubilæum og Elevforeningens elevmøde 2017. I Vejle Idrætshøjskoles Historie #Live var der besøg på scenen af en masse af de personligheder, der har været med til at skabe højskolen."
 header:
   video:
     id: _GunyJNgzYI

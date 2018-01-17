@@ -1,6 +1,8 @@
 ---
 title: V.I.H.
 author: laura_wobeser_sparre
+category:
+  - Årsskrift
 tags:
   - Årsskrift 2017
 excerpt: "Laura Wobeser Sparres tale om og for eleverne til afslutningsfesten for efterårsholdet 2017."

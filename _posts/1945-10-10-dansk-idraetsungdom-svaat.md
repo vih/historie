@@ -6,7 +6,7 @@ category:
 tags:
   - Svend Aage Thomsen
   - forstander
-  - årsskrift 1945
+  - Årsskrift 1945
   - modstandskampen
 excerpt: "Svend Aage Thomsen reflekterer over den danske idrætsungdom under krigen."
 ---

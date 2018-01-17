@@ -1,6 +1,8 @@
 ---
 title: De store linjer siden 2006
 author: lsolesen
+category:
+  - Årsskrift
 tags:
   - Årsskrift 2017
 excerpt: "Her får du de helt store historiske linjer siden 2006, hvor det seneste årsskrift blev udgivet."

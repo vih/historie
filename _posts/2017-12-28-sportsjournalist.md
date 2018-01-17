@@ -1,6 +1,8 @@
 ---
 title: Fremtidens sportsjournalister snuser til faget i Vejle
 author: martin_davidsen
+category:
+  - Årsskrift
 tags:
   - Årsskrift 2017
 excerpt: "I oktober slog Vejle Idrætshøjskole dørene op til en ny linje med fokus på sportsjournalistik. Her står Martin Davidsen i spidsen for det lille hold af potentielle sportsjournalister, der i løbet af et halvt år prøver kræfter med disciplinen og snuser til fagets mange facetter."

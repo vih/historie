@@ -8,7 +8,7 @@ author: thormod_petersen
 category:
   - Årsskrift
 tags:
-  - årsskrift 1958
+  - Årsskrift 1958
 excerpt: "Kongen kom på besøg på Den Jyske Idrætsskole for at deltage i genindvielsen i 1958."
 ---
 

@@ -5,9 +5,9 @@ header:
   image: https://lh3.googleusercontent.com/OOCTVD3dEsm7nMBuSIvy8AMGT1Xwz8nlY14RpZmx_aBPDgCT1ETnFvOq9J8MRf9QG2q4M3OQ7qdUk8pDQyWZueKHvAiEmQUVgXXcXr2wGN-7BnCNyR8iKiymjnzpy0lKoC_DcGqXdu8
   caption: Tage Søgaard er ved at ordne udstyr. Affotograferet fra Jubilæumsskriftet 1992.
 category:
-  - Jubilæumsskrift
+  - Årsskrift
 tags:
-  - jubilæumsskrift 1992
+  - Jubilæumsskrift 1992
   - forstander
   - Tage Søgaard
 excerpt: "Tage Søgaard fortæller bl.a. sin version af, da han som forstander blev frataget ledelsen og sagde op med bitterhed i 1964."

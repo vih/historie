@@ -1,6 +1,8 @@
 ---
 title: Center for Sundhed, Test og Læring
 author: dina_knudsen
+category:
+  - Årsskrift
 tags:
   - Årsskrift 2017
 excerpt: ""

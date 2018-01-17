@@ -1,6 +1,8 @@
 ---
 title: Om Vejle Idrætsefterskole
 author: per_jensen
+category:
+  - Årsskrift
 tags:
   - Årsskrift 2017
 excerpt: "I 2007 startede der også en Idrætsefterskole på Vejle Idrætshøjskole, så der nu er to kostskoler under samme tag."

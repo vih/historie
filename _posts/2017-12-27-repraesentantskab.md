@@ -1,6 +1,8 @@
 ---
 title: Repræsentantskabet
 author: carsten_lang_petersen
+category:
+  - Årsskrift
 tags:
   - Årsskrift 2017
 excerpt: ""

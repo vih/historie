@@ -1,6 +1,8 @@
 ---
 title: Hjem
 author: jannie_tolstrup
+category:
+  - Årsskrift
 tags:
   - Årsskrift 2017
 excerpt: "Jannie Tolstrups tale fra afslutningsmiddagen for efterårsholdet 2017."

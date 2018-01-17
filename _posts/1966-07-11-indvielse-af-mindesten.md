@@ -11,7 +11,7 @@ category:
 tags:
   - Svend Aage Thomsen
   - forstander
-  - årsskrift 1966
+  - Årsskrift 1966
 excerpt: "Indtryk fra afsløringen af mindestenen for Svend Åge Thomsen i 1966"
 toc: true
 ---

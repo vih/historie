@@ -1,6 +1,8 @@
 ---
 title: Det gjorde særligt indtryk på os...
 author: mette_holst_nymand
+category:
+  - Årsskrift
 tags:
   - Årsskrift 2017
 excerpt: ""

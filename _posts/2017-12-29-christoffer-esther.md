@@ -1,6 +1,8 @@
 ---
 title: 50 Princes and 50 Princesses
 author: christoffer_og_esther
+category:
+  - Årsskrift
 tags:
   - Årsskrift 2017
 excerpt: "Christoffers og Esthers tale til afslutningsmiddagen for efterårsholdet 2017."

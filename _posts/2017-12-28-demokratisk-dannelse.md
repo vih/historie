@@ -1,6 +1,8 @@
 ---
 title: Når idrætten åbner for demokratisk læring
 author: lsolesen
+category:
+  - Årsskrift
 tags:
   - Årsskrift 2017
 excerpt: "På Vejle Idrætshøjskole har lærerne i fællesskab defineret forståelsen af demokratisk dannelse, som er en del af hovedsigtet i højskoleloven. Forståelsen tager udgangspunkt i, hvordan vi får besvaret spørgsmålet: ”Hvordan vil vi gerne leve sammen?”"

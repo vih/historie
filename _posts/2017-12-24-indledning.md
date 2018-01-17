@@ -1,6 +1,8 @@
 ---
 title: Så udsendes der igen årsskrift på Vejle Idrætshøjskole
 author: lsolesen
+category:
+  - Årsskrift
 tags:
   - Årsskrift 2017
 excerpt: "Efter at have hvilet siden 2006 udsender vi igen årsskrift på Vejle Idrætshøjskole."

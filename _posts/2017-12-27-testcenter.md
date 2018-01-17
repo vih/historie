@@ -1,6 +1,8 @@
 ---
 title: Om Testcenteret
 author: lsolesen
+category:
+  - Årsskrift
 tags:
   - Årsskrift 2017
 excerpt: ""

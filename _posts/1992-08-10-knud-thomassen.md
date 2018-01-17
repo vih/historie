@@ -5,9 +5,9 @@ header:
   caption: Knud Thomassen - tilknyttet skolen fra 1942 til 1986 - har leveret mange af bogens billeder fra sit righoldige arkiv. Han pusler også selv med manuskript til en bog om Den Jyske Idrætsskole.
 author: jub92
 category:
-  - Jubilæumsskrift
+  - Årsskrift
 tags:
-  - jubilæumsskrift 1992
+  - Jubilæumsskrift 1992
   - Knud Thomassen
 excerpt: "Knud Thomassen havde et langt liv på Den Jyske Idrætsskole."
 ---

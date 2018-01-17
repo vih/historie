@@ -4,7 +4,7 @@ author: thormod_petersen
 category:
   - Årsskrift
 tags:
-  - årsskrift 1950
+  - Årsskrift 1950
   - modstandskampen
 excerpt: "Thormod Petersen skriver lidt om friheden - baseret på tanker fra modstandskampen."
 ---

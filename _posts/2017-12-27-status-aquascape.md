@@ -1,6 +1,8 @@
 ---
 title: Status på AquaScape
 author: ole_damgaard
+category:
+  - Årsskrift
 tags:
   - Årsskrift 2017
 excerpt: ""

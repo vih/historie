@@ -13,9 +13,9 @@ header:
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
   mp3: http://historie.vih.dk/assets/podcasts/birte-christensen.mp3
-podcast_file_size: 25.0 MB # for mp3-file
-podcast_duration: "13:40" # for mp3-file
-podcast_length: 26259456 # for mp3-file
+podcast_file_size: 59.4 MB # for mp3-file
+podcast_duration: "29:48" # for mp3-file
+podcast_length: 62377851 # for mp3-file
 chapters:
  - '00:00:00.0 Intro'
  - '00:13:20.0 Talt outro'

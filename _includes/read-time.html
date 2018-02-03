@@ -6,9 +6,9 @@
   {% assign words = page.content | strip_html | number_of_words %}
 {% endif %}
 
-{% if post.podcast_duration %}
+{% if post.listen_time && post.podcast_duration %}
   {{ post.podcast_duration }} minutters lytning og
-{% elsif page.podcast_duration %}
+{% elsif page.listen_time && page.podcast_duration %}
   {{ page.podcast_duration }} minutters lytning og
 {% endif %}
 

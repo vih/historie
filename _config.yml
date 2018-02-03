@@ -251,6 +251,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      listen_time: false
       comments: true
       share: true
       related: true
@@ -261,6 +262,7 @@ defaults:
     values:
       layout: collection-single
       author_profile: true
+      listen_time: false
       read_time: false
       comments: true
       share: true
@@ -272,6 +274,7 @@ defaults:
     values:
       layout: collection-single
       author_profile: true
+      listen_time: false
       read_time: false
       comments: true
       share: true
@@ -283,6 +286,7 @@ defaults:
     values:
       layout: collection-single
       author_profile: true
+      listen_time: false
       read_time: false
       comments: true
       share: true
@@ -294,6 +298,7 @@ defaults:
     values:
       layout: collection-single
       author_profile: true
+      listen_time: false
       read_time: true
       comments: true
       share: true
@@ -305,6 +310,7 @@ defaults:
     values:
       layout: podcast-single
       author_profile: true
+      listen_time: true
       read_time: true
       comments: true
       share: true

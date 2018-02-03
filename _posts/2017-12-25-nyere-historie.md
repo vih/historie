@@ -68,6 +68,7 @@ Der er sket rigtig meget på skolen, hvis du ikke har været forbi siden 2006. N
 <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
 <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
 
+<br><br>
 
 I perioden er der kommet rigtig mange nye bygninger til, og det er samtidig suppleret af utallige vedligeholdelsesprojekter. Så skolens bygningsmasse fremstår i dag i noget bedre form end den gjorde i 2006.
 
@@ -82,3 +83,17 @@ I perioden er der kommet rigtig mange nye bygninger til, og det er samtidig supp
 * 2016 Energirenovation med nyt tag på hallen og træningssalen - og ventilation og varme i lokalerne.
 * 2016 Indvielse af ny skovforhindringsbane i Nørreskoven lavet i samarbejde mellem Vejle Kommune og Vejle Idrætshøjskole.
 * 2017 Renovering af gulv i træningssal.
+
+## Den nyere historie i flere detaljer
+
+Vi er fed at samle historien i flere detaljer ved retrospektivt at udforme dagbøger for alle de år, hvor der mangler dagbøger. Du er meget velkommen til at give en hånd, hvis du kan beskrive lidt om nogle af de større arrangementer.
+
+Her kan du se en oversigt over alle de uddrag fra dagbøger, der er på det historiske site.
+
+{% assign site_posts = site.posts | where: "tags", "dagbog" | sort: "date" %}
+
+<ul>
+{% for post in site_posts %}
+  <li><a href="{{ post.url | absolute_url }}" rel="permalink">{{ post.title }}</a></li>
+{% endfor %}
+</ul>

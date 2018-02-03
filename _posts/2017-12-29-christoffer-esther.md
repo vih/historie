@@ -1,11 +1,12 @@
 ---
 title: 50 Princes and 50 Princesses
+permalink: /yearbooks/2017/50-princes-50-princesses/
 author: christoffer_og_esther
 category:
   - Årsskrift
 tags:
   - Årsskrift 2017
-excerpt: "Christoffers og Esthers tale til afslutningsmiddagen for efterårsholdet 2017."
+excerpt: "Hvert år beder vi to elever holde tale til afslutningsmiddagen. Her kan du læse Christoffers (nordjyde) og Esthers (islænding) tale til afslutningsmiddagen for efterårsholdet 2017."
 header:
   teaser: /assets/images/yearbooks/2017/christoffer-esther.jpg
   overlay_color: "#2ae"

@@ -1,11 +1,12 @@
 ---
 title: V.I.H.
+permalink: /yearbooks/2017/vih/
 author: laura_wobeser_sparre
 category:
   - Årsskrift
 tags:
   - Årsskrift 2017
-excerpt: "Laura Wobeser Sparres tale om og for eleverne til afslutningsfesten for efterårsholdet 2017."
+excerpt: "Den sidste fest for eleverne for efteråret 2017 var en gallafest. Højskoleelev, Laura Wobeser Sparre, holdt tale, hvor hun satte ord på, hvad V.I.H. står for."
 header:
   overlay_image: /assets/images/yearbooks/2017/laura-wobeser-sparre.jpg
   teaser: /assets/images/yearbooks/2017/laura-wobeser-sparre.jpg

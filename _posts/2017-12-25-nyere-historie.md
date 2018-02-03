@@ -1,11 +1,12 @@
 ---
 title: De store linjer siden 2006
+permalink: /yearbooks/2017/historie-2006-2017/
 author: lsolesen
 category:
   - Årsskrift
 tags:
   - Årsskrift 2017
-excerpt: "Her får du de helt store historiske linjer siden 2006, hvor det seneste årsskrift blev udgivet."
+excerpt: "Her får du de helt store historiske linjer siden 2006, hvor det seneste årsskrift blev udgivet. Du får også lejlighed til at hjælpe med vores hukommelse."
 header:
   overlay_image: https://drive.google.com/uc?id=1TFpE4_mJpycIgglSRLOXc02ryqHIEXZi
   caption: "Luftfoto 2017"

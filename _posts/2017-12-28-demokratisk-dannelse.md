@@ -1,11 +1,12 @@
 ---
 title: Når idrætten åbner for demokratisk læring
+permalink: /yearbooks/2017/demokratisk-dannelse/
 author: lsolesen
 category:
   - Årsskrift
 tags:
   - Årsskrift 2017
-excerpt: "På Vejle Idrætshøjskole har lærerne i fællesskab defineret forståelsen af demokratisk dannelse, som er en del af hovedsigtet i højskoleloven. Forståelsen tager udgangspunkt i, hvordan vi får besvaret spørgsmålet: ”Hvordan vil vi gerne leve sammen?”"
+excerpt: "På Vejle Idrætshøjskole har lærerne i fællesskab defineret forståelsen af demokratisk dannelse, som er en del af hovedsigtet i højskoleloven. Forståelsen tager udgangspunkt i, hvordan vi får besvaret spørgsmålet: <q>Hvordan vil vi gerne leve sammen?</q>. Lars Olesen, viceforstander, samlede det til en artikle i antologien Demokratisk Dannelse, som blev udgivet af FFD. Læs den her."
 header:
   overlay_image: /assets/images/yearbooks/2017/demokratisk-dannelse.jpg
   teaser: /assets/images/yearbooks/2017/demokratisk-dannelse.jpg
@@ -42,13 +43,13 @@ I højskoleloven er der ikke præsenteret en definition af demokratisk dannelse.
 
 Konkret har vi opstillet en række punkter, som illustrerer, hvordan vi på Vejle Idrætshøjskole for tiden forstår og arbejder med demokratisk dannelse.
 
-- *Forståelse og respekt*. At man skal respektere hinandens synspunkter, selvom man kan være undrende uenig. Alle skal have lejlighed til at blive hørt med de forskelligheder, det nu bringer til diskussionen. Der skal være plads til at ytre det, der er en på hjerte. Det skal der være åbenhed og respekt omkring.
-- *Medbestemmelse*. Man skal have mulighed for at være med til at bestemme noget og lære at være en del af en beslutningsproces. Det indebærer også, at man føler, at man har indflydelse på ens egen hverdag.
-- *At kunne gå på kompromis*. At vide at alting i et fællesskab ikke kan blive nøjagtigt, som man gerne vil, men at der kan være løsninger, der tilgodeser alle. Og hvad gør man, når man ikke får ret? Hvordan kommer man til enighed?
-- *Tage stilling*. Det handler om at få lyst, mod og evne til at tage stilling - og reflektere over, hvordan man egentlig gerne vil have, at tingene foregår. At kunne forklare hvorfor man gerne vil have tingene på en bestemt måde - og gennem den diskussion blive endnu mere klar over, hvad man egentlig mener. Det handler også om at skærpe den enkeltes kritiske sans.
-- *Evne og mod til at forklare sig*. Den enkelte skal hvile nok i sig selv til at kunne forklare sine egne synspunkter. Eleven skal indgydes mod til at turde stå fast og fortælle, hvad vedkommende har på sinde. At turde lægge sine synspunkter ud i det åbne og ikke vælte, selvom de møder modvind.
-- *Byd ind*. Væsentligheden af at bidrage i fællesskabet - men også arbejde med, hvordan den enkelte kan bidrage til at påvirke fællesskabet og den måde vi gerne vil leve sammen på. Hvordan vil vi gerne bidrage til samfundet og tage del i samfundet? Den enkelte skal forstå, at vedkommende som en del af fællesskabet er ansvarlig for det - og hvordan den enkelte varetager sin rolle får betydning for, hvordan vi lever sammen.
-- *Rettigheder og pligter*. Der er rettigheder og pligter, som eleverne selv skal være med til at løse. Vi har formuleret pligterne og hjørneflagene for den måde, vi gerne vil være sammen på, men vi skaber og genskaber rammerne sammen med eleverne.
+- **Forståelse og respekt**. At man skal respektere hinandens synspunkter, selvom man kan være undrende uenig. Alle skal have lejlighed til at blive hørt med de forskelligheder, det nu bringer til diskussionen. Der skal være plads til at ytre det, der er en på hjerte. Det skal der være åbenhed og respekt omkring.
+- **Medbestemmelse**. Man skal have mulighed for at være med til at bestemme noget og lære at være en del af en beslutningsproces. Det indebærer også, at man føler, at man har indflydelse på ens egen hverdag.
+- **At kunne gå på kompromis**. At vide at alting i et fællesskab ikke kan blive nøjagtigt, som man gerne vil, men at der kan være løsninger, der tilgodeser alle. Og hvad gør man, når man ikke får ret? Hvordan kommer man til enighed?
+- **Tage stilling**. Det handler om at få lyst, mod og evne til at tage stilling - og reflektere over, hvordan man egentlig gerne vil have, at tingene foregår. At kunne forklare hvorfor man gerne vil have tingene på en bestemt måde - og gennem den diskussion blive endnu mere klar over, hvad man egentlig mener. Det handler også om at skærpe den enkeltes kritiske sans.
+- **Evne og mod til at forklare sig**. Den enkelte skal hvile nok i sig selv til at kunne forklare sine egne synspunkter. Eleven skal indgydes mod til at turde stå fast og fortælle, hvad vedkommende har på sinde. At turde lægge sine synspunkter ud i det åbne og ikke vælte, selvom de møder modvind.
+- **Byd ind**. Væsentligheden af at bidrage i fællesskabet - men også arbejde med, hvordan den enkelte kan bidrage til at påvirke fællesskabet og den måde vi gerne vil leve sammen på. Hvordan vil vi gerne bidrage til samfundet og tage del i samfundet? Den enkelte skal forstå, at vedkommende som en del af fællesskabet er ansvarlig for det - og hvordan den enkelte varetager sin rolle får betydning for, hvordan vi lever sammen.
+- **Rettigheder og pligter**. Der er rettigheder og pligter, som eleverne selv skal være med til at løse. Vi har formuleret pligterne og hjørneflagene for den måde, vi gerne vil være sammen på, men vi skaber og genskaber rammerne sammen med eleverne.
 
 Vi arbejder især med demokrati som livsform, forstået som et mellemværende mellem mennesker. Hvis man vil gøre sin indflydelse gældende i demokratiet som styreform, er mange af de samme egenskaber naturligvis også nødvendige. I det følgende beskrives hvordan den demokratiske dannelse bl.a. løftes i undervisningen.
 

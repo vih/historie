@@ -1,11 +1,12 @@
 ---
 title: Hjem
+permalink: /yearbooks/2017/hjem/
 author: jannie_tolstrup
 category:
   - Årsskrift
 tags:
   - Årsskrift 2017
-excerpt: "Jannie Tolstrup har øvet sig et helt semester for at lære at spille klaver. Og hun lærte at spille _Hjem_ med Sanne Salomonsen. Her er Jannies tale fra afslutningsmiddagen for efterårsholdet 2017, hvor hun knytter lidt flere ord til, hvorfor sangen har betydet så meget for Jannie og efterårsholdet."
+excerpt: "Jannie Tolstrup, højskoleelev, har øvet sig et helt semester for at lære at spille klaver. Og hun lærte at spille _Hjem_ med Sanne Salomonsen. Her er Jannies tale fra afslutningsmiddagen for efterårsholdet 2017, hvor hun knytter lidt flere ord til, hvorfor sangen har betydet så meget for Jannie og efterårsholdet."
 header:
   overlay_image: /assets/images/yearbooks/2017/jannie-tolstrup.jpg
   teaser: /assets/images/yearbooks/2017/jannie-tolstrup.jpg
@@ -23,13 +24,13 @@ I have used hours in the music room, the last 4 months, trying to learn how to p
 
 I have this song that I really like! The funny thing about this song is that I'm not even sure, if I knew it, before I came here. But somehow the song means a lot to me now. I know it means a lot to a lot of you guys as well.
 
-The song is “Hjem” by Sanne Salomonsen. I would like all of you to sing the song with me, but first I would like to say a few words.
+The song is _"Hjem"_ by Sanne Salomonsen. I would like all of you to sing the song with me, but first I would like to say a few words.
  
 I don’t think, it is a secret. But the party on Saturday was quite emotional for a lot of people! There were a lot of tears, a lot of hugs and a lot of talking about how much we all love this place.  
 
 In the middle of all this, I just felt like being grateful. Grateful for what I have experienced here, and for all the friends I have got. And then 5:45 in the morning, when I was still a bit drunk and couldn’t sleep I felt like taking my computer up, typing some of the stuff down that people told me at the party, and stuff that I just felt like writing down. Now I would like to share that with you guys…
  
-Let’s start with the song “Hjem”. I think people have heard this song around a 100 times the last couple of days.
+Let’s start with the song _"Hjem"_. I think people have heard this song around a 100 times the last couple of days.
 
 The other day I was sitting in the ‘Havestue’ - people were writing in songbooks, when Sebastian came down. With some other guys he had been listening to this song, he needed a break from all the writing, and all the crying! The song and all the goodbye letters somehow touched him, like they have touched a lot of other people as well. There is something unique about this song and this place.
 
@@ -82,4 +83,6 @@ Actually let’s sing this song for those of us that continue and all of you, wh
  
 Thanks for a fantastic stay, with you guys – and thanks for a lot of lovely memories.
 
-Please stand up and sing Sanne Salomonsens "Hjem" with me.
+Please stand up and sing Sanne Salomonsens _"Hjem"_ with me.
+
+{% include video provider="youtube" id="0ydY-D0105c" %}

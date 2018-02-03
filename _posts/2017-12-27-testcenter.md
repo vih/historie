@@ -1,11 +1,12 @@
 ---
 title: Om Testcenteret
+permalink: /yearbooks/2017/testcenter/
 author: lsolesen
 category:
   - Årsskrift
 tags:
   - Årsskrift 2017
-excerpt: "Testcenteret i Center for Sundhed, Test og Læring har efterhånden arbejdet sig ind i skolens hverdag."
+excerpt: "De ansatte i Testcenteret fortæller om, hvordan testcenteret efterhånden arbejdet sig ind i skolens hverdag og hvad planerne er for de eksterne samarbejder i 2018."
 header:
   overlay_image: /assets/images/yearbooks/2017/testcenter-cykel.jpg
   caption: "Testcenteret har tid til dig"

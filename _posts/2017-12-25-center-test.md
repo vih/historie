@@ -1,11 +1,12 @@
 ---
 title: Center for Sundhed, Test og Læring
+permalink: /yearbooks/2017/center-sundhed-test-laering/
 author: dina_knudsen
 category:
   - Årsskrift
 tags:
   - Årsskrift 2017
-excerpt: ""
+excerpt: "Dina Knudsen, kommunikation og funding, fortæller om processen med at få etableret Center for Sundhed, Test og Læring - og hvordan vi bruger funding mere strategisk til at sikre faciliteterne på skolen."
 header:
   #image: /assets/images/unsplash-image-1.jpg
   #image_description: "A description of the image"

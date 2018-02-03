@@ -8,7 +8,7 @@ header:
   image: https://drive.google.com/uc?id=0B5v4mAibvkKXVTJpbkxCWHFJSFk
   teaser: https://drive.google.com/uc?id=0B5v4mAibvkKXVTJpbkxCWHFJSFk
   caption: Privatbillede af DJIs elitehold fra opvisningen ved Delingførerforeningens 100 års jubilæum. 
-excerpt: "Alice Grønborg Kragh fortæller, hvordan fanen kom til Den Jyske Idrætsskole"
+excerpt: "Alice Grønborg Kragh, tidligere højskolelærer, fortæller, hvordan fanen kom til Den Jyske Idrætsskole"
 ---
 
 I 1990 fik landets idrætshøjskoler en spændende invitation fra Delingsførerforeningen i Danmark. De ville gerne markere deres  100 års jubilæum med en gymnastik forestilling i Musikhuset i Århus.

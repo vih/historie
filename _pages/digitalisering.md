@@ -1,14 +1,14 @@
 ---
 layout: single
+permalink: /digitalisering/
 title:  "Digitalisering af arkiv på Vejle Idrætshøjskole"
-categories:
-  - arkiv
-  - vih
-  - dji
+tags:
+  - digitalisering
+  - video
+  - billeder
 header:
   image: https://lh3.googleusercontent.com/PvV_iGTm_pfPR66EPxt955I6nbiUq6sEDt8sOwbVPEFzlIfpqu9Lfu7xej8zL3ZpXtQZzkhsHZ4aQbgBSKGaZWraz10FnrUtwN6OGtxKcJKp6Dn-pUTQcMNFnxenYPNzgoyPJSFEfFE
-  caption: Vi er i fuld gang med at digitalisere VHS-båndende.
-permalink: /digitalisering/
+  caption: Vi er i fuld gang med at digitalisere VHS-båndene.
 ---
 
 Arkivet er fyldt med virkelig mange gamle medier med lyd- eller videoptagelser. Vi er i fuld gang med at digitalisere det, der er bevaringsværdigt, og i det hele taget finde ud af, hvad der er på båndene. 

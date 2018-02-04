@@ -18,7 +18,7 @@ sidebar:
 
 Hi guys, now the day is almost here. The day, where a lot of the people, who started with me in August have to say goodbye to the school and to our home. But first, let’s live the moment, right now and enjoy the last days, where we are all together.
 
-I have used hours in the music room, the last 4 months, trying to learn how to play the fucking piano! Actually, I learned something. Yeah lucky me! And even more lucky are you guys – you are going to hear me play in a few minutes. Yeah!!
+I have used hours in the music room, the last 4 months, trying to learn how to play the fucking piano! Actually, I learned something. Yeah lucky me! And even more lucky are you guys – you are going to hear me play in a few minutes. Yeah!
 
 I have this song that I really like! The funny thing about this song is that I'm not even sure, if I knew it, before I came here. But somehow the song means a lot to me now. I know it means a lot to a lot of you guys as well.
 
@@ -34,7 +34,8 @@ The other day I was sitting in the ‘Havestue’ - people were writing in songb
 
 I personally think the reason is that we can all relate to it! We have all been through something, fighted through something and we have all ended up here at VIH, and we have become one big family, and this place has become our home.
 
-I grew up with a mum, who suffered from schizophrenia and who wasn’t able to take care of me and my sisters. So I chose to move out when I was 16 – 6 years ago – and I haven’t seen my mum ever since.
+I grew up with a mum, who suffered from schizophrenia and who wasn’t able to take care of me and my sisters. So I chose to move out when I was 16 – 6 years ago – and I haven't seen my mum ever since.
+
 My dad, on his side, used to drink and take hard drugs, he just got out of it, but sadly he passed away last year.
 
 That have left me behind with a feeling of being homeless and being without anybody – though I know this is not true, but it is somehow just a feeling I have had to accept and deal with.
@@ -47,7 +48,7 @@ Sara have a countdown list on her phone, so that she can see exactly how many da
 
 So let’s sing this song for Sara, because this stay means a lot to her.
 
-Let’s also sing this song for Pearl, because she loves all of us, and because she is going to Australia but can’t really bear the thought of saying goodbye to all of us.
+Let’s also sing this song for Pearl, because she loves all of us, and because she is going to Australia but can't really bear the thought of saying goodbye to all of us.
 
 Let’s sing it for Amine, because he has been through hard times, and somehow he is here now, and have got friends for lifetime.
 
@@ -63,7 +64,7 @@ Let’s sing it for Birk, because he has to know that we are a lot of people, wh
 
 Let’s sing it for Nikoline, because she deserves it!
 
-Let’s sing it for all the Teambuilders, because they couldn’t get enough of this.
+Let’s sing it for all the _teambuilders_, because they couldn't get enough of this.
 
 Let’s sing this song for Johanne, because she calls this her home and doesn’t want to leave it.
 
@@ -73,7 +74,7 @@ Let’s sing it for Siggi, because he keeps making sure there is enough spoons f
 
 Let’s sing it for Ladegaard, because he is so fucking cool, and not afraid of showing his emotions.
 
-Let’s sing it for Channie because we all love her, and because we all know how hard this is for her, and how much, this place means to her.
+Let’s sing it for Channie because we all love her, and because we all know how hard this is for her, and how much this place means to her.
 
 Let’s sing it for Esther, because she reminds us that "vi bare hygge", and that's important!
 

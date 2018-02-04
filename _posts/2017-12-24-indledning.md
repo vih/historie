@@ -16,7 +16,7 @@ sidebar:
 
 Vi har gjort det igen! Det er alt for mange år siden, vi gjorde det sidst. Og det er virkelig på tide at få gjort det igen. I 2007 besluttede nogen på Vejle Idrætshøjskole sig for, at skolen ikke længere skulle udgive årsskrifter. I 2017 har vi besluttet os for, at selvfølgelig skal vi have et årsskrift. Højskolen skal igen nedfælde nogle af oplevelserne, tankerne og begivenhederne fra året, der er gået.
 
-Det har vi især gjort fordi vi i år har 75 års jubilæum og i den forbindelse er dykket dybt ned i højskolens historie - og i den forbindelse har årsskrifterne været en uvurderlig kilde til kendskab om de forgangne år. Uden årsskrifterne kan store dele af højskolens historie gå i glemmebogen, og det ønsker vi ikke. Derfor forsøger vi også i dette årsskrift at samle op på de seneste 10 år i glemmebogen, men vi laver også tilbageblik tilbage til de ældre årsskrifter. Derudover dykker vi også lige ned i nutiden og sætter rammer om skolens hverdag og udvikling lige nu.
+Det har vi især gjort, fordi vi i år har 75 års jubilæum og i den forbindelse er dykket dybt ned i højskolens historie - og i den forbindelse har årsskrifterne været en uvurderlig kilde til kendskab om de forgangne år. Uden årsskrifterne kan store dele af højskolens historie gå i glemmebogen, og det ønsker vi ikke. Derfor forsøger vi også i dette årsskrift at samle op på de seneste 10 år i glemmebogen, men vi laver også tilbageblik tilbage til de ældre årsskrifter. Derudover dykker vi også lige ned i nutiden og sætter rammer om skolens hverdag og udvikling lige nu.
 
 ## Årsskriftet er digitalt
 
@@ -38,11 +38,15 @@ Det virker som om skolen igen bliver involveret i redaktionen af årsskriftet fr
 
 Indholdet af årsskriftet har gennem historien skiftet med hovedsageligt at koncentrere sig om skolens virke, have samfundsmæssige temaer og kommentarer til de livsvilkår vi alle lever under. I årsskriftet har der også været hilsener fra elever og elevlister for de enkelte årgange.
 
-Vi (gen)opstarter årsskriftet med at hædre princippet, som redaktøren Ove Sørensen beskriver i årsskriftet fra 1967: “det skal være læseværdigt og orienterende, hovedsageligt omhandlende Den Jyske Idrætsskole og de personer, der har tilknytning dertil.” Så lad dette årsskrift primært omhandle Vejle Idrætshøjskole.
+Vi (gen)opstarter årsskriftet med at hædre princippet, som redaktøren Ove Sørensen beskriver i årsskriftet fra 1967: 
+
+> "det skal være læseværdigt og orienterende, hovedsageligt omhandlende Den Jyske Idrætsskole og de personer, der har tilknytning dertil." 
+
+Så lad dette årsskrift primært omhandle Vejle Idrætshøjskole.
 
 ## Hvad kan du læse om?
 
-{% assign site_posts = site.posts | where: "tags", "Årsskrift 2017" | sort: "date" %}
+{% assign site_posts = site.posts | where: "tags", "Årsskrift 2017" | sort: "date" | shift %}
 
 <dl>
 {% for post in site_posts %}

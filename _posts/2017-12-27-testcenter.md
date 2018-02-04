@@ -32,3 +32,5 @@ gallery:
 ---
 
 {% include gallery caption="Tilbud i testcenteret" %}
+
+[<i class='fas fa-money-bill-alt'></i> Bestil test i testcenteret](http://testcenter.vih.dk){: .btn .btn--warning .btn--primary .btn--large}

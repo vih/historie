@@ -20,3 +20,5 @@ toc: true
 sidebar:
   nav: "yearbook-2017"
 ---
+
+[<i class='fas fa-money-bill-alt'></i> Giv bidrag til projektet](http://fond.vih.dk){: .btn .btn--warning .btn--primary .btn--large}

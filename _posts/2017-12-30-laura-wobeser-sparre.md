@@ -12,6 +12,7 @@ header:
   teaser: /assets/images/yearbooks/2017/laura-wobeser-sparre.jpg
   caption: "Foto: Lars Olesen, 2017"
   overlay_color: "#2ae"
+toc: true
 sidebar:
   nav: "yearbook-2017"
 ---

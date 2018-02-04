@@ -1,0 +1,7 @@
+{% if include.plugin == "video" %}
+  <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvihdk%2Fvideos%2F{{ include.id }}%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+{% elsif include.plugin == "post" %}
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fvihdk%2Fposts%2F{{ include.id }}&width=500" width="500" height="728" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+{% elsif include.plugin == "media" %}
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3{{ include.id }}%26type%3D3&width=500" width="500" height="665" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+{% endif %}

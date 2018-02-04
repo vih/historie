@@ -1,5 +1,7 @@
 ---
 title: "Vejle Idrætshøjskoles Historie #Live"
+video_time: true
+video_duration: 130:59
 author: lsolesen
 permalink: /hojskolens-historie-live-vol-1/
 excerpt: "Foredrag i anledning af Vejle Idrætshøjskoles 75 års jubilæum og Elevforeningens elevmøde 2017. I Vejle Idrætshøjskoles Historie #Live var der besøg på scenen af en masse af de personligheder, der har været med til at skabe højskolen."

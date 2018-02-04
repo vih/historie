@@ -14,6 +14,7 @@ header:
 toc: true
 sidebar:
   nav: "yearbook-2017"
+start_date: 2007-01-01T10:20:00Z
 ---
 
 Velkommen op i helikopteren. Vi har fundet det væsentligt at komme i gang med en tidslinje for skolen, da der ikke har været nogle årsskrifter siden 2006. For at samle (lidt) op på historien prøver vi at tegne de store linjer for højskolens udvikling. Vi dykker ned i menneskene, begivenhederne, bygningerne og eleverne, men forholder os kun beskrivende til tingene.
@@ -54,7 +55,7 @@ Vi har ændret sammensætningen af repræsentantskabet til en mere moderne og ma
 * 2009 Peter Sebastian Petersen ansættes i den nyoprettede stilling som markedsførings medarbejder og fra 2010 forretningsudvikler og sætter sammen med de eksisterende ansatte gang i mere struktureret elevrekruttering og udvikling af højskolen.
 * 2009 Lars Kjærsgaard stopper som forstander og Erik Sidenius bliver konstitueret forstander.
 * 2010 Ole Damgaard ansættes som forstander.
-* 2010 Ny ledelsesstruktur giver lederskabet af skolen til et ledelsesteam; Ole Damgaard, Frank Rasmussen og Peter Sebastian Petersen har været en del af dette siden. De første år bestod ledelsesteamet af 4 personer, fra 2010 - 2012 af Palle Tykjær, fra 2012 - 2013 af Søren Stein Brinck begge som forretningsfører. 
+* 2010 Ny ledelsesstruktur giver lederskabet af skolen til et ledelsesteam; Ole Damgaard, Frank Rasmussen og Peter Sebastian Petersen har været en del af dette siden. De første år bestod ledelsesteamet af 4 personer, fra 2010 - 2012 af Palle Tykjær, fra 2012 - 2013 af Søren Stein Brinck begge som forretningsførere. 
 * 2013 Mangeårig højskolelærer, Lars Olesen, ansættes i den nyoprettede viceforstanderstilling.
 * 2017 Strukturen for skolens bagland ændres idet repræsentantskabet får en ny struktur, hvilket du kan læse om i artiklen [Nyt repræsentantskab](/repraesentantskab-2017/).
 
@@ -63,8 +64,8 @@ Vi har ændret sammensætningen af repræsentantskabet til en mere moderne og ma
 Der er sket rigtig meget på skolen, hvis du ikke har været forbi siden 2006. Nedenstående billeder giver en indikation af, hvad der er sket med skolens udseende.
 
 <div class="juxtapose">
-    <img src="https://drive.google.com/uc?id=1TFpE4_mJpycIgglSRLOXc02ryqHIEXZi" data-credit="2012" />
-    <img src="https://drive.google.com/uc?id=1J8hZ6vr6NiYtZbabcBJaXo54WAUJzn1y" data-credit="2017" />
+  <img src="https://drive.google.com/uc?id=1TFpE4_mJpycIgglSRLOXc02ryqHIEXZi" data-credit="2012" />
+  <img src="https://drive.google.com/uc?id=1J8hZ6vr6NiYtZbabcBJaXo54WAUJzn1y" data-credit="2017" />
 </div>
 <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
 <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
@@ -85,16 +86,22 @@ I perioden er der kommet rigtig mange nye bygninger til, og det er samtidig supp
 * 2016 Indvielse af ny skovforhindringsbane i Nørreskoven lavet i samarbejde mellem Vejle Kommune og Vejle Idrætshøjskole.
 * 2017 Renovering af gulv i træningssal.
 
-## Den nyere historie i flere detaljer
+## Begivenhederne
 
-Vi er fed at samle historien i flere detaljer ved retrospektivt at udforme dagbøger for alle de år, hvor der mangler dagbøger. Du er meget velkommen til at give en hånd, hvis du kan beskrive lidt om nogle af de større arrangementer.
+Der er blevet etableret en idrætsefterskole på matriklen, og der er blevet bygget og vedligeholdt for mange millioner i perioden, men der er også sket mange andre ting på højskolen. Her er et lille udpluk af de store begivenheder siden seneste årsskrift blev udgivet i 2006. Du kan læse endnu mere i de dagbøger, der er på det historiske site.
 
-Her kan du se en oversigt over alle de uddrag fra dagbøger, der er på det historiske site.
+Vi er ved at samle historien i flere detaljer ved retrospektivt at udforme dagbøger for alle de år, hvor der mangler dagbøger. Du er meget velkommen til at give en hånd, hvis du kan beskrive lidt om nogle af de større arrangementer.
+{: .notice--info}
 
-{% assign site_posts = site.posts | where: "tags", "dagbog" | sort: "date" %}
+{% assign site_posts = site.posts | where: "tags", "dagbog" | where_exp: "post", "post.date > page.start_date" | sort: "date" %}
 
-<ul>
+<dl>
 {% for post in site_posts %}
-  <li><a href="{{ post.url | absolute_url }}" rel="permalink">{{ post.title }}</a></li>
+  <dt><a href="{{ post.url | absolute_url }}" rel="permalink">{{ post.title }}</a></dt>
+  <dd>{{ post.excerpt }}</dd>
 {% endfor %}
-</ul>
+</dl>
+
+## Opsamling
+
+Det har været en spændende og udviklingsorienteret tid, hvor både fagudbuddet, faciliteterne, lærerkræfterne, en ny skole og mange nye ansatte har sat deres fod på Vejle Idrætshøjskole. Du er meget velkommen til at bruge kommentarerne, hvis der er milepæle, vi har glemt i oversigten. Dette er første spadestik i at få beskrevet højskolens nyere historie mere levende og præcist.

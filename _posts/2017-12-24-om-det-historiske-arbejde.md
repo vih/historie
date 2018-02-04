@@ -107,3 +107,5 @@ Det var også i alt dette oprydnings- og historiske arbejde, at tanken årsskrif
 Vi har oprettet en side med interessante spørgsmål, så man hurtigt kan få svar på det, man har lyst til ift. historien, men lige nu er det jo bare en række spørgsmål, vi tænker kunne være interessante i historisk øjemed.
 
 Hvis du har nogle påtrængende spørgsmål til historien, så brug endelig kommentarerne på denne side, så vil vi forsøge at besvare dem.
+
+[<i class="fab fa-facebook-f"></i> VIH Historiske Gruppe](https://www.facebook.com/groups/655406751295188/){: .btn .btn--facebook .btn--large}

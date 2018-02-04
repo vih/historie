@@ -36,7 +36,7 @@ The other day I was sitting in the ‘Havestue’ - people were writing in songb
 
 I personally think the reason is that we can all relate to it! We have all been through something, fighted through something and we have all ended up here at VIH, and we have become one big family, and this place has become our home.
 
-I grew up with a mum, who suffered from schizophrenia and who wasn’t able to take care of me and my sisters. So I chose to move out when I was 16 – 6 years ago – and I ´haven’t seen my mum ever since.
+I grew up with a mum, who suffered from schizophrenia and who wasn’t able to take care of me and my sisters. So I chose to move out when I was 16 – 6 years ago – and I haven’t seen my mum ever since.
 My dad, on his side, used to drink and take hard drugs, he just got out of it, but sadly he passed away last year.
 
 That have left me behind with a feeling of being homeless and being without anybody – though I know this is not true, but it is somehow just a feeling I have had to accept and deal with.

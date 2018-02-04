@@ -1,6 +1,6 @@
 ---
 title: 50 Princes and 50 Princesses
-permalink: /yearbooks/2017/50-princes-50-princesses/
+permalink: /yearbooks/2017/christoffer-esther/
 author: christoffer_og_esther
 category:
   - Årsskrift
@@ -64,3 +64,5 @@ Soon they had to go out to the real royalty world and face the real problems tha
 A few more days passed and the kings and queens had to gather up in the canteen. Here they should spend their last night together. They talked about how fast the stay at the royal institution had gone, and they really wondered, how it could go so fast. But then it came to them. When you are surrounded by amazing kings and queens and great royal trainers in awesome surroundings time flies, and you can’t change that! The stay here at VIH had prepared the kings and queens for the real life, and they lived happily ever after.
  
 Thanks for an amazing stay!
+
+{% include video provider="youtube" id="OThtXAb0FR0" %}

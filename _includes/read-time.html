@@ -12,10 +12,10 @@
   {{ page.podcast_duration }} minutters lytning og
 {% endif %}
 
-{% if post.video_duration %}
-{{ post.video_duration }} minutters video og
-{% elsif page.video_duration %}
-{{ page.video_duration }} minutters video og
+{% if post.video_time && post.video_duration %}
+  {{ post.video_duration }} minutters video og
+{% elsif page.video_time && page.video_duration %}
+  {{ page.video_duration }} minutters video og
 {% endif %}
 
 {% if words < words_per_minute %}

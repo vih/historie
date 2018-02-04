@@ -60,3 +60,5 @@ Efter et stykke tid manglede man en gymnastiklærer på Snoghøj og forespurgte 
 Efterfølgende trådte skolens leder ud på gulvet og takkede mig for at have indviet eleverne i Snoghøj-gymnastikken. Han havde en gave til mig/os på DJI, og så overrakte han mig den fane, som man fra Snoghøj havde båret til delingsførerforeningens start 100 år tidligere. En fane er noget meget specielt. En fane som gave til DJI´s historiske museum er en meget stor ting. Jeg blev meget glad og dybt rørt, og jeg husker også Ole Worms glæde ved gaven.
 
 Sikke en fantastisk oplevelse at have med i sit liv. Jeg er så taknemlig for den tid på DJI/VIH.
+
+{% include video provider="youtube" id="wjSaD-s4YsQ" %}

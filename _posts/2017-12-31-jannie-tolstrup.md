@@ -6,17 +6,15 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2017
-excerpt: "Jannie Tolstrup, højskoleelev, har øvet sig et helt semester for at lære at spille klaver. Og hun lærte at spille _Hjem_ med Sanne Salomonsen. Her er Jannies tale fra afslutningsmiddagen for efterårsholdet 2017, hvor hun knytter lidt flere ord til, hvorfor sangen har betydet så meget for Jannie og efterårsholdet."
+excerpt: "Jannie Tolstrup, højskoleelev, har øvet sig et helt semester for at lære at spille klaver. Og hun lærte at spille _Hjem_ med Sanne Salomonsen. Her er Jannies tale fra afslutningsmiddagen for efterårsholdet 2017, hvor hun knytter lidt flere ord til, hvorfor sangen har betydet så meget for hende og efterårsholdet."
 header:
   overlay_image: /assets/images/yearbooks/2017/jannie-tolstrup.jpg
   teaser: /assets/images/yearbooks/2017/jannie-tolstrup.jpg
-  caption: "Foto: Lars Olesen, 2017"
+  caption: "Foto: Lars Olesen, 2018"
   overlay_color: "#2ae"
 sidebar:
   nav: "yearbook-2017"
 ---
-
-**{{ page.excerpt }}**
 
 Hi guys, now the day is almost here. The day, where a lot of the people, who started with me in August have to say goodbye to the school and to our home. But first, let’s live the moment, right now and enjoy the last days, where we are all together.
 

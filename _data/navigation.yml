@@ -5,9 +5,9 @@ main:
   - title: "Podcast"
     url: /podcast/
   - title: "Årsskrift"
-    url: /yearbooks/
+    url: /aarsskrifter/
   - title: "Video"
-    url: /videoes/
+    url: /video/
   - title: "Arkiv"
     url: /arkiv/
   - title: "Sange"
@@ -25,41 +25,41 @@ main:
 
 yearbook-2017:
   - title: Årsskrift 2017
-    url: /yearbooks/2017/
+    url: /aarsskrift/2017/
     children:
     - title: "Indledning"
-      url: "/yearbooks/2017/indledning/"
+      url: "/aarsskrift/2017/indledning/"
     - title: "Arkivet danner baggrund for det historiske arbejde"
-      url: "/yearbooks/2017/historisk-arkiv/"
+      url: "/aarsskrift/2017/historisk-arkiv/"
     - title: "Dagbog 2017"
       url: "/dagbog/2017/"
     - title: "De store linjer siden 2006"
-      url: "/yearbooks/2017/historie-2006-2017/"
+      url: "/aarsskrift/2017/historie-2006-2017/"
     - title: "Center for Sundhed, Test og Læring"
-      url: "/yearbooks/2017/center-sundhed-test-laering/"
+      url: "/aarsskrift/2017/center-sundhed-test-laering/"
     - title: "Status på AquaScape"
-      url: "/yearbooks/2017/status-aquascape/"
+      url: "/aarsskrift/2017/status-aquascape/"
     - title: "Strategi 2018-2020"
-      url: "/yearbooks/2017/strategi-2018-2020/"
+      url: "/aarsskrift/2017/strategi-2018-2020/"
     - title: "Om fonden på VIH"
-      url: "/yearbooks/2017/fonden/"
+      url: "/aarsskrift/2017/fonden/"
     - title: "Det gjorde særligt indtryk på os..."
-      url: "/yearbooks/2017/msc/"
+      url: "/aarsskrift/2017/msc/"
     - title: "Om Vejle Idrætsefterskole"
-      url: "/yearbooks/2017/efterskolens-start/"
+      url: "/aarsskrift/2017/efterskolens-start/"
     - title: "Repræsentantskabet"
-      url: "/yearbooks/2017/repraesentantskab/"
+      url: "/aarsskrift/2017/repraesentantskab/"
     - title: "Om testcenteret"
-      url: "/yearbooks/2017/testcenter/"
+      url: "/aarsskrift/2017/testcenter/"
     - title: "Fremtidens sportsjournalister snuser til faget i Vejle"
-      url: "/yearbooks/2017/sportsjournalist/"
+      url: "/aarsskrift/2017/sportsjournalist/"
     - title: "Undervisning af almen bred karakter"
-      url: "/yearbooks/2017/ubak/"
+      url: "/aarsskrift/2017/ubak/"
     - title: "Når idrætten åbner for demokratisk dannelse"
-      url: "/yearbooks/2017/demokratisk-dannelse/"
+      url: "/aarsskrift/2017/demokratisk-dannelse/"
     - title: "50 Princes and 50 Princesses"
-      url: "/yearbooks/2017/christoffer-esther/"
+      url: "/aarsskrift/2017/christoffer-esther/"
     - title: "V.I.H."
-      url: "/yearbooks/2017/vih/"
+      url: "/aarsskrift/2017/vih/"
     - title: "Hjem"
-      url: "/yearbooks/2017/hjem/"
+      url: "/aarsskrift/2017/hjem/"

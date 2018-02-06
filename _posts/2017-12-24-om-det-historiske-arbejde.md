@@ -1,6 +1,6 @@
 ---
 title: Arkivet danner baggrund for det historiske arbejde
-permalink: /yearbooks/2017/historisk-arkiv/
+permalink: /aarsskrift/2017/historisk-arkiv/
 author: lsolesen
 category:
   - Årsskrift

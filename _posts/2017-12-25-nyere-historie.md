@@ -1,6 +1,6 @@
 ---
 title: De store linjer siden 2006
-permalink: /yearbooks/2017/historie-2006-2017/
+permalink: /aarsskrift/2017/historie-2006-2017/
 author: lsolesen
 category:
   - Årsskrift

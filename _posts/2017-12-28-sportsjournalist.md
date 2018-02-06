@@ -1,6 +1,6 @@
 ---
 title: Fremtidens sportsjournalister snuser til faget i Vejle
-permalink: /yearbooks/2017/sportsjournalist/
+permalink: /aarsskrift/2017/sportsjournalist/
 author: martin_davidsen
 category:
   - Årsskrift
@@ -8,14 +8,9 @@ tags:
   - Årsskrift 2017
 excerpt: "Martin Davidsen, højskolelærer og sportsjournalist, fortæller om en ny linje med fokus på sportsjournalistik. Eleverne skal i et halvt år prøve kræfter med disciplinen og snuser til fagets mange facetter."
 header:
-  #image: /assets/images/unsplash-image-1.jpg
-  #image_description: "A description of the image"
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  #overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  #overlay_filter: rgba(255, 0, 0, 0.5)
+  overlay_image: /assets/images/yearbooks/2017/sportsjournalist.jpg
+  caption: "Foto: Martin Davidsen, Aarhus Stadion 2017"
   overlay_color: "#2ae"
-  #cta_label: "More Info"
-  #cta_url: "https://unsplash.com"
 toc: true
 sidebar:
   nav: "yearbook-2017"

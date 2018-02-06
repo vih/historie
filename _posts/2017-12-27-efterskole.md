@@ -1,6 +1,6 @@
 ---
 title: Om Vejle Idrætsefterskole
-permalink: /yearbooks/2017/efterskolens-start/
+permalink: /aarsskrift/2017/efterskolens-start/
 author: per_jensen
 category:
   - Årsskrift

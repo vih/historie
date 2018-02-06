@@ -1,6 +1,6 @@
 ---
 title: Når idrætten åbner for demokratisk læring
-permalink: /yearbooks/2017/demokratisk-dannelse/
+permalink: /aarsskrift/2017/demokratisk-dannelse/
 author: lsolesen
 category:
   - Årsskrift

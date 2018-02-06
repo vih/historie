@@ -1,6 +1,6 @@
 ---
 title: Hjem
-permalink: /yearbooks/2017/hjem/
+permalink: /aarsskrift/2017/hjem/
 author: jannie_tolstrup
 category:
   - Årsskrift

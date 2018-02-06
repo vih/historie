@@ -226,10 +226,10 @@ compress_html:
 collections:
   places:
     output: true
-    permalink: /:collection/:path/
+    permalink: /steder/:path/
   timelines:
     output: true
-    permalink: /:collection/:path/
+    permalink: /tidslinje/:path/
   songs:
     output: true
     permalink: /:collection/:path/
@@ -241,7 +241,7 @@ collections:
     permalink: /:collection/:path/
   yearbooks:
     output: true
-    permalink: /:collection/:path/
+    permalink: /aarsskrift/:path/
 
 
 # Defaults

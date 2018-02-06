@@ -1,6 +1,6 @@
 ---
-title: Så udsendes der igen årsskrift på Vejle Idrætshøjskole
-permalink: /yearbooks/2017/indledning/
+title: Så udgiver vi igen årsskrift på Vejle Idrætshøjskole
+permalink: /aarsskrift/2017/indledning/
 author: lsolesen
 category:
   - Årsskrift
@@ -14,7 +14,7 @@ sidebar:
   nav: "yearbook-2017"
 ---
 
-Vi har gjort det igen! Det er alt for mange år siden, vi gjorde det sidst. Og det er virkelig på tide at få gjort det igen. I 2007 besluttede nogen på Vejle Idrætshøjskole sig for, at skolen ikke længere skulle udgive årsskrifter. I 2017 har vi besluttet os for, at selvfølgelig skal vi have et årsskrift. Højskolen skal igen nedfælde nogle af oplevelserne, tankerne og begivenhederne fra året, der er gået.
+Vi har gjort det igen! Det er alt for mange år siden, vi gjorde det sidst. Og det er virkelig på tide at få gjort det igen. I 2007 besluttede nogen på Vejle Idrætshøjskole sig for, at skolen ikke længere skulle udgive årsskrifter. I 2017 har vi besluttet os for, at selvfølgelig skal vi have et årsskrift. Vi skal på højskolen igen nedfælde nogle af oplevelserne, tankerne og begivenhederne fra året, der er gået.
 
 Det har vi især gjort, fordi vi i år har 75 års jubilæum og i den forbindelse er dykket dybt ned i højskolens historie - og i den forbindelse har årsskrifterne været en uvurderlig kilde til kendskab om de forgangne år. Uden årsskrifterne kan store dele af højskolens historie gå i glemmebogen, og det ønsker vi ikke. Derfor forsøger vi også i dette årsskrift at samle op på de seneste 10 år i glemmebogen, men vi laver også tilbageblik tilbage til de ældre årsskrifter. Derudover dykker vi også lige ned i nutiden og sætter rammer om skolens hverdag og udvikling lige nu.
 

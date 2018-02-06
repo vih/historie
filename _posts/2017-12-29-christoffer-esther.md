@@ -1,6 +1,6 @@
 ---
 title: 50 Princes and 50 Princesses
-permalink: /yearbooks/2017/christoffer-esther/
+permalink: /aarsskrift/2017/christoffer-esther/
 author: christoffer_og_esther
 category:
   - Årsskrift

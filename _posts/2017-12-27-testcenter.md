@@ -1,6 +1,6 @@
 ---
 title: Om Testcenteret
-permalink: /yearbooks/2017/testcenter/
+permalink: /aarsskrift/2017/testcenter/
 author: lsolesen
 category:
   - Årsskrift
@@ -32,5 +32,8 @@ gallery:
 ---
 
 {% include gallery caption="Tilbud i testcenteret" %}
+
+_Artiklen er fortsat under udarbejdelse. Vi forventer at være færdige med den senest fredag i denne uge._
+{: .notice--info}
 
 [<i class='fas fa-money-bill-alt'></i> Bestil test i testcenteret](http://testcenter.vih.dk){: .btn .btn--warning .btn--primary .btn--large}

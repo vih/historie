@@ -1,6 +1,6 @@
 ---
 title: Center for Sundhed, Test og Læring
-permalink: /yearbooks/2017/center-sundhed-test-laering/
+permalink: /aarsskrift/2017/center-sundhed-test-laering/
 author: dina_knudsen
 category:
   - Årsskrift

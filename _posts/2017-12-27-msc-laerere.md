@@ -1,7 +1,7 @@
 ---
 title: Det gjorde særligt indtryk på os...
 author: mette_holst_nymand
-permalink: /yearbooks/2017/msc/
+permalink: /aarsskrift/2017/msc/
 category:
   - Årsskrift
 tags:

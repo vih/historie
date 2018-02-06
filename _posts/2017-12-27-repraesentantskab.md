@@ -1,6 +1,6 @@
 ---
 title: Repræsentantskabet
-permalink: /yearbooks/2017/repraesentantskab/
+permalink: /aarsskrift/2017/repraesentantskab/
 author: carsten_lang_petersen
 category:
   - Årsskrift
@@ -15,3 +15,6 @@ toc: true
 sidebar:
   nav: "yearbook-2017"
 ---
+
+_Artiklen er fortsat under udarbejdelse. Vi forventer at være færdige med den senest fredag i denne uge._
+{: .notice--info}

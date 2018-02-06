@@ -1,6 +1,6 @@
 ---
 title: V.I.H.
-permalink: /yearbooks/2017/vih/
+permalink: /aarsskrift/2017/vih/
 author: laura_wobeser_sparre
 category:
   - Årsskrift

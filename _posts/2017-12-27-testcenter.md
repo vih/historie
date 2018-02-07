@@ -1,7 +1,7 @@
 ---
 title: Om Testcenteret
 permalink: /aarsskrift/2017/testcenter/
-author: lsolesen
+author: martin_madsen
 category:
   - Årsskrift
 tags:
@@ -9,8 +9,9 @@ tags:
 excerpt: "De ansatte i Testcenteret fortæller om, hvordan testcenteret efterhånden arbejdet sig ind i skolens hverdag og hvad planerne er for de eksterne samarbejder i 2018."
 header:
   overlay_image: https://vih.dk/sites/vih.local/files/subjects/2k2a0602.jpg
-  caption: "Testcenteret har tid til dig"
+  caption: "Testcenteret har tid til dig, hvis du vil holde styr på din træning"
   overlay_color: "#2ae"
+  overlay_filter: rgba(26, 162, 221, 0.7)
   cta_url: "http://testcenter.vih.dk"
   cta_label: "<i class='fas fa-arrow-alt-circle-right'></i> Book din egen tid i testcenteret"
 toc: false
@@ -31,9 +32,11 @@ gallery:
     title: "Triatlontests"
 ---
 
-{% include video provider=”youtube” id=”KbO4rhljPWI” %}
+{% include video provider="youtube" id="KbO4rhljPWI" %}
 
-I 2013 og begyndte skolen at planlægge en større udbygning. I planen for denne udbygning valgte vi at reservere et 60m2  stort rum til et testcenter . Vores administration arbejdede hårdt i den efterfølgende periode på at skaffe penge til etablering af et testcenter og udstyr. Det lykkedes at skaffe et betydeligt beløb i slutningen af 2015, hvilket betød, at vi kunne gå i gang med et omfattende undersøgelse og indkøb af udstyr.
+_Denne artikel er skrevet af Martin Madsen og Jesper Jacobsgård i fællesskab. Begge er ansat i testcenteret._
+
+I 2013 og begyndte skolen at planlægge en større udbygning. I planen for denne udbygning valgte vi at reservere et 60m2  stort rum til et testcenter. Vores administration arbejdede hårdt i den efterfølgende periode på at skaffe penge til etablering af et testcenter og udstyr. Det lykkedes at skaffe et betydeligt beløb i slutningen af 2015, hvilket betød, at vi kunne gå i gang med et omfattende undersøgelse og indkøb af udstyr.
 
 Det hele endte med åbningen af et meget avanceret testcenter 1. august 2016. Testcentret åbnede med udstyr, som findes på forskellige idrætsstudier på landets universiteter.    
 
@@ -58,6 +61,3 @@ Det er dog vores opfattelse, at testcentret besidder et potentiale for at kunne 
 I 2018 er planen altså fortsat at styrke den interne brug af testcenteret ift. undervisningen på idrætsskolerne, men også at få åbnet endnu mere op eksternt, så flere kan få øjnene op for vores fantastiske sted.
 
 [<i class='fas fa-money-bill-alt'></i> Bestil tid i testcenteret](http://testcenter.vih.dk){: .btn .btn--warning .btn--primary .btn--large}
-
-
-[<i class='fas fa-money-bill-alt'></i> Bestil test i testcenteret](http://testcenter.vih.dk){: .btn .btn--warning .btn--primary .btn--large}

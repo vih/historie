@@ -18,7 +18,7 @@ sidebar:
  
 ## Samling af alt arkivmaterialet
 
-For at blive klogere på de forrige 75 års historie, men også for at sikre, at man om 25 år kan blive klogere på historien i dag, besluttede jeg mig for at gå i arkiverne. Og jeg skriver med vilje arkiverne, for det historiske materiale var spredt fire-fem steder på skolen - og det ene sted var nærmest værre end det andet ift. om materiale ville overleve flere år.
+For at blive klogere på de forrige 75 års historie, men også for at sikre, at man om 25 år kan blive klogere på historien i dag, besluttede jeg mig for at gå i arkiverne. Og jeg skriver med vilje arkiverne, for det historiske materiale var spredt fire-fem steder på skolen - og det ene sted var nærmest værre end det andet ift. om materialet ville overleve flere år.
 
 Den første øvelse var således at få samlet alt materialet et sted. Jeg oprettede et inspirationsfag på højskolen, vi kalde Vejle Idrætshøjskoles historie, og det blev allerførste opgave i faget.
 

@@ -14,16 +14,14 @@ header:
   overlay_color: "#2ae"
 toc: true
 sidebar:
-  - title: "Årsskriftet 2017"
-    image: /assets/images/yearbooks/2017/demokratisk-dannelse.jpg
-    image_alt: "Demokratisk Dannelse - højskolen til debat"
-    text: "Artiklen har oprindeligt været bragt i Jonas Møller og Rasmus Kolby, red.: Demokratisk dannelse - højskolen til debat, ISBN-13:9788771298567"
-  - nav: "yearbook-2017"
+  nav: "yearbook-2017"
 ---
+
+{% include figure image_path="/assets/images/yearbooks/2017/demokratisk-dannelse.jpg" caption="Artiklen har oprindeligt været bragt i Jonas Møller og Rasmus Kolby, red.: Demokratisk dannelse - højskolen til debat, ISBN-13:9788771298567" alt="Forside til Demokratisk Dannelse - højskolen til debat" %}
 
 ## TLDR;
 
-På Vejle Idrætshøjskole har lærerne defineret deres forståelse af demokratisk dannelse. Forståelsen tager udgangspunkt i, hvordan vi får besvaret spørgsmålet: ”Hvordan vil vi gerne leve sammen?”. Demokratisk dannelse handler om at turde stå foran andre, at alle får mulighed for at sige noget, at ville byde ind, at have mulighed for medbestemmelse og at være sit ansvar bevidst. Gennem tre konkrete eksempler fra idrætsundervisningen vises, hvordan den demokratiske dannelse sættes i spil i praksis gennem idrættens iboende kvaliteter. Idrætten behøver altså ikke at være noget andet, men løfter det lovmæssige krav om demokratisk dannelse i sig selv.
+På Vejle Idrætshøjskole har lærerne defineret deres forståelse af demokratisk dannelse. Forståelsen tager udgangspunkt i, hvordan vi får besvaret spørgsmålet: ”Hvordan vil vi gerne leve sammen?”. Demokratisk dannelse handler om at turde stå foran andre, at alle får mulighed for at sige noget, at ville byde ind, at have mulighed for medbestemmelse og at være sit ansvar bevidst. Gennem tre konkrete eksempler fra idrætsundervisningen vises, hvordan den demokratiske dannelse sættes i spil i praksis gennem idrættens iboende kvaliteter. Idrætten behøver altså ikke at være noget andet, men kan løfte det lovmæssige krav om demokratisk dannelse i sig selv.
 
 ## Forståelsen af demokratisk dannelse
 

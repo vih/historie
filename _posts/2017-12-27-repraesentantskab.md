@@ -16,5 +16,5 @@ sidebar:
   nav: "yearbook-2017"
 ---
 
-_Artiklen er fortsat under udarbejdelse. Vi forventer at være færdige med den senest fredag i denne uge._
+_Artiklen er fortsat under udarbejdelse. Vi forventer at være færdige med den senest fredag i denne uge. [Du kan hjælpe ved at redigere dette dokument](https://docs.google.com/document/d/1LC7S7iao04j3KseP1wbGh3cThiXr9cXP4wsqAFhp4Pg/edit)_
 {: .notice--info}

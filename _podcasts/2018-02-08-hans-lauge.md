@@ -1,5 +1,5 @@
 ---
-title: "Hans Lauge er stemt af højskolen"
+title: "Hans Lauge - stemt af højskolen"
 subtitle: "- højskolelærerliv og højskolen i livet"
 description: "Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv."
 author: lsolesen

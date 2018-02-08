@@ -23,6 +23,8 @@ Ria Andersen har beskrevet historien fra 1959 - 1972 i årsskriftet fra 1982. Du
 Henning Rasmussen har beskrevet historien fra 1972 - 1982 i årsskriftet fra 1982. Du kan [læse hele Hennings beretningen her](/elevforeningens-historie-1972-1982/). Hvis du kan supplere med noget viden, anekdoter eller andet, så brug endelig kommentarerne. 
 
 ## 1983 - nu
+Henning Rasmussen [kigger i 1994 i årsskriftet fra 1994](/elevforeningens-historie-gn-25-aar-1994/) tilbage på de forrige 25 års historie i elevforeningen.
+
 Det vil være rigtig hjælpsomt, hvis du kan være med til at føre elevforeningens historie up-to-date. Brug gerne kommentarerne, fx bare til at beskrive noget af perioden.
 
 ## De forskellige formænd

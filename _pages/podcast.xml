@@ -16,15 +16,15 @@ permalink: /feed/podcast/
 
     <channel>
         <title>{{ site.podcast_title }}</title>
-        <atom:link href="{{ site.podcast_site_url }}/feed/podcast" rel="self" type="application/rss+xml"/>
+        <atom:link href="{{ site.podcast_site_url }}/feed/podcast/" rel="self" type="application/rss+xml"/>
         <link>{{ site.podcast_site_url }}</link>
-        <description>{{ site.podcast_description }}</description>
+        <description>{{ site.podcast_description | strip_html }}</description>
         <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
         <generator>http://jekyllrb.com</generator>
-        <itunes:summary>{{ site.podcast_summary }}</itunes:summary>
+        <itunes:summary>{{ site.podcast_summary | strip_html }}</itunes:summary>
         <itunes:author>{{ site.podcast_author }}</itunes:author>
         <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
         <itunes:image href="{{ site.podcast_site_url }}{{ site.podcast_album_art }}"/>
@@ -33,9 +33,9 @@ permalink: /feed/podcast/
             <itunes:email>{{ site.podcast_email }}</itunes:email>
         </itunes:owner>
         <managingEditor>{{ site.podcast_email }} ({{ site.podcast_owner }})</managingEditor>
-        <itunes:subtitle>{{ site.podcast_subtitle }}</itunes:subtitle>
+        <itunes:subtitle>{{ site.podcast_subtitle | strip_html }}</itunes:subtitle>
         <image>
-            <title>{{ site.podcast_title }}</title>
+            <title>{{ site.podcast_title | strip_html }}</title>
             <url>{{ site.podcast_site_url }}{{ site.podcast_album_art }}</url>
             <link>{{ site.podcast_site_url }}</link>
         </image>
@@ -45,7 +45,7 @@ permalink: /feed/podcast/
         </itunes:category>
         {% for ep in site.podcasts %}
         <item>
-            <title>{{ ep.title }}</title>
+            <title>{{ ep.title | strip_html }}</title>
             <link>{{ site.podcast_site_url }}{{ ep.url }}</link>
             <comments>{{ site.podcast_site_url }}{{ ep.url }}#comments</comments>
             <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>

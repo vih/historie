@@ -4,7 +4,7 @@ author: thormod_petersen
 category:
   - Årsskrift
 tags:
-  - årsskrift 1949
+  - Årsskrift 1949
   - højskolesyn
 excerpt: "Thormod Petersen reflekterer over højskolens rolle."
 ---

@@ -10,8 +10,9 @@ lsolesen:
   name: "Lars Olesen"
   bio: "Højskolelærer på Vejle Idrætshøjskole siden 1999 og siden 2013 viceforstander."
   email: "lars@vih.dk"
-  linkedin: "https://www.linkedin.com/in/lsolesen/"
+  linkedin: "lsolesen"
   avatar: "/assets/images/authors/lars-olesen.png"
+  twitter: "lsolesen"
 thormod_petersen:
   name: "Thormod Petersen"
   bio: "Elev på DJI i 1944/1945. Efter højskoletiden var Thormod praktisk medarbejder på DJI fra 1945-1946. Derefter uddannet lærer og fungerede som lærer indtil pension i 1985."
@@ -56,3 +57,56 @@ henning_rasmussen:
   name: "Henning Rasmussen"
   bio: "Elev i 70/71 og i rigtig mange år formand for og medlem af bestyrelsen for elevforeningen på højskolen."
   avatar: "/assets/images/authors/henning-rasmussen.jpg"
+laura_wobeser_sparre:
+  name: "Laura Wobeser Sparre"
+  bio: "Elev på efterårsholdet 2017"
+  avatar: "/assets/images/authors/laura-wobeser-sparre.jpg"
+  facebook: "laura.wobesersparre"
+christoffer_og_esther:
+  name: "Christoffer Sand og Sigridur Esther Steingrimsdottir"
+  bio: "Elever på efterårsholdet 2017"
+  avatar: "/assets/images/authors/default-profile.png"
+jannie_tolstrup:
+  name: "Jannie Tolstrup"
+  bio: "Elev på efterårsholdet 2017 og forårsholdet 2018"
+  avatar: "/assets/images/authors/jannie-tolstrup.jpg"
+  facebook: "jannievictoria.tolstrup"
+mette_holst_nymand:
+  name: "Mette Holst Nymand"
+  bio: "Højskolelærer på Vejle Idrætshøjskole"
+  avatar: "/assets/images/authors/mette-holst-nymand.jpg"
+dina_knudsen:
+  name: "Dina Knudsen"
+  bio: "Markedsføring og fondsansøgninger på Vejle Idrætshøjskole"
+  avatar: "/assets/images/authors/dina-knudsen.jpg"
+  email: "dina@vih.dk"
+martin_davidsen:
+  name: "Martin Davidsen"
+  bio: "Højskolelærer i sportsjournalistik på Vejle Idrætshøjskole og freelance sportsjournalist"
+  avatar: "/assets/images/authors/martin-davidsen.jpg"
+  linkedin: "martin-davidsen-915b1231/"
+  twitter: "mpbdavidsen"
+peter_sebastian_petersen:
+  name: "Peter Sebastian Petersen"
+  bio: "Forretningsudvikler på Vejle Idrætshøjskole"
+  avatar: "/assets/images/authors/peter-sebastian-petersen.jpg"
+  email: "ps@vih.dk"
+  facebook: "peter.s.petersen.56"
+ole_damgaard:
+  name: "Ole Damgaard"
+  bio: "Forstander på Vejle Idrætshøjskole fra 2010 og indtil nu."
+  avatar: "/assets/images/authors/ole-damgaard.jpg"
+  email: "ole@vih.dk"
+carsten_lang_petersen:
+  name: "Carsten Lang Petersen"
+  bio: "Formand for bestyrelsen på Vejle Idrætshøjskole"
+  avatar: "/assets/images/authors/carsten-lang-petersen.jpg"
+per_jensen:
+  name: "Per Jensen"
+  bio: "Medlem af bestyrelsen på Vejle Idrætshøjskole og Vejle Idrætsefterskole - og en af idemagerne bag starten af idrætsefterskolen."
+  avatar: "/assets/images/authors/per-jensen.jpg"
+  linkedin: "per-jensen-41093730"
+martin_madsen:
+  name: "Martin Madsen"
+  bio: "Højskolelærer og ansvarlig for testcenteret på Vejle Idrætsskoler."
+  avatar: "/assets/images/authors/martin-madsen.jpg"

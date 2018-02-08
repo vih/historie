@@ -4,7 +4,7 @@ author: knud_thomassen
 category:
   - Årsskrift
 tags:
-  - årsskrift 1967
+  - Årsskrift 1967
 excerpt: "Knud Thomassen kigger tilbage på de første 25 år af skolens eksistens."
 ---
 
@@ -19,7 +19,6 @@ Og nu har jeg så påtaget mig at berette om de 25 år. De fleste læsere vil in
 På den koldeste dag i 1942 — et sted registreredes mini 28 grader celsius – besluttedes det at placere »Den Jyská Idrætsskole« i Vejle, og når valget faldt på denne by, skyldes det blandt mange andre ting, at Vejle byråd stillede det nødvendige areal til rådighed for Svend Aage Thomsen. Og vi kan vel hurtigt blive enige om, at en yndigere og mere velegnet plet end den i Nørreskoven kan ikke tænkes. Ud over arealet på 10 tønder land gav Vejle by et tilskud på 20.000 kr., senere forhøjet til 40.000 kr., samt lod udføre diverse anlægsarbejder til 64.000 kr.
 
 Der opnåedes et statslån på 97.000 kr., Vejle Bank bevilgede et prioritetslån på 100.000 kr., hos sin familie lånte Svend Aage 20.000 kr., og endelig indbragte en landsindsamling, bl. a. gennem salg af 25 øres murstensmærker, den imponerende sum af 42.000 kr.
-
 
 Men penge var ikke nok i besættelsestiden, f. eks. var det forbudt at anvende cement til andet end det nødvendigste boligbyggeri, og de moderne grave- og transportmidler, der i dag betragtes som uundværlige, kendte man ikke i 1942. Bortkørsel af jord fra udgravningen foregik således med trillebør og hestevogn, kalk måtte man selv læske på stedet, betonblandingen skete med håndkraft, og tømmeret måtte hejses op ved hjælp af taljer.
 

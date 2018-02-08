@@ -28,3 +28,4 @@ transcript: http://historie.vih.dk/assets/podcasts/inger-christensen-skovhytten.
 {{ page.excerpt }}
 
 _Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen._
+{: .notice--info}

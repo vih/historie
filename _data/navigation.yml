@@ -2,21 +2,64 @@
 main:
   - title: "Start"
     url: /start/
-  - title: "Arkiv"
-    url: /arkiv/
-  - title: "Tidslinjer"
-    url: /tidslinjer/
   - title: "Podcast"
     url: /podcast/
+  - title: "Årsskrift"
+    url: /aarsskrifter/
   - title: "Video"
-    url: /videoes/
-  - title: "Steder"
-    url: /steder/
+    url: /video/
+  - title: "Arkiv"
+    url: /arkiv/
   - title: "Sange"
     url: /sange/
+  - title: "Tidslinjer"
+    url: /tidslinjer/
+  - title: "Steder"
+    url: /steder/
   - title: "FAQ"
     url: /faq/
   - title: "Bidrag"
     url: /bidrag/
   - title: "Om"
     url: /om/
+
+yearbook-2017:
+  - title: Årsskrift 2017
+    url: /aarsskrift/2017/
+    children:
+    - title: "Indledning"
+      url: "/aarsskrift/2017/indledning/"
+    - title: "Arkivet danner baggrund for det historiske arbejde"
+      url: "/aarsskrift/2017/historisk-arkiv/"
+    - title: "Dagbog 2017"
+      url: "/dagbog/2017/"
+    - title: "De store linjer siden 2006"
+      url: "/aarsskrift/2017/historie-2006-2017/"
+    - title: "Center for Sundhed, Test og Læring"
+      url: "/aarsskrift/2017/center-sundhed-test-laering/"
+    - title: "Status på AquaScape"
+      url: "/aarsskrift/2017/status-aquascape/"
+    - title: "Strategi 2018-2020"
+      url: "/aarsskrift/2017/strategi-2018-2020/"
+    - title: "Om fonden på VIH"
+      url: "/aarsskrift/2017/fonden/"
+    - title: "Det gjorde særligt indtryk på os..."
+      url: "/aarsskrift/2017/msc/"
+    - title: "Om Vejle Idrætsefterskole"
+      url: "/aarsskrift/2017/efterskolens-start/"
+    - title: "Repræsentantskabet"
+      url: "/aarsskrift/2017/repraesentantskab/"
+    - title: "Om testcenteret"
+      url: "/aarsskrift/2017/testcenter/"
+    - title: "Når idrætten åbner for demokratisk dannelse"
+      url: "/aarsskrift/2017/demokratisk-dannelse/"
+    - title: "Fremtidens sportsjournalister snuser til faget i Vejle"
+      url: "/aarsskrift/2017/sportsjournalist/"
+    - title: "Undervisning af almen bred karakter"
+      url: "/aarsskrift/2017/ubak/"
+    - title: "50 Princes and 50 Princesses"
+      url: "/aarsskrift/2017/christoffer-esther/"
+    - title: "V.I.H."
+      url: "/aarsskrift/2017/vih/"
+    - title: "Hjem"
+      url: "/aarsskrift/2017/hjem/"

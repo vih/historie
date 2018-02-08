@@ -5,9 +5,9 @@ header:
   caption: Signe Troelsen - på tronstol med mikrofon - som en slags gymnastikkens dronning
 author: jub92
 category:
-  - Jubilæumsskrift
+  - Årsskrift
 tags:
-  - jubilæumsskrift 1992
+  - Jubilæumsskrift 1992
   - Signe Troelsen
 excerpt: "Signe Troelsen har en masse erindringer fra sin tid på Den Jyske Idrætsskole."
 ---

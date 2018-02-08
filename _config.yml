@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "mmistakes/minimal-mistakes@4.9.0"
+remote_theme:            "mmistakes/minimal-mistakes@4.9.1"
 
 # Site Settings
 locale                   : "da"
@@ -226,10 +226,10 @@ compress_html:
 collections:
   places:
     output: true
-    permalink: /:collection/:path/
+    permalink: /steder/:path/
   timelines:
     output: true
-    permalink: /:collection/:path/
+    permalink: /tidslinje/:path/
   songs:
     output: true
     permalink: /:collection/:path/
@@ -239,6 +239,9 @@ collections:
   podcasts:
     output: true
     permalink: /:collection/:path/
+  yearbooks:
+    output: true
+    permalink: /aarsskrift/:path/
 
 
 # Defaults
@@ -252,6 +255,7 @@ defaults:
       author_profile: true
       read_time: true
       listen_time: false
+      video_time: false
       comments: true
       share: true
       related: true
@@ -263,6 +267,7 @@ defaults:
       layout: collection-single
       author_profile: true
       listen_time: false
+      video_time: false
       read_time: false
       comments: true
       share: true
@@ -275,6 +280,7 @@ defaults:
       layout: collection-single
       author_profile: true
       listen_time: false
+      video_time: false
       read_time: false
       comments: true
       share: true
@@ -287,6 +293,7 @@ defaults:
       layout: collection-single
       author_profile: true
       listen_time: false
+      video_time: false
       read_time: false
       comments: true
       share: true
@@ -298,6 +305,7 @@ defaults:
     values:
       layout: collection-single
       author_profile: true
+      video_time: false
       listen_time: false
       read_time: true
       comments: true
@@ -310,6 +318,7 @@ defaults:
     values:
       layout: podcast-single
       author_profile: true
+      video_time: false
       listen_time: true
       read_time: true
       comments: true
@@ -318,6 +327,19 @@ defaults:
       episode_cover: /assets/podcasts/cover-stemmer.png
       explicit: "no"
       type: "Podcast"
+# _yearbooks
+  - scope:
+      path: ""
+      type: yearbooks
+    values:
+      layout: collection-single
+      author_profile: false
+      read_time: true
+      listen_time: false
+      video_time: false
+      comments: true
+      share: true
+      related: true
 
 
 # Podcast

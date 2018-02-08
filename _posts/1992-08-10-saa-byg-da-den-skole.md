@@ -6,9 +6,9 @@ header:
   image: https://drive.google.com/uc?id=0B5v4mAibvkKXMHRVdU4zWUswa1E
   caption: Byggeplads anno 1942, da skolens hovedbygning tog form. I dag ville stilladsets opbygning give røde knopper hos Arbejdstilsynet.
 category:
-  - Jubilæumsskrift
+  - Årsskrift
 tags:
-  - jubilæumsskrift 1992
+  - Jubilæumsskrift 1992
   - Svend Aage Thomsen
   - forstander
 excerpt: "Svend Aage Thomsen fik klar besked af sin far til at gå i gang med projektet, Den Jyske Idrætsskole."

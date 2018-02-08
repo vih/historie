@@ -22,8 +22,8 @@ Vi har et rigt arkiv, og der blev lavet en glimrende opsamling i 1992 med Jubil�
   - [ ] Lars Kjærsgaard
   - [ ] Erik Sidenius
   - [ ] Ole Damgaard
-- Hvorfor _idrætsskole_ i stedet for _idræts**høj**skole_?
-- Udviklingen af repræsentantskabet fra starten og den tætte DIF-tilknytning til 2017 med ændret repræsentantskab (Peter Sebastian Pedersen).
+- [ ] Hvorfor _idrætsskole_ i stedet for _idræts**høj**skole_?
+- [ ] Udviklingen af repræsentantskabet fra starten og den tætte DIF-tilknytning til 2017 med ændret repræsentantskab (Peter Sebastian Pedersen).
 - Beskrivelser af centrale personer i skolens historie
   - [ ] Svend Aage Thomsen
   - [ ] Signe Troelsen
@@ -33,13 +33,12 @@ Vi har et rigt arkiv, og der blev lavet en glimrende opsamling i 1992 med Jubil�
   - [ ] Pedellernes skur og da det blev flyttet
   - [ ] Talerstolen
   - [ ] Fanen
-- KUGLEN ændrer navn til Globen - og bygningen af Globen
-- Navneændringen fra Den Jyske Idrætsskole til Vejle Idrætshøjskole
-- Beskrivelse af forløbet omkring oprettelsen af efterskolen i 2007 (Per Jensen).
-- Beskrivelse af forløbet omkring opførelsen af Center for Sundhed, Test og Læring (Dina Knudsen).
-- Beskrivelse af forløbet omkring fundingen og opførelsen af AquaScape (Dina Knudsen).
-- Beskrivelse af jubilæumsåret (Lars Olesen)
-- Beskrivelse af forløbet omkring fundingen og opførelsen af AquaScape (Dina Knudsen)
+- [ ] KUGLEN ændrer navn til Globen - og bygningen af Globen
+- [ ] Navneændringen fra Den Jyske Idrætsskole til Vejle Idrætshøjskole
+- [x] Beskrivelse af forløbet omkring oprettelsen af efterskolen i 2007 (Per Jensen).
+- [x] Beskrivelse af forløbet omkring opførelsen af Center for Sundhed, Test og Læring (Dina Knudsen).
+- [x] Beskrivelse af forløbet omkring fundingen og opførelsen af AquaScape (Dina Knudsen).
+- [ ] Beskrivelse af jubilæumsåret (Lars Olesen)
 
 ## Dine ideer
 

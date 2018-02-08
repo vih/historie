@@ -5,9 +5,9 @@ header:
   image: https://lh3.googleusercontent.com/OOCTVD3dEsm7nMBuSIvy8AMGT1Xwz8nlY14RpZmx_aBPDgCT1ETnFvOq9J8MRf9QG2q4M3OQ7qdUk8pDQyWZueKHvAiEmQUVgXXcXr2wGN-7BnCNyR8iKiymjnzpy0lKoC_DcGqXdu8
   caption: Tage Søgaard er ved at ordne udstyr. Affotograferet fra Jubilæumsskriftet 1992.
 category:
-  - Jubilæumsskrift
+  - Årsskrift
 tags:
-  - jubilæumsskrift 1992
+  - Jubilæumsskrift 1992
   - forstander
   - Tage Søgaard
 excerpt: "Tage Søgaard fortæller bl.a. sin version af, da han som forstander blev frataget ledelsen og sagde op med bitterhed i 1964."
@@ -16,7 +16,7 @@ toc: true
 
 **For første gang fortæller Tage Søgaard sin version af et dramatisk kapitel i DJIs historie, da han som forstander blev frataget ledelsen og sagde op med bitterhed i 1964.**
 
-28\. april 1964 står mejslet i erindringen hos Tage Søgaard. Det blev hans Sidste reelle arbejdsdag på Den Jyske Idrætsskole. Han søgte siden i august - tvunget af magtkamp og moral - sin afsked som forstander og fik den efter 18 års tilknytning. Her - 28 år efter de dramafiske 64-dage - fortæller Tage Søgaard for første gang historien bag sin afsked. Gravhunden og Tage Søgaard tager mod denne solrige junidag 1992 i Villaen i udkanten af Kolding. Hustruen, Ulla, er taget på arbejde hos den kommunale tandpleje. I februar fyldte han 70 år og gik definitivt på pension fra jobbet som lærer på Øvelsesskolen i Kolding – hans arbejdsplads siden 1. august 1964.
+28\. april 1964 står mejslet i erindringen hos Tage Søgaard. Det blev hans sidste reelle arbejdsdag på Den Jyske Idrætsskole. Han søgte siden i august - tvunget af magtkamp og moral - sin afsked som forstander og fik den efter 18 års tilknytning. Her - 28 år efter de dramatiske 64-dage - fortæller Tage Søgaard for første gang historien bag sin afsked. Gravhunden og Tage Søgaard tager mod denne solrige junidag 1992 i Villaen i udkanten af Kolding. Hustruen, Ulla, er taget på arbejde hos den kommunale tandpleje. I februar fyldte han 70 år og gik definitivt på pension fra jobbet som lærer på Øvelsesskolen i Kolding – hans arbejdsplads siden 1. august 1964.
 
 > Skolens daværende formand, Otto Lassen, mødte op og bad om en samtale med mig. Heri beskyldte han mig for at have haft et forhold til en elev under opholdet og fratog mig ansvaret for Sommerskolen, som jeg havde tilrettelagt, og som skulle begynde få dage senere. Jeg var chokeret og bad om at få forelagt beviser for påstanden. Det kunne jeg ikke få, men Otto Lassen fastholdt, og jeg måtte acceptere formandens afgørelse, siger Tage Søgaard.
 
@@ -83,15 +83,15 @@ Tage Søgaard kender om nogen til DJI's svære start. Han kørte i en lejet bil 
 
 > Jeg tog simpelthen ud til dem for at lokke dem til skolen. Men fripladserne gavnede jo ikke den anstrengte økonomi. Derfor måtte Svend Aage Thomsen gå tiggergang bl.a. til Dansk Idræts-Forbund nár det for alvor kneb. Og det Pinte ham, ikke mindst fordi Krogshede fik store fondsmidler til sin skole i Gerlev ligesom Idrætshøjskolen i Sønderborg blev opført for 10-12 millioner kroner fra Chr. 10.’s fond. Det pinte ham ham, at Den Jyske Idrætsskole måtte kæmpe langt hårdere. Yderligere  kom der konkurrence fra Mads Nielsen, der fik etableret skolen i Viborg.
 
-> Jeg er nok den, der har været tættest på Svend Aage Thomsen i de første år. Vores kemi passede godt sammen . Han var et pragtfuldt menneske. Vi havde aldrig en konflikt, og jeg blev fra starten grebet af hans pionerånd. Jeg oplevede aldrig at få udbetalt en månedsløn helt på een gang. En gang havde vi begge regninger, der skulle betales. Jeg skulle bruge 500 kr., og der var hvad der lå i kassen. Mit forslag gik på, at delte og prøvede at klare os. Svend Aage sagde: "Tag du dem alle samme Tage. Det bedste, du kan gøre her livet, er at glæde andre". Jeg ved ikke, hvordan han så klarede sine regning.
+> Jeg er nok den, der har været tættest på Svend Aage Thomsen i de første år. Vores kemi passede godt sammen . Han var et pragtfuldt menneske. Vi havde aldrig en konflikt, og jeg blev fra starten grebet af hans pionerånd. Jeg oplevede aldrig at få udbetalt en månedsløn helt på een gang. En gang havde vi begge regninger, der skulle betales. Jeg skulle bruge 500 kr., og der var hvad der lå i kassen. Mit forslag gik på, at delte og prøvede at klare os. Svend Aage sagde: "Tag du dem alle sammen Tage. Det bedste, du kan gøre her livet, er at glæde andre". Jeg ved ikke, hvordan han så klarede sin regning.
 
-## SOV ovenpå våbendepot fra sabotage-gruppe
+## Sov ovenpå våbendepot fra sabotage-gruppe
 
 En lille gymnastiksal og i det hele taget primitive forhold for en idrætsskole gjorde, at der blev trukket lidt på smilebåndet af Den Jyske Idrætshøjskole. Det sved hos Svend Aage Thomsen, der så gerne ville sikre skolen en sportshal.
 
-> Han købte en hangar, som tyskerne havde forladt i Vandel, meget billigt.  I godt et par måneder stod jeg op kl. halvsyv og tog med et arbejdshold ud til Vandel for at pille hangaren ned. Den kom aldrig op igen. Fredningsmyndighederne tillod ikke, at den blev stillet op i skoven ved skolen. Svend Aage fik den heldigvis solgt videre, fortæller Tage Søgaard.
+> Han købte en hangar, som tyskerne havde forladt i Vandel, meget billigt. I godt et par måneder stod jeg op kl. halvsyv og tog med et arbejdshold ud til Vandel for at pille hangaren ned. Den kom aldrig op igen. Fredningsmyndighederne tillod ikke, at den blev stillet op i skoven ved skolen. Svend Aage fik den heldigvis solgt videre, fortæller Tage Søgaard.
 
-Den unge lærer fik logi i Jomsborg, da han kom til i 1946. Men han måtte rykke ud om sommeren, når der skulle skaffes plads til de 24 kursister i de to køjerum med senge i tre etager. Under krigen havde flere politibetjente, der var gået “under jorden", fundet et skjulested på skolen.
+Den unge lærer fik logi i Jomsborg, da han kom til i 1946. Men han måtte rykke ud om sommeren, når der skulle skaffes plads til de 24 kursister i de to køjerum med senge i tre etager. Under krigen havde flere politibetjente, der var gået "under jorden", fundet et skjulested på skolen.
 
 > En stor del af sabotage-handlingerne mod jernbaner i Vejle-området blev planlagt af gruppen på Jomsborg, ligesom der foregik våbeninstruktion, siger Tage Søgaard, der gjorde en lidt særpræget opdagelse i sit soverum efter krigen.
 
@@ -101,18 +101,18 @@ Som uddannet lærer havde Tage Søgaard den pædagogiske baggrund, som Svend Aag
 
 ## Ked af måden han kom derfra på
 
-Søgaard var den sidste ansatte, der så Aage Thomsen i live. Og det faldt også i hans lod at give skolens elever meddelelsen om det pludselige dødsfald.
+Søgaard var den sidste ansatte, der så Svend Aage Thomsen i live. Og det faldt også i hans lod at give skolens elever meddelelsen om det pludselige dødsfald.
 
 Han kom hjem fra en løbetur skoven.
 
-> Jeg har det skidt. sagde han. Jeg går op og lægger mig. Sig det ikke til nogen".
+> Jeg har det skidt, sagde han. Jeg går op og lægger mig. Sig det ikke til nogen.
 
-En time efter kom ambulancen, men da var det for sent. Fortælleglæden hos manden, der ikke ser ud som en 70-årig, udtrykker ubevidst de følelser, som Tage Søgaard stadig har for Den Jyske Idrætskole, selv Om han kun få gange – som håndboldtræner – har været på skolen til træningskampe siden sit farvel i 1964.
+En time efter kom ambulancen, men da var det for sent. Fortælleglæden hos manden, der ikke ser ud som en 70-årig, udtrykker ubevidst de følelser, som Tage Søgaard stadig har for Den Jyske Idrætskole, selvom han kun få gange – som håndboldtræner – har været på skolen til træningskampe siden sit farvel i 1964.
 
-> Jeg er ked af måden, jeg kom derfra på. Set i bakspejlet er det måske heldigt nok, for jeg ville sikkert ikke have levet i dag. Arbejdsdage fra 7 morgen til 3-4 nat var almindelige. Det kunne ingen holde til i længden. Paradoksalt er det, at jeg nok opfattes som skolens mest amoralske forstander gennem tiderne. selv om jeg faktisk ellers blev kaldt den mest moralske. Heldigvis har jeg kunnet se mig selv i øjnene i Spejlet hver morgen, kommer det tankefuldt fra Tage Søgaard, der citerer den romerske kejser Marcus Aurelius:
+> Jeg er ked af måden, jeg kom derfra på. Set i bakspejlet er det måske heldigt nok, for jeg ville sikkert ikke have levet i dag. Arbejdsdage fra 7 morgen til 3-4 nat var almindelige. Det kunne ingen holde til i længden. Paradoksalt er det, at jeg nok opfattes som skolens mest amoralske forstander gennem tiderne, selvom jeg faktisk ellers blev kaldt den mest moralske. Heldigvis har jeg kunnet se mig selv i øjnene i spejlet hver morgen, kommer det tankefuldt fra Tage Søgaard, der citerer den romerske kejser Marcus Aurelius:
 
 > "Du er ikke, hvad du tror, du er men hvad du tænker, du er. For vore tanker gør os til det, vi er".
 
-Ingen behøver at tvivle på, at Tage Søgaard stadig føler meget for Den Jyske Idrætsskole, selv om "de to har måttet leve hver for sig – 20 km fra hinanden – i de Seneste 28 år.
+Ingen behøver at tvivle på, at Tage Søgaard stadig føler meget for Den Jyske Idrætsskole, selv om "de to har måttet leve hver for sig – 20 km fra hinanden – i de seneste 28 år.
 
 _Artiklen er oprindeligt bragt i Den Jyske Idrætsskoles jubilæumsskrift fra 1992_

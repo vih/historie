@@ -5,9 +5,9 @@ header:
   caption: Inspirationen til KUGLEN er fra La Geode i _La Vilette_ i Paris
 author: jub92
 category:
-  - Jubilæumsskrift
+  - Årsskrift
 tags:
-  - jubilæumsskrift 1992
+  - Jubilæumsskrift 1992
   - Ole Worm
   - Globen
 excerpt: "Ole Worm fortæller om, hvad Den Jyske Idrætsskole skal være i samfundet og om KUGLEN"

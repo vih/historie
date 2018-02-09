@@ -2,9 +2,9 @@
 title: Eleverne skal lære at tænke med hjertet
 author: jub92
 category:
-  - Jubilæumsskrift
+  - Årsskrift
 tags:
-  - jubilæumsskrift 1992
+  - Jubilæumsskrift 1992
   - Inger Engberg
 excerpt: "Skolens mangeårige formand, Inger Engberg, giver sit bud på Den Jyske Idrætsskoles virke."
 ---

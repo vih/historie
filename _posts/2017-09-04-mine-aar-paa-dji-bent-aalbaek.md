@@ -3,16 +3,23 @@ title: "Mine år på Den Jyske Idrætsskole"
 author: bent_aalbaek_nielsen
 tags:
   - Rask Nielsen
+header:
+  overlay_image: http://aalbaek-nielsen.dk/____impro/1/onewebmedia/Den%20Jyske%20Idr%C3%A6tsskole,%20luftfoto.jpg?etag=W%2F%222ab7f-58f8ce7a%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&extract=0%2B0%2B392%2B259
+  teaser: http://aalbaek-nielsen.dk/____impro/1/onewebmedia/Den%20Jyske%20Idr%C3%A6tsskole,%20luftfoto.jpg?etag=W%2F%222ab7f-58f8ce7a%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&extract=0%2B0%2B392%2B259
 excerpt: "Bent Aalbæk-Nielsens erindringer fra perioden 1945-1948 om Den Jyske Idrætsskole."
 ---
 
 Den 20. juli, 1945 sagde jeg og min familie farvel til Ollerup og flyttede ind på Nørremarksgården lidt uden for Vejle.
+
+{% include figure image_path="http://aalbaek-nielsen.dk/____impro/1/onewebmedia/Den%20Jyske%20Idr%C3%A6tsskole,%20luftfoto.jpg?etag=W%2F%222ab7f-58f8ce7a%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&extract=0%2B0%2B392%2B259" caption="Den Jyske Idrætsskole i 1940'erne. I skovhjørnet ude til højre ses saunaen, og neden for den, i skovkanten, er det kursusbygningen _Jomsborg_. Rundt om det hele breder Nørreskoven sig." %}
 
 Det var - foruden mig selv - min mor Vilna, min storesøster Bodil og min storebror Kai, som dog kort tid efter flyttede til København for at begynde studier ved universitetet dér. Og så var det min morfar, som havde boet hos os i nogen tid efter min mormors død. Min far, Rask Nielsen, havde allerede boet der siden slutningen af april, idet han fra den første maj var blevet ansat som medforstander på Den Jyske Idrætsskole. Far og Idrætsskolens forstander, Svend Aage Thomsen, kendte hinanden fra Svend Aages ophold som elev på Gymnastikhøjskolen i Ollerup, hvor far havde været lærer siden 1922. Nu stod Idrætsskolen og manglede en medforstander, idet det var et krav for at få den almindelige statsstøtte til driften af skolen, at der var en pædagogisk uddannet ledelse, og i modsætning til Svend Aage havde min far en sådan, idet han var uddannet som lærer fra Jelling Statsseminarium. 
 
 Som nævnt havde far boet på Nørremarksgården fra slutningen af april 1945. Det kunne være blevet skæbnesvangert. Jeg har fået fortalt om, hvordan det hemmelige tyske politi, Gestapo, en af dagene omkring den 1. maj gennemførte en razzia på gården. Alt blev gennemgået fra kælder til kvist, og hvis de ude i laden var gået lidt længere ned i halmdyngen, ville de være stødt på et større lager af våben og sprængstoffer. Hvad det kunne have betydet for far og for den karl, der passede gården, og som boede på den, kan man kun gisne om. Nu fandt de altså intet, og få dage senere oplevede vi så befrielsen.
 
 Men på forskellige måder fik vi hurtigt et kendskab til en bemærkelsesværdig del af Idrætsskolens historie i de sidste år under besættelsen.
+
+{% include figure image_path="http://aalbaek-nielsen.dk/____impro/1/onewebmedia/Gunner,%20Alice%20og%20jeg.jpg?etag=W%2F%223fc3-58f8cec7%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&extract=0%2B0%2B199%2B267" caption="Jeg selv yderst til venstre sammen med Alice og Gunnar lige uden for skoven." %}
 
 Særligt efter at store dele af det danske politikorps blev arresteret i september 1944, var det ikke mange af skolens elever, der opholdt sig der under eget navn. Det var politifolk, der havde undgået arrestation. Nu fungerede de som frihedskæmpere og havde bl.a. til opgave at sabotere hovedjernbanen op gennem Jylland. Der er ikke langt fra skolen og ned gennem Nørreskoven til jernbanelinjen langs Vejle Fjord, og på film, som blev optaget af Svend Aage Thomsen, ses der flere sekvenser, hvor man følger aktioner, fra folkene fjernede bundbrædderne i en af sengene i den fritliggende kursusbygning med navnet "Jomsborg". Videre blev gulvbrædderne under sengen fjernet, og under dem åbenbarede sig et hemmeligt våben- og sprængstofdepot, hvorfra der blev hentet plastisk sprængstof og øvrige ingredienser til at fremstille de bomber, som nogle timer senere gjorde jernbanelinjen ubrugelig og forhindrede de vigtige transporter af tyske tropper og materiel. Også ved selve sprængningerne var Svend Aage Thomsen der med sit filmkamera og forevigede dermed disse aktioner. Det var jo ellers i en tid, da det var umuligt at skaffe sig smalfilm, men Svend Aage Thomsen fik dem leveret via Frihedsrådet, der var Modstandsbevægelsens øverste myndighed.
 

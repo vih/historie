@@ -18,7 +18,6 @@ podcast_duration: "29:48" # for mp3-file
 podcast_length: 62377851 # for mp3-file
 chapters:
  - '00:00:00.0 Intro'
- - '00:13:20.0 Talt outro'
 transcript: http://historie.vih.dk/assets/podcasts/birte-christensen.txt
 ---
 
@@ -27,3 +26,4 @@ transcript: http://historie.vih.dk/assets/podcasts/birte-christensen.txt
 {{ page.excerpt }}
 
 _Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen._
+{: .notice--info}

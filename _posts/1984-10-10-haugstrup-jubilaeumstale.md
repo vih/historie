@@ -7,7 +7,7 @@ category:
 tags:
   - Haugstrup
   - dji
-  - årsskrift 1984
+  - Årsskrift 1984
 excerpt: "Søren Haugstrups tale til 40 års jubilæum."
 ---
 

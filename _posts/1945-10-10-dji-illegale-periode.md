@@ -3,7 +3,7 @@ title: Det illegale arbejde på Den Jyske Idrætsskole
 author: thormod_petersen
 source: Den Jyske Idrætsskoles Årsskrift 1945
 tags:
-  - årsskrift 1945
+  - Årsskrift 1945
 excerpt: "Thormod Petersen beskriver højskolens illegale periode - en periode han selv var en del af."
 ---
 

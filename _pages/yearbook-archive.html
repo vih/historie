@@ -1,0 +1,35 @@
+---
+layout: splash
+title: Årsskrifter fra Vejle Idrætshøjskole
+permalink: /aarsskrifter/
+author_profile: false
+header:
+  teaser: https://drive.google.com/uc?id=1J8hZ6vr6NiYtZbabcBJaXo54WAUJzn1y
+  overlay_image: https://drive.google.com/uc?id=1J8hZ6vr6NiYtZbabcBJaXo54WAUJzn1y
+  overlay_filter: rgba(26, 162, 221, 0.7)
+  excerpt: "En ny start for årsskrifterne på Vejle Idrætshøjskole, der har holdt en pause siden 2006."
+  cta_label: "<i class='fas fa-book'></i> Læs Årsskriftet 2017"
+  cta_url: "/aarsskrift/2017/"
+feature_row:
+  - image_path: /assets/images/yearbooks/frontpage/2017.jpg
+    alt: "Årsskrift 2017"
+    title: "Årsskrift 2017"
+    excerpt: 'Vi har gjort det igen! Det er alt for mange år siden, vi gjorde det sidst. Og det er virkelig på tide at få gjort det igen. I 2007 besluttede nogen på Vejle Idrætshøjskole sig for, at skolen ikke længere skulle udgive årsskrifter. I 2017 har vi besluttet os for, at selvfølgelig skal vi have et årsskrift. Læs med på en ny start for årsskrifterne på Vejle Idrætshøjskole, der har holdt en pause siden 2006.'
+    url: "/aarsskrift/2017/"
+    btn_label: "Læs årsskriftet"
+    btn_class: "btn--inverse"
+feature_help:
+  - title: "Vi digitaliserer indholdsfortegnelserne"
+    excerpt: 'Vi er ved at lave en samlet liste over indholdsfortegnelserne i de enkelte årsskrifter. Vi har taget billeder af alle - og er ved at skrive dem over i Google dokumenter. <br><br>[<i class="fas fa-book"></i> Se billederne af samtlige indholdsfortegnelser til årsskrifter](https://drive.google.com/drive/folders/0B5v4mAibvkKXSEwxc1hPNHR2ZVU?usp=sharing){: .btn .btn--primary}<br><br> Vil du hjælpe?'
+---
+
+<div class="grid__wrapper">
+  {% include feature_row type="left" %}
+  {% include feature_row id="feature_help" type="center" %}
+</div>
+
+<div class="grid__wrapper">
+  {% for post in site.yearbooks %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>

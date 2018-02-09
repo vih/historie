@@ -7,7 +7,7 @@ category:
 tags:
   - Svend Aage Thomsen
   - forstander
-  - årsskrift 1959
+  - Årsskrift 1959
   - sportsjournalister
 excerpt: "Svend Aage Thomsens reflekterer lidt over sportsjournalister og deres arbejde."
 ---

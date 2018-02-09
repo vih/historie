@@ -2,9 +2,9 @@
 title: OL-Succes blåstemplede cirquittræningen
 author: jub92
 category:
-  - Jubilæumsskrift
+  - Årsskrift
 tags:
-  - jubilæumsskrift 1992
+  - Jubilæumsskrift 1992
   - forstander
   - Aksel Bjerregaard
 excerpt: "Aksel Bjerregaard høstede stor anerkendelse på den engelske træning, men kunne ikke overføre successen til forstanderstillingen på DJI."

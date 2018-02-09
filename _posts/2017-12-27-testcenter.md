@@ -36,7 +36,7 @@ gallery:
 
 _Denne artikel er skrevet af Martin Madsen og Jesper Jacobsgård i fællesskab. Begge er ansat i testcenteret._
 
-I 2013 og begyndte skolen at planlægge en større udbygning. I planen for denne udbygning valgte vi at reservere et 60m2  stort rum til et testcenter. Vores administration arbejdede hårdt i den efterfølgende periode på at skaffe penge til etablering af et testcenter og udstyr. Det lykkedes at skaffe et betydeligt beløb i slutningen af 2015, hvilket betød, at vi kunne gå i gang med et omfattende undersøgelse og indkøb af udstyr.
+I 2013 og begyndte skolen at planlægge en større udbygning. I planen for denne udbygning valgte vi at reservere et 60 m<sup>2</sup>  stort rum til et testcenter. Vores administration arbejdede hårdt i den efterfølgende periode på at skaffe penge til etablering af et testcenter og udstyr. Det lykkedes at skaffe et betydeligt beløb i slutningen af 2015, hvilket betød, at vi kunne gå i gang med et omfattende undersøgelse og indkøb af udstyr.
 
 Det hele endte med åbningen af et meget avanceret testcenter 1. august 2016. Testcentret åbnede med udstyr, som findes på forskellige idrætsstudier på landets universiteter.    
 
@@ -46,7 +46,11 @@ Til testcentret er der tilknyttet 3 ansatte, der varetager overlappende arbejdso
 
 Det indledende arbejde i testcentret har primært været rettet mod at få etableret et stærkt in-house testapparat som en integreret del af Vejle Idrætsefterskoles idrætslinjer. Dette involverer tæt samarbejde med de enkelte linjetrænere og ikke mindst udvikling og finpudsning af de enkelte tests, som hver elev på de forskellige linjer skal gennemgå. Vi gør meget ud af, at testningen ikke blot skal være for testningens skyld. Dette forstået på den måde, at der også er pædagogisk værdi og læringspotentiale for hver elev i den efterfølgende feedback og evaluering, således at eleverne også kan se meningen i at udføre testene.
 
-Desuden er det indledningsvise arbejde også gået på at få integreret testcentret i højskolens undervisning. Der eksisterer nu et linjefag kaldet “Test og træning”, hvor testning diskuteres som et redskab til at skabe motivation og resultater i træningen, og hvor eleverne ligeledes bliver klogeren på egen krop og træning.
+Desuden er det indledningsvise arbejde også gået på at få integreret testcentret i højskolens undervisning. Der eksisterer nu et linjefag kaldet "Test og træning", hvor testning diskuteres som et redskab til at skabe motivation og resultater i træningen, og hvor eleverne ligeledes bliver klogeren på egen krop og træning.
+
+Her benyttes testcenteret fx i forbindelse med faget "Ernæring og forbrænding", hvor der kigges på de fysiologiske konsekvenser af en diæt med lavt indtag af kulhydrag sat over for en normal kost.
+
+{% include video provider="youtube" id="uHYCLuvTUW8" %}
 
 ## 2018 skal åbne testcenteret endnu mere op
 

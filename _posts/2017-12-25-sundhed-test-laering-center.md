@@ -81,7 +81,7 @@ gallery_after:
 
 **I foråret 2015 blev de eksisterende undervisningslokaler ‘klasse 5, 6 og 7’ revet ned til fordel for en to etagers bygning på 1212 m2.**
 
-{% include figure image_path="https://drive.google.com/open?uc=1OSFJRPctosoE1mkwLpzasPKcQGtLCjV6" caption="Den oprindelige tegning fra Ginnerup Arkitekterne" %}
+{% include figure image_path="https://drive.google.com/uc?id=1OSFJRPctosoE1mkwLpzasPKcQGtLCjV6" caption="Den oprindelige tegning fra Ginnerup Arkitekterne" %}
 
 Med en kontinuerlig øgning af elevtallet siden 2007 på både højskolen og efterskolen, voksede presset på undervisningslokalerne. De tre undervisningslokaler fra 1957 var efterhånden blevet utidssvarende og utilstrækkelige. Beslutningen blev at rydde de gamle undervisningslokaler og skabe en ny bygning med bedre faciliteter til både praktisk og teoretisk undervisning. Projektet omkring etablering af den nye bygning gik under arbejdstitlen ‘Center for Sundhed, Test og Læring’. 
 

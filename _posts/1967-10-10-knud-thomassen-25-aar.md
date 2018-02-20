@@ -159,6 +159,6 @@ Personlig skylder jeg Svend Aage, skolen og bestyrelsen en stor tak, fordi jeg f
 
 Nu har skolen fået en ny forstander: Bjarne Hauger fra Esbjerg, og mit ønske skal være, at både gamle og nye elever vil slutte op om ham og de lærerkræfter, der fortsat skal arbejde for, at »Den Jyske Idrætsskole« kan gå en lys og lykkelig fremtid i møde.
 
-Med dette Ønsker jeg alle gamle elever, kursister, kursus ledere og specialforbund en rigtig glædelig jul og et lykkebringende nytår med et på gensyn.
+Med dette ønsker jeg alle gamle elever, kursister, kursus ledere og specialforbund en rigtig glædelig jul og et lykkebringende nytår med et på gensyn.
 
 _Skrevet af Knud Thomassen til Årsskriftet 1967 i anledning af skolens 25 års jubilæum._

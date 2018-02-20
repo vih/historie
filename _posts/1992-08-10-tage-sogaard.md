@@ -16,9 +16,9 @@ toc: true
 
 **For første gang fortæller Tage Søgaard sin version af et dramatisk kapitel i DJIs historie, da han som forstander blev frataget ledelsen og sagde op med bitterhed i 1964.**
 
-28\. april 1964 står mejslet i erindringen hos Tage Søgaard. Det blev hans sidste reelle arbejdsdag på Den Jyske Idrætsskole. Han søgte siden i august - tvunget af magtkamp og moral - sin afsked som forstander og fik den efter 18 års tilknytning. Her - 28 år efter de dramatiske 64-dage - fortæller Tage Søgaard for første gang historien bag sin afsked. Gravhunden og Tage Søgaard tager mod denne solrige junidag 1992 i Villaen i udkanten af Kolding. Hustruen, Ulla, er taget på arbejde hos den kommunale tandpleje. I februar fyldte han 70 år og gik definitivt på pension fra jobbet som lærer på Øvelsesskolen i Kolding – hans arbejdsplads siden 1. august 1964.
+28\. april 1964 står mejslet i erindringen hos Tage Søgaard. Det blev hans sidste reelle arbejdsdag på Den Jyske Idrætsskole. Han søgte siden i august - tvunget af magtkamp og moral - sin afsked som forstander og fik den efter 18 års tilknytning. Her - 28 år efter de dramatiske 64-dage - fortæller Tage Søgaard for første gang historien bag sin afsked. Gravhunden og Tage Søgaard tager mod denne solrige junidag 1992 i villaen i udkanten af Kolding. Hustruen, Ulla, er taget på arbejde hos den kommunale tandpleje. I februar fyldte han 70 år og gik definitivt på pension fra jobbet som lærer på Øvelsesskolen i Kolding – hans arbejdsplads siden 1. august 1964.
 
-> Skolens daværende formand, Otto Lassen, mødte op og bad om en samtale med mig. Heri beskyldte han mig for at have haft et forhold til en elev under opholdet og fratog mig ansvaret for Sommerskolen, som jeg havde tilrettelagt, og som skulle begynde få dage senere. Jeg var chokeret og bad om at få forelagt beviser for påstanden. Det kunne jeg ikke få, men Otto Lassen fastholdt, og jeg måtte acceptere formandens afgørelse, siger Tage Søgaard.
+> Skolens daværende formand, Otto Lassen, mødte op og bad om en samtale med mig. Heri beskyldte han mig for at have haft et forhold til en elev under opholdet og fratog mig ansvaret for sommerskolen, som jeg havde tilrettelagt, og som skulle begynde få dage senere. Jeg var chokeret og bad om at få forelagt beviser for påstanden. Det kunne jeg ikke få, men Otto Lassen fastholdt, og jeg måtte acceptere formandens afgørelse, siger Tage Søgaard.
 
 ## Ministeriet krævede beviser
 
@@ -47,33 +47,33 @@ Med til historien hører også ansættelse af Viktor Nielsen som forretningsfør
 
 > Svend Aage Thomsen kæmpede indædt imod denne ansættelse. Han brød sig ikke om Viktor Nielsen, og jeց havde også løbende konflikter med ham. Han ville blande sig i skolen pædagogiske ledelse, hvorfor jeg ved flere lejligheder - efter Svend Aages død bad ham holde sig til det økonomiske og lade mig om den pædagogiske linie.
 
-> Kort efter Aksel Bjerregaards ankomst i slutningen af 1960, fik han penge hos Viktor Nielsen til at indrette et kondirum i den gl. Spisesal. Jeg hørte om beslutningen og mente, at pengene kunne anvendes bedre lige nu, men fik da det svar fra Viktor Nielsen, at jeg skulle passe det pædagogiske, så klarede han det økonomiske. Det kunne jeg jo dårligt indvende noget imod, da jeg jo selv havde anvendt den argumentation overfor ham ved flere lejligheder.
+> Kort efter Aksel Bjerregaards ankomst i slutningen af 1960, fik han penge hos Viktor Nielsen til at indrette et kondirum i den gl. spisesal. Jeg hørte om beslutningen og mente, at pengene kunne anvendes bedre lige nu, men fik da det svar fra Viktor Nielsen, at jeg skulle passe det pædagogiske, så klarede han det økonomiske. Det kunne jeg jo dårligt indvende noget imod, da jeg jo selv havde anvendt den argumentation overfor ham ved flere lejligheder.
 
-Der eksisterede altså en interessekonflikt mellem Tage Søgaard og Viktor Nielsen, der fik Bjerregaard med sig, så det stod 2-1 i magtkampen og dermed i påvirkning af bestyrelsens holdninger
+Der eksisterede altså en interessekonflikt mellem Tage Søgaard og Viktor Nielsen, der fik Bjerregaard med sig, så det stod 2-1 i magtkampen og dermed i påvirkning af bestyrelsens holdninger.
 
 ## Konflikt med bestyrelsen
 
-> I 1963 ville bestyrelsen tage imod et tilbud fra Grønlandsministeriet, der for mill. kr. ville bygge en kursusfløj. hvorefter vi i lange perioder skulle have 30-40 grønlændere boende med egne lærere. Vi skulle blot tage os af dem udenfor normal undervisning. Jeg gik stærkt imod det engagement, da det efter min opfattelse ville ødelægge skolen. Beskeden var bestyrelsen lød: Jeg stod i vejen for Den Jyske Idrætsskoles udvikling.
+> I 1963 ville bestyrelsen tage imod et tilbud fra Grønlandsministeriet, der for mill. kr. ville bygge en kursusfløj, hvorefter vi i lange perioder skulle have 30-40 grønlændere boende med egne lærere. Vi skulle blot tage os af dem udenfor normal undervisning. Jeg gik stærkt imod det engagement, da det efter min opfattelse ville ødelægge skolen. Beskeden var bestyrelsen lød: <q>Jeg stod i vejen for Den Jyske Idrætsskoles udvikling</q>.
 
-Tage Søgaard var alltså i opposition på flere fronter – både overfor bestyrelse og forretningsfører, ligesom samarbejdet med Aksel Bjerregaard aldrig blev reelt. Flere havde altså gode grunde til at gribe en kærkommen lejlighed og få gjort op med Tage Søgaard, der havde ydet "hjerteblod” for Den Jyske Idrætsskole siden 1946. Anledningen hed Ulla, og da Otto Lassen mødte op på skolen 28. april 1964, vendte det op og ned på Tage Søgaards tilværelse fra minut til minut. Fra at være en højt respekteret leder og underviser var han pludselig forstanderen, som alle undgik. Den offentlige moral blev magtkampens Sværd. Og det var i 1964 midt i den tid, hvor P-pillen og den lårkorte mode var udtryk for et spirende frisind, der kaldte på forargelsen.
+Tage Søgaard var altså i opposition på flere fronter – både overfor bestyrelse og forretningsfører, ligesom samarbejdet med Aksel Bjerregaard aldrig blev reelt. Flere havde altså gode grunde til at gribe en kærkommen lejlighed og få gjort op med Tage Søgaard, der havde ydet "hjerteblod” for Den Jyske Idrætsskole siden 1946. Anledningen hed Ulla, og da Otto Lassen mødte op på skolen 28. april 1964, vendte det op og ned på Tage Søgaards tilværelse fra minut til minut. Fra at være en højt respekteret leder og underviser var han pludselig forstanderen, som alle undgik. Den offentlige moral blev magtkampens sværd. Og det var i 1964 midt i den tid, hvor P-pillen og den lårkorte mode var udtryk for et spirende frisind, der kaldte på forargelsen.
 
 ## "Hvad kunne jeg bruge en sejr til"
 
 > Det undrer sikkert, at jeg ikke tog kampen, når beskyldningerne var usande. Jeg overvejede det, men fandt det ikke slagsmålet værd. Hvad kunne jeg bruge en sejr til? Det ville under alle omstændigheder blive umuligt at fortsætte på skolen. Derfor tog jeg konsekvensen.
 
-> Men jeg kan i dag ikke skjule min skuffelse over, at personer, som jeg regnede blandt mine Venner, vendte mig ryggen og aldrig gav mig lov til at forklare, siger Tage Søgaard.
+> Men jeg kan i dag ikke skjule min skuffelse over, at personer, som jeg regnede blandt mine venner, vendte mig ryggen og aldrig gav mig lov til at forklare, siger Tage Søgaard.
 
 Bitterheden spores, mens vi sidder overfor hinanden i sofaen i den smagfulde stue. Men Tage Søgaard fortæller ikke tingene for at kaste smuds på andre. Han har blot et forståeligt ønske om at blive forstået og respekteret for sin indsats for Den Jyske Idrætsskole.
 
-> Jeg lagde trods alt 18 af mine bedste år på skolen og føler, at jeg ikke fik gjort arbejdet færdigt. Faktisk søgte jeg forstander-stillingen, da den blev ledig i 1967 efter Aksel Bjerregaard, men skoen besvarede aldrig min ansøgning, siger den tidligere forstander.
+> Jeg lagde trods alt 18 af mine bedste år på skolen og føler, at jeg ikke fik gjort arbejdet færdigt. Faktisk søgte jeg forstander-stillingen, da den blev ledig i 1967 efter Aksel Bjerregaard, men skolen besvarede aldrig min ansøgning, siger den tidligere forstander.
 
 ## Erklæret professionel for 100 kr. af JBU
 
-Som 23-årig søgte han job på skolen Vejle Nordjyden med stort talent for bold havde kort forinden oplevet at anve erklæret professionel af Jydsk Boldspil-Union. Han modtog 100 kr. pr. måned som spillende træner i Arden. De var i 1944. Han fortsatte som såkaldt "cykelvikar på skoler og som træner i klubben indtil ansættelsen i Vejle og fastholdt interessen for boldspil - specielt fodbold. Tage Søgaard en efterspurgt instruktør i DBU helt frem til 1972, da han stod af ræset - både som instruktør og træner på topplan i fodbold og håndbold
+Som 23-årig søgte han job på skolen Vejle Nordjyden med stort talent for bold havde kort forinden oplevet at blive erklæret professionel af Jydsk Boldspil-Union. Han modtog 100 kr. pr. måned som spillende træner i Arden. Det var i 1944. Han fortsatte som såkaldt "cykelvikar" på skoler og som træner i klubben indtil ansættelsen i Vejle og fastholdt interessen for boldspil - specielt fodbold. Tage Søgaard var en efterspurgt instruktør i DBU helt frem til 1972, da han stod af ræset - både som instruktør og træner på topplan i fodbold og håndbold
 
 > Vi købte sommerhus i Tversted, og det var at træffe et valg. Man kan ikke få det fulde udbytte af et sommerhus, hvis man samtidig skal passe et trænerjob ordentligt, mener Tage Søgaard, der bl.a. gjorde Kolding IF til divisionshold fodbold for første gang og også i starten af 50’er var træner i den norske storklub Sandefjord.
 
-> Svend Aage accepterede mit engagement i Norge, da det kunne passes ind i forløbet mellem sommer- og vinterskole Faktisk så han det som et stykke PR-arbejde for Den Jyske Idrætssskole, der havde brug for eleverne bare for at overleve.
+> Svend Aage accepterede mit engagement i Norge, da det kunne passes ind i forløbet mellem sommer- og vinterskole. Faktisk så han det som et stykke PR-arbejde for Den Jyske Idrætssskole, der havde brug for eleverne bare for at overleve.
 
 ## Fripladser var lokkemad
 
@@ -81,9 +81,9 @@ Tage Søgaard kender om nogen til DJI's svære start. Han kørte i en lejet bil 
 
 > Jeg havde halve fripladser og i ekstreme tilfælde hele fripladser med som lokkemad på mine ture rundt i Danmark. Det ved kun de færreste, men det forklarer skolens trængte situation. Vi havde en række interesserede emner, der havde rekvireret vores brochure.
 
-> Jeg tog simpelthen ud til dem for at lokke dem til skolen. Men fripladserne gavnede jo ikke den anstrengte økonomi. Derfor måtte Svend Aage Thomsen gå tiggergang bl.a. til Dansk Idræts-Forbund nár det for alvor kneb. Og det Pinte ham, ikke mindst fordi Krogshede fik store fondsmidler til sin skole i Gerlev ligesom Idrætshøjskolen i Sønderborg blev opført for 10-12 millioner kroner fra Chr. 10.’s fond. Det pinte ham ham, at Den Jyske Idrætsskole måtte kæmpe langt hårdere. Yderligere  kom der konkurrence fra Mads Nielsen, der fik etableret skolen i Viborg.
+> Jeg tog simpelthen ud til dem for at lokke dem til skolen. Men fripladserne gavnede jo ikke den anstrengte økonomi. Derfor måtte Svend Aage Thomsen gå tiggergang bl.a. til Dansk Idræts-Forbund når det for alvor kneb. Og det pinte ham, ikke mindst fordi Krogshede fik store fondsmidler til sin skole i Gerlev ligesom Idrætshøjskolen i Sønderborg blev opført for 10-12 millioner kroner fra Chr. 10.'s fond. Det pinte ham ham, at Den Jyske Idrætsskole måtte kæmpe langt hårdere. Yderligere  kom der konkurrence fra Mads Nielsen, der fik etableret skolen i Viborg.
 
-> Jeg er nok den, der har været tættest på Svend Aage Thomsen i de første år. Vores kemi passede godt sammen . Han var et pragtfuldt menneske. Vi havde aldrig en konflikt, og jeg blev fra starten grebet af hans pionerånd. Jeg oplevede aldrig at få udbetalt en månedsløn helt på een gang. En gang havde vi begge regninger, der skulle betales. Jeg skulle bruge 500 kr., og der var hvad der lå i kassen. Mit forslag gik på, at delte og prøvede at klare os. Svend Aage sagde: "Tag du dem alle sammen Tage. Det bedste, du kan gøre her livet, er at glæde andre". Jeg ved ikke, hvordan han så klarede sin regning.
+> Jeg er nok den, der har været tættest på Svend Aage Thomsen i de første år. Vores kemi passede godt sammen. Han var et pragtfuldt menneske. Vi havde aldrig en konflikt, og jeg blev fra starten grebet af hans pionerånd. Jeg oplevede aldrig at få udbetalt en månedsløn helt på een gang. En gang havde vi begge regninger, der skulle betales. Jeg skulle bruge 500 kr., og der var hvad der lå i kassen. Mit forslag gik på, at delte og prøvede at klare os. Svend Aage sagde: "Tag du dem alle sammen Tage. Det bedste, du kan gøre her livet, er at glæde andre". Jeg ved ikke, hvordan han så klarede sin regning.
 
 ## Sov ovenpå våbendepot fra sabotage-gruppe
 

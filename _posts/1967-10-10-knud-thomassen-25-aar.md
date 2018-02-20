@@ -54,7 +54,7 @@ Cykelturen til Jelling og Faarup Sø, og den til VASG&I- formanden Kr. Mogensen 
 
 Jeg kommer heller ikke uden om at nævne, at _Den Jyske_ spillede en vis rolle i den illegale periode. I 1944 modtog skolen således flere politibetjente, der var “gået under jorden”. Rensningsanlægget bag den finske badstue var et godt gemmested, og her lå således sprængstoffet og andet nødvendigt til besættelsestidens største danske jernbanesabotagehandling, der ramte den jyske hovedlinje ved Tirsbæk. Også »Nørremarksgården« blev benyttet som gemmested for nedkastet materiale. På »Jomsborg« var det hemmelige rum under Ross Sørensens seng en overgang fyldt med sprængstof, og det var også på »Jomsborg«, det antagelig hidtil mest besynderlige indendørs håndboldkursus blev afviklet. Det var bestemt ikke luftfyldte bolde, der blev snakket mest om ved den lejlighed.
 
-3. maj 1945 foretog tyskerne en razzia på skolen og på »Nørremarksgården«, men Dencker klarede skærene, og de øvrige blev advaret så betids, at ingen kom til at lide overlast.
+3\. maj 1945 foretog tyskerne en razzia på skolen og på »Nørremarksgården«, men Dencker klarede skærene, og de øvrige blev advaret så betids, at ingen kom til at lide overlast.
 
 Jeg vil heller aldrig glemme aftenen den 4. maj. Eleverne var samlet hos Viggo Søndergård i »Skovhytten«, da budskabet om tyskernes kapitulation blev bragt i radioen fra England. Jubelen var så voldsom, at vi bagefter undrede os over, at taget ikke var løftet af hytten. Så snart vi havde sundet os, tog vi selvfølgelig ind til Vejle for på nært hold at kunne følge de begivenheder, kapitulationen umiddelbart satte i gang.
 

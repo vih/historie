@@ -113,6 +113,6 @@ En time efter kom ambulancen, men da var det for sent. Fortælleglæden hos mand
 
 > "Du er ikke, hvad du tror, du er men hvad du tænker, du er. For vore tanker gør os til det, vi er".
 
-Ingen behøver at tvivle på, at Tage Søgaard stadig føler meget for Den Jyske Idrætsskole, selv om "de to har måttet leve hver for sig – 20 km fra hinanden – i de seneste 28 år.
+Ingen behøver at tvivle på, at Tage Søgaard stadig føler meget for Den Jyske Idrætsskole, selv om de to har måttet leve hver for sig – 20 km fra hinanden – i de seneste 28 år.
 
 _Artiklen er oprindeligt bragt i Den Jyske Idrætsskoles jubilæumsskrift fra 1992_

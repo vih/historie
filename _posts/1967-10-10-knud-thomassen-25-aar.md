@@ -54,7 +54,7 @@ Cykelturen til Jelling og Faarup Sø, og den til VASG&I- formanden Kr. Mogensen 
 
 Jeg kommer heller ikke uden om at nævne, at _Den Jyske_ spillede en vis rolle i den illegale periode. I 1944 modtog skolen således flere politibetjente, der var “gået under jorden”. Rensningsanlægget bag den finske badstue var et godt gemmested, og her lå således sprængstoffet og andet nødvendigt til besættelsestidens største danske jernbanesabotagehandling, der ramte den jyske hovedlinje ved Tirsbæk. Også »Nørremarksgården« blev benyttet som gemmested for nedkastet materiale. På »Jomsborg« var det hemmelige rum under Ross Sørensens seng en overgang fyldt med sprængstof, og det var også på »Jomsborg«, det antagelig hidtil mest besynderlige indendørs håndboldkursus blev afviklet. Det var bestemt ikke luftfyldte bolde, der blev snakket mest om ved den lejlighed.
 
-3. maj 1945 foretog tyskerne en razzia på skolen og på »Nørremarksgården«, men Dencker klarede skærene, og de øvrige blev advaret så betids, at ingen kom til at lide overlast.
+3\. maj 1945 foretog tyskerne en razzia på skolen og på »Nørremarksgården«, men Dencker klarede skærene, og de øvrige blev advaret så betids, at ingen kom til at lide overlast.
 
 Jeg vil heller aldrig glemme aftenen den 4. maj. Eleverne var samlet hos Viggo Søndergård i »Skovhytten«, da budskabet om tyskernes kapitulation blev bragt i radioen fra England. Jubelen var så voldsom, at vi bagefter undrede os over, at taget ikke var løftet af hytten. Så snart vi havde sundet os, tog vi selvfølgelig ind til Vejle for på nært hold at kunne følge de begivenheder, kapitulationen umiddelbart satte i gang.
 
@@ -90,7 +90,7 @@ Det var da også en stor dag, da de tolv store kranse blev hejst over idrætshal
 
 Svend Aage Thomsen var for rørt til at sige, hvad hans hjerte og hjerne havde ønsket, han skulle fremføre ved rejsegildet, men jeg tillader mig at citere et afsnit af det, han skrev i årsskriftet samme år:
 
-> »Jeg vil gerne pointere, at Den Jyske Idrætsskole ikke er et enkeltmandsverk – lige så lidt som noget andet stort værk kan blive det. En mand kan tiltuske sig æren eller få den tildelt. Det er ikke falsk beskedenhed, men inderligt og ærligt ment, når jeg siger, at Den Jyske Idrætsskole er et værk, der i første række skyldes min bestyrelse, der roligt og besindigt udstak den linje, hvorefter værket skulle fuldføres, og fulgte den uden at lade sig besnakke af min utålmodighed og optimisme. Disse mænds nøgterne vurdering og saglighed har også været stærkt medvirkende til den goodwill, der er blevet os til del, først og fremmest fra DIF, Vejle byråd og de bevilgende myndigheder. — Tak!«
+> »Jeg vil gerne pointere, at Den Jyske Idrætsskole ikke er et enkeltmandsværk – lige så lidt som noget andet stort værk kan blive det. En mand kan tiltuske sig æren eller få den tildelt. Det er ikke falsk beskedenhed, men inderligt og ærligt ment, når jeg siger, at Den Jyske Idrætsskole er et værk, der i første række skyldes min bestyrelse, der roligt og besindigt udstak den linje, hvorefter værket skulle fuldføres, og fulgte den uden at lade sig besnakke af min utålmodighed og optimisme. Disse mænds nøgterne vurdering og saglighed har også været stærkt medvirkende til den goodwill, der er blevet os til del, først og fremmest fra DIF, Vejle byråd og de bevilgende myndigheder. — Tak!«
 
 Den 20. juli 1958 oprandt endelig den dag, Den Jyske Idrætsskole skulle indvies, og sommersolen viste sig fra sin pæne side, da kong Fr. IX præcis kl. 14 ankom til skolen. Jeg havde i al min travlhed nær glemt at rulle den røde løber ud, men netop som majestætens vogn kørte ind på pladsen foran hovedindgangen, var alt klart til den store fest. Et stort arbejde var gået forud, nær 1.000 gæster var inviteret, men alt klappede.
 
@@ -159,6 +159,6 @@ Personlig skylder jeg Svend Aage, skolen og bestyrelsen en stor tak, fordi jeg f
 
 Nu har skolen fået en ny forstander: Bjarne Hauger fra Esbjerg, og mit ønske skal være, at både gamle og nye elever vil slutte op om ham og de lærerkræfter, der fortsat skal arbejde for, at »Den Jyske Idrætsskole« kan gå en lys og lykkelig fremtid i møde.
 
-Med dette Ønsker jeg alle gamle elever, kursister, kursus ledere og specialforbund en rigtig glædelig jul og et lykkebringende nytår med et på gensyn.
+Med dette ønsker jeg alle gamle elever, kursister, kursus ledere og specialforbund en rigtig glædelig jul og et lykkebringende nytår med et på gensyn.
 
 _Skrevet af Knud Thomassen til Årsskriftet 1967 i anledning af skolens 25 års jubilæum._

@@ -4,7 +4,7 @@ subtitle: "- højskolelærerliv og højskolen i livet"
 description: "Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv."
 author: lsolesen
 tags:
- - Svend Aage Thomsen
+ - Hans Lauge
 excerpt: "Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv."
 header:
   overlay_image: /assets/images/podcasts/hans-lauge-2018.jpg

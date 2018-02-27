@@ -25,6 +25,10 @@ transcript: http://historie.vih.dk/assets/podcasts/hans-lauge.txt
 
 {{ page.excerpt }}
 
+## Errata
+
+Hans Lauge kommer i podcastet til at sige, at han har været selvstændig erhvervsdrivende i 4 år, men det er i starten af 2018 24 år.
+
 ## Mere om Hans Lauge
 
 Du kan følge Hans Lauges blog på [Facebook](http://facebook.com/hanslaugedk) og læse mere på [hans hjemmeside](http://hanslauge.dk).

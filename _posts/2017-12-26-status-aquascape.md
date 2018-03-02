@@ -57,7 +57,7 @@ Samt en række praktiske fornødenheder, der desuden fungerer som støttepunkt t
 - Samlingssteder til undervisning
 - Toiletfaciliteter
 
-{% include figure image_path="https://vih.dk/sites/vih.local/files/pages/aquascape_vih_friluftsbadet.jpg" caption="En skitse over det nye friluftsbad" %}
+{% include figure image_path="https://vih.dk/sites/vih.local/files/pages/aquascape_vih_friluftsbadet.jpg" caption="En skitse over det nye friluftsbad" alt="En skitse over det nye friluftsbad" %}
 
 ## En bæredygtig omlægning
 

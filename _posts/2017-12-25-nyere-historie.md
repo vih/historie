@@ -64,8 +64,8 @@ Vi har ændret sammensætningen af repræsentantskabet til en mere moderne og ma
 Der er sket rigtig meget på skolen, hvis du ikke har været forbi siden 2006. Nedenstående billeder giver en indikation af, hvad der er sket med skolens udseende.
 
 <div class="juxtapose">
-  <img src="https://drive.google.com/uc?id=1TFpE4_mJpycIgglSRLOXc02ryqHIEXZi" data-credit="2012" />
-  <img src="https://drive.google.com/uc?id=1J8hZ6vr6NiYtZbabcBJaXo54WAUJzn1y" data-credit="2017" />
+  <img src="https://drive.google.com/uc?id=1TFpE4_mJpycIgglSRLOXc02ryqHIEXZi" data-credit="2012" alt="Oversigtsbillede 2012" />
+  <img src="https://drive.google.com/uc?id=1J8hZ6vr6NiYtZbabcBJaXo54WAUJzn1y" data-credit="2017" alt="Oversigtsbillede 2017" />
 </div>
 <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
 <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">

@@ -81,7 +81,7 @@ gallery_after:
 
 **I foråret 2015 blev de eksisterende undervisningslokaler ‘klasse 5, 6 og 7’ revet ned til fordel for en to etagers bygning på 1212 m2.**
 
-{% include figure image_path="https://drive.google.com/uc?id=1OSFJRPctosoE1mkwLpzasPKcQGtLCjV6" caption="Den oprindelige tegning fra Ginnerup Arkitekterne" %}
+{% include figure image_path="https://drive.google.com/uc?id=1OSFJRPctosoE1mkwLpzasPKcQGtLCjV6" caption="Den oprindelige tegning fra Ginnerup Arkitekterne" alt="Den oprindelige tegning fra Ginnerup Arkitekterne" %}
 
 Med en kontinuerlig øgning af elevtallet siden 2007 på både højskolen og efterskolen, voksede presset på undervisningslokalerne. De tre undervisningslokaler fra 1957 var efterhånden blevet utidssvarende og utilstrækkelige. Beslutningen blev at rydde de gamle undervisningslokaler og skabe en ny bygning med bedre faciliteter til både praktisk og teoretisk undervisning. Projektet omkring etablering af den nye bygning gik under arbejdstitlen ‘Center for Sundhed, Test og Læring’. 
 
@@ -100,7 +100,7 @@ Center for Sundhed, Test og Læring rummer:
 - Fire undervisningslokaler 
 - Et testlokale med testudstyr til alt fra almen bevægelse til specialtest inden for bestemte idrætsgrene. 
 
-{% include figure image_path="https://www.dropbox.com/s/aw3xdr8jfmcmbt6/20150427-oversky%20aprildag%202015%20sammenh%C3%A6ftning%20ps-007.jpg?raw=1" caption="Panorama af skolen efter bygningen af Center for Sundhed, Test og Læring" %}
+{% include figure image_path="https://www.dropbox.com/s/aw3xdr8jfmcmbt6/20150427-oversky%20aprildag%202015%20sammenh%C3%A6ftning%20ps-007.jpg?raw=1" caption="Panorama af skolen efter bygningen af Center for Sundhed, Test og Læring" alt="Panorama af skolen efter bygningen af Center for Sundhed, Test og Læring" %}
 
 ## To lokaler til fitness-, danse- og yogahold
 

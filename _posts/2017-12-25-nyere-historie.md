@@ -57,7 +57,7 @@ Vi har ændret sammensætningen af repræsentantskabet til en mere moderne og ma
 * 2010 Ole Damgaard ansættes som forstander.
 * 2010 Ny ledelsesstruktur giver lederskabet af skolen til et ledelsesteam; Ole Damgaard, Frank Rasmussen og Peter Sebastian Petersen har været en del af dette siden. De første år bestod ledelsesteamet af 4 personer, fra 2010 - 2012 af Palle Tykjær, fra 2012 - 2013 af Søren Stein Brinck begge som forretningsførere. 
 * 2013 Mangeårig højskolelærer, Lars Olesen, ansættes i den nyoprettede viceforstanderstilling.
-* 2017 Strukturen for skolens bagland ændres idet repræsentantskabet får en ny struktur, hvilket du kan læse om i artiklen [Nyt repræsentantskab](/repraesentantskab-2017/).
+* 2017 Strukturen for skolens bagland ændres idet repræsentantskabet får en ny struktur, hvilket du kan læse om i artiklen [Nyt repræsentantskab](/aarsskrift/2017/repraesentantskab/).
 
 ## Bygningerne
 

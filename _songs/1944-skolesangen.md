@@ -10,6 +10,11 @@ permalink: /sang/oprindelig/
 **Tekst**: William O. Hansen  
 **Musik**: Karl-Olav Dahlbæk
 
+<audio controls>
+  <source src="https://drive.google.com/uc?id=1znde7MUVwnW_LexK7E3WOEYu2HvDkAWi" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 **Vers 1**  
 Frem i takt unge stål  
 Fra Den Jyske Idrætsskole  
@@ -51,5 +56,7 @@ Frem i takt med vor sang
 Den om Jyllands jord vil tale  
 Og i disse skove, dale  
 Vil vi mødes nok engang.  
+
+{% include figure image_path="https://user-images.githubusercontent.com/148026/36998028-e1aa5e04-20bb-11e8-920a-7ac0484c50bf.png" caption="Den oprindelige skolesang" alt="Den oprindelige skolesang" %}
 
 _Hvis du ved mere om tilblivelsen af denne sang, så brug endelig kommentarerne._

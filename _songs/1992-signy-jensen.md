@@ -13,6 +13,11 @@ permalink: /sang/1992/
 **Musik**: Signy Jensen  
 **Tekst**: Sten Kaalø
 
+<audio controls>
+  <source src="https://drive.google.com/uc?id=1JwRHx7uvKuKa9T5iGW8ZfUVyAghNJ9-9" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 Som grenen bryder ud af stammen,  
 og bladet springer af sit skud,  
 sådan er krop og tanke sammen,  
@@ -42,5 +47,7 @@ Så svæv min sjæl i kroppens vinge,
 og løft dig krop mod tankens tinde.
 
 _Skrevet i forbindelse med indvielsen af Den Jyske Idrætsskoles nye foredragssal, Globen, i 1992._
+
+{% include figure image_path="https://user-images.githubusercontent.com/148026/36999435-5e3c5bd0-20c0-11e8-890f-203b9bbd3756.png" caption="Skolesang skrevet i forbindelse med 50 års jubilæum i 1992" alt="Skolesang skrevet i forbindelse med 50 års jubilæum i 1992" %}
 
 _Hvis du kender mere til tilblivelsen af sangen, så skriv endelig i kommentarerne._

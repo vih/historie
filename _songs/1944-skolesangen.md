@@ -30,7 +30,7 @@ Ser vi mod de vide vidder
 Der hvor solen stiger op  
 
 **Vers 2**  
-Frem i takt, frem vi får  
+Frem i takt, frem vi går  
 Thi nu kaster vi vore terning,  
 Og vor ungdoms glade gerning  
 Vil vi røgte mange år.  

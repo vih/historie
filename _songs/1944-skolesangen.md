@@ -17,45 +17,45 @@ permalink: /sang/oprindelig/
 
 **Vers 1**  
 Frem i takt unge stål  
-Fra Den Jyske Idrætsskole  
+fra Den Jyske Idrætsskole.  
 Du skal vide vist og stole  
-På at vi kan nå vort mål  
+på at vi kan nå vort mål.  
 Der lyder takt af lette fødder,  
-som bre’r sig rundt om land og strand  
+som bre’r sig rundt om land og strand.  
 Her skal vor idræt fæste rødder  
-I hver kvinde og hver mand.  
-Frem i takt glade trop  
-Og som lysets stolte ridder  
-Ser vi mod de vide vidder  
-Der hvor solen stiger op  
+i hver kvinde og hver mand.  
+Frem i takt glade trop,  
+og som lysets stolte ridder  
+ser vi mod de vide vidder,  
+der hvor solen stiger op  
 
 **Vers 2**  
-Frem i takt, frem vi går  
-Thi nu kaster vi vore terning,  
+Frem i takt, frem vi går,  
+thi nu kaster vi vore terning,  
 Og vor ungdoms glade gerning  
-Vil vi røgte mange år.  
-I landet rundt det snart vil kendes  
+vil vi røgte mange år.  
+I landet rundt det snart vil kendes,  
 vi deler gerne af vor skal,  
-De unge som til skolen sendes  
-Vil med energi ta’ fat.  
-Frem i takt til vort ord  
-Skal den danske ungdom lytte,  
-Kendes skal i gård og hytte  
+De unge som til skolen sendes,  
+vil med energi ta’ fat.  
+Frem i takt! Til vort ord  
+skal den danske ungdom lytte,  
+kendes skal i gård og hytte:  
 Vi på ungdomsgerning tror.  
 
 **Vers 3**  
-Frem i takt, frem i takt  
-Se vor ungdoms raske skare  
+Frem i takt, frem i takt,  
+se vor ungdoms raske skare  
 Med en takt som nok skal vare,  
-Om vor sundhed står vi vagt.  
+om vor sundhed står vi vagt.  
 Vi stævner frem med sol i sindet,  
-Og toner bruser fra vor mund,  
+og toner bruser fra vor mund,  
 En glød som aldrig går af mindet  
-I den årle morgenstund.  
-Frem i takt med vor sang  
-Den om Jyllands jord vil tale  
-Og i disse skove, dale  
-Vil vi mødes nok engang.  
+i den årle morgenstund.  
+Frem i takt med vor sang,  
+den om Jyllands jord vil tale,  
+og i disse skove, dale,  
+vil vi mødes nok engang.  
 
 {% include figure image_path="https://user-images.githubusercontent.com/148026/36998028-e1aa5e04-20bb-11e8-920a-7ac0484c50bf.png" caption="Den oprindelige skolesang" alt="Den oprindelige skolesang" %}
 

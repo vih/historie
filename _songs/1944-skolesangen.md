@@ -35,7 +35,7 @@ thi nu kaster vi vore terning,
 og vor ungdoms glade gerning  
 vil vi røgte mange år.  
 I landet rundt det snart vil kendes,  
-vi deler gerne af vor skal,  
+vi deler gerne af vor skat,  
 De unge som til skolen sendes,  
 vil med energi ta’ fat.  
 Frem i takt! Til vort ord  

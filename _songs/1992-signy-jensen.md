@@ -48,6 +48,6 @@ og løft dig krop mod tankens tinde.
 
 _Skrevet i forbindelse med indvielsen af Den Jyske Idrætsskoles nye foredragssal, Globen, i 1992._
 
-{% include figure image_path="https://user-images.githubusercontent.com/148026/36999435-5e3c5bd0-20c0-11e8-890f-203b9bbd3756.png" caption="Skolesang skrevet i forbindelse med 50 års jubilæum i 1992" alt="Skolesang skrevet i forbindelse med 50 års jubilæum i 1992" %}
+{% include figure image_path="https://user-images.githubusercontent.com/148026/37016414-535cde3c-210c-11e8-886e-8e12e2c698a9.png" caption="Skolesang skrevet i forbindelse med 50 års jubilæum i 1992" alt="Skolesang skrevet i forbindelse med 50 års jubilæum i 1992" %}
 
 _Hvis du kender mere til tilblivelsen af sangen, så skriv endelig i kommentarerne._

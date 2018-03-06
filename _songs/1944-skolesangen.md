@@ -36,7 +36,7 @@ og vor ungdoms glade gerning
 vil vi røgte mange år.  
 I landet rundt det snart vil kendes,  
 vi deler gerne af vor skat,  
-De unge som til skolen sendes,  
+de unge, som til skolen sendes,  
 vil med energi ta’ fat.  
 Frem i takt! Til vort ord  
 skal den danske ungdom lytte,  
@@ -46,7 +46,7 @@ Vi på ungdomsgerning tror.
 **Vers 3**  
 Frem i takt, frem i takt,  
 se vor ungdoms raske skare  
-Med en takt som nok skal vare,  
+med en takt, som nok skal vare,  
 om vor sundhed står vi vagt.  
 Vi stævner frem med sol i sindet,  
 og toner bruser fra vor mund,  

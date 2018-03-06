@@ -32,7 +32,7 @@ der hvor solen stiger op
 **Vers 2**  
 Frem i takt, frem vi går,  
 thi nu kaster vi vore terning,  
-Og vor ungdoms glade gerning  
+og vor ungdoms glade gerning  
 vil vi røgte mange år.  
 I landet rundt det snart vil kendes,  
 vi deler gerne af vor skal,  

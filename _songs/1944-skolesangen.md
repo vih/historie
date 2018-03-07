@@ -57,8 +57,6 @@ den om Jyllands jord vil tale,
 og i disse skove, dale,  
 vil vi mødes nok engang.  
 
-{% include figure image_path="https://drive.google.com/uc?id=1aIlEH2x3dUcjxZMq6GiclOon3kzPOLWp" caption="Den oprindelige skolesang" alt="Den oprindelige skolesang" %}
-
-{% include figure image_path="https://drive.google.com/uc?id=1RPuTrweX_pw1iH1p29wUjLMr-nE-Vrmo" caption="Den oprindelige skolesang med becifringer" alt="Den oprindelige skolesang med becifringer" %}
+{% include figure image_path="https://drive.google.com/uc?id=1aIlEH2x3dUcjxZMq6GiclOon3kzPOLWp" caption="Den oprindelige skolesang" alt="Den oprindelige skolesang fra 1949" %}
 
 _Hvis du ved mere om tilblivelsen af denne sang, så brug endelig kommentarerne._

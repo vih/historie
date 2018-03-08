@@ -50,4 +50,6 @@ _Skrevet i forbindelse med indvielsen af Den Jyske Idrætsskoles nye foredragssa
 
 {% include figure image_path="https://drive.google.com/uc?id=1fRT1z6E12bG-UfySKa1jmPV4Xwc4-nFI" caption="Skolesang skrevet i forbindelse med indvielsen af Globen" alt="Skolesang skrevet i forbindelse med indvielsen af Globen" %}
 
+[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1SuRoR8I5e26PcQftwZSnDmJ0Me1Ejzye){: .btn .btn--error .btn--primary .btn--large}
+
 _Hvis du kender mere til tilblivelsen af sangen, så skriv endelig i kommentarerne._

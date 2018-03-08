@@ -1,5 +1,5 @@
 ---
-title: DJIs skolesang
+title: "DJI's skolesang"
 author: signy_jensen
 category:
   - Sange
@@ -14,7 +14,7 @@ permalink: /sang/1992/
 **Tekst**: Sten Kaalø
 
 <audio controls>
-  <source src="https://drive.google.com/uc?id=1JwRHx7uvKuKa9T5iGW8ZfUVyAghNJ9-9" type="audio/mpeg">
+  <source src="https://drive.google.com/open?uc=1JwRHx7uvKuKa9T5iGW8ZfUVyAghNJ9-9" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -48,6 +48,6 @@ og løft dig krop mod tankens tinde.
 
 _Skrevet i forbindelse med indvielsen af Den Jyske Idrætsskoles nye foredragssal, Globen, i 1992._
 
-{% include figure image_path="https://drive.google.com/uc?id=1fRT1z6E12bG-UfySKa1jmPV4Xwc4-nFI" caption="Skolesang skrevet i forbindelse med 50 års jubilæum i 1992" alt="Skolesang skrevet i forbindelse med 50 års jubilæum i 1992" %}
+{% include figure image_path="https://drive.google.com/uc?id=1fRT1z6E12bG-UfySKa1jmPV4Xwc4-nFI" caption="Skolesang skrevet i forbindelse med indvielsen af Globen" alt="Skolesang skrevet i forbindelse med indvielsen af Globen" %}
 
 _Hvis du kender mere til tilblivelsen af sangen, så skriv endelig i kommentarerne._

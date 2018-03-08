@@ -55,4 +55,6 @@ Her i Nørreskoven...
   Your browser does not support the audio element.
 </audio>
 
+[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1Zw7xOedI8IchEZVob0C03M0A3zc-ubcH){: .btn .btn--error .btn--primary .btn--large}
+
 _Hvis du kender mere til tilblivelsen af sangen, så skriv endelig i kommentarerne._

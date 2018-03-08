@@ -33,5 +33,9 @@ Hans Lauge kommer i podcastet til at sige, at han har været selvstændig erhver
 
 Du kan følge Hans Lauges blog på [Facebook](http://facebook.com/hanslaugedk) og læse mere på [hans hjemmeside](http://hanslauge.dk).
 
+## Transkribering
+
+[<i class='far fa-question-circle'></i> Hjælp med at transkribere](https://docs.google.com/document/d/15XhJkYXc0YriZ6wC1dc-aFiQ_SPfUOV5vuY9017zLY8/edit?usp=sharing){: .btn .btn--warning .btn--primary .btn--large}
+
 _Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen._
 {: .notice--info}

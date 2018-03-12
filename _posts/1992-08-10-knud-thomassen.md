@@ -1,5 +1,5 @@
 ---
-title: En side i et kladdehæfte gav skildeballe og livsstilling
+title: En side i et kladdehæfte gav skideballe og livsstilling
 header:
   image: https://lh3.googleusercontent.com/GzbhjUUO1-ydqQcuRCOjAHG-ivcyhrDGewbsvvYWL2tATO9W1IELrIA700AlMwyW7dmZhk23WLXTSEkPMjoAY0nqhxDfOtIrctVykP4TBMc_9YxSeKOvh2RvCRvKTZ1c1dR_0aKD68I
   caption: Knud Thomassen - tilknyttet skolen fra 1942 til 1986 - har leveret mange af bogens billeder fra sit righoldige arkiv. Han pusler også selv med manuskript til en bog om Den Jyske Idrætsskole.

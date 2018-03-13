@@ -5,6 +5,7 @@ category:
   - Sange
 tags:
   - Jubilæum 1992
+  - Årsskrift 1993
   - jubilæum
 excerpt: "Skolesang skrevet i forbindelse med indvielsen af DJIs nye foredragssal, Globen."
 permalink: /sang/1992/
@@ -46,7 +47,7 @@ er skabt - trods alt – til kærlighed.
 Så svæv min sjæl i kroppens vinge,  
 og løft dig krop mod tankens tinde.
 
-_Skrevet i forbindelse med indvielsen af Den Jyske Idrætsskoles nye foredragssal, Globen, i 1992._
+_Skrevet i forbindelse med indvielsen af Den Jyske Idrætsskoles nye foredragssal, Globen, i 23. januar 1993. Oprindeligt også bragt i Årsskriftet fra 1993._
 
 {% include figure image_path="https://drive.google.com/uc?id=1fRT1z6E12bG-UfySKa1jmPV4Xwc4-nFI" caption="Skolesang skrevet i forbindelse med indvielsen af Globen" alt="Skolesang skrevet i forbindelse med indvielsen af Globen" %}
 

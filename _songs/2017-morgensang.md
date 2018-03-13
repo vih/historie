@@ -5,7 +5,7 @@ category:
 tags:
   - Jubilæum 2017
 excerpt: "Morgensang skrevet af Dy Plambeck og Michael Bojesen i forbindelse med højskolens 75 års jubilæum 2017."
-permalink: /sang/1992/
+permalink: /sang/morgensang-2017/
 ---
 
 **Musik**: Michael Bojesen, 2017  

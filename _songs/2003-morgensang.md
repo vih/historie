@@ -42,4 +42,4 @@ dagens morgensang
 
 {% include figure image_path="https://drive.google.com/uc?id=1OpopYnTFMQoK7rSJbKev0kxVBJG2SuDf" caption="Skolesang skrevet i forbindelse med indvielsen af Globen" alt="Skolesang skrevet i forbindelse med indvielsen af Globen" %}
 
-[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1SuRoR8I5e26PcQftwZSnDmJ0Me1Ejzye){: .btn .btn--danger .btn--primary .btn--large}
+[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1HZ1wsNG2pKX_UVe7tKgiimPZZIkd3Gh_){: .btn .btn--danger .btn--primary .btn--large}

@@ -16,13 +16,13 @@ permalink: /sang/morgensang-2003/
 </audio>
 
 Når solen kravler ind i fjorden  
-frem bar Æbelø  
+frem bag Æbelø  
 Er det tid for nattens rim på græsset  
 budet om at tø  
 
 Og lyset vokser frem og stråler  
 mildt på ørnens bjerg  
-Disens dynes bliver løftet bort fra  
+Disens dyne bliver løftet bort fra  
 morgenens våde træ'r  
 
 Da lister månen væk i skoven  

@@ -32,7 +32,7 @@ og løft dig krop mod tankens tinde.
 I fordums tider opstod legen,  
 og formed sig til kamp for sjov,   
 i ramme alvor – kamp til stregen,  
-så langt som hjertet giver lov.  
+så langt som hjertet gi'r os lov.  
 Så svæv min sjæl i kroppens vinge,   
 og løft dig krop mod tankens tinde.
 

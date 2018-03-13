@@ -15,7 +15,7 @@ permalink: /sang/1992/
 **Tekst**: Sten Kaalø
 
 <audio controls>
-  <source src="https://drive.google.com/open?uc=1JwRHx7uvKuKa9T5iGW8ZfUVyAghNJ9-9" type="audio/mpeg">
+  <source src="https://drive.google.com/uc?id=1JwRHx7uvKuKa9T5iGW8ZfUVyAghNJ9-9" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 

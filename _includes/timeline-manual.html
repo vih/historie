@@ -1,6 +1,7 @@
 <!-- 1 -->
 <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
 <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/fonts/font.default.css">
+
 <!-- 2 -->
 <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
 
@@ -8,6 +9,7 @@
 
 <!-- 3 -->
 <script type="text/javascript">
+    {% assign persons = include.persons %}
     var timeline_json = {
         "title": {
             "media": {

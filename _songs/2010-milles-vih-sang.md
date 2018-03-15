@@ -5,7 +5,10 @@ category:
   - Sange
 excerpt: "Skolesang skrevet sammen med forårsholdet 2010."
 permalink: /sang/2010/
+toc: true
 ---
+
+## Teksten
 
 **Tekst**: Elever på forårsholdet 2010 og Mille Sigsgaard Christensen  
 **Musik**: Mille Sigsgaard Christensen

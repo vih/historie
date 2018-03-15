@@ -10,6 +10,11 @@ permalink: /sang/2010/
 **Tekst**: Elever på forårsholdet 2010 og Mille Sigsgaard Christensen  
 **Musik**: Mille Sigsgaard Christensen
 
+<audio controls>
+  <source src="https://drive.google.com/uc?id=1p5fxn_vqrhhriRqvLEc6-3cIw4JyqpQo">
+  Your browser does not support the audio element.
+</audio>
+
 **OMKVÆD**
 
 Her i Nørreskoven   
@@ -50,11 +55,19 @@ En tid med et dejligt hjem.
 
 Her i Nørreskoven...
 
+## Noder
+
+{% include figure image_path="https://drive.google.com/uc?id=1C8gAJjeU4tsT5h6UZNdANAwkdXToZztv" caption="Noderne til VIH-sangen" alt="Noderne til VIH-sangen" %}
+
+{% include figure image_path="https://drive.google.com/uc?id=1sgw1hD-5RiaTjA9F0pIij2Dm_CSfO10T" caption="Noderne til VIH-sangen" alt="Noderne til VIH-sangen" %}
+
+[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1Zw7xOedI8IchEZVob0C03M0A3zc-ubcH){: .btn .btn--danger .btn--primary .btn--large}
+
+## Oprindelig indspilning af sangen
+
 <audio controls>
   <source src="https://drive.google.com/uc?id=0B5v4mAibvkKXTEZxWW9ESktWckU" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-
-[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1Zw7xOedI8IchEZVob0C03M0A3zc-ubcH){: .btn .btn--danger .btn--primary .btn--large}
 
 _Hvis du kender mere til tilblivelsen af sangen, så skriv endelig i kommentarerne._

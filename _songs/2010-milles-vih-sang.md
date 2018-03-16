@@ -60,11 +60,11 @@ Her i Nørreskoven...
 
 ## Noder
 
-{% include figure image_path="https://drive.google.com/uc?id=1C8gAJjeU4tsT5h6UZNdANAwkdXToZztv" caption="Noderne til VIH-sangen" alt="Noderne til VIH-sangen" %}
+{% include figure image_path="https://drive.google.com/uc?id=1Jyh67nxtLt5UUIbue6vmqNZRlC7lmFk9" caption="Noderne til VIH-sangen" alt="Noderne til VIH-sangen" %}
 
-{% include figure image_path="https://drive.google.com/uc?id=1sgw1hD-5RiaTjA9F0pIij2Dm_CSfO10T" caption="Noderne til VIH-sangen" alt="Noderne til VIH-sangen" %}
+{% include figure image_path="https://drive.google.com/uc?id=1EcMFJVs5wwqx2RVbILk7kWyTCvkZr7xv" caption="Noderne til VIH-sangen" alt="Noderne til VIH-sangen" %}
 
-[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1Pt8N-rcMI4Aa8-KBe5SiJMXNAJw5fAgT){: .btn .btn--danger .btn--primary .btn--large}
+[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1jFLJSBwTVwdeaYyStUh3frER3jy0wtHZ){: .btn .btn--danger .btn--primary .btn--large}
 
 ## Om sangen (skrevet af Mille Sigsgaard Christensen)
 

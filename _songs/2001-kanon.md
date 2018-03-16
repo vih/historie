@@ -12,7 +12,7 @@ toc: true
 **Tekst**: Anders Krintel
 
 <audio controls>
-  <source src="https://drive.google.com/uc?id=10z1HTlpdZQlIPun8qyFF_HkeSeURjsbZ" type="audio/mpeg">
+  <source src="https://drive.google.com/uc?id=1zq3B-w9k04c5k2R3j_o63lrgeq3f5eWm" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -20,9 +20,9 @@ toc: true
 
 ## Noder
 
-{% include figure image_path="https://drive.google.com/uc?id=1OpopYnTFMQoK7rSJbKev0kxVBJG2SuDf" caption="Noderne til kanonen" alt="Noderne til kanonen" %}
+{% include figure image_path="https://drive.google.com/uc?id=1l5mD7lsM9GSDYycnRtCu54cBLl6-IJ1x" caption="Noderne til kanonen" alt="Noderne til kanonen" %}
 
-[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1HZ1wsNG2pKX_UVe7tKgiimPZZIkd3Gh_){: .btn .btn--danger .btn--primary .btn--large}
+[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1RxPTvV92XU-dbK-LhEnzTOuzvzw3VLGM){: .btn .btn--danger .btn--primary .btn--large}
 
 ## Om kanonen
 

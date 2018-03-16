@@ -21,7 +21,7 @@ permalink: /sang/oprindelig/
 Frem i takt unge stål  
 fra Den Jyske Idrætsskole.  
 Du skal vide vist og stole  
-på at vi kan nå vort mål.  
+på, at vi kan nå vort mål.  
 Der lyder takt af lette fødder,  
 som bre’r sig rundt om land og strand.  
 Her skal vor idræt fæste rødder  

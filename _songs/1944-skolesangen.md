@@ -7,6 +7,8 @@ excerpt: "Den oprindelige skolesang på Den Jyske Idrætsskole."
 permalink: /sang/oprindelig/
 ---
 
+## Teksten
+
 **Tekst**: William O. Hansen  
 **Musik**: Karl-Olav Dahlbæk
 
@@ -57,8 +59,16 @@ den om Jyllands jord vil tale,
 og i disse skove, dale,  
 vil vi mødes nok engang.  
 
+## Noderne
+
 {% include figure image_path="https://drive.google.com/uc?id=1FzVbzoqSYY1yqMhwylzw2OmjKzQqIMet" caption="Den oprindelige skolesang" alt="Den oprindelige skolesang fra 1949" %}
 
 [<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1xA-6Y0HeX5PQ4D_SFXJcCd55kH8awEkC){: .btn .btn--danger .btn--primary .btn--large}
+
+## Om forfatterne og komponisten
+
+William O. Hansen og Karl-Olav Dahlbæk var elever på elevholdet i 1948-49.
+
+{% include figure image_path="https://drive.google.com/uc?id=1V2jRCeVItexqKrnzMEzW441fIm76zIhZ" caption="Den oprindelige skolesang" alt="Vinterholdet 1948-49" %}
 
 _Hvis du ved mere om tilblivelsen af denne sang, så brug endelig kommentarerne._

@@ -45,7 +45,7 @@ dagens morgensang
 
 ## Noder
 
-{% include figure image_path="https://drive.google.com/uc?id=1OpopYnTFMQoK7rSJbKev0kxVBJG2SuDf" caption="Skolesang skrevet i forbindelse med indvielsen af Globen" alt="Skolesang skrevet i forbindelse med indvielsen af Globen" %}
+{% include figure image_path="https://drive.google.com/uc?id=1OpopYnTFMQoK7rSJbKev0kxVBJG2SuDf" caption="Noderne til morgensangen" alt="Noderne til morgensangen" %}
 
 [<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1HZ1wsNG2pKX_UVe7tKgiimPZZIkd3Gh_){: .btn .btn--danger .btn--primary .btn--large}
 

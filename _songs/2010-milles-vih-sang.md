@@ -14,7 +14,7 @@ toc: true
 **Musik**: Mille Sigsgaard Christensen
 
 <audio controls>
-  <source src="https://drive.google.com/uc?id=1zl6hc8EZSvTHomt03aldeGYT2E3AbZy4">
+  <source src="https://drive.google.com/uc?id=1NTU3tobgFgxHWozk-Pjp3uIL7wo4WRiE">
   Your browser does not support the audio element.
 </audio>
 
@@ -78,14 +78,14 @@ Det var et rigtig godt udgangspunkt.
 Tekst og musik blev skrevet på samme tid. Den er oprindeligt skrevet med en guitar i hånden, og da lød den sådan her:
 
 <audio controls>
-  <source src="https://drive.google.com/uc?id=0B5v4mAibvkKXTEZxWW9ESktWckU" type="audio/mpeg">
+  <source src="https://drive.google.com/uc?id=1zl6hc8EZSvTHomt03aldeGYT2E3AbZy4" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 Senere blev den forfinet lidt efter klaveret blev involveret, og det kom til at lyde sådan her:
 
 <audio controls>
-  <source src="https://drive.google.com/uc?id=1zl6hc8EZSvTHomt03aldeGYT2E3AbZy4">
+  <source src="https://drive.google.com/uc?id=1NTU3tobgFgxHWozk-Pjp3uIL7wo4WRiE">
   Your browser does not support the audio element.
 </audio>
 

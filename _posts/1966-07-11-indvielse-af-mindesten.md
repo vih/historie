@@ -37,10 +37,7 @@ _Artiklen af Thormod Petersen er oprindelig bragt i Årsskriftet fra 1966_
 
 ## Lydklip fra talen
 
-<audio controls>
-  <source src="https://drive.google.com/uc?id=0B5v4mAibvkKXaVp5Qm5RWXJ3bFk" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+{% include audio src="https://drive.google.com/uc?id=0B5v4mAibvkKXaVp5Qm5RWXJ3bFk" %}
 
 Thormod Petersen er første taler. Ved du hvem der afholdte de følgende taler, så skriv endelig i kommentarerne, så vi kan få det angivet nøjagtigt?
 

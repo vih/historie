@@ -1,0 +1,4 @@
+<audio controls>
+    <source src="{{ include.src }}" type="{{ include.type | default: "audio/mpeg" }}">
+    Your browser does not support the audio element.
+</audio>

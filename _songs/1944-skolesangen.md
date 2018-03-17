@@ -14,7 +14,7 @@ toc: true
 **Tekst**: William O. Hansen  
 **Musik**: Karl-Olav Dahlbæk
 
-{% include audio src="https://drive.google.com/uc?id=1fHDDrtxuhyxxw_xd0OLUAga5Ln5Le9Q3"  %}
+{% include audio src="https://drive.google.com/uc?id=1fHDDrtxuhyxxw_xd0OLUAga5Ln5Le9Q3" %}
 
 Frem i takt unge stål  
 fra Den Jyske Idrætsskole.  

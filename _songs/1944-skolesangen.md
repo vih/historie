@@ -1,10 +1,12 @@
 ---
-title: Skolesangen
+title: Skolesangen (1949)
 author: william_hansen
+composer: karl_olav_dahlbaek
 category:
   - Sange
 excerpt: "Den oprindelige skolesang på Den Jyske Idrætsskole."
 permalink: /sang/oprindelig/
+toc: true
 ---
 
 ## Teksten
@@ -12,12 +14,8 @@ permalink: /sang/oprindelig/
 **Tekst**: William O. Hansen  
 **Musik**: Karl-Olav Dahlbæk
 
-<audio controls>
-  <source src="https://drive.google.com/uc?id=1fHDDrtxuhyxxw_xd0OLUAga5Ln5Le9Q3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+{% include audio src="https://drive.google.com/uc?id=1fHDDrtxuhyxxw_xd0OLUAga5Ln5Le9Q3" %}
 
-**Vers 1**  
 Frem i takt unge stål  
 fra Den Jyske Idrætsskole.  
 Du skal vide vist og stole  
@@ -31,7 +29,6 @@ og som lysets stolte ridder
 ser vi mod de vide vidder,  
 der hvor solen stiger op  
 
-**Vers 2**  
 Frem i takt, frem vi går,  
 thi nu kaster vi vore terning,  
 og vor ungdoms glade gerning  
@@ -45,7 +42,6 @@ skal den danske ungdom lytte,
 kendes skal i gård og hytte:  
 Vi på ungdomsgerning tror.  
 
-**Vers 3**  
 Frem i takt, frem i takt,  
 se vor ungdoms raske skare  
 med en takt, som nok skal vare,  

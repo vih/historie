@@ -1,6 +1,7 @@
 ---
-title: VIHs skolesang fra 2010
+title: VIH-sangen (2010)
 author: mille_christensen
+composer: mille_christensen
 category:
   - Sange
 excerpt: "Skolesang skrevet sammen med forårsholdet 2010."
@@ -13,10 +14,7 @@ toc: true
 **Tekst**: Elever på forårsholdet 2010 og Mille Sigsgaard Christensen  
 **Musik**: Mille Sigsgaard Christensen
 
-<audio controls>
-  <source src="https://drive.google.com/uc?id=1NTU3tobgFgxHWozk-Pjp3uIL7wo4WRiE">
-  Your browser does not support the audio element.
-</audio>
+{% include audio src="https://drive.google.com/uc?id=1NTU3tobgFgxHWozk-Pjp3uIL7wo4WRiE"  %}
 
 **OMKVÆD**
 
@@ -77,17 +75,11 @@ Det var et rigtig godt udgangspunkt.
 
 Tekst og musik blev skrevet på samme tid. Den er oprindeligt skrevet med en guitar i hånden, og da lød den sådan her:
 
-<audio controls>
-  <source src="https://drive.google.com/uc?id=1zl6hc8EZSvTHomt03aldeGYT2E3AbZy4" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+{% include audio src="https://drive.google.com/uc?id=1zl6hc8EZSvTHomt03aldeGYT2E3AbZy4"  %}
 
 Senere blev den forfinet lidt efter klaveret blev involveret, og det kom til at lyde sådan her:
 
-<audio controls>
-  <source src="https://drive.google.com/uc?id=1NTU3tobgFgxHWozk-Pjp3uIL7wo4WRiE">
-  Your browser does not support the audio element.
-</audio>
+{% include audio src="https://drive.google.com/uc?id=1NTU3tobgFgxHWozk-Pjp3uIL7wo4WRiE"  %}
 
 Der er også lavet små melodiske rettelser ([se originalen](https://drive.google.com/uc?id=1Zw7xOedI8IchEZVob0C03M0A3zc-ubcH)) efter at have afprøvet sangen med det første elevhold. Det viste sig at der var visse fraser, som fungerede bedre i en lidt anden udgave, og igen fik "flertallet" lov til at bestemme. 
 

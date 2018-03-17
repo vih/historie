@@ -39,3 +39,4 @@ timeline_excerpt: *excerpt
 {% for post in author %}
   {% include archive-single.html %}
 {% endfor %}
+

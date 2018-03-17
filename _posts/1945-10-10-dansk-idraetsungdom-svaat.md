@@ -49,26 +49,26 @@ Den Ungdom er god nok, og som den har vist det i Frihedskampen, saaledes vil den
 
 Den vil ogsaa huske dem, der maatte blive derude, dem, der gav deres Liv for at vi andre kunde leve, og vi maa være tro mod de Idealer, som kostede dem det dyreste af alt.
 
-_Artiklen er bragt i Årsskriftet fra 1945 og skrevet af Svend Aage Thomsen. Han bringer nedenfor dette digt af Knaj Munk._
+_Artiklen er bragt i Årsskriftet fra 1945 og skrevet af Svend Aage Thomsen. Han bringer nedenfor dette digt af Kaj Munk._
 
-> Drenge, I Drenge, som døde!
-> I tændte for Danmark i dybest Mulm
-> en lysende Morgenrøde,
+> Drenge, I Drenge, som døde!  
+> I tændte for Danmark i dybest Mulm  
+> en lysende Morgenrøde.
 >
-> Danske Velsignede Drenge!
-> vort Øje har Taarer. Men Hjertet slaar
+> Danske Velsignede Drenge!  
+> vort Øje har Taarer. Men Hjertet slaar  
 > saa stolt som ikke – aah! længe.
 >
-> For nu kan vi atter være,
-> se Verden i Øjne roligt og frit.
+> For nu kan vi atter være,  
+> se Verden i Øjne roligt og frit.  
 > I frelste jo Danmarks Ære.
 >
-> I gav os tilbage til Livet.
-> Forbød de jer atter at gøre Brug
+> I gav os tilbage til Livet.  
+> Forbød de jer atter at gøre Brug  
 > af de Vaaben, de selv har givet?
 >
-> Hill jer da, Vikingsønner!
-> Ulydige danske Soldater, Tak!
+> Hill jer da, Vikingsønner!  
+> Ulydige danske Soldater, Tak!  
 > Gud jer det evigt lønner.
 >
 > -- <cite>Kaj Munk</cite>

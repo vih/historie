@@ -9,17 +9,17 @@ tags:
 excerpt: "Thormod Petersen skriver lidt om friheden - baseret på tanker fra modstandskampen."
 ---
 
-> I dag står flagstangen naken
-> Blandt Eidsvolls grønnende træer
-> Men netopp i denne timen
+> I dag står flagstangen naken  
+> Blandt Eidsvolls grønnende træer  
+> Men netopp i denne timen  
 > Vet vi hva frihet er.
 
 Jeg tror at Nordahl Grieg med disse linier ikke alene har sagt noget aktuelt dagens anledning (17. maj 1940). men også har sagt noget væsentligt om, hvad frihed er.
 
 Grieg og størstedelen af det norske folk var klar over at den frihed, som EidsvoII og alt, hvad der knytter sig dette sted, var udtryk for, var i fare, og man gjorde op med, hvad frihed var.
 
-> Frihet og liv er ett
-> så enkelt så uunnværligt
+> Frihet og liv er ett  
+> så enkelt så uunnværligt  
 > som menneskets åndedraet.
 
 Men gennem dette digt og den norske krigslyrik iøvrigt som Grieg og andre norske digtere var mestre for, lyser på trods af ydre modgang og nederlag en varm tro på fremtiden og en forsikring om, at tabet af ydre frihed ikke er ensbetydende med tab af den personlige frihed.
@@ -50,35 +50,35 @@ Det er med disse tanker som baggrund, at søgelyset i dag rettes mod dansk ungdo
 
 Det, jeg har berørt her, dækker ikke helt det, jeg ville sige. Derfor slutter jeg med nogle vers af Nordahl Grieg, der rammer ind til det, denne artikel skulle være udtryk for.
 
-> Kringsatt av fjender
-> gå inn i din tid.
-> Under en blodig storm -
-> vi deg til strid.
-> Kanskje du spør i angst
-> Udekket åben
+> Kringsatt av fjender  
+> gå inn i din tid.  
+> Under en blodig storm -  
+> vi deg til strid.  
+> Kanskje du spør i angst  
+> Udekket åben  
 > Hvad skal jeg kjempe med, hvad er mit våpen?
 >
-> Her er ditt vern mot vold
-> her er ditt sverd:
-> Troen på livet vort,
-> menneskets verd.
-> For all vår fremtids skyld,
-> søk det og dyrk det
-> dø om du må — men:
+> Her er ditt vern mot vold  
+> her er ditt sverd:  
+> Troen på livet vort,  
+> menneskets verd.  
+> For all vår fremtids skyld,  
+> søk det og dyrk det  
+> dø om du må — men:  
 > øk det og styrk det.
 >
-> Elsk og berik med drøm
-> alt stort som var.
-> Gå mot det ukjennte,
-> fravrist det svar
-> Ubygde kraftverker,
-> ukjennte stjerner –
-> skab dem, med skånet livs
+> Elsk og berik med drøm  
+> alt stort som var.  
+> Gå mot det ukjennte,  
+> fravrist det svar  
+> Ubygde kraftverker,  
+> ukjennte stjerner –  
+> skab dem, med skånet livs  
 > dristige hjerner.
 >
-> Da synker våpnene
-> magtesløs ned.
-> Skaper vi menneskeverd
+> Da synker våpnene  
+> magtesløs ned.  
+> Skaper vi menneskeverd  
 > skaper vi fred.
 
 _Skrevet af Thormod Petersen. Bragt i Årsskriftet 1950._

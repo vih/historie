@@ -33,7 +33,13 @@ mille_christensen:
   avatar: "/assets/images/authors/mille-christensen.png"
 william_hansen:
   name: "William O. Hansen"
-  bio: "Har skrevet den oprindelige skolesang. Hvis du ved mere om ham, så brug endelig kommentarerne."
+  bio: "Har skrevet den oprindelige skolesang. Var selv elev i 1948-49. Hvis du ved mere om ham, så brug endelig kommentarerne."
+karl_olav_dahlbaek:
+  name: "Karl Olav-Dahlbæk"
+  bio: "Har skrevet melodien til den oprindelige skolesang fra 1949. Var selv elev i 1948-49. Hvis du ved mere om ham, så brug endelig kommentarerne."
+sten_kaaloe:
+  name: "Sten Kaalø"
+  bio: "Frimenighedspræst og forfatter til skolesangen fra 1992."
 alice_kragh:
   name: "Alice Grønborg Kragh"
   bio: "Alice var højskolelærer på Den Jyske Idrætsskole fra 1979 til 1998. Hun underviste bl.a. i rytmisk gymnastik."

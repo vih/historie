@@ -5,7 +5,6 @@ category:
   - Årsskrift
 tags:
   - mindeord
-  - bestyrelsen
   - Årsskrift 1996
   - Knud Thomassen
 excerpt: "Ole Worm mindes tidligere inspektør Knud Thomassen under personalia."

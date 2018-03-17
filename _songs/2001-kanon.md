@@ -11,20 +11,15 @@ toc: true
 **Musik**: Anders Krintel  
 **Tekst**: Anders Krintel
 
-<audio controls>
-  <source src="https://drive.google.com/uc?id=1zq3B-w9k04c5k2R3j_o63lrgeq3f5eWm" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+{% include audio src="https://drive.google.com/uc?id=1zq3B-w9k04c5k2R3j_o63lrgeq3f5eWm" %}
 
-## Tekst
-
-## Noder
+## Tekst og noder
 
 {% include figure image_path="https://drive.google.com/uc?id=1l5mD7lsM9GSDYycnRtCu54cBLl6-IJ1x" caption="Noderne til kanonen" alt="Noderne til kanonen" %}
 
 [<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1RxPTvV92XU-dbK-LhEnzTOuzvzw3VLGM){: .btn .btn--danger .btn--primary .btn--large}
 
-## Om kanonen
+## Om kanonen af Anders Krintel
 
 Da jeg skrev VIH-kanonen, var det vel bare fordi, det er sjovt at synge kanon. En kanon er en musikalsk leg. Det er en leg med toner at skrive dem, og det er en leg med sang at synge dem. Når man synger kanon, skal man være på, ellers ryger man af, som blev man slynget ud af en centrifuge. Det kan være vanskeligt at synge flerstemmigt, men med en kanon får man trænet det på en finurlig måde.
 

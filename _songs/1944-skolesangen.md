@@ -1,10 +1,12 @@
 ---
-title: Skolesangen
+title: Skolesangen (1949)
 author: william_hansen
+composer: karl_olav_dahlbaek
 category:
   - Sange
 excerpt: "Den oprindelige skolesang på Den Jyske Idrætsskole."
 permalink: /sang/oprindelig/
+toc: true
 ---
 
 ## Teksten

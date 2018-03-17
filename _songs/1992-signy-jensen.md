@@ -1,6 +1,7 @@
 ---
-title: "DJI's skolesang"
-author: signy_jensen
+title: "DJI's skolesang (1993)"
+author: sten_kaaloe
+composer: signy_jensen
 category:
   - Sange
 tags:

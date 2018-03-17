@@ -1,6 +1,7 @@
 ---
-title: VIHs skolesang fra 2010
+title: VIH-sangen (2010)
 author: mille_christensen
+composer: mille_christensen
 category:
   - Sange
 excerpt: "Skolesang skrevet sammen med forårsholdet 2010."

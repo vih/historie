@@ -2,6 +2,30 @@ svend_aage_thomsen:
   name: "Svend Aage Thomsen"
   bio: "Den Jyske Idrætshøjskoles grundlægger og idemanden bag projektet. Forstander på skolen indtil sin død i 1961."
   avatar: "/assets/images/authors/svend-aage-thomsen.png"
+bjarne_hauger:
+  name: "Bjarne Hauger"
+  bio: "Forstander på Den Jyske Idrætsskole fra 1967-1982."
+evald_andersen:
+  name: "Evald Andersen"
+  bio: "Ved du mere om Evald Andersen, så brug gerne kommentarerne."
+willy_sørensen:
+  name: "Willy Sørensen"
+  bio: "Mangeårig borgmester i Vejle og formand for Den Jyske Idrætsskoles bestyrelse."
+inger_engberg:
+  name: "Inger Engberg"
+  bio: "Mangeårig formand for bestyrelsen på Den Jyske Idrætsskole."
+otto_lassen:
+  name: "Otto Lassen"
+  bio: "Mangeårig formand for bestyrelsen på Den Jyske Idrætsskole."
+hans_erik_jensen:
+  name: "Hans Erik Jensen"
+  bio: "Mangeårig formand for bestyrelsen på Den Jyske Idrætsskole."
+grethe_schmidt:
+  name: "Grethe Schmidt"
+  bio: "Ved du mere om Grethe Schmidt, så brug gerne kommentarerne."
+mogens_bredfeldt:
+  name: "Mogens Bredfeldt"
+  bio: "Ved du mere om Mogens Bredfeldt, så brug gerne kommentarerne."
 ole_worm:
   name: "Ole Worm"
   bio: "Lærer på Den Jyske Idrætsskole fra 1968 til 1984, hvor han blev forstander indtil 1999. Ole Worm var bl.a. idemager bag Globen og navneskiftet fra DJI til Vejle Idrætshøjskole."

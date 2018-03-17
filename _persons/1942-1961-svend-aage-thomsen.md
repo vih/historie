@@ -1,5 +1,7 @@
 ---
 title: Svend Aage Thomsen
+author_name: "svend_aage_thomsen"
+permalink: /svaat/
 start_date: 
   year: 1942
 end_date:
@@ -18,3 +20,19 @@ excerpt: "Skolens grundlægger som arbejdede hårdt for at bygge en Idrætsskole
 ---
 
 {{ page.excerpt }}
+
+## Artikler om {{ title }}
+
+{% assign posts = site.posts | where: "tag", page.title | sort: "date" %}
+
+{% for post in author %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Skrevet af {{ title }}
+
+{% assign author = site.posts | where: "author", page.author_name | sort: "date" %}
+
+{% for post in author %}
+  {% include archive-single.html %}
+{% endfor %}

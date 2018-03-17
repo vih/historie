@@ -30,7 +30,7 @@ ser vi mod de vide vidder,
 der hvor solen stiger op  
 
 Frem i takt, frem vi går,  
-thi nu kaster vi vore terning,  
+thi nu kaster vi vor terning,  
 og vor ungdoms glade gerning  
 vil vi røgte mange år.  
 I landet rundt det snart vil kendes,  

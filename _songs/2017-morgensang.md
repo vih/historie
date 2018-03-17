@@ -1,5 +1,7 @@
 ---
 title: "Morgensang om livsmod"
+author: dy_plambeck
+composer: michael_bojesen
 category:
   - Sange
 tags:
@@ -11,10 +13,7 @@ permalink: /sang/morgensang-2017/
 **Musik**: Michael Bojesen, 2017  
 **Tekst**: Dy Plambeck, 2017
 
-<audio controls>
-  <source src="https://drive.google.com/uc?id=1O9a2PRZ57LWQEp85kdwEN2RolMS8ESyL" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+{% include audio src="https://drive.google.com/uc?id=1O9a2PRZ57LWQEp85kdwEN2RolMS8ESyL" %}
 
 Lyset strækker sine lange arme over himlen  
 skubber mørket langsomt væk fra Nørreskovens top.  

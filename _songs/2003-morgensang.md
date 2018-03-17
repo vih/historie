@@ -11,10 +11,7 @@ toc: true
 **Musik**: Anders Krintel  
 **Tekst**: Anders Krintel
 
-<audio controls>
-  <source src="https://drive.google.com/uc?id=10z1HTlpdZQlIPun8qyFF_HkeSeURjsbZ" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+{% include audio src="https://drive.google.com/uc?id=10z1HTlpdZQlIPun8qyFF_HkeSeURjsbZ" %}
 
 ## Tekst
 

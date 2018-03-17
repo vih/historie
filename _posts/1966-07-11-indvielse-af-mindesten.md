@@ -1,5 +1,5 @@
 ---
-title: TALE VED AFSLØRINGEN AF MINDESTENEN DEN 10. JULI 1966
+title: Tale ved afsløringen af mindestenen den 10. juli 1966
 permalink: /mindesten/
 author: thormod_petersen
 header:

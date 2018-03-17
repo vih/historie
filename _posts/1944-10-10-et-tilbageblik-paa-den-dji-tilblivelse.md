@@ -3,7 +3,7 @@ title: Et Tilbageblik på Den Jyske Idrætsskoles Tilblivelse
 author: svend_aage_thomsen
 permalink: /tilblivelsen/
 header:
-  image: https://drive.google.com/uc?id=0B5v4mAibvkKXMHRVdU4zWUswa1E
+  overlay_image: https://drive.google.com/uc?id=0B5v4mAibvkKXMHRVdU4zWUswa1E
   caption: Hovedbygningen på Den Jyske Idrætsskole er i gang.
 category:
   - Årsskrift
@@ -85,7 +85,7 @@ Den 2. August var Tilladelsen til Indsamling kommet. og der forestod nu en travl
 
 ## Skolen som selvejende Institution
 
-Den 9. August holdt Skolens Bestyrelse konstituerende Møde. Valgt til Formand blev Borgmester N. P. Jensen. Vejle, der stadig har været Den jyske Idrætsskole en god Mand. Paa Mødet blev del vedtaget, at Skolen skulde være en selvejende Institution, hvis Bestyrelse bestaar af Repræsentanter for de interesserede Specialforbund samt fra Vejle Kommune. Disse Forbound er:
+Den 9. August holdt Skolens Bestyrelse konstituerende Møde. Valgt til Formand blev Borgmester N. P. Jensen, Vejle, der stadig har været Den jyske Idrætsskole en god Mand. Paa Mødet blev det vedtaget, at Skolen skulde være en selvejende Institution, hvis Bestyrelse bestaar af Repræsentanter for de interesserede Specialforbund samt fra Vejle Kommune. Disse Forbund er:
 
 - Jydsk Atletik-Forbund
 - Jyllands Badmintonkreds
@@ -109,7 +109,7 @@ Borgmester N. P. Jensen murede den første Sten, idet han udtalte:
 
 > Før jeg nedlægger den første Sten i dette Hus, vil jeg sige, at naar Krigen engang er forbi, og Samfærdselen mellem Landene atter er aaben, vil dette Hus Staa somm et Vidnesbyrd om, at vi her havde andre Tanker end at føre Krig mod hinanden. Huset er bygget for den danske Ungdom, for at den kan dygtiggøre sig til Gavn for Danmarks Fremtid.
 
-Formanden for de samvirkende Idrætsklubber i Vejle, Villy Mortensen murede den anden Sten som Repræsentant for Idrætten og udtalte bl.a.: 
+Formanden for de samvirkende Idrætsklubber i Vejle, Villy Mortensen, murede den anden Sten som Repræsentant for Idrætten og udtalte bl.a.: 
 
 > Det har længe været følt som et Savn, at Dansk Idræt ikke havde et Sted, hvor man kunde uddanne sine Instruktører og Ledere. Det Arbejde, som her skal udføres, vil sætte sit Præg paa den danske Ungdom, og dermed paa Landet langt ud i Fremtiden.
 
@@ -117,7 +117,7 @@ Jeg selv murede den tredie Sten og sagde:
 
 > Maatte alle de Ønsker, Tanker og Drømme, jeg har haft med denne Skole, blive til Virkelighed, og jeg murer Stenen ind med de Ord, der staar paa vort Mærkat: »Med Stenen mures Ønsker ind om Sundhed, Kraft og rene Sind.«
 
-Arbejdet gaar videre: I hele denne første Tid boede vi en lille Lejlighed inde ved Vejle Stadion. I Stuen, som vi maate gennem Soveværelset for at komme ind til, var der Opholdsstue, Spisestue og Kontor i et, og her samledes da Traadene i denne gode, travle Tid: Byggearbejdet, Indsamlingsarbejdet. Ansøgninger til Ministeriet, Regnskab, Planlæggelse af udendørs Idrætsanlæg. Jordens Pasning, Telefonbesked baade her og der. Konferencer med Haandværkerne om Arbejdet og de Vanskeligheder, som stadig mødte os.
+Arbejdet gaar videre: I hele denne første Tid boede vi en lille Lejlighed inde ved Vejle Stadion. I Stuen, som vi maatte gennem Soveværelset for at komme ind til, var der Opholdsstue, Spisestue og Kontor i et, og her samledes da Traadene i denne gode, travle Tid: Byggearbejdet, Indsamlingsarbejdet. Ansøgninger til Ministeriet, Regnskab, Planlæggelse af udendørs Idrætsanlæg. Jordens Pasning, Telefonbesked baade her og der. Konferencer med Haandværkerne om Arbejdet og de Vanskeligheder, som stadig mødte os.
 
 Da jeg tidligere en Overgang havde være Vejformand,fik jeg nu Lov til selv at lede Arbejdet ved alle udendørs Anlæg: Stadion, Skydebanen, Skihopbakken og øvrige Arbejder samt Harpning af Grus til eget Byggeri m. m. Landbruget skulde jo ogsaa passes, og her var to Heste i Gang, men Jorden var forsømt her i Skovkrogen, og det vil vare et Stykke Tid, før vi rigtig faar noget ud af den. Der kræves Gødning, siger Landmanden, og det kan ikke skaffes for Tiden.
 

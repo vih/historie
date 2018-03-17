@@ -13,7 +13,7 @@ header:
   caption: "Foto: Lars Olesen, 2018"
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: http://historie.vih.dk/assets/podcasts/inger-christensen-skovhytten.mp3
+  mp3: https://drive.google.com/uc?id=15eHI6uulcHebhG9sXaMmzp89RVHCidAd
 podcast_file_size: 25.0 MB # for mp3-file
 podcast_duration: "13:40" # for mp3-file
 podcast_length: 26259456 # for mp3-file

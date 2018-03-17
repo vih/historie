@@ -7,15 +7,15 @@ tags:
  - Marie Lisby
 excerpt: "Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003."
 header:
-  overlay_image: https://user-images.githubusercontent.com/148026/37226324-d82af8ae-23d9-11e8-8459-c95900fab9d4.jpg
-  teaser: https://user-images.githubusercontent.com/148026/37226324-d82af8ae-23d9-11e8-8459-c95900fab9d4.jpg
+  overlay_image: /assets/images/podcasts/marie-lisby-2018.jpg
+  teaser: /assets/images/podcasts/marie-lisby-2018.jpg
   caption: "Foto: Lars Olesen, 2018"
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
   mp3: https://drive.google.com/uc?id=1zw9BvrI_HYein1KWZPbuR-S7CrzVI0rF
-podcast_file_size: 65.4 MB # for mp3-file
+podcast_file_size: 49.0 MB # for mp3-file
 podcast_duration: "35:43" # for mp3-file
-podcast_length: 68583424 # for mp3-file
+podcast_length: 51437185 # for mp3-file
 chapters:
  - '00:00:00.0 Intro'
 transcript: http://historie.vih.dk/assets/podcasts/marie-lisby.txt

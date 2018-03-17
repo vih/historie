@@ -4,7 +4,6 @@ author: inger_engberg
 category:
   - Årsskrift
 tags:
-  - elevforeningen
   - Årsskrift 1981
   - Hans Erik Jensen
 excerpt: "Inger Engberg skriver om formandsskiftet i 1993."

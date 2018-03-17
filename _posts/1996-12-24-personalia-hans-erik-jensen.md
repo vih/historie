@@ -1,6 +1,8 @@
 ---
-title: Personalia: Hans Erik Jensen død
+title: "Personalia: Hans Erik Jensen død"
 author: ole_worm
+category:
+  - Årsskrift
 tags:
   - bestyrelsen
   - Årsskrift 1996

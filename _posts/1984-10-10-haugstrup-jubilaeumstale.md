@@ -5,8 +5,7 @@ permalink: /haugstrups-jubilaeumstale/
 category:
   - Årsskrift
 tags:
-  - Haugstrup
-  - dji
+  - Søren Haugstrup
   - Årsskrift 1984
 excerpt: "Søren Haugstrups tale til 40 års jubilæum."
 ---

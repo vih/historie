@@ -6,7 +6,6 @@ category:
 tags:
   - Aksel Bjerregaard
   - Tage Søgaard
-  - forstander
   - Årsskrift 1961
 excerpt: "Otto Lassen skriver om det nye forstanderpar."
 ---

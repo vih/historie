@@ -5,7 +5,6 @@ category:
   - Jubilæumsskrift 1992
 category:
   - Årsskrift
-  - forstander
   - Tage Benjaminsen
 excerpt: "Tage Benjaminsen har haft fire _møder_ med Den jyske Idrætsskole lige fra puritanismens dage via ungdomsoprør med forsinkelse og til at være forstander for en splittet lærerkreds."
 ---

@@ -5,7 +5,6 @@ category:
   - Årsskrift
 tags:
   - Jubilæumsskrift 1992
-  - forstander
   - Aksel Bjerregaard
 excerpt: "Aksel Bjerregaard høstede stor anerkendelse på den engelske træning, men kunne ikke overføre successen til forstanderstillingen på DJI."
 ---

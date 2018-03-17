@@ -5,7 +5,6 @@ category:
   - Årsskrift
 tags:
   - Svend Aage Thomsen
-  - forstander
   - Årsskrift 1961
 excerpt: "Evald Andersens mindeord over Svend Aage Thomsen."
 ---

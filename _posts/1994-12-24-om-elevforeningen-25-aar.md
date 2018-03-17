@@ -2,6 +2,8 @@
 title: Elevforeningen gennem 25 år
 permalink: /elevforeningens-historie-gn-25-aar-1994/
 author: henning_rasmussen
+category:
+  - Årsskrift
 tags:
   - elevforeningen
   - Årsskrift 1994

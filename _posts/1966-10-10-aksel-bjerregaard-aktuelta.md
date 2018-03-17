@@ -4,7 +4,6 @@ category:
   - Årsskrift
 tags:
   - Aksel Bjerregaard
-  - forstander
   - Årsskrift 1966
 excerpt: "Aksel Bjerregaard bliver 50 år - artikel fra Aktuelta"
 ---

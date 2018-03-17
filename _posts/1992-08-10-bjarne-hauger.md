@@ -8,7 +8,6 @@ category:
   - Årsskrift
 tags:
   - Jubilæumsskrift 1992
-  - forstander
   - Bjarne Hauger
 excerpt: "Bjarne Hauger gennemførte 8-måneders skoleformen og måtte sluge nogle kameler, da 70'ernes frigørelse, ligestilling og elev-indflydelse vendte op og ned på normer og samvær."
 toc: true

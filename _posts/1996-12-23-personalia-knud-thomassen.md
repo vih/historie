@@ -1,6 +1,8 @@
 ---
-title: Personalia: Knud Thomassen død
+title: "Personalia: Knud Thomassen død"
 author: ole_worm
+category:
+  - Årsskrift
 tags:
   - bestyrelsen
   - Årsskrift 1996

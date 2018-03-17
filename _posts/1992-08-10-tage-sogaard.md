@@ -8,7 +8,6 @@ category:
   - Årsskrift
 tags:
   - Jubilæumsskrift 1992
-  - forstander
   - Tage Søgaard
 excerpt: "Tage Søgaard fortæller bl.a. sin version af, da han som forstander blev frataget ledelsen og sagde op med bitterhed i 1964."
 toc: true

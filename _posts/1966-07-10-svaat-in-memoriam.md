@@ -5,7 +5,6 @@ category:
   - Årsskrift
 tags:
   - Svend Aage Thomsen
-  - forstander
   - Årsskrift 1966
 excerpt: "Mindeartikel af Thormod Petersen om Svend Aage Thomsen"
 toc: true

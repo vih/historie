@@ -5,8 +5,7 @@ permalink: /haugstrups-tale-aabningsmoede/
 category:
   - Årsskrift
 tags:
-  - Haugstrup
-  - dji
+  - Søren Haugstrup
   - Årsskrift 1944
 excerpt: "Søren Haugstrup skriver lidt om ordvalget og hvorvidt DJI skulle opfattes som en højskole."
 ---

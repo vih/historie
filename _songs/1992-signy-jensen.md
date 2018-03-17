@@ -17,10 +17,7 @@ toc: true
 **Musik**: Signy Jensen  
 **Tekst**: Sten Kaalø
 
-<audio controls>
-  <source src="https://drive.google.com/uc?id=1JwRHx7uvKuKa9T5iGW8ZfUVyAghNJ9-9" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+{% include audio src="https://drive.google.com/uc?id=1JwRHx7uvKuKa9T5iGW8ZfUVyAghNJ9-9"  %}
 
 Som grenen bryder ud af stammen,  
 og bladet springer af sit skud,  

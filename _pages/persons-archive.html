@@ -1,0 +1,31 @@
+---
+layout: single
+title: Personer
+permalink: /personer/
+comments: single
+classes: wide
+---
+
+<div class="grid__wrapper">
+
+<h3>Forstandere</h3>
+
+{% assign forstandere = site.persons | where: "tags", "forstander" | sort: "date" %}
+
+{% for post in forstandere %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
+</div>
+
+<div class="grid__wrapper">
+
+<h3>Bestyrelsesformænd og -kvinder</h3>
+
+{% assign bestyrelse = site.persons | where: "tags", "bestyrelsesformand" | sort: "date" %}
+
+{% for post in bestyrelse %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
+</div>

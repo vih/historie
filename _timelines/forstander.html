@@ -10,7 +10,3 @@ classes: wide
 {% assign forstandere = site.persons | where: "tags", "forstander" | sort: "date" %}
 
 {% include timeline-manual.html persons=forstandere %}
-
-{% for post in forstandere %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}

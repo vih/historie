@@ -12,7 +12,7 @@ media:
   url: https://filer.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8?t=5f931f71134641488e88bb66bec2c67657df7422b7f5e0be0fbb0dd7e3987119
   credit: arkiv.dk
   caption: *title
-  # thumbnail:
+  thumbnail: https://filer.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8?t=5f931f71134641488e88bb66bec2c67657df7422b7f5e0be0fbb0dd7e3987119
 category:
   - Forstander
 tags:
@@ -23,15 +23,15 @@ excerpt: "Skolens grundlægger som arbejdede hårdt for at bygge en Idrætsskole
 
 {{ page.excerpt }}
 
-## Artikler om {{ title }}
+## Artikler om {{ page.title }}
 
-{% assign posts = site.posts | where: "tag", page.title | sort: "date" %}
+{% assign posts = site.posts | where: "tags", page.title | sort: "date" %}
 
-{% for post in author %}
+{% for post in posts %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Skrevet af {{ title }}
+## Skrevet af {{ page.title }}
 
 {% assign author = site.posts | where: "author", page.author_name | sort: "date" %}
 

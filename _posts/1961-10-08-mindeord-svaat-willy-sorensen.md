@@ -4,6 +4,7 @@ author: willy_sørensen
 category:
   - Årsskrift
 tags:
+  - mindeord
   - Svend Aage Thomsen
   - Årsskrift 1961
 excerpt: "Willy Sørensens mindeord over Svend Aage Thomsen."

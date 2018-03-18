@@ -10,3 +10,6 @@ classes: wide
 {% assign forstandere = site.persons | where: "tags", "forstander" | sort: "date" %}
 
 {% include timeline-manual.html persons=forstandere %}
+
+Hvis du vil bidrage til tidslinjen, så er du meget velkommen til bruge kommentarerne.
+{: .notice--info}

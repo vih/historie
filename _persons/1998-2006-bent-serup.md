@@ -18,6 +18,7 @@ tags:
   - Bent Serup
   - forstander
 excerpt: "Bent Serup har tætte bånd til DIF og Team Danmark. Bent sørger bl.a. for at skolen ved hjælp af Vejle Kommune og DBU får anlagt en kunstgræsbane."
+timeline_excerpt: *excerpt
 ---
 
 {{ page.excerpt }}

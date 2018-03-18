@@ -4,6 +4,7 @@ author: ole_worm
 category:
   - Årsskrift
 tags:
+  - mindeord
   - bestyrelsen
   - Årsskrift 1996
   - Knud Thomassen

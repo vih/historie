@@ -18,6 +18,7 @@ tags:
   - Vagn Mikkelsen
   - bestyrelsesformand
 excerpt: "Vagn Mikkelsen nåede kun et år på formandsposten, inden han døde."
+timeline_excerpt: *excerpt
 ---
 
 {{ page.excerpt }}

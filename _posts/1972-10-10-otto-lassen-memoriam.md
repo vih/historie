@@ -4,6 +4,7 @@ author: mogens_bredfeldt
 category:
   - Årsskrift
 tags:
+  - mindeord
   - Årsskrift 1972
   - Otto Lassen
 excerpt: "Mogens Bredfeldt mindes Otto Lassen."

@@ -4,6 +4,7 @@ author: bjarne_hauger
 category:
   - Årsskrift
 tags:
+  - mindeord
   - Årsskrift 1981
   - Aage Feldt
 excerpt: "Bjarne Hauger mindes skolens næstformand Aage Feldt."

@@ -4,6 +4,7 @@ author: hans_erik_jensen
 category:
   - Årsskrift
 tags:
+  - mindeord
   - Årsskrift 1981
   - Vagn Mikkelsen
 excerpt: "Hans Erik Jensen mindes skolens formand Vagn Mikkelsen."

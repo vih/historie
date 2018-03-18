@@ -4,6 +4,7 @@ author: evald_andersen
 category:
   - Årsskrift
 tags:
+  - mindeord
   - Svend Aage Thomsen
   - Årsskrift 1961
 excerpt: "Evald Andersens mindeord over Svend Aage Thomsen."

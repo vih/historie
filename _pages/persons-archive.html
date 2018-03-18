@@ -1,14 +1,14 @@
 ---
-layout: single
+layout: archive
 title: Personer
 permalink: /personer/
-comments: single
+comments: true
 classes: wide
 ---
 
-<div class="grid__wrapper">
+<h2>Forstandere</h2>
 
-<h3>Forstandere</h3>
+<div class="grid__wrapper">
 
 {% assign forstandere = site.persons | where: "tags", "forstander" | sort: "date" %}
 
@@ -18,9 +18,9 @@ classes: wide
 
 </div>
 
-<div class="grid__wrapper" style="clear: both;">
+<h2 style="clear: both;">Bestyrelsesformænd og -kvinder</h2>
 
-<h3>Bestyrelsesformænd og -kvinder</h3>
+<div class="grid__wrapper">
 
 {% assign bestyrelse = site.persons | where: "tags", "bestyrelsesformand" | sort: "date" %}
 

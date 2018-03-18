@@ -18,6 +18,7 @@ tags:
   - Jens Ejlert Hagelsø
   - forstander
 excerpt: "J.E. Hagelsø var ansat som medforstander for Svend Aage Thomsen, så højskolen kunne få godkendelse efter højskoleloven. J.E. Hagelsø var forstander for Vojens Ungdomsskole, som var beslaglagt af tyskerne. Hagelsøs alvor og stærke ord betød meget for vinterholdet, som bl.a. talte en del modstandsfolk, fx Thormod Petersen (se Jubilæumsskrift fra 1992, s. 21)"
+timeline_excerpt: *excerpt
 ---
 
 {{ page.excerpt }}

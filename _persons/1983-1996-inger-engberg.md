@@ -18,6 +18,7 @@ tags:
   - Inger Engberg
   - bestyrelsesformand
 excerpt: "Inger Engberg sad på formandsposten i rigtig mange år."
+timeline_excerpt: *excerpt
 ---
 
 {{ page.excerpt }}

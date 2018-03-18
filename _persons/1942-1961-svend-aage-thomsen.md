@@ -19,6 +19,7 @@ tags:
   - Svend Aage Thomsen
   - forstander
 excerpt: "Skolens grundlægger som arbejdede hårdt for at bygge en Idrætsskole, der kunne forbedre uddannelsen af idrætsledere i Jylland. Det blev hans store mission, og efter slidsomt arbejdede kunne han se sin vision stå der i 1958 - desværre kort før hans alt for tidlige død i 1961."
+timeline_excerpt: *excerpt
 ---
 
 {{ page.excerpt }}

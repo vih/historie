@@ -18,6 +18,7 @@ tags:
   - Willy Sørensen
   - bestyrelsesformand
 excerpt: "Vejles daværende borgmester overtog formandsposten i bestyrelsen for Den Jyske Idrætshøjskole efter sin borgmesterkollega."
+timeline_excerpt: *excerpt
 ---
 
 {{ page.excerpt }}

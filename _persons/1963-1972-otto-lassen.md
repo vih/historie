@@ -6,18 +6,19 @@ start_date:
 end_date:
   year: 1972
 header:
-  teaser: https://filer.arkibas.dk/filer/visning/18605c69752319ba1de600b02302a5d0?t=c86b44b307e70f543b6d57d45ddff7afde73e8155d5e049f6f8d00e7f4f7ab9e
+  teaser: https://lh3.googleusercontent.com/sMu7O-jkXF_eOpIeiQgMz9sSCgh7QyDuVmx9_71AlZyTM6JWBLT6I8_dPaScWX6Slncw666y_nR4ziK4eEYzbRURRSfmJz01aBqgbLpPUfM_gOZiSkgB4fWu6UcZdDzL4dbsrAQgUQ=w2400
 media: 
-  url: https://filer.arkibas.dk/filer/visning/18605c69752319ba1de600b02302a5d0?t=c86b44b307e70f543b6d57d45ddff7afde73e8155d5e049f6f8d00e7f4f7ab9e
+  url: https://lh3.googleusercontent.com/sMu7O-jkXF_eOpIeiQgMz9sSCgh7QyDuVmx9_71AlZyTM6JWBLT6I8_dPaScWX6Slncw666y_nR4ziK4eEYzbRURRSfmJz01aBqgbLpPUfM_gOZiSkgB4fWu6UcZdDzL4dbsrAQgUQ=w2400
   credit: arkiv.dk
   caption: *title
-  thumbnail: https://filer.arkibas.dk/filer/visning/18605c69752319ba1de600b02302a5d0?t=c86b44b307e70f543b6d57d45ddff7afde73e8155d5e049f6f8d00e7f4f7ab9e
+  thumbnail: https://lh3.googleusercontent.com/sMu7O-jkXF_eOpIeiQgMz9sSCgh7QyDuVmx9_71AlZyTM6JWBLT6I8_dPaScWX6Slncw666y_nR4ziK4eEYzbRURRSfmJz01aBqgbLpPUfM_gOZiSkgB4fWu6UcZdDzL4dbsrAQgUQ=w2400
 category:
   - Bestyrelsesformænd
 tags:
   - Otto Lassen
   - bestyrelsesformand
 excerpt: "Kontorchef, Otto Lassen, var bestyrelsesformand i en lang årrække."
+timeline_excerpt: *excerpt
 ---
 
 {{ page.excerpt }}

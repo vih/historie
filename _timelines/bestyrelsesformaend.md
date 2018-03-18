@@ -13,4 +13,3 @@ classes: wide
 
 Hvis du vil bidrage til tidslinjen, så er du meget velkommen til bruge kommentarerne.
 {: .notice--info}
-

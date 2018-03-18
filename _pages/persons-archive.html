@@ -21,7 +21,7 @@ classes: wide
 <h2 style="clear: both;">Bestyrelsesformænd og -kvinder</h2>
 
 <div class="grid__wrapper">
-  
+
 {% assign bestyrelse = site.persons | where: "tags", "bestyrelsesformand" | sort: "date" %}
 
 {% for post in bestyrelse %}

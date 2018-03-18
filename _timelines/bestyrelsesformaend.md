@@ -4,6 +4,10 @@ title: Bestyrelsesformænd
 excerpt: "Liste med bestyrelsesformænd på Den Jyske Idrætsskole og Vejle Idrætshøjskole"
 permalink: /bestyrelse/
 author_profile: false
+tags:
+  - formænd
+  - forkvinder
+  - bestyrelsen
 classes: wide
 ---
 

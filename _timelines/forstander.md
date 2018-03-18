@@ -5,6 +5,8 @@ excerpt: "Liste med forstandere på Den Jyske Idrætsskole og Vejle Idrætshøjs
 permalink: /forstandere/
 author_profile: false
 classes: wide
+tags:
+  - forstandere
 ---
 
 {% assign forstandere = site.persons | where: "tags", "forstander" | sort: "date" %}

@@ -16,7 +16,7 @@ Fra at have været nydende medlem af foreningen i godt et år, skulle jeg nu st�
 
 Noget af det første, vi foretog, var at tage forhandling med skolens ledelse, Bjarne Hauger, om et tættere samarbejde omkring elevmøder og årsskrifter.
 
-Elevmøderne kunne i begyndelsen af 70'erne afholdes i den gamle spisesal, med et tomands orkester siddende i hjørnet, der hvor der idag er serviceaflevering. Indkvarteringen foregik i de eksisterende værelser, med 3 på hvert værelse for de sidste årganges vedkommende. Faste programpunkter var generalforsamling, som var bedre besøgt den gang end i dag, árgangskampe i håndbold, samt atletikkonkurrencer for gamle elever. I atletikkonkurrencerne deltog mange dygtige atletikfolk, idet skolen dengang stadig var besøgt af mange, der huskede Svend Åge Thomsen som en dygtig atletikudøver.
+Elevmøderne kunne i begyndelsen af 70'erne afholdes i den gamle spisesal, med et tomands orkester siddende i hjørnet, der hvor der idag er serviceaflevering. Indkvarteringen foregik i de eksisterende værelser, med 3 på hvert værelse for de sidste årganges vedkommende. Faste programpunkter var generalforsamling, som var bedre besøgt den gang end i dag, árgangskampe i håndbold, samt atletikkonkurrencer for gamle elever. I atletikkonkurrencerne deltog mange dygtige atletikfolk, idet skolen dengang stadig var besøgt af mange, der huskede Svend Aage Thomsen som en dygtig atletikudøver.
 
 Der var elevmøde både sommer og vinter i de år. Noget af det første vi blev enige med Bjarne Hauger om, var at sløjfe vinterelevmødet, for at satse kraftigere på sommerens møde, som blev placeret midt i august måned.
 

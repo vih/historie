@@ -20,13 +20,9 @@ Vi var overbevist om, at Tage Søgård, som siden 1. november 1945 har været kn
 
 Var Tage Søgård en kendt skikkelse inden for højskolekredse, var blandt ansøgerne en mand, hvis navn er slået fast med syvtommersøm inden for dansk idræt.
 
-<<<<<<< HEAD
 Aksel Bjerregaard var manden, og en nærmere præsentation burde være overflødig. Men visse data skal dog opregnes. Studenten fra Efterslægten, som afbrød et universitetsstudium for at hellige sig idrætten, gennemgik i 1941-42 Statens Gymnastikskoles kursus og i 1946 Svenska Fri-Idrottsförbundets 3 måneders kursus på Bosön. I årene 1943-48 finder vi ham som instruktør for Københavns Athletik Forbund og fra 1948 ansat som instruktør i Dansk Idræts-Forbund, hvor arbejdet dels har bestået i medvirken ved special-forbundenes kursus og dels i træning af idrætsfolk til større arrangementer, f. eks. træning af fodboldspillerne til olympiaderne 1948 og 52 og konditionstræning af næsten samtlige idrætsfolk til olympiaden i Rom. Hans nære samarbejde med dr. Bøje og andre idrætslæger må forventes at give gode resultater, som vil være af værdi for mange idrætsfolk. Bjerregaard, som er født den 19/10 1916, må håbes at kunne give mange gode år for skolen.
-=======
-Aksel Bjerregaard var manden, og en nærmere præsentation burde være overflødig. Men visse data skal dog opregnes. Studenten fra Efterslægten, som afbrød et universitetsstudium for at hellige sig idrætten, gennemgik i 1941
 
 42 Statens Gymnastikskoles kursus og i 1946 Svenska Fri-Idrottsförbundets 3 måneders kursus på Bosön. I årene 1943-48 finder vi ham som instruktør for Københavns Athletik Forbund og fra 1948 ansat som instruktør i Dansk Idræts-Forbund, hvor arbejdet dels har bestået i medvirken ved special-forbundenes kursus og dels i træning af idretsfolk til større arrangementer, f. eks. træning af fodboldspillerne til olympiaderne 1948 og 52 og konditionstræning af næsten samtlige idrætsfolk til olympiaden i Rom. Hans nære samarbejde med dr. Boje og andre idrætslæger må forventes at give gode resultater, som vil være af værdi for mange idrætsfolk. Bjerregaard, som er født den 19/10 1916, må håbes at kunne give mange gode år for skolen.
->>>>>>> Added more personalia
 
 Når der endvidere for begges vedkommende samtidig findes fine karakteregenskaber og evner til at omgås mennesker, vil der være al grund til at tro, at begge, som har uddannelse til at supplere hinanden, – også uden for deres eget specialfelt, – vil have mulighed for at føre skolen videre i den rigtige ånd.
 

@@ -4,7 +4,7 @@ author_name: "ole_damgaard"
 start_date: 
   year: 2010
 end_date:
-  #year: 2018
+  year: 2018
 header:
   teaser: https://vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg?itok=_7Wc7mWN
 media: 

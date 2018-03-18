@@ -4,7 +4,7 @@ author_name: "carsten_lang_petersen"
 start_date: 
   year: 2008
 end_date:
-  #year: 2018
+  year: 2018
 header:
   teaser: https://fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg?itok=c0tZNbig
 media: 

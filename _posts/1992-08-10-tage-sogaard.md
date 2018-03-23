@@ -43,7 +43,7 @@ Magtkampen på skolen fulgte i årene efter Svend Aage Thomsens pludselige død 
 
 ## Konflikter med forretningsføreren
 
-Med til historien hører også ansættelse af Viktor Nielsen som forretningsfører på skolen i slutningen af 50'erne. Viktor Nielsen – formand i Samvirkende Idrætsklubber i Vejle – blev arbejdsløs, da Vejle Eksport Slagteri måtte lukkes. Skolens daværende bestyrelsesformand, borgmester Villy Sørensen, ønskede Viktor Nielsen ansat på DJI i håb om, at Viktor Nielsen kunne bringe orden i skolens betrængte økonomi.
+Med til historien hører også ansættelse af Viktor Nielsen som forretningsfører på skolen i slutningen af 50'erne. Viktor Nielsen – formand i Samvirkende Idrætsklubber i Vejle – blev arbejdsløs, da Vejle Eksport Slagteri måtte lukkes. Skolens daværende bestyrelsesformand, borgmester Willy Sørensen, ønskede Viktor Nielsen ansat på DJI i håb om, at Viktor Nielsen kunne bringe orden i skolens betrængte økonomi.
 
 > Svend Aage Thomsen kæmpede indædt imod denne ansættelse. Han brød sig ikke om Viktor Nielsen, og jeց havde også løbende konflikter med ham. Han ville blande sig i skolen pædagogiske ledelse, hvorfor jeg ved flere lejligheder - efter Svend Aages død bad ham holde sig til det økonomiske og lade mig om den pædagogiske linie.
 

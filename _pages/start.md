@@ -2,6 +2,7 @@
 layout: single
 title: Start din rejse ind i historien
 permalink: /start/
+author_profile: true
 ---
 
 Der er skrevet rigtig meget om [Vejle Idrætshøjskoles](http://vih.dk) historie, men der er også rigtig meget materiale, som ikke er blevet kigget grundigt igennem. Her er en lille guide til at komme i gang med denne side.

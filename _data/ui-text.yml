@@ -888,6 +888,7 @@ da: &DEFAULT_DA
   loading_label              : "Indlæser..."
   search_placeholder_text    : "Hvad leder du efter..."
   results_found              : "Resultat(er) fundet"
+  back_to_top                : "Tilbage til toppen"
 da-DK:
   <<: *DEFAULT_DA
 

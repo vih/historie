@@ -1,11 +1,6 @@
 ---
-layout: archive
+layout: posts
 title: Arkiv
 permalink: /arkiv/
+classes: wide
 ---
-
-<div class="grid__wrapper">
-  {% for post in site.posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-</div>

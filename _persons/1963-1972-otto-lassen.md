@@ -18,7 +18,7 @@ tags:
   - Otto Lassen
   - bestyrelsesformand
 excerpt: "Kontorchef, Otto Lassen, var bestyrelsesformand i en lang årrække."
-timeline_excerpt: *excerpt
+description: *excerpt
 ---
 
 {{ page.excerpt }}

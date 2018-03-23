@@ -18,7 +18,7 @@ tags:
   - Poul Grejs
   - bestyrelsesformand
 excerpt: "Poul Grejs fra Dansk Sejlunion var formand i 22 år."
-timeline_excerpt: *excerpt
+description: *excerpt
 ---
 
 {{ page.excerpt }}

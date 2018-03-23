@@ -18,7 +18,7 @@ tags:
   - Carsten Lang Petersen
   - bestyrelsesformand
 excerpt: "Carsten Lang Petersen er den nuværende formand"
-timeline_excerpt: *excerpt
+description: *excerpt
 ---
 
 {{ page.excerpt }}

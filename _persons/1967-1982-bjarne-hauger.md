@@ -18,7 +18,7 @@ tags:
   - Bjarne Hauger
   - forstander
 excerpt: "Bjarne Hauger får ret frie rammer af bestyrelsen til at reformere skolevirksomheden. Han indfører 8 måneders skolen med en breddeperiode om efteråret og en specialeperiode om foråret både inden for idrætten og højskolefagene. Han beskriver tankerne nøjere i Årsskriftet fra 1967. Under Bjarne Hauger udvides skolen også med DIF kursuscenter og træningssal."
-timeline_excerpt: *excerpt
+description: *excerpt
 ---
 
 {{ page.excerpt }}

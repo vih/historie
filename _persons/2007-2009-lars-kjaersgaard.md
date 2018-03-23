@@ -18,7 +18,7 @@ tags:
   - Lars Kjærsgård
   - forstander
 excerpt: "Lars Kjærsgaard overtager roret i en krisetid - og hvor bestyrelsen har besluttet at der samtidig skal starte en efterskole. Det blev en vanskelig forstandertid."
-timeline_excerpt: *excerpt
+description: *excerpt
 ---
 
 {{ page.excerpt }}

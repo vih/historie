@@ -18,7 +18,7 @@ tags:
   - Aksel Bjerregaard
   - forstander
 excerpt: "En af de fremmeste eksponenter for træning, bl.a. circuit træning. Blev medforstander for Tage Søgård. Samarbejdet blev aldrig optimalt og det antydes i Jubilæumsskriftet fra 1992, at Bjerregaard blev nødt til at stoppe, fordi hans livsstil ikke kunne forenes med at være forstander på en Idrætsskole."
-timeline_excerpt: *excerpt
+description: *excerpt
 ---
 
 {{ page.excerpt }}

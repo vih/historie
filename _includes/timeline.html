@@ -1,1 +1,71 @@
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source={{ include.source }}&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
+<!-- 1 -->
+<link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+<link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/fonts/font.default.css">
+<!-- 2 -->
+<script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+
+<div id='timeline-embed' style="width: 100%; height: 600px"></div>
+
+<!-- 3 -->
+<script type="text/javascript">
+    var timeline_json = {
+        "title": {
+            "media": {
+                "caption": "{{ page.media.caption }}",
+                "credit": "{{ page.media.credit }}",
+                "url": "{{ page.media.url }}",
+                "thumbnail": "{{ page.media.thumbnail }}"
+            },
+            "text": {
+                "headline": "{{ page.title }}",
+                "text": "{{ page.excerpt }}"
+            }
+        },
+        "events": [
+        {% for person in include.persons %}
+        {
+            "start_date": {
+                "year": "{{ person.start_date.year }}",
+                "month": "{{ person.start_date.month }}",
+                "day": "{{ person.start_date.day }}"
+            },
+            "end_date": {
+                "year": "{{ person.end_date.year }}",
+                "month": "{{ person.end_date.month }}",
+                "day": "{{ person.end_date.day }}"
+            },
+            "group": "{{ person.category }}",
+            "media": {
+                "caption": "{{ person.media.caption }}",
+                "credit": "{{ person.media.credit }}",
+                "thumbnail": "{{ person.media.thumbnail }}",
+                "url": "{{ person.media.url }}"
+            },
+            "text": {
+                "headline": "{{ person.title }}",
+                "text": "{{ person.description }}"
+            }
+            }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+        ]
+    };
+    // The TL.Timeline constructor takes at least two arguments:
+    // the id of the Timeline container (no '#'), and
+    // the URL to your JSON data file or Google spreadsheet.
+    // the id must refer to an element "above" this code,
+    // and the element must have CSS styling to give it width and height
+    // optionally, a third argument with configuration options can be passed.
+    // See below for more about options.
+    var timeline_options = {
+        language: "en",
+        initial_zoom: 2,
+        scale_factor: 1,
+        hash_bookmark: true,
+        font: "Default",
+        height: 650,
+        is_embed: true,
+        slide_padding_lr: 50
+    }
+
+    window.timeline = new TL.Timeline('timeline-embed', timeline_json, timeline_options);
+</script>

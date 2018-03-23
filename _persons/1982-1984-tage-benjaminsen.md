@@ -18,7 +18,7 @@ tags:
   - Tage Benjaminsen
   - forstander
 excerpt: "Bliver ansat med stor opbakning fra bestyrelsen. Træder ind i et splittet lærerkollegium og vælger efter to år at få nye udfordringer med at starte en ny højskole i Skagen."
-timeline_excerpt: *excerpt
+description: *excerpt
 ---
 
 {{ page.excerpt }}

@@ -18,7 +18,7 @@ tags:
   - Tage Søgård
   - forstander
 excerpt: "Var tidligere højskolelærer på skolen. Pga. skolens DIF relationer fik han en medforstander i Aksel Bjerregaard. Samarbejdet kom dog aldrigt til at fungere optimalt, hvilket man kan læse mere om i Jubilæumsskriftet fra 1992."
-timeline_excerpt: *excerpt
+description: *excerpt
 ---
 
 {{ page.excerpt }}

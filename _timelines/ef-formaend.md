@@ -1,6 +1,7 @@
 ---
-title:  Tidslinje med formænd og -kvinder for Elevforeningen
+title:  Formænd og -kvinder for Elevforeningen
 excerpt: "Tidslinje med formænd og -kvinder for Elevforeningen på Vejle Idrætshøjskole"
+description: *excerpt
 tags:
   - elevforeningen
   - formænd

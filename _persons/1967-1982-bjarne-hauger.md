@@ -11,7 +11,7 @@ media:
   url: https://lh3.googleusercontent.com/3_whfQ-SVwaEXAIC90KlMIrjSeZ7HolB6VO11cnsvtnYp5nhvDZlBVyGHDPh-lR-bQJK_Cz2CHkHKupV1vTrjfm3Qkuf1BO5vb3l6oHqB9l9OxAybxv67jGVPUodapbxMFZEJEq5TQ=w2400
   credit: arkiv.dk
   caption: *title
-  thumbnail: https://lh3.googleusercontent.com/3_whfQ-SVwaEXAIC90KlMIrjSeZ7HolB6VO11cnsvtnYp5nhvDZlBVyGHDPh-lR-bQJK_Cz2CHkHKupV1vTrjfm3Qkuf1BO5vb3l6oHqB9l9OxAybxv67jGVPUodapbxMFZEJEq5TQ=w2400
+  thumbnail: //images.weserv.nl/?url=lh3.googleusercontent.com/3_whfQ-SVwaEXAIC90KlMIrjSeZ7HolB6VO11cnsvtnYp5nhvDZlBVyGHDPh-lR-bQJK_Cz2CHkHKupV1vTrjfm3Qkuf1BO5vb3l6oHqB9l9OxAybxv67jGVPUodapbxMFZEJEq5TQ=w2400?w=100
 category:
   - Forstander
 tags:

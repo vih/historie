@@ -11,7 +11,7 @@ media:
   url: https://drive.google.com/uc?id=0B5v4mAibvkKXR1VBeEEwVUhMa1E
   credit: arkiv.dk
   caption: *title
-  thumbnail: https://drive.google.com/uc?id=0B5v4mAibvkKXR1VBeEEwVUhMa1E
+  thumbnail: //images.weserv.nl/?url=drive.google.com/uc?id=0B5v4mAibvkKXR1VBeEEwVUhMa1E?w=100
 category:
   - Forstander
 tags:

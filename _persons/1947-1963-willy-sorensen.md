@@ -11,7 +11,7 @@ media:
   url: http://www.vejlewiki.dk/images/4/41/Willy1.jpg
   credit: arkiv.dk
   caption: *title
-  thumbnail: http://www.vejlewiki.dk/images/4/41/Willy1.jpg
+  thumbnail: //images.weserv.nl/?url=http://www.vejlewiki.dk/images/4/41/Willy1.jpg?w=100
 category:
   - Bestyrelsesformænd
 tags:

@@ -11,7 +11,7 @@ media:
   url: https://fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg?itok=c0tZNbig
   credit: arkiv.dk
   caption: *title
-  thumbnail: https://fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg?itok=c0tZNbig
+  thumbnail: //images.weserv.nl/?url=fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg?w=100
 category:
   - Bestyrelsesformænd
 tags:

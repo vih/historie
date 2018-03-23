@@ -11,7 +11,7 @@ media:
   url: https://www.aoh.dk/storyimage/AO/20141018/ARTIKEL/141018583/AR/0/AR-141018583.jpg&MaxH=415&imageVersion=default&Q=95&MT=DT20141021101450
   credit: arkiv.dk
   caption: *title
-  thumbnail: https://www.aoh.dk/storyimage/AO/20141018/ARTIKEL/141018583/AR/0/AR-141018583.jpg&MaxH=415&imageVersion=default&Q=95&MT=DT20141021101450
+  thumbnail: www.aoh.dk/storyimage/AO/20141018/ARTIKEL/141018583/AR/0/AR-141018583.jpg&MaxH=415&imageVersion=default&Q=95&MT=DT20141021101450
 category:
   - Bestyrelsesformænd
 tags:

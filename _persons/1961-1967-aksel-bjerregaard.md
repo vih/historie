@@ -11,7 +11,7 @@ media:
   url: https://filer.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25?t=860f81500e9065900ac37d117d3889c38d1aa7cc591aedad4e2629e0c3414806
   credit: arkiv.dk
   caption: *title
-  thumbnail: https://filer.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25?t=860f81500e9065900ac37d117d3889c38d1aa7cc591aedad4e2629e0c3414806
+  thumbnail: //images.weserv.nl/?url=filer.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25?t=860f81500e9065900ac37d117d3889c38d1aa7cc591aedad4e2629e0c3414806?w=100
 category:
   - Forstander
 tags:

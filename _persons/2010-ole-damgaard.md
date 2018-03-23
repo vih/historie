@@ -11,7 +11,7 @@ media:
   url: https://vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg?itok=_7Wc7mWN
   credit: arkiv.dk
   caption: *title
-  thumbnail: https://vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg?itok=_7Wc7mWN
+  thumbnail: //images.weserv.nl/?url=vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg?w=100
 category:
   - Forstander
 tags:

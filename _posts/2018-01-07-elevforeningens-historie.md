@@ -32,7 +32,7 @@ Det vil være rigtig hjælpsomt, hvis du kan være med til at føre elevforening
 
 Det er lidt af et puslespil at få styr på de forskellige formænd, men vi har gjort et forsøg i denne tidslinje.
 
-{% include timeline.html source="1Q4owmzuRpnP_22kB_yj9w4aRDXv5que-5FcfE6Z5g1o" %}
+{% include timeline-embed.html source="1Q4owmzuRpnP_22kB_yj9w4aRDXv5que-5FcfE6Z5g1o" %}
 
 ## Medlemmer, gensynsweekend og kontingent
 

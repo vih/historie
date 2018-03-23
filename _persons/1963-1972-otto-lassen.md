@@ -11,7 +11,7 @@ media:
   url: https://lh3.googleusercontent.com/sMu7O-jkXF_eOpIeiQgMz9sSCgh7QyDuVmx9_71AlZyTM6JWBLT6I8_dPaScWX6Slncw666y_nR4ziK4eEYzbRURRSfmJz01aBqgbLpPUfM_gOZiSkgB4fWu6UcZdDzL4dbsrAQgUQ=w2400
   credit: arkiv.dk
   caption: *title
-  thumbnail: //images.weserv.nl/?url=lh3.googleusercontent.com/sMu7O-jkXF_eOpIeiQgMz9sSCgh7QyDuVmx9_71AlZyTM6JWBLT6I8_dPaScWX6Slncw666y_nR4ziK4eEYzbRURRSfmJz01aBqgbLpPUfM_gOZiSkgB4fWu6UcZdDzL4dbsrAQgUQ=w2400?w=100
+  thumbnail: //images.weserv.nl/?url=lh3.googleusercontent.com/sMu7O-jkXF_eOpIeiQgMz9sSCgh7QyDuVmx9_71AlZyTM6JWBLT6I8_dPaScWX6Slncw666y_nR4ziK4eEYzbRURRSfmJz01aBqgbLpPUfM_gOZiSkgB4fWu6UcZdDzL4dbsrAQgUQ=w2400&w=100
 category:
   - Bestyrelsesformænd
 tags:
@@ -27,14 +27,10 @@ description: *excerpt
 
 {% assign posts = site.posts | where: "tags", page.title | sort: "date" %}
 
-{% for post in posts %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include post-list.html posts=posts %}
 
 ## Skrevet af {{ page.title }}
 
 {% assign author = site.posts | where: "author", page.author_name | sort: "date" %}
 
-{% for post in author %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include post-list.html posts=author %}

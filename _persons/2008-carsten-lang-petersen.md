@@ -11,7 +11,7 @@ media:
   url: https://fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg?itok=c0tZNbig
   credit: arkiv.dk
   caption: *title
-  thumbnail: //images.weserv.nl/?url=fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg?w=100
+  thumbnail: //images.weserv.nl/?url=fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg&w=100
 category:
   - Bestyrelsesformænd
 tags:
@@ -27,14 +27,10 @@ description: *excerpt
 
 {% assign posts = site.posts | where: "tags", page.title | sort: "date" %}
 
-{% for post in posts %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include post-list.html posts=posts %}
 
 ## Skrevet af {{ page.title }}
 
 {% assign author = site.posts | where: "author", page.author_name | sort: "date" %}
 
-{% for post in author %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include post-list.html posts=author %}

@@ -11,7 +11,7 @@ media:
   url: https://lh3.googleusercontent.com/OOCTVD3dEsm7nMBuSIvy8AMGT1Xwz8nlY14RpZmx_aBPDgCT1ETnFvOq9J8MRf9QG2q4M3OQ7qdUk8pDQyWZueKHvAiEmQUVgXXcXr2wGN-7BnCNyR8iKiymjnzpy0lKoC_DcGqXdu8
   credit: arkiv.dk
   caption: *title
-  thumbnail: //images.weserv.nl/?url=lh3.googleusercontent.com/OOCTVD3dEsm7nMBuSIvy8AMGT1Xwz8nlY14RpZmx_aBPDgCT1ETnFvOq9J8MRf9QG2q4M3OQ7qdUk8pDQyWZueKHvAiEmQUVgXXcXr2wGN-7BnCNyR8iKiymjnzpy0lKoC_DcGqXdu8?w=100
+  thumbnail: //images.weserv.nl/?url=lh3.googleusercontent.com/OOCTVD3dEsm7nMBuSIvy8AMGT1Xwz8nlY14RpZmx_aBPDgCT1ETnFvOq9J8MRf9QG2q4M3OQ7qdUk8pDQyWZueKHvAiEmQUVgXXcXr2wGN-7BnCNyR8iKiymjnzpy0lKoC_DcGqXdu8&w=100
 category:
   - Forstander
 tags:
@@ -27,14 +27,10 @@ description: *excerpt
 
 {% assign posts = site.posts | where: "tags", page.title | sort: "date" %}
 
-{% for post in posts %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include post-list.html posts=posts %}
 
 ## Skrevet af {{ page.title }}
 
 {% assign author = site.posts | where: "author", page.author_name | sort: "date" %}
 
-{% for post in author %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include post-list.html posts=author %}

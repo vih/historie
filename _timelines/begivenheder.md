@@ -1,7 +1,5 @@
 ---
 title:  Begivenheder
-header:
-  teaser: https://drive.google.com/uc?id=0B5v4mAibvkKXb0lvbGt2SHpqaTQ
 classes: wide
 excerpt: "Nogle af de store begivenheder på skolen gennem tiderne."
 ---

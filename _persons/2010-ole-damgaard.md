@@ -11,7 +11,7 @@ media:
   url: https://vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg?itok=_7Wc7mWN
   credit: arkiv.dk
   caption: *title
-  thumbnail: //images.weserv.nl/?url=vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg?w=100
+  thumbnail: //images.weserv.nl/?url=vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg&w=100
 category:
   - Forstander
 tags:
@@ -27,14 +27,10 @@ description: *excerpt
 
 {% assign posts = site.posts | where: "tags", page.title | sort: "date" %}
 
-{% for post in posts %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include post-list.html posts=posts %}
 
 ## Skrevet af {{ page.title }}
 
 {% assign author = site.posts | where: "author", page.author_name | sort: "date" %}
 
-{% for post in author %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include post-list.html posts=author %}

@@ -27,14 +27,10 @@ description: *excerpt
 
 {% assign posts = site.posts | where: "tags", page.title | sort: "date" %}
 
-{% for post in posts %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include post-list.html posts=posts %}
 
 ## Skrevet af {{ page.title }}
 
 {% assign author = site.posts | where: "author", page.author_name | sort: "date" %}
 
-{% for post in author %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include post-list.html posts=author %}

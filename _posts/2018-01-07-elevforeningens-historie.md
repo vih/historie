@@ -5,6 +5,7 @@ author: lsolesen
 tags:
   - elevforeningen
 excerpt: "En beskrivelse af elevforeningens historie som blev stiftet i 1944."
+toc: true
 ---
 
 _I anledning af vores 75 års jubilæum, er vi ved at forsøge at få helt styr på elevforeningens historie, og vi kan virkelig godt bruge lidt hjælp. Jeg har prøvet at lave en start herunder, men derfra vil det være strålende med lidt hjælp fra nogle af jer, der ved noget - eller kan finde ud af noget._

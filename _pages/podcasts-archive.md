@@ -1,7 +1,8 @@
 ---
-layout: archive
+layout: collection
 title: Vejle Idrætshøjskoles Stemmer
 permalink: /podcast/
+collection: podcasts
 author: lsolesen
 excerpt: "Podcast af og om menneskene på VIH og DJI, hvor vi forsøger at gøre os klogere på højskolen."
 header:
@@ -10,10 +11,5 @@ header:
   caption: "Svend Aage Thomsen lytter til grammofon med med eleverne"
   cta_url: "/feed/podcast/"
   cta_label: "<i class='fas fa-podcast'></i> Podcast feed"
+classes: wide
 ---
-
-<div class="grid__wrapper">
-  {% for post in site.podcasts %}
-    {% include archive-single.html %}
-  {% endfor %}
-</div>

@@ -8,7 +8,7 @@ tags:
 excerpt: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Åge Thomsens baggrund for at starte skolen."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: http://historie.vih.dk/assets/podcasts/thomassen-skolens-start.mp3
+  mp3: https://drive.google.com/uc?id=1dfnMnGdWBFLdwPyUUUPMqBnX7tDY5if_
 podcast_file_size: 13.8 MB # for mp3-file
 podcast_duration: "07:32" # for mp3-file
 podcast_length: 14474118 # for mp3-file

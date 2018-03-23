@@ -9,7 +9,7 @@ tags:
 excerpt: "Interview med Jørn Richter om de elever, han er stødt ind i som lærer på Vejle Idrætshøjskole."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: http://historie.vih.dk/assets/podcasts/richter-eleverne.mp3
+  mp3: https://drive.google.com/uc?id=1yLiFMF4CcBwXf5S3qN5ZjO3B1gRuFqNz
 podcast_file_size: 36.6 MB # for mp3-file
 podcast_duration: "24:08" # for mp3-file
 podcast_length: 38440960 # for mp3-file

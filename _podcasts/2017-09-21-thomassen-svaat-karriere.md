@@ -8,7 +8,7 @@ tags:
 excerpt: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Åge Thomsens idrætskarriere."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: http://historie.vih.dk/assets/podcasts/thomassen-svaat-karriere.mp3
+  mp3: https://drive.google.com/uc?id=1W4PoWvzo-3DU7NcUgGA1fF84g817yU7B
 podcast_file_size: 25.9 MB # for mp3-file
 podcast_duration: "14:09" # for mp3-file
 podcast_length: 27200290 # for mp3-file

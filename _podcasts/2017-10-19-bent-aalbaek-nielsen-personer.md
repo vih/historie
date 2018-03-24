@@ -25,5 +25,8 @@ transcript: http://historie.vih.dk/assets/podcasts/bent-aalbaek-nielsen-personer
 
 {{ page.excerpt }}
 
+<object width="100%" height="100" type="text/plain" data="{{ page.transcript }}" border="0" >
+</object>
+
 _Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen._
 {: .notice--info}

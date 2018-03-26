@@ -6,9 +6,9 @@ start_date:
 end_date:
   year: 2018
 header:
-  teaser: https://vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg?itok=_7Wc7mWN
+  teaser: /assets/images/persons/ole-damgaard.jpg
 media: 
-  url: https://vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg?itok=_7Wc7mWN
+  url: https://vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg
   credit: arkiv.dk
   caption: *title
   thumbnail: //images.weserv.nl/?url=vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg&w=100

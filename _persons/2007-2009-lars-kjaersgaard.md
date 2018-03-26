@@ -6,11 +6,11 @@ start_date:
 end_date:
   year: 2009
 header:
-  teaser: https://drive.google.com/uc?id=0B5v4mAibvkKXR1VBeEEwVUhMa1E
+  teaser: /assets/images/persons/lars-kjaersgaard.jpg
 media: 
   url: https://drive.google.com/uc?id=0B5v4mAibvkKXR1VBeEEwVUhMa1E
   credit: arkiv.dk
-  caption: *title
+  caption: "Lars Kjærsgård"
   thumbnail: //images.weserv.nl/?url=drive.google.com/uc?id=0B5v4mAibvkKXR1VBeEEwVUhMa1E&w=100
 category:
   - Forstander

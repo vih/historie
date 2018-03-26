@@ -6,11 +6,11 @@ start_date:
 end_date:
   year: 1945
 header:
-  teaser: http://www.vojensbilleder.dk/kendte/tejlert_hagelsoe.jpg
+  teaser: /assets/images/persons/jehagelsoe.png
 media: 
   url: http://www.vojensbilleder.dk/kendte/tejlert_hagelsoe.jpg
-  credit: arkiv.dk
-  caption: *title
+  credit: "Vojens Billeder"
+  caption: "Jens Ejlert Hagelsø"
   thumbnail: http://www.vojensbilleder.dk/kendte/tejlert_hagelsoe.jpg
 category:
   - Medforstander

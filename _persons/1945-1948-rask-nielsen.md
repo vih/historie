@@ -6,11 +6,11 @@ start_date:
 end_date:
   year: 1948
 header:
-  teaser: http://aalbaek-nielsen.dk/____impro/1/onewebmedia/Den%20unge%20Rask%20Nielsen.jpg?etag=W%2F%222b07-58f8ca6a%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=136%2B200&extract=0%2B0%2B136%2B200&quality=85
+  teaser: /assets/images/persons/rask-nielsen.png
 media: 
   url: http://aalbaek-nielsen.dk/____impro/1/onewebmedia/Den%20unge%20Rask%20Nielsen.jpg?etag=W%2F%222b07-58f8ca6a%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=136%2B200&extract=0%2B0%2B136%2B200&quality=85
-  credit: arkiv.dk
-  caption: *title
+  credit: "Bent Aalbæk-Nielsens hjemmeside"
+  caption: "Rask Nielsen"
   thumbnail: http://aalbaek-nielsen.dk/____impro/1/onewebmedia/Den%20unge%20Rask%20Nielsen.jpg?etag=W%2F%222b07-58f8ca6a%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=136%2B200&extract=0%2B0%2B136%2B200&quality=85
 category:
   - Medforstander

@@ -75,6 +75,10 @@ _Var politikfolkene skrevet ind og derved figurerer de på holdbillederne fra de
 
 _Findes der et billede af 5. kompagni i Vejle - ligesom der gør med 2. kompagni?_
 
+## Morgensamling om modstandskampen
+
+[Lyt og se til morgensamlingen](/hojskolens-historie-live-modstandskampen/).
+
 ## Kan du hjælpe?
 
 Er der nogen af jer der har kendskab til dokumenter, billeder eller videomateriale, der understøtter erindringerne i denne artikel, som det er samlet fra en række forskellige kilder. 

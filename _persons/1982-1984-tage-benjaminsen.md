@@ -19,6 +19,11 @@ tags:
   - forstander
 excerpt: "Forstander fra 1982 - 1984 efter at have været både elev og højskolelærer på Den Jyske Idrætsskole. Starter efterfølgende Sundhedshøjskolen i Skagen."
 description: "Bliver ansat med stor opbakning fra bestyrelsen. Træder ind i et splittet lærerkollegium og vælger efter to år at få nye udfordringer med at starte en ny højskole i Skagen."
+sidebar:
+  - title: Tage Benjaminsen
+    image: /assets/images/persons/tage-benjaminsen-1982.jpg
+    image_alt: Tage Benjaminsen
+    text: "Forstander fra 1982 - 1984 efter at have været både elev og højskolelærer på Den Jyske Idrætsskole. Starter efterfølgende Sundhedshøjskolen i Skagen."
 ---
 
 {{ page.description }}

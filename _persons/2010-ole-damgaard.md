@@ -19,6 +19,11 @@ tags:
   - forstander
 excerpt: "Blev forstander i 2010 og indgår i et ledelsesteam med efterskoleforstander, Frank Rasmussen, og forretningsudvikler, Peter Sebastian Pedersen. Har bl.a. med tl at få bygget Center for Sundhed, Test og Læring og sætte gang i Outdoor AquaScape."
 description: "Ole Damgaard kommer til at indgå i et ledelsesteam med efterskoleforstander, Frank Rasmussen, og forretningsudvikler, Peter Sebastian Pedersen. Ole er tidligere toptræner i håndbold, og han er bl.a. med tl at få bygget Center for Sundhed, Test og Læring og sætte gang i Outdoor AquaScape."
+sidebar:
+  - title: Ole Damgaard
+    image: https://vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg
+    image_alt: Ole Damgaard
+    text: "Blev forstander i 2010 og indgår i et ledelsesteam med efterskoleforstander, Frank Rasmussen, og forretningsudvikler, Peter Sebastian Pedersen. Har bl.a. med tl at få bygget Center for Sundhed, Test og Læring og sætte gang i Outdoor AquaScape."
 ---
 
 {{ page.description }}

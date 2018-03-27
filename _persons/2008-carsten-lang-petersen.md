@@ -17,8 +17,13 @@ category:
 tags:
   - Carsten Lang Petersen
   - bestyrelsesformand
-excerpt: "Blev formand for bestyrelsen i 2008."
+excerpt: "Blev formand for bestyrelsen i 2008 efter at have været elev i 1978/79 og kasserer i Elevforeningen lige siden."
 description: "Carsten Lang Petersen er den nuværende formand"
+sidebar:
+  - title: Carsten Lang Petersen
+    image: https://fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg
+    image_alt: Carsten Lang Petersen
+    text: "Blev formand for bestyrelsen i 2008 efter at have været elev i 1978/79 og kasserer i Elevforeningen lige siden."
 ---
 
 {{ page.description }}

@@ -19,6 +19,11 @@ tags:
   - bestyrelsesformand
 excerpt: "Formand for bestyrelsen fra 1996 til 2008."
 description: "Poul Grejs fra Dansk Sejlunion var formand i 22 år."
+sidebar:
+  - title: Poul Grejs
+    image: /assets/images/authors/default-profile.png
+    image_alt: Poul Grejs
+    text: "Formand for bestyrelsen fra 1996 til 2008."
 ---
 
 _Vi mangler et ordentligt billede af Poul Grejs fra hans formandsperiode på Vejle Idrætshøjskole. Kan du hjælpe?_

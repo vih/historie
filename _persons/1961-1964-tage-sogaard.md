@@ -19,6 +19,11 @@ tags:
   - forstander
 excerpt: "Ansat som højskoleforstander efter Svend Aage Thomsens død i 1961. Blev forstander sammen med Aksel Bjerregaard. Sagde op i 1964."
 description: "Var tidligere højskolelærer på skolen. Pga. skolens DIF relationer fik han en medforstander i Aksel Bjerregaard. Samarbejdet kom dog aldrigt til at fungere optimalt, hvilket man kan læse mere om i Jubilæumsskriftet fra 1992."
+sidebar:
+  - title: Tage Søgaard
+    image: https://lh3.googleusercontent.com/OOCTVD3dEsm7nMBuSIvy8AMGT1Xwz8nlY14RpZmx_aBPDgCT1ETnFvOq9J8MRf9QG2q4M3OQ7qdUk8pDQyWZueKHvAiEmQUVgXXcXr2wGN-7BnCNyR8iKiymjnzpy0lKoC_DcGqXdu8
+    image_alt: Tage Søgaard
+    text: "Ansat som højskoleforstander efter Svend Aage Thomsens død i 1961. Blev forstander sammen med Aksel Bjerregaard. Sagde op i 1964."
 ---
 
 {{ page.description }}

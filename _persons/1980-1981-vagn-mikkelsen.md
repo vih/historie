@@ -19,6 +19,11 @@ tags:
   - bestyrelsesformand
 excerpt: "Blev formand i 1980, men nåede kun et år på formandsposten, inden hans alt for tidlige død i 1981."
 description: "Vagn Mikkelsen nåede kun et år på formandsposten, inden han døde."
+sidebar:
+  - title: Vagn Mikkelsen
+    image: /assets/images/authors/default-profile.png
+    image_alt: Vagn Mikkelsen
+    text: "Blev formand i 1980, men nåede kun et år på formandsposten, inden hans alt for tidlige død i 1981."
 ---
 
 _Vi mangler et ordentligt billede af Poul Grejs fra hans formandsperiode på Vejle Idrætshøjskole. Kan du hjælpe?_

@@ -19,6 +19,11 @@ tags:
   - bestyrelsesformand
 excerpt: "Formand fra 1983 til 1996 og var bl.a. med til at få bygget Globen og den nye kursuscenterafdeling."
 description: "Inger Engberg sad på formandsposten i rigtig mange år."
+sidebar:
+  - title: Inger Engberg
+    image: https://lh3.googleusercontent.com/9L1aclZ3d1bdeKPRxIy3mlTEZb7W2gYwpx0g85lU64rPpkohdP9RWNqDiyQ_tCkXZJABZdY3z_cc7qhI8slkMtWjA1fk1_GkyvNJMEVQ_Dbik7cgccJi5vI71uzzFHZRL5rtBgfppg=w2400
+    image_alt: Inger Engberg
+    text: "Formand fra 1983 til 1996 og var bl.a. med til at få bygget Globen og den nye kursuscenterafdeling."
 ---
 
 {{ page.description }}

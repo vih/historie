@@ -19,6 +19,11 @@ tags:
   - bestyrelsesformand
 excerpt: "Formand i to perioder - først fra 1972-1980 og derefter fra 1981-1983, da Vagn Mikkelsen døde."
 description: "Hans Erik Jensen var formand i to perioder - først fra 1972-1980 og derefter fra 1981-1983, da Vagn Mikkelsen døde."
+sidebar:
+  - title: Hans Erik Jensen
+    image: /assets/images/persons/hans-erik-jensen-1982.jpg
+    image_alt: Hans Erik Jensen
+    text: "Formand i to perioder - først fra 1972-1980 og derefter fra 1981-1983, da Vagn Mikkelsen døde."
 ---
 
 {{ page.description }}

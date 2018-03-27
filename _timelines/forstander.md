@@ -2,7 +2,7 @@
 layout: single
 title: Forstandere
 excerpt: "Liste med forstandere på Den Jyske Idrætsskole og Vejle Idrætshøjskole"
-description: *excerpt
+description: "Liste med forstandere på Den Jyske Idrætsskole og Vejle Idrætshøjskole"
 permalink: /forstandere/
 author_profile: false
 classes: wide

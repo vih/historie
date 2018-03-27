@@ -6,22 +6,25 @@ start_date:
 end_date:
   year: 2006
 header:
-  teaser: https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/0cb/2ac/3a8897a.jpg
+  teaser: /assets/images/authors/default-profile.png
 media: 
   url: https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/0cb/2ac/3a8897a.jpg
-  credit: arkiv.dk
-  caption: *title
+  #credit: ""
+  caption: "Bent Serup"
   thumbnail: https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/0cb/2ac/3a8897a.jpg
 category:
   - Forstander
 tags:
   - Bent Serup
   - forstander
-excerpt: "Bent Serup har tætte bånd til DIF og Team Danmark. Bent sørger bl.a. for at skolen ved hjælp af Vejle Kommune og DBU får anlagt en kunstgræsbane."
-description: *excerpt
+excerpt: "Forstander fra 1998 - 2006. Var bl.a. med til at etablere kunstgræsbanen."
+description: "Bent Serup har tætte bånd til DIF og Team Danmark. Bent sørger bl.a. for at skolen ved hjælp af Vejle Kommune og DBU får anlagt en kunstgræsbane."
 ---
 
-{{ page.excerpt }}
+_Vi mangler et ordentligt billede af Bent Serup fra hans formandsperiode på Vejle Idrætshøjskole. Kan du hjælpe?_
+{: .notice--info}
+
+{{ page.description }}
 
 ## Artikler om {{ page.title }}
 

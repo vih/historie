@@ -9,19 +9,19 @@ header:
   teaser: https://lh3.googleusercontent.com/sMu7O-jkXF_eOpIeiQgMz9sSCgh7QyDuVmx9_71AlZyTM6JWBLT6I8_dPaScWX6Slncw666y_nR4ziK4eEYzbRURRSfmJz01aBqgbLpPUfM_gOZiSkgB4fWu6UcZdDzL4dbsrAQgUQ=w2400
 media: 
   url: https://lh3.googleusercontent.com/sMu7O-jkXF_eOpIeiQgMz9sSCgh7QyDuVmx9_71AlZyTM6JWBLT6I8_dPaScWX6Slncw666y_nR4ziK4eEYzbRURRSfmJz01aBqgbLpPUfM_gOZiSkgB4fWu6UcZdDzL4dbsrAQgUQ=w2400
-  credit: arkiv.dk
-  caption: *title
+  credit: "Vejle Idrætshøjskoles arkiv"
+  caption: "Otto Lassen"
   thumbnail: //images.weserv.nl/?url=lh3.googleusercontent.com/sMu7O-jkXF_eOpIeiQgMz9sSCgh7QyDuVmx9_71AlZyTM6JWBLT6I8_dPaScWX6Slncw666y_nR4ziK4eEYzbRURRSfmJz01aBqgbLpPUfM_gOZiSkgB4fWu6UcZdDzL4dbsrAQgUQ=w2400&w=100
 category:
   - Bestyrelsesformænd
 tags:
   - Otto Lassen
   - bestyrelsesformand
-excerpt: "Kontorchef, Otto Lassen, var bestyrelsesformand i en lang årrække."
-description: *excerpt
+excerpt: "Kontorchef, Otto Lassen, var bestyrelsesformand fra 1963-1972."
+description: "Kontorchef, Otto Lassen, var bestyrelsesformand i en lang årrække."
 ---
 
-{{ page.excerpt }}
+{{ page.description }}
 
 ## Artikler om {{ page.title }}
 

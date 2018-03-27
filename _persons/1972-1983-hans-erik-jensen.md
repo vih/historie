@@ -6,22 +6,22 @@ start_date:
 end_date:
   year: 1983
 header:
-  teaser: https://www.aoh.dk/storyimage/AO/20141018/ARTIKEL/141018583/AR/0/AR-141018583.jpg&MaxH=415&imageVersion=default&Q=95&MT=DT20141021101450
+  teaser: /assets/images/persons/hans-erik-jensen-1982.jpg
 media: 
-  url: https://www.aoh.dk/storyimage/AO/20141018/ARTIKEL/141018583/AR/0/AR-141018583.jpg&MaxH=415&imageVersion=default&Q=95&MT=DT20141021101450
-  credit: arkiv.dk
-  caption: *title
-  thumbnail: www.aoh.dk/storyimage/AO/20141018/ARTIKEL/141018583/AR/0/AR-141018583.jpg&MaxH=415&imageVersion=default&Q=95&MT=DT20141021101450
+  url: /assets/images/persons/hans-erik-jensen-1982.jpg
+  credit: "Årsskrift 1982"
+  caption: "Hans Erik Jensen"
+  thumbnail: /assets/images/persons/hans-erik-jensen-1982.jpg
 category:
   - Bestyrelsesformænd
 tags:
   - Hans Erik Jensen
   - bestyrelsesformand
-excerpt: "Hans Erik Jensen var formand i to perioder - først fra 1972-1980 og derefter fra 1981-1983, da Vagn Mikkelsen døde."
-description: *excerpt
+excerpt: "Formand i to perioder - først fra 1972-1980 og derefter fra 1981-1983, da Vagn Mikkelsen døde."
+description: "Hans Erik Jensen var formand i to perioder - først fra 1972-1980 og derefter fra 1981-1983, da Vagn Mikkelsen døde."
 ---
 
-{{ page.excerpt }}
+{{ page.description }}
 
 ## Artikler om {{ page.title }}
 

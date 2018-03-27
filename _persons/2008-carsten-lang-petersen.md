@@ -6,22 +6,22 @@ start_date:
 end_date:
   year: 2018
 header:
-  teaser: https://fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg?itok=c0tZNbig
+  teaser: /assets/images/persons/carsten-lang-petersen.png
 media: 
-  url: https://fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg?itok=c0tZNbig
-  credit: arkiv.dk
-  caption: *title
+  url: https://fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg
+  credit: "Vejle Idrætshøjskoles arkiv"
+  caption: "Carsten Lang Petersen"
   thumbnail: //images.weserv.nl/?url=fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg&w=100
 category:
   - Bestyrelsesformænd
 tags:
   - Carsten Lang Petersen
   - bestyrelsesformand
-excerpt: "Carsten Lang Petersen er den nuværende formand"
-description: *excerpt
+excerpt: "Blev formand for bestyrelsen i 2008."
+description: "Carsten Lang Petersen er den nuværende formand"
 ---
 
-{{ page.excerpt }}
+{{ page.description }}
 
 ## Artikler om {{ page.title }}
 

@@ -6,22 +6,25 @@ start_date:
 end_date:
   year: 1981
 header:
-  #teaser: https://www.aoh.dk/storyimage/AO/20141018/ARTIKEL/141018583/AR/0/AR-141018583.jpg&MaxH=415&imageVersion=default&Q=95&MT=DT20141021101450
+  teaser: /assets/images/authors/default-profile.png
 media: 
-  #url: https://www.aoh.dk/storyimage/AO/20141018/ARTIKEL/141018583/AR/0/AR-141018583.jpg&MaxH=415&imageVersion=default&Q=95&MT=DT20141021101450
+  url: /assets/images/authors/default-profile.png
   #credit: arkiv.dk
-  #caption: *title
-  #thumbnail: https://www.aoh.dk/storyimage/AO/20141018/ARTIKEL/141018583/AR/0/AR-141018583.jpg&MaxH=415&imageVersion=default&Q=95&MT=DT20141021101450
+  caption: "Vagn Mikkelsen"
+  thumbnail: /assets/images/authors/default-profile.png
 category:
   - Bestyrelsesformænd
 tags:
   - Vagn Mikkelsen
   - bestyrelsesformand
-excerpt: "Vagn Mikkelsen nåede kun et år på formandsposten, inden han døde."
-description: *excerpt
+excerpt: "Blev formand i 1980, men nåede kun et år på formandsposten, inden hans alt for tidlige død i 1981."
+description: "Vagn Mikkelsen nåede kun et år på formandsposten, inden han døde."
 ---
 
-{{ page.excerpt }}
+_Vi mangler et ordentligt billede af Poul Grejs fra hans formandsperiode på Vejle Idrætshøjskole. Kan du hjælpe?_
+{: .notice--info}
+
+{{ page.description }}
 
 ## Artikler om {{ page.title }}
 

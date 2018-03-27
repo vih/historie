@@ -17,11 +17,11 @@ category:
 tags:
   - Rask Nielsen
   - forstander
-excerpt: "Rask Nielsen var medforstander for Svend Aage Thomsen. Han kom fra en stilling som lærer på Ollerup Gymnastikhøjskole. Fra 1944 blev Ollerup Gymnastiskhøjskole også okkuperet af tyskerne. I 1948 tog Rask tilbage til Ollerup. Herfra var Svend Aage Nielsen godkendt som eneforstander."
-description: *excerpt
+excerpt: "Ansat som medforstander for Svend Aage Thomsen fra 1945-1948. Han kom fra en stilling som lærer på Ollerup Gymnastikhøjskole, som blev okkuperet af tyskerne. I 1948 tog Rask tilbage til Ollerup."
+description: "Rask Nielsen var medforstander for Svend Aage Thomsen. Han kom fra en stilling som lærer på Ollerup Gymnastikhøjskole. Fra 1944 blev Ollerup Gymnastiskhøjskole også okkuperet af tyskerne. I 1948 tog Rask tilbage til Ollerup. Herfra var Svend Aage Nielsen godkendt som eneforstander."
 ---
 
-{{ page.excerpt }}
+{{ page.description }}
 
 ## Artikler om {{ page.title }}
 

@@ -10,18 +10,18 @@ header:
 media: 
   url: https://filer.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25?t=860f81500e9065900ac37d117d3889c38d1aa7cc591aedad4e2629e0c3414806
   credit: arkiv.dk
-  caption: *title
+  caption: "Aksel Bjerregaard"
   thumbnail: //images.weserv.nl/?url=filer.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25?t=860f81500e9065900ac37d117d3889c38d1aa7cc591aedad4e2629e0c3414806&w=100
 category:
   - Forstander
 tags:
   - Aksel Bjerregaard
   - forstander
-excerpt: "En af de fremmeste eksponenter for træning, bl.a. circuit træning. Blev medforstander for Tage Søgård. Samarbejdet blev aldrig optimalt og det antydes i Jubilæumsskriftet fra 1992, at Bjerregaard blev nødt til at stoppe, fordi hans livsstil ikke kunne forenes med at være forstander på en Idrætsskole."
-description: *excerpt
+excerpt: "Ansat som forstander efter Svend Aage Thomsens død i 1961 med stor opbakning fra DIF-baglandet. Forstander sammen med Tage Søgaard. Sluttede som forstander i 1967."
+description: "En af de fremmeste eksponenter for træning, bl.a. circuit træning. Blev medforstander for Tage Søgaard. Samarbejdet blev aldrig optimalt og det antydes i Jubilæumsskriftet fra 1992, at Bjerregaard blev nødt til at stoppe, fordi hans livsstil ikke kunne forenes med at være forstander på en Idrætsskole."
 ---
 
-{{ page.excerpt }}
+{{ page.description }}
 
 ## Artikler om {{ page.title }}
 

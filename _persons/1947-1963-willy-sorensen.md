@@ -9,19 +9,19 @@ header:
   teaser: http://www.vejlewiki.dk/images/4/41/Willy1.jpg
 media: 
   url: http://www.vejlewiki.dk/images/4/41/Willy1.jpg
-  credit: arkiv.dk
-  caption: *title
+  credit: vejlewiki.dk
+  caption: "Willy Sørensen"
   thumbnail: //images.weserv.nl/?url=http://www.vejlewiki.dk/images/4/41/Willy1.jpg&w=100
 category:
   - Bestyrelsesformænd
 tags:
   - Willy Sørensen
   - bestyrelsesformand
-excerpt: "Vejles daværende borgmester overtog formandsposten i bestyrelsen for Den Jyske Idrætshøjskole efter sin borgmesterkollega."
-description: *excerpt
+excerpt: "Vejles daværende borgmester overtog formandsposten for bestyrelsen i 1947 og sad på posten indtil 1963."
+description: "Vejles daværende borgmester overtog formandsposten for bestyrelsen for Den Jyske Idrætshøjskole efter sin borgmesterkollega."
 ---
 
-{{ page.excerpt }}
+{{ page.description }}
 
 ## Referencer
 

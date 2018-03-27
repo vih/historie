@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/persons/lars-kjaersgaard.jpg
 media: 
   url: https://drive.google.com/uc?id=0B5v4mAibvkKXR1VBeEEwVUhMa1E
-  credit: arkiv.dk
+  credit: "Vejle Idrætshøjskoles arkiv"
   caption: "Lars Kjærsgård"
   thumbnail: //images.weserv.nl/?url=drive.google.com/uc?id=0B5v4mAibvkKXR1VBeEEwVUhMa1E&w=100
 category:
@@ -17,11 +17,11 @@ category:
 tags:
   - Lars Kjærsgård
   - forstander
-excerpt: "Lars Kjærsgaard overtager roret i en krisetid - og hvor bestyrelsen har besluttet at der samtidig skal starte en efterskole. Det blev en vanskelig forstandertid."
-description: *excerpt
+excerpt: "Forstander fra 2007 til 2009 i en krisetid, hvor bl.a. efterskolens startede. Det blev en vanskelig forstandertid."
+description: "Lars Kjærsgaard overtager roret i en krisetid - og hvor bestyrelsen har besluttet at der samtidig skal starte en efterskole. Det blev en vanskelig forstandertid."
 ---
 
-{{ page.excerpt }}
+{{ page.description }}
 
 ## Artikler om {{ page.title }}
 

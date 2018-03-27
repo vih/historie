@@ -6,22 +6,22 @@ start_date:
 end_date:
   year: 1984
 header:
-  teaser: https://filer.arkibas.dk/filer/visning/4f590955db935f8b97b63f90f0e7abf9?t=da85b8643e1afcd010584bdd81f60cbb8363973b334dd7466b7a04cba37c8fdf
+  teaser: /assets/images/persons/tage-benjaminsen-1982.jpg
 media: 
   url: https://filer.arkibas.dk/filer/visning/4f590955db935f8b97b63f90f0e7abf9?t=da85b8643e1afcd010584bdd81f60cbb8363973b334dd7466b7a04cba37c8fdf
   credit: arkiv.dk
-  caption: *title
+  caption: "Tage Benjaminsen"
   thumbnail: //images.weserv.nl/?url=filer.arkibas.dk/filer/visning/4f590955db935f8b97b63f90f0e7abf9?t=da85b8643e1afcd010584bdd81f60cbb8363973b334dd7466b7a04cba37c8fdf&w=100
 category:
   - Forstander
 tags:
   - Tage Benjaminsen
   - forstander
-excerpt: "Bliver ansat med stor opbakning fra bestyrelsen. Træder ind i et splittet lærerkollegium og vælger efter to år at få nye udfordringer med at starte en ny højskole i Skagen."
-description: *excerpt
+excerpt: "Forstander fra 1982 - 1984 efter at have været både elev og højskolelærer på Den Jyske Idrætsskole. Starter efterfølgende Sundhedshøjskolen i Skagen."
+description: "Bliver ansat med stor opbakning fra bestyrelsen. Træder ind i et splittet lærerkollegium og vælger efter to år at få nye udfordringer med at starte en ny højskole i Skagen."
 ---
 
-{{ page.excerpt }}
+{{ page.description }}
 
 ## Artikler om {{ page.title }}
 

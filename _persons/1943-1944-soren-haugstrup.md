@@ -6,22 +6,24 @@ start_date:
 end_date:
   year: 1944
 header:
-  teaser: http://hojskolehistorie.dk/media/749655/img_5675_474x286.jpg
+  teaser: /assets/images/persons/haugstrup.jpg
 media: 
-  url: http://hojskolehistorie.dk/media/749655/img_5675_474x286.jpg
-  credit: arkiv.dk
-  caption: *title
-  thumbnail: http://hojskolehistorie.dk/media/749655/img_5675_474x286.jpg
+  url: /assets/images/persons/haugstrup.jpg
+  credit: "Elevbillede 1943"
+  caption: "Søren Haugstrup Jensen"
+  thumbnail: /assets/images/persons/haugstrup.jpg
 category:
   - Medforstander
 tags:
   - Søren Haugstrup Jensen
   - forstander
-excerpt: "Haugstrup var ansat som medforstander for Svend Aage Thomsen. Han var egentlig forstander på Ry Højskole, som var beslaglagt af tyskerne. Haugstrup var ikke idrætsmand, men højskolemand og cand. mag. i dansk og tysk. Han og hans kone, Karen, boede i Skovhytten. (se Jubilæumsskrift fra 1992, side 17)"
-description: *excerpt
+excerpt: "Ansat som medforstander for Svend Aage Thomsen fra 1943 til 1944. Han var egentlig forstander på Ry Højskole, som var beslaglagt af tyskerne."
+description: "Haugstrup var ansat som medforstander for Svend Aage Thomsen. Han var egentlig forstander på Ry Højskole, som var beslaglagt af tyskerne. Haugstrup var ikke idrætsmand, men højskolemand og cand. mag. i dansk og tysk. Han og hans kone, Karen, boede i Skovhytten. (se Jubilæumsskrift fra 1992, side 17)"
 ---
 
-{{ page.excerpt }}
+{{ page.description }}
+
+{% incluce figure image_path="http://hojskolehistorie.dk/media/749655/img_5675_474x286.jpg" caption="Søren Haugstrup Jensen foran Ry Højskole, hvor han oprindeligt var forstander. Kilde: hojskolehistorie.dk." alt="Søren Haugstrup Jensen foran Ry Højskole, hvor han oprindeligt var forstander." %}
 
 ## Artikler om {{ page.title }}
 

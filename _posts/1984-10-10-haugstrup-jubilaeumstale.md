@@ -5,7 +5,7 @@ permalink: /haugstrups-jubilaeumstale/
 category:
   - Årsskrift
 tags:
-  - Søren Haugstrup
+  - Søren Haugstrup Jensen
   - Årsskrift 1984
 excerpt: "Søren Haugstrups tale til 40 års jubilæum."
 ---

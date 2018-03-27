@@ -23,6 +23,9 @@ description: "Inger Engberg sad på formandsposten i rigtig mange år."
 
 {{ page.description }}
 
+_Vi er først lige begyndt at lave biografier på nogle af de væsentlige personligheder på Vejle Idrætshøjskole. Vi vil være rigtig taknemmelige for al den hjælp, vi kan få._
+{: .notice--info}
+
 ## Referencer
 
 - [Inger Engberg i Kvindebiografisk Leksikon](http://www.kvinfo.dk/side/171/bio/802/)

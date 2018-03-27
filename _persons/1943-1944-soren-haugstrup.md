@@ -25,6 +25,9 @@ description: "Haugstrup var ansat som medforstander for Svend Aage Thomsen. Han 
 
 {% incluce figure image_path="http://hojskolehistorie.dk/media/749655/img_5675_474x286.jpg" caption="Søren Haugstrup Jensen foran Ry Højskole, hvor han oprindeligt var forstander. Kilde: hojskolehistorie.dk." alt="Søren Haugstrup Jensen foran Ry Højskole, hvor han oprindeligt var forstander." %}
 
+_Vi er først lige begyndt at lave biografier på nogle af de væsentlige personligheder på Vejle Idrætshøjskole. Vi vil være rigtig taknemmelige for al den hjælp, vi kan få._
+{: .notice--info}
+
 ## Artikler om {{ page.title }}
 
 {% assign posts = site.posts | where: "tags", page.title | sort: "date" %}

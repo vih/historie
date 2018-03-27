@@ -23,6 +23,9 @@ description: "Hans Erik Jensen var formand i to perioder - først fra 1972-1980 
 
 {{ page.description }}
 
+_Vi er først lige begyndt at lave biografier på nogle af de væsentlige personligheder på Vejle Idrætshøjskole. Vi vil være rigtig taknemmelige for al den hjælp, vi kan få._
+{: .notice--info}
+
 ## Artikler om {{ page.title }}
 
 {% assign posts = site.posts | where: "tags", page.title | sort: "date" %}

@@ -23,6 +23,9 @@ description: "Vejles daværende borgmester overtog formandsposten for bestyrelse
 
 {{ page.description }}
 
+_Vi er først lige begyndt at lave biografier på nogle af de væsentlige personligheder på Vejle Idrætshøjskole. Vi vil være rigtig taknemmelige for al den hjælp, vi kan få._
+{: .notice--info}
+
 ## Referencer
 
 - [Vejle Wiki om Hans Willy Sørensen](http://www.vejlewiki.dk/index.php?title=Willy_S%C3%B8rensen)

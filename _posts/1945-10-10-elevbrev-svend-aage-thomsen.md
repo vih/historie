@@ -6,8 +6,7 @@ category:
   - Årsskrift
 tags:
   - Svend Aage Thomsen
-  - forstander
-  - Hagelsø
+  - Jens Ejlif Hagelsø
   - Årsskrift 1945
   - modstandskampen
 excerpt: "Svend Aage Thomsens skriver brev til eleverne, bl.a. med referencer til modstandskampen og hans tanker om det."

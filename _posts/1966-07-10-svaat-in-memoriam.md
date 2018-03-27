@@ -4,8 +4,8 @@ author: thormod_petersen
 category:
   - Årsskrift
 tags:
+  - mindeord
   - Svend Aage Thomsen
-  - forstander
   - Årsskrift 1966
 excerpt: "Mindeartikel af Thormod Petersen om Svend Aage Thomsen"
 toc: true

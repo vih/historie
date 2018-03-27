@@ -10,7 +10,6 @@ category:
 tags:
   - Jubilæumsskrift 1992
   - Svend Aage Thomsen
-  - forstander
 excerpt: "Svend Aage Thomsen fik klar besked af sin far til at gå i gang med projektet, Den Jyske Idrætsskole."
 toc: true
 ---

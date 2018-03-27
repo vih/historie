@@ -2,6 +2,8 @@
 title: Som grenen bryder ud af stammen
 author: jørn_ricther
 permalink: /aarsskrift/1993/fortolkning-kaaloe/
+category:
+  - Årsskrift
 tags:
   - Årsskrift 1993
 excerpt: "Jørn Richters fortolkning af den nye skolesang skrevet i forbindelse med indvielsen af Globen af Sten Kaalø og oprindeligt bragt i Årsskriftet fra 1993."

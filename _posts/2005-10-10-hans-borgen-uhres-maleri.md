@@ -15,6 +15,6 @@ Dette maleri er blevet skænket skolen af en tidligere elev. Er der nogen af jer
 >
 > Forstander Svend Aage Thomsen var af samme ide, at unge skulle opfordres til den banebrydende vej, der fra Den Jyske Idrætsskoles lysning lysning i Nørreskoven førte frem til et bærende kulturelement blandt ungdommen.
 >
-> Dette tredelte maleri: "Erindring over 60 år tilbage" er en tak til skolen, for hvad de gav os. - Lidt abstrakt, men symboliserende Svend Åges tikamppræstationer, flyvende mursten symboliserende logoet: " Hvor der er vilje, er der også en vej", der gjorde det muligt at skolen netop blev den helt rigtige “lysning” i Nørreskovens tykning
+> Dette tredelte maleri: "Erindring over 60 år tilbage" er en tak til skolen, for hvad de gav os. - Lidt abstrakt, men symboliserende Svend Aages tikamppræstationer, flyvende mursten symboliserende logoet: " Hvor der er vilje, er der også en vej", der gjorde det muligt at skolen netop blev den helt rigtige “lysning” i Nørreskovens tykning
  
 Hans Borgen Uhre, elev 1945-1946

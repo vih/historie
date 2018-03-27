@@ -1,6 +1,8 @@
 ---
 title: Ved Globens indvielse
 author: ole_worm
+category:
+  - Årsskrift
 tags:
   - Årsskrift 1993
 excerpt: "Ole Worms tale (let forkortet) holdt i forbindelse med Globens indvielse i 1993 og oprindeligt bragt i Årsskriftet fra 1993."

@@ -9,7 +9,6 @@ category:
 tags:
   - Jubilæumsskrift 1992
   - Svend Aage Thomsen
-  - forstander
 excerpt: "En artikel om Svend Aage Thomsens alsidige idrætskarriere"
 ---
 

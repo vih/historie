@@ -8,7 +8,6 @@ category:
   - Årsskrift
 tags:
   - Jubilæumsskrift 1992
-  - forstander
   - Bjarne Hauger
 excerpt: "Bjarne Hauger gennemførte 8-måneders skoleformen og måtte sluge nogle kameler, da 70'ernes frigørelse, ligestilling og elev-indflydelse vendte op og ned på normer og samvær."
 toc: true
@@ -40,16 +39,16 @@ Han og formanden Otto Lassen ville ansætte Bjarne Hauger som tilforordnet skole
 
 Forretningsudvalget betænkte sig ikke. Nu var "Den Jyske" først på markedet med en for højskolebevægelsen uafprøvet Struktur. Bjarne Hauger redegjorde herefter for form og indhold i modellen, og Otto Lassen konkluderede mødet 6. september således:
 
-> "Du får frie hænder til at realisere de skitserede planer, når du blot langs ad holder FU Orienteret"
+> "Du får frie hænder til at realisere de skitserede planer, når du blot langs ad holder FU orienteret"
 
 Bjarne Hauger sagde ja og indledte et travlt år, hvor han skulle dele døgnets timer mellem en fuldtidsstilling på seminariet i Esbjerg med eksamensklasser og opbygningen af en ny skoleform i Vejle.
 
 > Ved mine besøg i Vejle fornemmede jeg, at skolen befandt sig i en bølgedal i næsten alle henseender: Dårlig økonomi og administration, bygninger, lokaler og inventar var nedslidt, undervisningsmaterialerne mangelfulde, udenomisarealerne var kun nødtørftigt vedligeholdt.
-> Der var kun to fastansatte lærere, som blev suppleret med timelærere efter behov. 3. oktober skulle skolen fejre sit 25-års jubilæum og 2. november Ville 66 forventningsfulde elever ankomme til den sidste 5 måneders Vinterskole. Hvor skulle jeg begynde?
+> Der var kun to fastansatte lærere, som blev suppleret med timelærere efter behov. 3. oktober skulle skolen fejre sit 25-års jubilæum og 2. november ville 66 forventningsfulde elever ankomme til den sidste 5 måneders Vinterskole. Hvor skulle jeg begynde?
 
 To gange pr. uge kørte Bjarne Hauger og hans kone frem og tilbage fra Esbjerg for at følge undervisningen. Det sidste 5-måneders kursus forløb via et samarbejde mellem de fastansatte og deltidsansatte lærerkræfter godt.
 
-Men knap var kurset slut for forarbejdet til den nye struktur blev accellereret. Kontorer, lærerværelse, skrivestue og enkelte undervisningslokaler blev ændret.
+Men knap var kurset slut før forarbejdet til den nye struktur blev accellereret. Kontorer, lærerværelse, skrivestue og enkelte undervisningslokaler blev ændret.
 
 Skovl, spade og malerkost blev brugt flittigt. Sideløbende rørtes PR-trommerne for den nye skole. To nye boliger blev bygget, og lærerstaben blev styret med ansættelse af 4 nye heltidslærere og 6 timelærere. Midt i august var hele lærerstaben samlet. På en række møder blev den endelige planlægning for skolevirksomheden pudset af. 75 elever var med på holdet som 2. september 1968 tog tat på et nyt kapitel i Den Jyske Idrætsskoles historie.
 
@@ -96,9 +95,9 @@ Når man ser tilbage på alt det, der skete af samfundsmæssige ændringer i per
 
 Reaktionerne på 68'er-oprøret bølgede således frem og tilbage indenfor murene i en spændende tid i 70'erne, hvor også skolens bygninger blev flere. I samme periode blev Dansk Idræts-Forbunds kursuscenter færdigt. Det skete i 1971, og skolen kunne anvende træningssalen, undervisningslokalerne, saunaer og testlokaler i det daglige og til kurser, når DIF ikke selv beslaglagde faciliteterne. Midt i 70'erne ville DIF selv købe centrets grund. Et større juridisk arbejde skulle til inden brikkerne i 1981 faldt på plads. En forpagtningsaftale blev det foreløbige resultat, hvorefter myndighedernes godkendelser - bl.a. Landbrugsministeriets - blev indhentet i årene efter. Bjarne Hauger havde således andre problemer at tumle med på sit forstanderbord, end de af ungdomsoprøret påførte - og endeløse diskussioner.
 
-## Ikke så længe jeg sidder i Stolen.
+## Ikke så længe jeg sidder i stolen.
 
-Af og til mødte Hauger også krav Om ændringer af skolens Struktur. Skiftende lærergrupper kom med ønsker og ideer. men forstanderen stod på sit og svarede i efteråret 1981 direkte adspurgt om radikale ændringer:
+Af og til mødte Hauger også krav om ændringer af skolens struktur. Skiftende lærergrupper kom med ønsker og ideer. men forstanderen stod på sit og svarede i efteråret 1981 direkte adspurgt om radikale ændringer:
 
 > Ikke så længe jeg sidder i stolen, vil der ske ændringer i den fundamentale skoleopbygning med 2 semestre a 4 måneder med henholdsvis grunduddannelse og videregående uddannelse.
 
@@ -106,7 +105,7 @@ Da Hauger fremsatte denne klare bemærkning var spiren til at gå på pension al
 
 > Vi havde nået de mål, som vi havde sat os med skolen og fandt tidspunktet rigtigt til at pensionere os selv, fortæller Bjarne Hauger. Vi ville gå, mens der var "go” i skolen og overlade det til nye kræfter at fortsætte processen.
 
-Ægteparret kunne med god jysk beskedenhed betegne perioden fra 68 til 82 som ”ikke så ringe endda”. 1400 elever havde hentet oplevelser på DJl, og ventelisterne svulmede, så skolen nogle år kunne have fyldt to hele elevhold. Andre højskoler betegnede idrætsskolernes sucess med en vis misundelse, når de på fællesmøder sagde: ”Nå, det er nok de riges bord".
+Ægteparret kunne med god jysk beskedenhed betegne perioden fra 68 til 82 som "ikke så ringe endda". 1400 elever havde hentet oplevelser på DJl, og ventelisterne svulmede, så skolen nogle år kunne have fyldt to hele elevhold. Andre højskoler betegnede idrætsskolernes sucess med en vis misundelse, når de på fællesmøder sagde: ”Nå, det er nok de riges bord".
 
 > Tiden var med os. Vi red på en bølge af elever fra de store fødselsårgange. Samtidig blev det "in" at tage på idrætshøjskole. Flere af de almindelige højskoler etablerede undervisning i idræt med lederuddannelse for at få del i dette boom, siger Bjarne Hauger
 

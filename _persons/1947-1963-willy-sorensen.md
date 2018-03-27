@@ -28,7 +28,8 @@ _Vi er først lige begyndt at lave biografier på nogle af de væsentlige person
 
 ## Referencer
 
-- [Vejle Wiki om Hans Willy Sørensen](http://www.vejlewiki.dk/index.php?title=Willy_S%C3%B8rensen)
+- [Vejle Wiki om Willy Sørensen](http://www.vejlewiki.dk/index.php?title=Willy_S%C3%B8rensen)
+- [Willy Sørensen på Wikipedia](https://da.wikipedia.org/wiki/Willy_S%C3%B8rensen)
 
 ## Artikler om {{ page.title }}
 

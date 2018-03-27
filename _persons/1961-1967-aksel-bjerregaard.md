@@ -26,6 +26,10 @@ description: "En af de fremmeste eksponenter for træning, bl.a. circuit trænin
 _Vi er først lige begyndt at lave biografier på nogle af de væsentlige personligheder på Vejle Idrætshøjskole. Vi vil være rigtig taknemmelige for al den hjælp, vi kan få._
 {: .notice--info}
 
+## Referencer
+
+- [Aksel Bjerregaard på Wikipedia](https://da.wikipedia.org/wiki/Aksel_Bjerregaard)
+
 ## Artikler om {{ page.title }}
 
 {% assign posts = site.posts | where: "tags", page.title | sort: "date" %}

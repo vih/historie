@@ -26,6 +26,10 @@ description: "Bjarne Hauger får ret frie rammer af bestyrelsen til at reformere
 _Vi er først lige begyndt at lave biografier på nogle af de væsentlige personligheder på Vejle Idrætshøjskole. Vi vil være rigtig taknemmelige for al den hjælp, vi kan få._
 {: .notice--info}
 
+> Fhv. højskoleforstander ved Den Jyske Idrætshøjskole Bjarne Hauger, Vejle, er død, 86 år. Efter endt lærereksamen i 1944 kom han først til Helsingør for at undervise på gymnasiet i gymnastik. I 1952 kom han til Sønderborg for at være med til at starte Idrætshøjskolen der. I 1960 startede han på Esbjerg Seminarium for at profilere idræts- og gymnastikundervisningen. I 1969 blev han forstander for Den Jyske Idrætsskole i Vejle. For godt 20 år siden gik Bjarne Hauger på pension og nød tilværelsen sammen med hustruen Birthe, både i Hallum, Kolding og de sidste år igen i Vejle.
+>
+> - [Kristeligt Dagblad](https://www.kristeligt-dagblad.dk/mennesker/d%C3%B8de-262)
+
 ## Artikler om {{ page.title }}
 
 {% assign posts = site.posts | where: "tags", page.title | sort: "date" %}

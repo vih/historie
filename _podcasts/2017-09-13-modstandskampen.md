@@ -22,7 +22,7 @@ podcast_duration: "36:25" # for mp3-file
 podcast_length: 52457472 # for mp3-file
 chapters:
 - '00:00:00.000 Intro'
-transcript: http://historie.vih.dk/assets/podcasts/bent-aalbaek-nielsen-rask-nielsen.txt
+transcript: http://historie.vih.dk/assets/podcasts/modstandskampen.txt
 ---
 
 {% include podcast-player.html %}

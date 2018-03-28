@@ -7,8 +7,6 @@ header:
   image: https://lh3.googleusercontent.com/EoV-vVgCGpvKr888_FixU05i7zPjHQoxnLvtc3mCUENcZcfz7UoZyHh2fi4bPKuAv0xDUDztwGsjvxO_9aTNlMoarH_p_-aD1-j4ic3Rg9cFY0GF9sE15ImvOthoq4Aw7up2xL4MCWQ
   caption: Visionen for Svend Aage Thomsens idrætsskole, som han netop nåede at indfri før sin alt for tidlige død i 1961.
   teaser: https://lh3.googleusercontent.com/EoV-vVgCGpvKr888_FixU05i7zPjHQoxnLvtc3mCUENcZcfz7UoZyHh2fi4bPKuAv0xDUDztwGsjvxO_9aTNlMoarH_p_-aD1-j4ic3Rg9cFY0GF9sE15ImvOthoq4Aw7up2xL4MCWQ
-category:
-  - historie
 tags:
   - historie
 excerpt: "Hvordan startede den Jyske Idrætsskole - og hvilke udfordringer var der i starten fra 1942-1948"

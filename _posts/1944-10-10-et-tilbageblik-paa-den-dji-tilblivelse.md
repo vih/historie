@@ -41,7 +41,7 @@ Skolens Arkitekt, Dr. tech. Chr. Ostenfeld, udarbejdede Tegningerne. Og efter gr
 
 ## Det økonomiske Grundlag
 
-Medens dette stod paa, kom der en Del Henvendelser fra Byer, som ønskede Skolen, dertil, foruden Ry satte jeg mig i Forbindelse med Viborg og Vejle. Det var en afgjort Forudsætning, at Skolen skulde ligge i naturskønne Omgivelser, men her foruden var det af stor Betydning, at Skolen kom til at ligge ved en By som vilde gaa ind for Skolen dels Ved selv at yde Støtte og dels ved Henvendelse til Staten Ved Ansøgninger om de Laan og Tilskud, som Loven giver Adgang til.
+Medens dette stod paa, kom der en Del Henvendelser fra Byer, som ønskede Skolen, dertil, foruden Ry satte jeg mig i Forbindelse med Viborg og Vejle. Det var en afgjort Forudsætning, at Skolen skulde ligge i naturskønne Omgivelser, men her foruden var det af stor Betydning, at Skolen kom til at ligge ved en By, som vilde gaa ind for Skolen, dels ved selv at yde Støtte og dels ved Henvendelse til Staten ved Ansøgninger om de Laan og Tilskud, som Loven giver Adgang til.
 
 Det stod mig imidlertid klart, at vilde jeg have andre til at yde, maatte jeg selv først yde min Part, og jeg skaffede en Grundkapital paa Kr. 20.000 til Veje. Min Familie gav et Bidrag hertil, og før jeg gaar videre, vil jeg gerne fremhæve, at den største Hjælp for mig har været min Kones og min Families aldrig svigtende Interesse og Hjælp.
 

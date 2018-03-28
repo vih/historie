@@ -242,9 +242,6 @@ collections:
   persons:
     output: true
     permalink: /:collection/:path/
-  podcasts:
-    output: true
-    permalink: /:collection/:path/
   yearbooks:
     output: true
     permalink: /aarsskrift/:path/

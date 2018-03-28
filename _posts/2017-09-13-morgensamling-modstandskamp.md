@@ -12,8 +12,6 @@ category:
   - Podcast
   - Video
 tags:
-  - video
-  - youtube
   - Svend Aage Thomsen
   - Thormod Petersen
   - modstandskampen
@@ -21,7 +19,12 @@ tags:
 video_time: true
 video_duration: "36:25"
 # Podcast
+listen_time: true
+episode_cover: /assets/podcasts/cover-stemmer.png
+explicit: "no"
+type: "Podcast"
 subtitle: Modstandskampen under 2. verdenskrig
+description: "Morgensamling om det illegale arbejde under 2. verdenskrig. Se bl.a. nogle klip skolens grundlægger, Svend Aage Thomsen, har filmet under krigen."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
   mp3: https://drive.google.com/uc?id=1aG_G9S0X4VF31shRTUsp6CAXm6W1yZe3

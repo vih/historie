@@ -1,18 +1,23 @@
 ---
 title: "Inger Christensen om det stråtækte hus"
-subtitle: "... og lidt om højskoledagen"
-description: "Interview med Inger Christensen som i mange år boet i Skovhytten fra 1978 - 2004 og været involveret i højskoledagen, som blev startet af Signe Troelsen."
+excerpt: "Interview med Inger Christensen som i mange år boet i Skovhytten fra 1978 - 2004 og været involveret i højskoledagen, som blev startet af Signe Troelsen."
 author: lsolesen
 category:
   - Podcast
 tags:
  - stråtækte hus
  - Højskoledagen
-excerpt: "Interview med Inger Christensen som i mange år boet i Skovhytten fra 1978 - 2004 og været involveret i højskoledagen, som blev startet af Signe Troelsen."
 header:
   overlay_image: /assets/images/podcasts/inger-christensen-2018.jpg
   teaser: /assets/images/podcasts/inger-christensen-2018.jpg
   caption: "Foto: Lars Olesen, 2018"
+# Podcast
+listen_time: true
+episode_cover: /assets/podcasts/cover-stemmer.png
+explicit: "no"
+type: "Podcast"
+subtitle: "... og lidt om højskoledagen"
+description: "Interview med Inger Christensen som i mange år boet i Skovhytten fra 1978 - 2004 og været involveret i højskoledagen, som blev startet af Signe Troelsen."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
   mp3: https://drive.google.com/uc?id=15eHI6uulcHebhG9sXaMmzp89RVHCidAd

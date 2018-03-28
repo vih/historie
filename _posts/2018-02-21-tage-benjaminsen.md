@@ -1,17 +1,22 @@
 ---
 title: "Tage Benjaminsens fire møder"
-subtitle: "- om at være elev, højskolelærer og forstander på DJI"
-description: "Interview med Tage Benjaminsen, som både har været elev, højskolelærer og forstander fra 1982-1984 på Den Jyske Idrætsskole."
+excerpt: "Interview med Tage Benjaminsen, som både har været elev, højskolelærer og forstander fra 1982-1984 på Den Jyske Idrætsskole."
 author: lsolesen
 category:
   - Podcast
 tags:
  - Tage Benjaminsen
-excerpt: "Interview med Tage Benjaminsen, som både har været elev, højskolelærer og forstander fra 1982-1984 på Den Jyske Idrætsskole."
 header:
   overlay_image: /assets/images/podcasts/tage-benjaminsen-2018.jpg
   teaser: /assets/images/podcasts/tage-benjaminsen-2018.jpg
   caption: "Foto: Lars Olesen, 2018"
+# Podcast
+listen_time: true
+episode_cover: /assets/podcasts/cover-stemmer.png
+explicit: "no"
+type: "Podcast"
+subtitle: "- om at være elev, højskolelærer og forstander på DJI"
+description: "Interview med Tage Benjaminsen, som både har været elev, højskolelærer og forstander fra 1982-1984 på Den Jyske Idrætsskole."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
   mp3: http://historie.vih.dk/assets/podcasts/tage-benjaminsen.mp3

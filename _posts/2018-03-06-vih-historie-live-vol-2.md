@@ -10,9 +10,9 @@ header:
   video:
     id: FQ3VqXMWrIM
     provider: youtube
+category:
+  - Video
 tags:
-  - video
-  - youtube
   - Carsten Lang Petersen
   - Hans Lauge
   - Tage Benjaminsen

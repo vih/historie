@@ -25,7 +25,7 @@ Jeg drøftede Tingene med min Far og sagde noget om, at jeg gerne vilde bygge en
 
 > Ja, men saa byg dig en Skole.
 
-Der laa Tro og Tillid bag Ordene, de bed sig fast, blev gemt, men ikke glemt, og dukkede op igen med fuld Vaegt, da den 9. April 1940 satte Sindene i Bevægelse og yderligere beredte Jordbunden for aktivt Ungdomsarbejde i den Vanskelige Tid, man vidste maatte komme.
+Der laa Tro og Tillid bag Ordene, de bed sig fast, blev gemt, men ikke glemt, og dukkede op igen med fuld Vægt, da den 9. April 1940 satte Sindene i Bevægelse og yderligere beredte Jordbunden for aktivt Ungdomsarbejde i den Vanskelige Tid, man vidste maatte komme.
 
 I Efteraaret 1940 blev jeg optaget paa en Skole for Ungdomsledere i Nærheden af København. Under fortræffelige Lærere fik jeg stort Udbytte af Opholdet. Straks efter og jeg tre Maaneder paa Statens Højskole for Legemsøvelser og virkede i Sommeren 1941 aktivt som Ungdomsleder og Idrætsinstruktør i en Række jyske Byer. Under alt dette havde Tanken om en jysk Idrætsskole vokset sig stor og stærk. Nu skulde det være og i August Maaned, da jeg opholdt mig i Ry, tog jeg fat paa Opgaven.
 
@@ -37,11 +37,11 @@ Denne Tid var en lykkelig Tid for mig og meget opmuntrende, for jeg fik ikke Nej
 
 ## Skolens Projektering
 
-Skolens Arkitekt, Dr. tech. Chr. Ostenfeld, udarbejdede Tegningerne. Og efter grundige Drøf telser samledes vi om et Projekt, der ligeligt tog Hensyn i mine Ønsker om Skolens Udseende og Indretning og det evt. økonomisk Grundlag og som omfattede: Hovedbygning med Undervisningslokaler m. m. i Stueeltagen, Forstanderbolig og Elevværelser paa 1. Sal og Køkken og Spisesal m. m. i Kælderen (i en Sidefløj Plads til Skolens Vandværk). Endvidere var Elevbygninger, Idrætshal, Svømmebassin og finsk Badstue. Skolen var beregnet til at skulle rumme 100 Elever, og det endelige projekt lød paa Kr. Kr. 368.000 + Administration og uforudsete Udgifter.
+Skolens Arkitekt, Dr. tech. Chr. Ostenfeld, udarbejdede Tegningerne. Og efter grundige Drøftelser samledes vi om et Projekt, der ligeligt tog Hensyn i mine Ønsker om Skolens Udseende og Indretning og det evt. økonomisk Grundlag og som omfattede: Hovedbygning med Undervisningslokaler m. m. i Stueeltagen, Forstanderbolig og Elevværelser paa 1. Sal og Køkken og Spisesal m. m. i Kælderen (i en Sidefløj Plads til Skolens Vandværk). Endvidere var Elevbygninger, Idrætshal, Svømmebassin og finsk Badstue. Skolen var beregnet til at skulle rumme 100 Elever, og det endelige projekt lød paa Kr. Kr. 368.000 + Administration og uforudsete Udgifter.
 
 ## Det økonomiske Grundlag
 
-Medens dette stod paa, kom der en Del Henvendelser fra Byer, som ønskede Skolen, dertil, foruden Ry satte jeg mig i Forbindelse med Viborg Vejle Det var en afgjort Forudsætning, at Skolen skulde ligge i naturskønne Omgivelser, men her foruden var det af stor Betydning, at Skolen kom til at ligge ved en By som vilde gaa ind for Skolen dels Ved selv at yde Støtte og dels ved Henvendelse til Staten Ved Ansøgninger om de Laan og Tilskud, som Loven giver Adgang til.
+Medens dette stod paa, kom der en Del Henvendelser fra Byer, som ønskede Skolen, dertil, foruden Ry satte jeg mig i Forbindelse med Viborg og Vejle. Det var en afgjort Forudsætning, at Skolen skulde ligge i naturskønne Omgivelser, men her foruden var det af stor Betydning, at Skolen kom til at ligge ved en By, som vilde gaa ind for Skolen, dels ved selv at yde Støtte og dels ved Henvendelse til Staten ved Ansøgninger om de Laan og Tilskud, som Loven giver Adgang til.
 
 Det stod mig imidlertid klart, at vilde jeg have andre til at yde, maatte jeg selv først yde min Part, og jeg skaffede en Grundkapital paa Kr. 20.000 til Veje. Min Familie gav et Bidrag hertil, og før jeg gaar videre, vil jeg gerne fremhæve, at den største Hjælp for mig har været min Kones og min Families aldrig svigtende Interesse og Hjælp.
 

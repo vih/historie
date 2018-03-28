@@ -21,7 +21,7 @@ excerpt: "Forstander fra 1998 - 2006. Var bl.a. med til at etablere kunstgræsba
 description: "Bent Serup har tætte bånd til DIF og Team Danmark. Bent sørger bl.a. for at skolen ved hjælp af Vejle Kommune og DBU får anlagt en kunstgræsbane."
 sidebar:
   - title: Bent Serup
-    image: https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/0cb/2ac/3a8897a.jpg
+    image: /assets/images/authors/default-profile.png
     image_alt: Bent Serup
     text: "Forstander fra 1998 - 2006. Var bl.a. med til at etablere kunstgræsbanen."
 ---

@@ -3,6 +3,8 @@ title: Jørn Richter om eleverne
 subtitle: Hvilke interessante elever er Jørn stødt på?
 description: "Interview med Jørn Richter om de elever, han er stødt ind i som lærer på Vejle Idrætshøjskole."
 author: lsolesen
+category:
+  - Podcast
 tags:
   - Jørn Richter
   - eleverne

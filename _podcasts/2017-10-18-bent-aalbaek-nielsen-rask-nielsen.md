@@ -3,6 +3,8 @@ title: Bent Aalbæk-Nielsen om Rask Nielsen
 subtitle: Hvordan kom familien til Den Jyske Idrætsskole?
 description: "Interview med Bent Aalbæk-Nielsen om, hvordan Rask Nielsen, skolens tredje medforstander, kom til Vejle Idrætshøjskole."
 author: lsolesen
+category:
+  - Podcast
 tags:
   - Rask Nielsen
   - Bent Aalbæk-Nielsen

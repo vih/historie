@@ -3,6 +3,8 @@ title: "Tage Benjaminsens fire møder"
 subtitle: "- om at være elev, højskolelærer og forstander på DJI"
 description: "Interview med Tage Benjaminsen, som både har været elev, højskolelærer og forstander fra 1982-1984 på Den Jyske Idrætsskole."
 author: lsolesen
+category:
+  - Podcast
 tags:
  - Tage Benjaminsen
 excerpt: "Interview med Tage Benjaminsen, som både har været elev, højskolelærer og forstander fra 1982-1984 på Den Jyske Idrætsskole."

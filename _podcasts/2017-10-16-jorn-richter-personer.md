@@ -3,8 +3,11 @@ title: Jørn Richter om interessante personer
 subtitle: Hvilke interessante personligheder er Jørn stødt på?
 description: "Interview med Jørn Richter om de personligheder, han er stødt ind i som lærer på Vejle Idrætshøjskole."
 author: lsolesen
+category:
+  - Podcast
 tags:
   - Jørn Richter
+  - personer
 excerpt: "Interview med Jørn Richter om de personligheder, han er stødt ind i som lærer på Vejle Idrætshøjskole."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry

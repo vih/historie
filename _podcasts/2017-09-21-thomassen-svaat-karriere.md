@@ -3,6 +3,8 @@ title: Knud Thomassen om Svend Aage Thomsens idrætskarriere (3/3)
 subtitle: Hvordan så Svend Aage Thomsens Idrætskarriere ud?
 description: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens idrætskarriere."
 author: lsolesen
+category:
+  - Podcast
 tags:
   - Knud Thomassen
   - Svend Aage Thomsen

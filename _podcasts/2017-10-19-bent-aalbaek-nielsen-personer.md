@@ -3,8 +3,11 @@ title: Bent Aalbæk-Nielsen om interessante personer
 subtitle: Hvilke interessante personer husker Bent Aalbæk-Nielsen?
 description: "Interview med Bent Aalbæk-Nielsen om de interessante personer, han husker fra den tid, hvor hans far, Rask Nielsen (skolens tredje medforstander) var på Den Jyske Idrætsskole."
 author: lsolesen
+category:
+  - Podcast
 tags:
-  - Rask Nielsen
+  - Svend Aage Thomsen
+  - Knud Thomassen
   - Bent Aalbæk-Nielsen
 excerpt: "Interview med Bent Aalbæk-Nielsen om de interessante personer, han husker fra den tid, hvor hans far, Rask Nielsen (skolens tredje medforstander) var på Den Jyske Idrætsskole."
 image: /assets/podcasts/cover-stemmer.jpg

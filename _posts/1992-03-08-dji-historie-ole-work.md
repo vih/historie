@@ -46,7 +46,7 @@ Urbaniseringen accentuerede behovet for at få uddannede trænere til andet end 
 
 En ny skoleform i et andet regi for et nyt marked var måske til stede!
 
-Idrætshøjskolen ved Slagelse (Gerlev) slog den første breche i navnet på en højskole med legemsøvelse som fremherskende fag. K. A. Knudsen fremfører (i en artikel i _Idræt Vor Tids store Folkeopdrager_ som blev redigeret af Gerlev Idrætshøjskoles første forstanders, Kristian Krogshede), at ændringen i skolens navn var mere af markedsføringsmæssige årsager for at adskille den fra de to allerede etablerede, og ikke af ideologiske årsager, idet gymnastik stadig skulle være det dominerende; men fremfører dog samtidigt, at skolen fik fat i en del byungdom, som ikke havde lavet gymnastik før <cite>^[Krogshede, red.: Idræt Vor Tids store Folkeopdrager b. I s. 112, Odense 1943]</cite>. Den nordiske opfattelse af kropskultur havde deres folkehøjskoler. Et ændret overordnet idrætssyn tilkendegav DJIs første forstander, Svend Aage Thomsen, ved flere lejligheder. K. A. Knudsen beskriver samme sted dog planerne i Vejle som en idrætsskole uden højskolefag. Dette måtte han dog korrigere i bind II:
+Idrætshøjskolen ved Slagelse (Gerlev) slog den første breche i navnet på en højskole med legemsøvelse som fremherskende fag. K. A. Knudsen fremfører (i en artikel i _Idræt Vor Tids store Folkeopdrager_ som blev redigeret af Gerlev Idrætshøjskoles første forstander, Kristian Krogshede), at ændringen i skolens navn var mere af markedsføringsmæssige årsager for at adskille den fra de to allerede etablerede, og ikke af ideologiske årsager, idet gymnastik stadig skulle være det dominerende; men fremfører dog samtidigt, at skolen fik fat i en del byungdom, som ikke havde lavet gymnastik før <cite>^[Krogshede, red.: Idræt Vor Tids store Folkeopdrager b. I s. 112, Odense 1943]</cite>. Den nordiske opfattelse af kropskultur havde deres folkehøjskoler. Et ændret overordnet idrætssyn tilkendegav DJIs første forstander, Svend Aage Thomsen, ved flere lejligheder. K. A. Knudsen beskriver samme sted dog planerne i Vejle som en idrætsskole uden højskolefag. Dette måtte han dog korrigere i bind II:
 
 > "viser det sig, at den stiller sig paa Linie med de øvrige Gymnastik- og Idrætshøjskoler"
 >
@@ -71,7 +71,7 @@ Tysklands besættelse af Danmark betød, at Svend Aage Thomsen blev arbejdsløs.
 
 SAaT modtog afgangsbevis fra dette kursus i atletik.
 
-Det er tænkeligt, at Svend Aage Thomsen her så en mulighed for at lave sin egen type uddannelse i provinsen eller måske fik sin højskolebaggrund justeret. SAaT fik i hvert tilfælde set og prøvet idrætten i et lidt bredere perspektiv. Desuden blev idrættens begreber videnskabeliggjort for praktikeren. Lederudviklingen fortsatte, idet han kom på Folketjenestens lederskole i Karlslunde i efteråret 1941 ^[Delingsføreren, Gerlev . nr. 10 okt. 1942 2. årg.].
+Det er tænkeligt, at Svend Aage Thomsen her så en mulighed for at lave sin egen type uddannelse i provinsen eller måske fik sin højskolebaggrund justeret. SAaT fik i hvert tilfælde set og prøvet idrætten i et lidt bredere perspektiv. Desuden blev idrættens begreber videnskabeliggjort for praktikeren. Lederudviklingen fortsatte, idet han kom på Folketjenestens lederskole i Karlslunde i efteråret 1941 <cite>^[Delingsføreren, Gerlev . nr. 10 okt. 1942 2. årg.]</cite>.
 
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXUUFEMjN1M1RvZzg"
@@ -116,7 +116,7 @@ Først i oktober måned 1943 ses højskolebetegnelsen direkte i en justeret hens
 
 Den Jyske Idrætsskole i Vejle havde en meget svær fødsel. Den var baseret på een mands ønske og vilje og ikke udsprunget af en større folkelig kreds. Skolens første forstander følte et behov og vakte en interesse. Den folkelige støtte kom - men langsomt.
 
-Svend Aage Thomsen, Vejen indkaldte til møde søndag den 25. januar 1942 kl. 15.30 på hotel Royal (den nuværende Rådhuskro) i Vejle med indbudte ledere fra jyske special gymnastik- og idrætsforbund. Mødets formål var at drøfte oprettelsen af "en jydsk Idrætsskole". Fra denne delvis officielle start brugtes som nævnt betegnelsen _"Den jydske Idrætsskole"_ <cite>^[kilde: Den jyske Idrætsskoles forhandlingsprotokol af 25. januar 1942.]</cite>. 
+Svend Aage Thomsen, Vejen, indkaldte til møde søndag den 25. januar 1942 kl. 15.30 på hotel Royal (den nuværende Rådhuskro) i Vejle med indbudte ledere fra jyske special gymnastik- og idrætsforbund. Mødets formål var at drøfte oprettelsen af "en jydsk Idrætsskole". Fra denne delvis officielle start brugtes som nævnt betegnelsen _"Den jydske Idrætsskole"_ <cite>^[kilde: Den jyske Idrætsskoles forhandlingsprotokol af 25. januar 1942.]</cite>. 
 
 Mødet tog udgangspunkt i Svend Aage Thomsens allerede udførte arbejde - herunder indhentede støtteerklæringer og indkomne tilbud fra interesserede byer bl.a. Vejle og Viborg <cite>^[kilde: brev fra Viborg Byraads Kasse- og Regnskabsudvalg 16. januar 1942 om Idrætsskole i Viborg (utrykt)]</cite>. Fra begge byer stilledes grund til rådighed for opførelsen af en ny skole. Initiativgruppen besluttede sig for at tage imod tilbuddet fra Vejle Kommune. Viborg var således ude af billedet som sæde for en jysk idrætsskole. Dette kom ikke uventet, idet byrådsmedlemmer fra Vejle ventede i et andet rum. 
 
@@ -311,12 +311,12 @@ Den Jyske Idrætsskoles elevforening havde stiftende generalforsamling den 25. m
 
 Bestyrelsen havde håbet på at kunne gennemføre et 3 måneders sommerkursus for kvinder om sommeren 1943, men dette lykkedes ikke. Den 3. juli 1943 fik skolen sit første kursus overhovedet, idet Dansk Håndbold Forbund afholdt kursus.
 
-Den 03. november kom det første elevhold til et 5 måneders højskolekursus - mænd naturligvis.
+Den 3. november kom det første elevhold til et 5 måneders højskolekursus - mænd naturligvis.
 
 Det var små elevhold i skolens første år og væsentligt for overlevelsen var, at Idrætshøjskolen i Gerlev af besættelsesmagten blev tvunget til at lukke, hvorfor en del elever kom til Den Jyske Idrætsskole.
 
 ## Bestyrelsen
 
-Den Jyske Idrætsskoles første formand for hovedbestyrelsen og forretningsudvalget var borgmester N.P. Jensen, Vejle, der besad posten indtil 1947. Han afløstes af Vejles borgmester Willy Sørensen. I det hele taget ydede Vejle Kommune en livgivende støtte til skolen i dens betrængte første år.
+Den Jyske Idrætsskoles første formand for hovedbestyrelsen og forretningsudvalget var borgmester N. P. Jensen, Vejle, der besad posten indtil 1947. Han afløstes af Vejles borgmester Willy Sørensen. I det hele taget ydede Vejle Kommune en livgivende støtte til skolen i dens betrængte første år.
 
-_Denne artikel er skrevet af Ole Worm i 1992 i anledning af 50 års jubilæum. Bragt med tilladelse fra Ole Worm._
+_Denne artikel er skrevet af Ole Worm i 1992 egentligt som et internt dokument for at gøre folk i huset klogere på skolens historie. Bragt med tilladelse fra Ole Worm her på siden i 2017._

@@ -8,10 +8,10 @@ end_date:
 header:
   teaser: /assets/images/authors/default-profile.png
 media: 
-  url: https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/0cb/2ac/3a8897a.jpg
+  url: /assets/images/authors/default-profile.png
   #credit: ""
   caption: "Bent Serup"
-  thumbnail: https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/0cb/2ac/3a8897a.jpg
+  thumbnail: /assets/images/authors/default-profile.png
 category:
   - Forstander
 tags:

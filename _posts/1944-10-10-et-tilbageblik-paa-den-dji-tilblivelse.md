@@ -37,7 +37,7 @@ Denne Tid var en lykkelig Tid for mig og meget opmuntrende, for jeg fik ikke Nej
 
 ## Skolens Projektering
 
-Skolens Arkitekt, Dr. tech. Chr. Ostenfeld, udarbejdede Tegningerne. Og efter grundige Drøf telser samledes vi om et Projekt, der ligeligt tog Hensyn i mine Ønsker om Skolens Udseende og Indretning og det evt. økonomisk Grundlag og som omfattede: Hovedbygning med Undervisningslokaler m. m. i Stueeltagen, Forstanderbolig og Elevværelser paa 1. Sal og Køkken og Spisesal m. m. i Kælderen (i en Sidefløj Plads til Skolens Vandværk). Endvidere var Elevbygninger, Idrætshal, Svømmebassin og finsk Badstue. Skolen var beregnet til at skulle rumme 100 Elever, og det endelige projekt lød paa Kr. Kr. 368.000 + Administration og uforudsete Udgifter.
+Skolens Arkitekt, Dr. tech. Chr. Ostenfeld, udarbejdede Tegningerne. Og efter grundige Drøftelser samledes vi om et Projekt, der ligeligt tog Hensyn i mine Ønsker om Skolens Udseende og Indretning og det evt. økonomisk Grundlag og som omfattede: Hovedbygning med Undervisningslokaler m. m. i Stueeltagen, Forstanderbolig og Elevværelser paa 1. Sal og Køkken og Spisesal m. m. i Kælderen (i en Sidefløj Plads til Skolens Vandværk). Endvidere var Elevbygninger, Idrætshal, Svømmebassin og finsk Badstue. Skolen var beregnet til at skulle rumme 100 Elever, og det endelige projekt lød paa Kr. Kr. 368.000 + Administration og uforudsete Udgifter.
 
 ## Det økonomiske Grundlag
 

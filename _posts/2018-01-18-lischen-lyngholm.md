@@ -1,15 +1,22 @@
 ---
 title: "Lischen Lyngholm om at være<br>højskolelærer fra 1968 - 1993"
-subtitle: "... og lidt om at være den første der lader piger springe til gymnastik"
-description: "Interview med Lischen Lyngholm, der var højskolelærer på Den Jyske Idrætsskole fra 1968 - 1993. Hun fortæller om, hvordan hun startede som faglærer i gymnastik, men langsomt fandt nye veje ind i højskolelærerlivet."
+excerpt: "Interview med Lischen Lyngholm, der var højskolelærer på Den Jyske Idrætsskole fra 1968 - 1993. Hun fortæller om, hvordan hun startede som faglærer i gymnastik, men langsomt fandt nye veje ind i højskolelærerlivet."
 author: lsolesen
+category:
+  - Podcast
 tags:
  - Lischen Lyngholm
-excerpt: "Interview med Lischen Lyngholm, der var højskolelærer på Den Jyske Idrætsskole fra 1968 - 1993. Hun fortæller om, hvordan hun startede som faglærer i gymnastik, men langsomt fandt nye veje ind i højskolelærerlivet."
 header:
   overlay_image: /assets/images/podcasts/lischen-lyngholm-2018.jpg
   teaser: /assets/images/podcasts/lischen-lyngholm-2018.jpg
   caption: "Foto: Lars Olesen, 2018"
+# Podcast
+listen_time: true
+episode_cover: /assets/podcasts/cover-stemmer.png
+explicit: "no"
+type: "Podcast"
+subtitle: "... og lidt om at være den første der lader piger springe til gymnastik"
+description: "Interview med Lischen Lyngholm, der var højskolelærer på Den Jyske Idrætsskole fra 1968 - 1993. Hun fortæller om, hvordan hun startede som faglærer i gymnastik, men langsomt fandt nye veje ind i højskolelærerlivet."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
   mp3: http://historie.vih.dk/assets/podcasts/lischen-lyngholm.mp3

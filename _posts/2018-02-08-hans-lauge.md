@@ -1,15 +1,22 @@
 ---
 title: "Hans Lauge - stemt af højskolen"
-subtitle: "- højskolelærerliv og højskolen i livet"
-description: "Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv."
+excerpt: "Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv."
 author: lsolesen
+category:
+  - Podcast
 tags:
  - Hans Lauge
-excerpt: "Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv."
 header:
   overlay_image: /assets/images/podcasts/hans-lauge-2018.jpg
   teaser: /assets/images/podcasts/hans-lauge-2018.jpg
   caption: "Foto: Lars Olesen, 2018"
+# Podcast
+listen_time: true
+episode_cover: /assets/podcasts/cover-stemmer.png
+explicit: "no"
+type: "Podcast"
+subtitle: "- højskolelærerliv og højskolen i livet"
+description: "Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
   mp3: http://historie.vih.dk/assets/podcasts/hans-lauge.mp3

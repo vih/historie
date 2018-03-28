@@ -1,11 +1,19 @@
 ---
 title: Jørn Richter om at være højskolelærer?
-subtitle: Hvad har Jørn lagt vægt på som højskolelærer?
-description: "Interview med Jørn Richter om, hvordan hvordan han ser på det at være højskolelærer."
+excerpt: "Interview med Jørn Richter om, hvordan hvordan han ser på det at være højskolelærer."
 author: lsolesen
+category:
+  - Podcast
 tags:
   - Jørn Richter
-excerpt: "Interview med Jørn Richter om, hvordan hvordan han ser på det at være højskolelærer."
+  - højskolelærer
+# Podcast
+listen_time: true
+episode_cover: /assets/podcasts/cover-stemmer.png
+explicit: "no"
+type: "Podcast"
+subtitle: Hvad har Jørn lagt vægt på som højskolelærer?
+description: "Interview med Jørn Richter om, hvordan hvordan han ser på det at være højskolelærer."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
   mp3: https://drive.google.com/uc?id=12ObT1KxS6HC07tfwiqTyfmXWVzVJTbNS

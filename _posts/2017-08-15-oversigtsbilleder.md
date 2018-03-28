@@ -2,8 +2,6 @@
 title: Oversigtsbilleder
 permalink: /oversigtsbilleder/
 date:   2017-08-15 16:16:01 +0100
-category:
-  - oversigtsbillede
 tags:
   - oversigtsbillede
 excerpt: "Oversigtsbilleder fra skolens historie"

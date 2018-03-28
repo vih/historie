@@ -1,15 +1,22 @@
 ---
 title: "Birte Christensen om at være datter af grundlæggeren"
-subtitle: "... hendes oplevelser som datter, elev og lærer"
-description: "Interview med Birte Christensen som var fem år, da højskolen blev etableret, og som datter af Svend Aage Thomsen har hun naturligvis mange minder fra sine år på Den Jyske Idrætsskole."
+excerpt: "Interview med Birte Christensen som var fem år, da højskolen blev etableret, og som datter af Svend Aage Thomsen har hun naturligvis mange minder fra sine år på Den Jyske Idrætsskole."
 author: lsolesen
+category:
+  - Podcast
 tags:
  - Svend Aage Thomsen
-excerpt: "Interview med Birte Christensen som var fem år, da højskolen blev etableret, og som datter af Svend Aage Thomsen har hun naturligvis mange minder fra sine år på Den Jyske Idrætsskole."
 header:
   overlay_image: /assets/images/podcasts/birte-christensen-2018.jpg
   teaser: /assets/images/podcasts/birte-christensen-2018.jpg
   caption: "Foto: Lars Olesen, 2018"
+# Podcast
+listen_time: true
+episode_cover: /assets/podcasts/cover-stemmer.png
+explicit: "no"
+type: "Podcast"
+subtitle: "... hendes oplevelser som datter, elev og lærer"
+description: "Interview med Birte Christensen som var fem år, da højskolen blev etableret, og som datter af Svend Aage Thomsen har hun naturligvis mange minder fra sine år på Den Jyske Idrætsskole."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
   mp3: http://historie.vih.dk/assets/podcasts/birte-christensen.mp3

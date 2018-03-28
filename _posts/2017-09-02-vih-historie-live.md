@@ -10,9 +10,9 @@ header:
   video:
     id: _GunyJNgzYI
     provider: youtube
+category:
+  - Video
 tags:
-  - video
-  - youtube
   - Ole Damgaard
   - Bjarne Thomsen
   - Jørn Richter

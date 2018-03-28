@@ -1,15 +1,23 @@
 ---
 title: "Marie Lisby"
-subtitle: "- ansat 39 år med ansvar for kursuscenter og rengøring"
-description: "Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003."
+excerpt: "Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003."
 author: lsolesen
+category:
+  - Podcast
 tags:
  - Marie Lisby
-excerpt: "Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003."
+ - kursuscenter
 header:
   overlay_image: /assets/images/podcasts/marie-lisby-2018.jpg
   teaser: /assets/images/podcasts/marie-lisby-2018.jpg
   caption: "Foto: Lars Olesen, 2018"
+# Podcast
+listen_time: true
+episode_cover: /assets/podcasts/cover-stemmer.png
+explicit: "no"
+type: "Podcast"
+subtitle: "- ansat 39 år med ansvar for kursuscenter og rengøring"
+description: "Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
   mp3: https://drive.google.com/uc?id=1zw9BvrI_HYein1KWZPbuR-S7CrzVI0rF

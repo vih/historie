@@ -43,7 +43,8 @@ permalink: /feed/podcast/
             <itunes:category text="{{ site.podcast_subcategory_one }}"/>
             <itunes:category text="{{ site.podcast_subcategory_two }}"/>
         </itunes:category>
-        {% for ep in site.podcasts %}
+        {% assign podcasts = site.posts | where: "category", "Podcast" | sort: "date" %}
+        {% for ep in podcasts %}
         <item>
             <title>{{ ep.title | strip_html }}</title>
             <link>{{ site.podcast_site_url }}{{ ep.url }}</link>

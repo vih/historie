@@ -242,9 +242,6 @@ collections:
   persons:
     output: true
     permalink: /:collection/:path/
-  podcasts:
-    output: true
-    permalink: /:collection/:path/
   yearbooks:
     output: true
     permalink: /aarsskrift/:path/
@@ -329,22 +326,6 @@ defaults:
       comments: true
       share: true
       related: true
-# _podcasts
-  - scope:
-      path: ""
-      type: podcasts
-    values:
-      layout: podcast-single
-      author_profile: true
-      video_time: false
-      listen_time: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      episode_cover: /assets/podcasts/cover-stemmer.png
-      explicit: "no"
-      type: "Podcast"
 # _yearbooks
   - scope:
       path: ""
@@ -358,6 +339,7 @@ defaults:
       comments: true
       share: true
       related: true
+      toc: true
 
 
 # Podcast

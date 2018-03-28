@@ -1,12 +1,19 @@
 ---
 title: Knud Thomassen om sin idrætsbaggrund (1/3)
-subtitle: Hvordan mødte Knud Svend Aage Thomsen?
-description: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om, hvordan han kom i kontakt med Svend Aage Thomsen gennem idrætten."
+excerpt: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om, hvordan han kom i kontakt med Svend Aage Thomsen gennem idrætten."
 author: lsolesen
+category:
+  - Podcast
 tags:
   - Knud Thomassen
   - Svend Aage Thomsen
-excerpt: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om, hvordan han kom i kontakt med Svend Aage Thomsen gennem idrætten."
+# Podcast
+listen_time: true
+episode_cover: /assets/podcasts/cover-stemmer.png
+explicit: "no"
+type: "Podcast"
+subtitle: Hvordan mødte Knud Svend Aage Thomsen?
+description: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om, hvordan han kom i kontakt med Svend Aage Thomsen gennem idrætten."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
   mp3: https://drive.google.com/uc?id=1EF5AUdwKxdE_RzyZ6NjtLI1kKomFeXcp

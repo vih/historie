@@ -20,7 +20,7 @@ Han var formand for Samvirkende Idrætsklubber i Århus i 15 år, og han sad i e
 
 Men Den jyske Idrætsskole var Otto Lassens hjertebarn.
 
-Han blev medlem af hovedbestyrelsen i 1942, næstformand i 19 og formand i 1963.
+Han blev medlem af hovedbestyrelsen i 1942, næstformand i 1944 og formand i 1963.
 
 I de forløbne 30 år har Otto Lassen øvet en indsats i skolens tjeneste, der har været overordentlig arbejdskrævende og af afgørende betydning for den udvikling, der har fundet sted, og som har ført til, at skolen fra en beskeden begyndelse under overvindelse af mange vanskeligheder er blevet udbygget til sit nuværende stade.
 

@@ -36,14 +36,16 @@ _Vi er først lige begyndt at lave biografier på nogle af de væsentlige person
 - [Vejle Wiki om Willy Sørensen](http://www.vejlewiki.dk/index.php?title=Willy_S%C3%B8rensen)
 - [Willy Sørensen på Wikipedia](https://da.wikipedia.org/wiki/Willy_S%C3%B8rensen)
 
-## Artikler om {{ page.title }}
-
 {% assign posts = site.posts | where: "tags", page.title | sort: "date" %}
 
+{% if posts.size > 0 %}
+## Artikler om {{ page.title }}
 {% include post-list.html posts=posts %}
+{% endif %}
 
+{% assign author_posts = site.posts | where: "author", page.author_name | sort: "date" %}
+
+{% if author_posts.size > 0 %}
 ## Skrevet af {{ page.title }}
-
-{% assign author = site.posts | where: "author", page.author_name | sort: "date" %}
-
-{% include post-list.html posts=author %}
+{% include post-list.html posts=author_posts %}
+{% endif %}

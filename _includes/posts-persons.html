@@ -1,0 +1,13 @@
+{% assign posts = site.posts | where: "tags", include.tag | sort: "date" %}
+
+{% if posts.size > 0 %}
+  <h2>Artikler om {{ page.title }}</h2>
+  {% include post-list.html posts=posts %}
+{% endif %}
+
+{% assign author_posts = site.posts | where: "author", include.author_name | sort: "date" %}
+
+{% if author_posts.size > 0 %}
+  <h2>Skrevet af {{ page.title }}</h2>
+  {% include post-list.html posts=author_posts %}
+{% endif %}

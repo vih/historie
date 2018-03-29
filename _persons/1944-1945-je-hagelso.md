@@ -35,16 +35,4 @@ sidebar:
 _Vi er først lige begyndt at lave biografier på nogle af de væsentlige personligheder på Vejle Idrætshøjskole. Vi vil være rigtig taknemmelige for al den hjælp, vi kan få._
 {: .notice--info}
 
-{% assign posts = site.posts | where: "tags", page.title | sort: "date" %}
-
-{% if posts.size > 0 %}
-## Artikler om {{ page.title }}
-{% include post-list.html posts=posts %}
-{% endif %}
-
-{% assign author_posts = site.posts | where: "author", page.author_name | sort: "date" %}
-
-{% if author_posts.size > 0 %}
-## Skrevet af {{ page.title }}
-{% include post-list.html posts=author_posts %}
-{% endif %}
+{% include posts-persons.html author=page.author_name tag=page.title %}

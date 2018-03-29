@@ -35,16 +35,4 @@ _Vi er først lige begyndt at lave biografier på nogle af de væsentlige person
 
 - [Inger Engberg i Kvindebiografisk Leksikon](http://www.kvinfo.dk/side/171/bio/802/)
 
-{% assign posts = site.posts | where: "tags", page.title | sort: "date" %}
-
-{% if posts.size > 0 %}
-## Artikler om {{ page.title }}
-{% include post-list.html posts=posts %}
-{% endif %}
-
-{% assign author_posts = site.posts | where: "author", page.author_name | sort: "date" %}
-
-{% if author_posts.size > 0 %}
-## Skrevet af {{ page.title }}
-{% include post-list.html posts=author_posts %}
-{% endif %}
+{% include posts-persons.html author=page.author_name tag=page.title %}

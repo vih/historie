@@ -5,27 +5,35 @@ svend_aage_thomsen:
 bjarne_hauger:
   name: "Bjarne Hauger"
   bio: "Forstander på Den Jyske Idrætsskole fra 1967-1982."
+  avatar: "/assets/images/authors/default-profile.png"
 evald_andersen:
   name: "Evald Andersen"
   bio: "Ved du mere om Evald Andersen, så brug gerne kommentarerne."
+  avatar: "/assets/images/authors/default-profile.png"
 willy_sørensen:
   name: "Willy Sørensen"
   bio: "Mangeårig borgmester i Vejle og formand for Den Jyske Idrætsskoles bestyrelse."
+  avatar: "/assets/images/authors/default-profile.png"
 inger_engberg:
   name: "Inger Engberg"
   bio: "Mangeårig formand for bestyrelsen på Den Jyske Idrætsskole."
+  avatar: "/assets/images/authors/default-profile.png"
 otto_lassen:
   name: "Otto Lassen"
   bio: "Mangeårig formand for bestyrelsen på Den Jyske Idrætsskole."
+  avatar: "/assets/images/authors/default-profile.png"
 hans_erik_jensen:
   name: "Hans Erik Jensen"
   bio: "Mangeårig formand for bestyrelsen på Den Jyske Idrætsskole."
+  avatar: "/assets/images/authors/default-profile.png"
 grethe_schmidt:
   name: "Grethe Schmidt"
   bio: "Ved du mere om Grethe Schmidt, så brug gerne kommentarerne."
+  avatar: "/assets/images/authors/default-profile.png"
 mogens_bredfeldt:
   name: "Mogens Bredfeldt"
   bio: "Ved du mere om Mogens Bredfeldt, så brug gerne kommentarerne."
+  avatar: "/assets/images/authors/default-profile.png"
 ole_worm:
   name: "Ole Worm"
   bio: "Lærer på Den Jyske Idrætsskole fra 1968 til 1984, hvor han blev forstander indtil 1999. Ole Worm var bl.a. idemager bag Globen og navneskiftet fra DJI til Vejle Idrætshøjskole."
@@ -33,6 +41,7 @@ ole_worm:
 jørn_richter:
   name: "Jørn Richter"
   bio: "Lærer på Den Jyske Idrætsskole og Vejle Idrætshøjskole fra 1973 til 2005, hvor han gik på pension."
+  avatar: "/assets/images/authors/default-profile.png"
 lsolesen:
   name: "Lars Olesen"
   bio: "Højskolelærer på Vejle Idrætshøjskole siden 1999 og siden 2013 viceforstander."
@@ -47,6 +56,7 @@ thormod_petersen:
 jub92:
   name: "Klaus Hansen og Ib Pilegaard"
   bio: "Klaus Hansen og Ib Pilegaard var med i redaktionen, der samlede jubilæumsskriftet for den Jyske Idrætsskole i 1992 <q>-At tænke med hjertet</q> - og vi mener, at de har skrevet denne artikel."
+  avatar: "/assets/images/authors/default-profile.png"
 signy_jensen:
   name: "Signy Jensen"
   bio: "Højskolelærer og musiklærer på Den Jyske Idrætsskole fra 1976 til 1996."
@@ -58,12 +68,15 @@ mille_christensen:
 william_hansen:
   name: "William O. Hansen"
   bio: "Har skrevet den oprindelige skolesang. Var selv elev i 1948-49. Hvis du ved mere om ham, så brug endelig kommentarerne."
+  avatar: "/assets/images/authors/default-profile.png"
 karl_olav_dahlbaek:
   name: "Karl Olav-Dahlbæk"
   bio: "Har skrevet melodien til den oprindelige skolesang fra 1949. Var selv elev i 1948-49. Hvis du ved mere om ham, så brug endelig kommentarerne."
+  avatar: "/assets/images/authors/default-profile.png"
 sten_kaaloe:
   name: "Sten Kaalø"
   bio: "Frimenighedspræst og forfatter til skolesangen fra 1992."
+  avatar: "/assets/images/authors/default-profile.png"
 alice_kragh:
   name: "Alice Grønborg Kragh"
   bio: "Alice var højskolelærer på Den Jyske Idrætsskole fra 1979 til 1998. Hun underviste bl.a. i rytmisk gymnastik."

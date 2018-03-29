@@ -3,8 +3,12 @@ title: Søren Haugstrup Jensen
 author_name: "haugstrup"
 start_date: 
   year: 1943
+  month: 11
+  day: 1
 end_date:
   year: 1944
+  month: 7
+  day: 31
 header:
   teaser: /assets/images/persons/haugstrup.jpg
 media: 

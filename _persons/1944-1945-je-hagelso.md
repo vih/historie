@@ -3,8 +3,12 @@ title: Jens Ejlert Hagelsø
 author_name: "hagelsø"
 start_date: 
   year: 1944
+  month: 11
+  day: 1
 end_date:
   year: 1945
+  month: 4
+  day: 30
 header:
   teaser: /assets/images/persons/jehagelsoe.png
 media: 

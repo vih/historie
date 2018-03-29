@@ -3,8 +3,12 @@ title: Rask Nielsen
 author_name: "rask_nielsen"
 start_date: 
   year: 1945
+  month: 5
+  day: 1
 end_date:
   year: 1948
+  month: 8
+  day: 31
 header:
   teaser: /assets/images/persons/rask-nielsen.png
 media: 

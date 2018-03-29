@@ -10,8 +10,6 @@ tags:
 # Podcast
 listen_time: true
 episode_cover: /assets/podcasts/cover-stemmer.png
-explicit: "no"
-type: "Podcast"
 subtitle: Hvad har Jørn lagt vægt på som højskolelærer?
 description: "Interview med Jørn Richter om, hvordan hvordan han ser på det at være højskolelærer."
 image: /assets/podcasts/cover-stemmer.jpg

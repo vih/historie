@@ -21,8 +21,6 @@ video_duration: "36:25"
 # Podcast
 listen_time: true
 episode_cover: /assets/podcasts/cover-stemmer.png
-explicit: "no"
-type: "Podcast"
 subtitle: Modstandskampen under 2. verdenskrig
 description: "Morgensamling om det illegale arbejde under 2. verdenskrig. Se bl.a. nogle klip skolens grundlægger, Svend Aage Thomsen, har filmet under krigen."
 image: /assets/podcasts/cover-stemmer.jpg

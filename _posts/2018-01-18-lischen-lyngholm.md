@@ -13,8 +13,6 @@ header:
 # Podcast
 listen_time: true
 episode_cover: /assets/podcasts/cover-stemmer.png
-explicit: "no"
-type: "Podcast"
 subtitle: "... og lidt om at være den første der lader piger springe til gymnastik"
 description: "Interview med Lischen Lyngholm, der var højskolelærer på Den Jyske Idrætsskole fra 1968 - 1993. Hun fortæller om, hvordan hun startede som faglærer i gymnastik, men langsomt fandt nye veje ind i højskolelærerlivet."
 image: /assets/podcasts/cover-stemmer.jpg

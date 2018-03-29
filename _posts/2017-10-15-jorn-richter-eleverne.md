@@ -10,8 +10,6 @@ tags:
 # Podcast
 listen_time: true
 episode_cover: /assets/podcasts/cover-stemmer.png
-explicit: "no"
-type: "Podcast"
 subtitle: Hvilke interessante elever er Jørn stødt på?
 description: "Interview med Jørn Richter om de elever, han er stødt ind i som lærer på Vejle Idrætshøjskole."
 image: /assets/podcasts/cover-stemmer.jpg

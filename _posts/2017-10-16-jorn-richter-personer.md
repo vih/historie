@@ -10,8 +10,6 @@ tags:
 # Podcast
 listen_time: true
 episode_cover: /assets/podcasts/cover-stemmer.png
-explicit: "no"
-type: "Podcast"
 subtitle: Hvilke interessante personligheder er Jørn stødt på?
 description: "Interview med Jørn Richter om de personligheder, han er stødt ind i som lærer på Vejle Idrætshøjskole."
 image: /assets/podcasts/cover-stemmer.jpg

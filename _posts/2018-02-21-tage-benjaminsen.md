@@ -13,8 +13,6 @@ header:
 # Podcast
 listen_time: true
 episode_cover: /assets/podcasts/cover-stemmer.png
-explicit: "no"
-type: "Podcast"
 subtitle: "- om at være elev, højskolelærer og forstander på DJI"
 description: "Interview med Tage Benjaminsen, som både har været elev, højskolelærer og forstander fra 1982-1984 på Den Jyske Idrætsskole."
 image: /assets/podcasts/cover-stemmer.jpg

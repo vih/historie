@@ -14,8 +14,6 @@ header:
 # Podcast
 listen_time: true
 episode_cover: /assets/podcasts/cover-stemmer.png
-explicit: "no"
-type: "Podcast"
 subtitle: "... og lidt om højskoledagen"
 description: "Interview med Inger Christensen som i mange år boet i Skovhytten fra 1978 - 2004 og været involveret i højskoledagen, som blev startet af Signe Troelsen."
 image: /assets/podcasts/cover-stemmer.jpg

@@ -10,8 +10,6 @@ tags:
 # Podcast
 listen_time: true
 episode_cover: /assets/podcasts/cover-stemmer.png
-explicit: "no"
-type: "Podcast"
 subtitle: Hvordan så Svend Aage Thomsens Idrætskarriere ud?
 description: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens idrætskarriere."
 image: /assets/podcasts/cover-stemmer.jpg

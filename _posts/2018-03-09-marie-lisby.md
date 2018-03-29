@@ -14,8 +14,6 @@ header:
 # Podcast
 listen_time: true
 episode_cover: /assets/podcasts/cover-stemmer.png
-explicit: "no"
-type: "Podcast"
 subtitle: "- ansat 39 år med ansvar for kursuscenter og rengøring"
 description: "Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003."
 image: /assets/podcasts/cover-stemmer.jpg

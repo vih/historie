@@ -10,8 +10,6 @@ tags:
 # Podcast
 listen_time: true
 episode_cover: /assets/podcasts/cover-stemmer.png
-explicit: "no"
-type: "Podcast"
 subtitle: Hvordan mødte Knud Svend Aage Thomsen?
 description: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om, hvordan han kom i kontakt med Svend Aage Thomsen gennem idrætten."
 image: /assets/podcasts/cover-stemmer.jpg

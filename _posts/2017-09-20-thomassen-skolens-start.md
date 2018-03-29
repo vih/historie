@@ -10,8 +10,6 @@ tags:
 # Podcast
 listen_time: true
 episode_cover: /assets/podcasts/cover-stemmer.png
-explicit: "no"
-type: "Podcast"
 subtitle: Hvad var Svend Aage Thomsens bevæggrunde
 description: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens baggrund for at starte skolen."
 image: /assets/podcasts/cover-stemmer.jpg

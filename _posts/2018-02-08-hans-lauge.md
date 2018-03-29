@@ -13,8 +13,6 @@ header:
 # Podcast
 listen_time: true
 episode_cover: /assets/podcasts/cover-stemmer.png
-explicit: "no"
-type: "Podcast"
 subtitle: "- højskolelærerliv og højskolen i livet"
 description: "Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv."
 image: /assets/podcasts/cover-stemmer.jpg

@@ -3,7 +3,9 @@ title: Det var dengang, sommerpigerne fangede blottere
 header:
   image: https://lh3.googleusercontent.com/oovbREsJKEwtnYIn3y_q7ikmUBlxfJHs9O4TUygGOvWX11QYwY8odg4EE7Qdss7I_-o8XGTm2sqRLajWgRB2Y9zPLCcDlRYEaomD1tccBLFV-3VHO7_TL6hyEgKaI-BcA12j06-HcIs
   caption: Signe Troelsen - på tronstol med mikrofon - som en slags gymnastikkens dronning
-author: jub92
+authors:
+  - klaus_hansen
+  - ib_pilegaard
 category:
   - Årsskrift
 tags:

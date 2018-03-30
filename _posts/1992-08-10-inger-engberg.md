@@ -1,6 +1,8 @@
 ---
 title: Eleverne skal lære at tænke med hjertet
-author: jub92
+authors:
+  - klaus_hansen
+  - ib_pilegaard
 category:
   - Årsskrift
 tags:

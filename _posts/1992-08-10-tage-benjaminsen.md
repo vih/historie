@@ -1,6 +1,8 @@
 ---
 title: Der er danset nok på denne skole denne vinter
-author: jub92
+authors:
+  - klaus_hansen
+  - ib_pilegaard
 category:
   - Årsskrift
 tags:

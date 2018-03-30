@@ -1,6 +1,8 @@
 ---
 title: OL-Succes blåstemplede cirquittræningen
-author: jub92
+authors:
+  - klaus_hansen
+  - ib_pilegaard
 category:
   - Årsskrift
 tags:

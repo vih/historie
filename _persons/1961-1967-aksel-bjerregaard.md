@@ -31,8 +31,8 @@ sidebar:
 _Vi er først lige begyndt at lave biografier på nogle af de væsentlige personligheder på Vejle Idrætshøjskole. Vi vil være rigtig taknemmelige for al den hjælp, vi kan få._
 {: .notice--info}
 
+{% include posts-persons.html author=page.author_name tag=page.title %}
+
 ## Referencer
 
 - [Aksel Bjerregaard på Wikipedia](https://da.wikipedia.org/wiki/Aksel_Bjerregaard)
-
-{% include posts-persons.html author=page.author_name tag=page.title %}

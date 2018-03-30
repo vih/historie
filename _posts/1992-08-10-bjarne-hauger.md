@@ -3,7 +3,9 @@ title: 68'er-oprøret kom ned ført badekåbe og papillotter
 header:
   image: https://lh3.googleusercontent.com/iSnFODaRrIyJnsiLKf1eBOuJWqdp9d3fWldY6b2t_bMjgFKEUaLLhC1MmUxW-t9J5-WJB-ZSxbKtO-u4u8X4DG6P7DQXsn5lNDAaM2IJhvH27qmb6a-xFvvPQja7rMEDOk_XhA_ykb8
   caption: Bjarne og Benthe Hauger fotograferet i privaten i 1992.
-author: jub92
+authors:
+  - klaus_hansen
+  - ib_pilegaard
 category:
   - Årsskrift
 tags:

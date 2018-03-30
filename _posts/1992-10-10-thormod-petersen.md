@@ -1,6 +1,8 @@
 ---
 title: Stærkere modstand end Svend Aage var klar over
-author: jub92
+authors:
+  - klaus_hansen
+  - ib_pilegaard
 category:
   - Årsskrift
 tags:

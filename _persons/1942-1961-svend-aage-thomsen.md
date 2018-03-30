@@ -32,8 +32,8 @@ sidebar:
 _Vi er først lige begyndt at lave biografier på nogle af de væsentlige personligheder på Vejle Idrætshøjskole. Vi vil være rigtig taknemmelige for al den hjælp, vi kan få._
 {: .notice--info}
 
+{% include posts-persons.html author=page.author_name tag=page.title %}
+
 ## Referencer
 
 - [Svend Aage Thomsen på Wikipedia](https://da.wikipedia.org/wiki/Svend_Aage_Thomsen)
-
-{% include posts-persons.html author=page.author_name tag=page.title %}

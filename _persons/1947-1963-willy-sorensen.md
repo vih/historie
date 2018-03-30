@@ -31,9 +31,9 @@ sidebar:
 _Vi er først lige begyndt at lave biografier på nogle af de væsentlige personligheder på Vejle Idrætshøjskole. Vi vil være rigtig taknemmelige for al den hjælp, vi kan få._
 {: .notice--info}
 
+{% include posts-persons.html author=page.author_name tag=page.title %}
+
 ## Referencer
 
 - [Vejle Wiki om Willy Sørensen](http://www.vejlewiki.dk/index.php?title=Willy_S%C3%B8rensen)
 - [Willy Sørensen på Wikipedia](https://da.wikipedia.org/wiki/Willy_S%C3%B8rensen)
-
-{% include posts-persons.html author=page.author_name tag=page.title %}

@@ -5,9 +5,13 @@
   {% include post-list.html posts=posts %}
 {% endif %}
 
-{% assign author_posts = site.posts | where: "author", include.author_name | sort: "date" %}
+{% assign author_posts = site.posts | where: "author", include.author | sort: "date" %}
 
 {% if author_posts.size > 0 %}
   <h2>Skrevet af {{ page.title }}</h2>
   {% include post-list.html posts=author_posts %}
+
+  <h2>Forfatterprofil</h2>
+  {% assign author=site.data.authors[include.author] %}
+  {% include author.html author=author %}
 {% endif %}

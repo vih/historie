@@ -4,6 +4,8 @@ title: Om denne side
 permalink: /om/
 author_profile: true
 toc: true
+author: lsolesen
+author_profile: false
 ---
 
 Denne side er oprettet i forbindelse med Vejle Idrætshøjskoles 75 års jubilæum. I den anledning har vi samlet alle arkiverne, som var spredt rundt omkring på højskolen.
@@ -15,8 +17,8 @@ Vejle Idrætshøjskole siger tak til alle, der har bidraget til sitets tilblivel
 
 ### Ansvarshavende redaktør
 
-{% assign author=site.data.authors[lsolesen] %}
-{% include author.html author=author %}
+{% assign site_author = site.data.authors[page.author] %}
+{% include author.html author=site_author %}
 
 ## Materialet på sitet
 

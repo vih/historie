@@ -1,6 +1,6 @@
-<dl>
-  {% for post in include.posts %}
-  <dt><a href="{{ post.url | absolute_url }}" rel="permalink">{{ post.title }}</a></dt>
-  <dd>{{ post.excerpt }}</dd>
-  {% endfor %}
-</dl>
+{% for post in include.posts %}
+
+<a href="{{ post.url | absolute_url }}" rel="permalink">{{ post.title }}</a>
+: {{ post.excerpt }}
+
+{% endfor %}

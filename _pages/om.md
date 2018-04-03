@@ -2,6 +2,10 @@
 layout: single
 title: Om denne side
 permalink: /om/
+author_profile: true
+toc: true
+author: lsolesen
+author_profile: false
 ---
 
 Denne side er oprettet i forbindelse med Vejle Idrætshøjskoles 75 års jubilæum. I den anledning har vi samlet alle arkiverne, som var spredt rundt omkring på højskolen.
@@ -9,9 +13,12 @@ Denne side er oprettet i forbindelse med Vejle Idrætshøjskoles 75 års jubilæ
 
 ## Om sitet
 
-**Ansvarshavende redaktør**: Lars Olesen, viceforstander på højskolen
-
 Vejle Idrætshøjskole siger tak til alle, der har bidraget til sitets tilblivelse - og vi håber at sitet i mange år fremover vil være et levende stede at dykke ned i højskolens historie.
+
+### Ansvarshavende redaktør
+
+{% assign site_author = site.data.authors[page.author] %}
+{% include author.html author=site_author %}
 
 ## Materialet på sitet
 
@@ -25,3 +32,12 @@ Denne side er tænkt som et sted, hvor alle der har haft tilknytning til Vejle I
     image_path="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vejle_Stadsarkiv_-_Vejle_-_Danmark.JPG/1200px-Vejle_Stadsarkiv_-_Vejle_-_Danmark.JPG"
     alt="Vejle Stadsarkiv"
     caption="Vejle Stadsarkiv. Billede fra stadsarkivets Facebook-side" %}
+
+## Forfattere
+
+{% for authors in site.data.authors %}
+  {% assign author=authors[1] %}
+  {% if author.featured==true %}
+    {% include author.html author=author %}
+  {% endif%}
+{% endfor %}

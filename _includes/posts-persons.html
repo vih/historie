@@ -1,0 +1,19 @@
+{% assign author=site.data.authors[include.author] %}
+{% unless author == nil %}
+  <h2 id="author-profile">Forfatterprofil</h2>
+  {% include author.html author=author %}
+{% endunless %}
+
+{% assign posts = site.posts | where: "tags", include.tag | sort: "date" %}
+
+{% if posts.size > 0 %}
+  <h2 id="articles-about">Artikler om {{ page.title }}</h2>
+  {% include post-list.html posts=posts %}
+{% endif %}
+
+{% assign author_posts = site.posts | where: "author", include.author | sort: "date" %}
+
+{% if author_posts.size > 0 %}
+  <h2 id="articles-written-by">Skrevet af {{ page.title }}</h2>
+  {% include post-list.html posts=author_posts %}
+{% endif %}

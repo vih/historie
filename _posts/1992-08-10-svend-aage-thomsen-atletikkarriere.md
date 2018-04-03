@@ -1,6 +1,8 @@
 ---
 title: "Stangspring med fork, dirt-track og boksning"
-author: jub92
+authors:
+  - klaus_hansen
+  - ib_pilegaard
 header:
   image: https://drive.google.com/uc?id=0B5v4mAibvkKXUUFEMjN1M1RvZzg
   caption: Sådan klares den hæk, drenge - synes Svend Aage Thomsen at sige til flokken af måbende fodbolddrenge. Hans danske rekord i 110 m hækkeløb på 14,5 sek. stod i 27 år.
@@ -9,7 +11,6 @@ category:
 tags:
   - Jubilæumsskrift 1992
   - Svend Aage Thomsen
-  - forstander
 excerpt: "En artikel om Svend Aage Thomsens alsidige idrætskarriere"
 ---
 

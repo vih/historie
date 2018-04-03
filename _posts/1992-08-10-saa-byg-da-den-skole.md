@@ -1,6 +1,8 @@
 ---
 title: "Så byg da den idrætsskole, du går og fabler om dreng"
-author: jub92
+authors:
+  - klaus_hansen
+  - ib_pilegaard
 permalink: /svend-aage-thomsen-jub92/
 header:
   image: https://drive.google.com/uc?id=0B5v4mAibvkKXMHRVdU4zWUswa1E
@@ -10,7 +12,6 @@ category:
 tags:
   - Jubilæumsskrift 1992
   - Svend Aage Thomsen
-  - forstander
 excerpt: "Svend Aage Thomsen fik klar besked af sin far til at gå i gang med projektet, Den Jyske Idrætsskole."
 toc: true
 ---

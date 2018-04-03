@@ -5,7 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "mmistakes/minimal-mistakes@4.10.1"
+remote_theme:            "mmistakes/minimal-mistakes@4.11.1"
+minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Site Settings
 locale                   : "da"
@@ -238,7 +239,7 @@ collections:
   faq:
     output: true
     permalink: /:collection/:path/
-  podcasts:
+  persons:
     output: true
     permalink: /:collection/:path/
   yearbooks:
@@ -274,6 +275,18 @@ defaults:
       comments: true
       share: true
       related: true
+# _persons
+  - scope:
+      path: ""
+      type: persons
+    values:
+      layout: collection-single
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      related: true
+      toc: true
 # _timelines
   - scope:
       path: ""
@@ -313,22 +326,6 @@ defaults:
       comments: true
       share: true
       related: true
-# _podcasts
-  - scope:
-      path: ""
-      type: podcasts
-    values:
-      layout: podcast-single
-      author_profile: true
-      video_time: false
-      listen_time: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      episode_cover: /assets/podcasts/cover-stemmer.png
-      explicit: "no"
-      type: "Podcast"
 # _yearbooks
   - scope:
       path: ""
@@ -342,9 +339,11 @@ defaults:
       comments: true
       share: true
       related: true
+      toc: true
 
 
 # Podcast
+podcast_language: "da-DK"
 podcast_site_url: http://historie.vih.dk
 podcast_url: http://historie.vih.dk/podcast
 podcast_album_art: /assets/podcasts/cover-stemmer.png
@@ -352,8 +351,9 @@ podcast_title: Vejle Idrætshøjskoles Stemmer
 podcast_owner: Vejle Idrætshøjskole
 podcast_email: webmaster@vih.dk
 podcast_category: Vejle Idrætshøjskole
-podcast_subcategory_one: Historie
-podcast_subcategory_two: Tankegods
+podcast_subcategory:
+ - Historie
+ - Tankegods
 podcast_explicit: "no"
 podcast_author: Lars Olesen
 podcast_description: Stemmer fra Vejle Idrætshøjskoles historie kommer til orde.

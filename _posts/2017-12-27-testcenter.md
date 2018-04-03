@@ -1,7 +1,9 @@
 ---
 title: Om Testcenteret
 permalink: /aarsskrift/2017/testcenter/
-author: martin_madsen
+authors:
+  - martin_madsen
+  - jesper_emil_jacobsgaard
 category:
   - Årsskrift
 tags:

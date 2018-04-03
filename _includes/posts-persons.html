@@ -1,5 +1,5 @@
 {% assign author=site.data.authors[include.author] %}
-{% unless author == empty %}
+{% unless author == nil %}
   <h2 id="author-profile">Forfatterprofil</h2>
   {% include author.html author=author %}
 {% endunless %}

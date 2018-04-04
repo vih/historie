@@ -26,7 +26,7 @@ sidebar:
     text: "Forstander fra 1998 - 2006. Var bl.a. med til at etablere kunstgræsbanen."
 ---
 
-_Vi mangler et ordentligt billede af Bent Serup fra hans formandsperiode på Vejle Idrætshøjskole. Kan du hjælpe?_
+_Vi mangler et ordentligt billede af Bent Serup fra sin forstanderperiode på Vejle Idrætshøjskole. Kan du hjælpe?_
 {: .notice--info}
 
 {{ page.description }}

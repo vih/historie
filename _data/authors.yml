@@ -189,3 +189,7 @@ martin_madsen:
   bio: "Højskolelærer og ansvarlig for testcenteret på Vejle Idrætsskoler."
   avatar: "/assets/images/authors/martin-madsen.jpg"
   featured: true
+elmo_pedersen:
+  name: "Elmo Pedersen"
+  bio: "Højskolelærer ?."
+  avatar: "/assets/images/authors/default-profile.png"

@@ -1,6 +1,6 @@
 ---
-title: Tage Søgård og Aksel Bjerregaard
-author: evald_andersen
+title: Præsentation af Tage Søgård og Aksel Bjerregaard
+author: otto_lassen
 category:
   - Årsskrift
 tags:

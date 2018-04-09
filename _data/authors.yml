@@ -192,6 +192,8 @@ martin_madsen:
 dy_plambeck:
   name: "Dy Plambeck"
   bio: "Forfatter og har skrevet teksten til jubilæumssangen fra 2017."
+  avatar: "/assets/images/authors/default-profile.png"  
 michael_bojesen:
   name: "Michael Bojesen"
   bio: "Komponist og har skrevet melodien til jubilæumssangen fra 2017."
+  avatar: "/assets/images/authors/default-profile.png"

@@ -5,7 +5,6 @@ permalink: /elevbrev-1945-svend-aage-thomsen/
 category:
   - Årsskrift
 tags:
-  - Svend Aage Thomsen
   - Jens Ejlert Hagelsø
   - Årsskrift 1945
   - modstandskampen

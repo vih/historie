@@ -5,7 +5,6 @@ permalink: /sportsjournalister/
 category:
   - Årsskrift
 tags:
-  - Svend Aage Thomsen
   - Årsskrift 1959
   - sportsjournalister
 excerpt: "Svend Aage Thomsens reflekterer lidt over sportsjournalister og deres arbejde."

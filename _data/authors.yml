@@ -2,6 +2,44 @@ svend_aage_thomsen:
   name: "Svend Aage Thomsen"
   bio: "Den Jyske Idrætshøjskoles grundlægger og idemanden bag projektet. Forstander på skolen indtil sin død i 1961."
   avatar: "/assets/images/authors/svend-aage-thomsen.png"
+  featured: true
+bjarne_hauger:
+  name: "Bjarne Hauger"
+  bio: "Forstander på Den Jyske Idrætsskole fra 1967-1982."
+  avatar: "/assets/images/authors/default-profile.png"
+  featured: true
+evald_andersen:
+  name: "Evald Andersen"
+  bio: "Ved du mere om Evald Andersen, så brug gerne kommentarerne."
+  avatar: "/assets/images/authors/default-profile.png"
+willy_sørensen:
+  name: "Willy Sørensen"
+  bio: "Mangeårig borgmester i Vejle og formand for Den Jyske Idrætsskoles bestyrelse."
+  avatar: "/assets/images/authors/default-profile.png"
+  featured: true
+inger_engberg:
+  name: "Inger Engberg"
+  bio: "Mangeårig formand for bestyrelsen på Den Jyske Idrætsskole."
+  avatar: "/assets/images/authors/default-profile.png"
+  featured: true
+otto_lassen:
+  name: "Otto Lassen"
+  bio: "Mangeårig formand for bestyrelsen på Den Jyske Idrætsskole."
+  avatar: "/assets/images/authors/default-profile.png"
+  featured: true
+hans_erik_jensen:
+  name: "Hans Erik Jensen"
+  bio: "Mangeårig formand for bestyrelsen på Den Jyske Idrætsskole."
+  avatar: "/assets/images/authors/default-profile.png"
+  featured: true
+grethe_schmidt:
+  name: "Grethe Schmidt"
+  bio: "Ved du mere om Grethe Schmidt, så brug gerne kommentarerne."
+  avatar: "/assets/images/authors/default-profile.png"
+mogens_bredfeldt:
+  name: "Mogens Bredfeldt"
+  bio: "Ved du mere om Mogens Bredfeldt, så brug gerne kommentarerne."
+  avatar: "/assets/images/authors/default-profile.png"
 ole_worm:
   name: "Ole Worm"
   bio: "Lærer på Den Jyske Idrætsskole fra 1968 til 1984, hvor han blev forstander indtil 1999. Ole Worm var bl.a. idemager bag Globen og navneskiftet fra DJI til Vejle Idrætshøjskole."
@@ -9,6 +47,8 @@ ole_worm:
 jørn_richter:
   name: "Jørn Richter"
   bio: "Lærer på Den Jyske Idrætsskole og Vejle Idrætshøjskole fra 1973 til 2005, hvor han gik på pension."
+  avatar: "/assets/images/authors/default-profile.png"
+  featured: true
 lsolesen:
   name: "Lars Olesen"
   bio: "Højskolelærer på Vejle Idrætshøjskole siden 1999 og siden 2013 viceforstander."
@@ -16,13 +56,20 @@ lsolesen:
   linkedin: "lsolesen"
   avatar: "/assets/images/authors/lars-olesen.png"
   twitter: "lsolesen"
+  featured: true
 thormod_petersen:
   name: "Thormod Petersen"
   bio: "Elev på DJI i 1944/1945. Efter højskoletiden var Thormod praktisk medarbejder på DJI fra 1945-1946. Derefter uddannet lærer og fungerede som lærer indtil pension i 1985."
   avatar: "/assets/images/authors/thormod-petersen.png"
-jub92:
+  featured: true
+klaus_hansen:
   name: "Klaus Hansen og Ib Pilegaard"
   bio: "Klaus Hansen og Ib Pilegaard var med i redaktionen, der samlede jubilæumsskriftet for den Jyske Idrætsskole i 1992 <q>-At tænke med hjertet</q> - og vi mener, at de har skrevet denne artikel."
+  avatar: "/assets/images/authors/default-profile.png"
+ib_pilegaard:
+  name: "Ib Pilegaard"
+  bio: "Klaus Hansen og Ib Pilegaard var med i redaktionen, der samlede jubilæumsskriftet for den Jyske Idrætsskole i 1992 <q>-At tænke med hjertet</q> - og vi mener, at de har skrevet denne artikel."
+  avatar: "/assets/images/authors/default-profile.png"
 signy_jensen:
   name: "Signy Jensen"
   bio: "Højskolelærer og musiklærer på Den Jyske Idrætsskole fra 1976 til 1996."
@@ -31,33 +78,43 @@ mille_christensen:
   name: "Mille Sigsgaard Christensen"
   bio: "Højskolelærer og musiklærer på Vejle Idrætshøjskole fra 2009."
   avatar: "/assets/images/authors/mille-christensen.png"
+  featured: true
 william_hansen:
   name: "William O. Hansen"
   bio: "Har skrevet den oprindelige skolesang. Var selv elev i 1948-49. Hvis du ved mere om ham, så brug endelig kommentarerne."
+  avatar: "/assets/images/authors/default-profile.png"
+  featured: true
 karl_olav_dahlbaek:
   name: "Karl Olav-Dahlbæk"
   bio: "Har skrevet melodien til den oprindelige skolesang fra 1949. Var selv elev i 1948-49. Hvis du ved mere om ham, så brug endelig kommentarerne."
+  avatar: "/assets/images/authors/default-profile.png"
+  featured: true
 sten_kaaloe:
   name: "Sten Kaalø"
   bio: "Frimenighedspræst og forfatter til skolesangen fra 1992."
+  avatar: "/assets/images/authors/default-profile.png"
 alice_kragh:
   name: "Alice Grønborg Kragh"
   bio: "Alice var højskolelærer på Den Jyske Idrætsskole fra 1979 til 1998. Hun underviste bl.a. i rytmisk gymnastik."
   avatar: "/assets/images/authors/alice-kragh.png"
+  featured: true
 bent_aalbaek_nielsen:
   name: "Bent Aalbæk-Nielsen"
   bio: "Bent Aalbæk-Nielsen, søn af Rask Nielsen, der var medforstander på skolen i årene 1945-1948."
   uri: "http://www.aalbaek-nielsen.dk/"
   facebook: "bent.aalbaeknielsen"
   avatar: "/assets/images/authors/bent-aalbaek-nielsen.jpg"
-haugstrup:
+  featured: true
+søren_haugstrup_jensen:
   name: "Søren Haugstrup Jensen"
   bio: "Den Jyske Idrætshøjskoles første medforstander til Svend Aage Thomsen. Var medforstander det første år."
   avatar: "/assets/images/authors/haugstrup.png"
+  featured: true
 knud_thomassen:
   name: "Knud Thomassen"
   bio: "Svend Aage Thomsens tro væbner, som havde mange forskellige roller på skolen."
   avatar: "/assets/images/authors/knud-thomassen.png"
+  featured: true
 ria_andersen:
   name: "Ria Andersen"
   bio: "Mangeårigt medlem af elevforeningen."
@@ -66,14 +123,19 @@ henning_rasmussen:
   name: "Henning Rasmussen"
   bio: "Elev i 70/71 og i rigtig mange år formand for og medlem af bestyrelsen for elevforeningen på højskolen."
   avatar: "/assets/images/authors/henning-rasmussen.jpg"
+  featured: true
 laura_wobeser_sparre:
   name: "Laura Wobeser Sparre"
   bio: "Elev på efterårsholdet 2017"
   avatar: "/assets/images/authors/laura-wobeser-sparre.jpg"
   facebook: "laura.wobesersparre"
-christoffer_og_esther:
+christoffer_sand:
   name: "Christoffer Sand og Sigridur Esther Steingrimsdottir"
   bio: "Elever på efterårsholdet 2017"
+  avatar: "/assets/images/authors/default-profile.png"
+esther_steingrimsdottir:
+  name: "Sigridur Esther Steingrimsdottir"
+  bio: "Elev på efterårsholdet 2017"
   avatar: "/assets/images/authors/default-profile.png"
 jannie_tolstrup:
   name: "Jannie Tolstrup"
@@ -84,41 +146,49 @@ mette_holst_nymand:
   name: "Mette Holst Nymand"
   bio: "Højskolelærer på Vejle Idrætshøjskole"
   avatar: "/assets/images/authors/mette-holst-nymand.jpg"
+  featured: true
 dina_knudsen:
   name: "Dina Knudsen"
   bio: "Markedsføring og fondsansøgninger på Vejle Idrætshøjskole"
   avatar: "/assets/images/authors/dina-knudsen.jpg"
   email: "dina@vih.dk"
+  featured: true
 martin_davidsen:
   name: "Martin Davidsen"
   bio: "Højskolelærer i sportsjournalistik på Vejle Idrætshøjskole og freelance sportsjournalist"
   avatar: "/assets/images/authors/martin-davidsen.jpg"
   linkedin: "martin-davidsen-915b1231/"
   twitter: "mpbdavidsen"
+  featured: true
 peter_sebastian_petersen:
   name: "Peter Sebastian Petersen"
   bio: "Forretningsudvikler på Vejle Idrætshøjskole"
   avatar: "/assets/images/authors/peter-sebastian-petersen.jpg"
   email: "ps@vih.dk"
   facebook: "peter.s.petersen.56"
+  featured: true
 ole_damgaard:
   name: "Ole Damgaard"
   bio: "Forstander på Vejle Idrætshøjskole fra 2010 og indtil nu."
   avatar: "/assets/images/authors/ole-damgaard.jpg"
   email: "ole@vih.dk"
+  featured: true
 carsten_lang_petersen:
   name: "Carsten Lang Petersen"
   bio: "Formand for bestyrelsen på Vejle Idrætshøjskole"
   avatar: "/assets/images/authors/carsten-lang-petersen.jpg"
+  featured: true
 per_jensen:
   name: "Per Jensen"
   bio: "Medlem af bestyrelsen på Vejle Idrætshøjskole og Vejle Idrætsefterskole - og en af idemagerne bag starten af idrætsefterskolen."
   avatar: "/assets/images/authors/per-jensen.jpg"
   linkedin: "per-jensen-41093730"
+  featured: true
 martin_madsen:
   name: "Martin Madsen"
   bio: "Højskolelærer og ansvarlig for testcenteret på Vejle Idrætsskoler."
   avatar: "/assets/images/authors/martin-madsen.jpg"
+  featured: true
 dy_plambeck:
   name: "Dy Plambeck"
   bio: "Forfatter og har skrevet teksten til jubilæumssangen fra 2017."

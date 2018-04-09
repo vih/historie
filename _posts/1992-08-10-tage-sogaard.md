@@ -1,6 +1,8 @@
 ---
 title: Tabte magtkampen til den offentlige moral
-author: jub92
+authors:
+  - klaus_hansen
+  - ib_pilegaard
 header:
   image: https://lh3.googleusercontent.com/OOCTVD3dEsm7nMBuSIvy8AMGT1Xwz8nlY14RpZmx_aBPDgCT1ETnFvOq9J8MRf9QG2q4M3OQ7qdUk8pDQyWZueKHvAiEmQUVgXXcXr2wGN-7BnCNyR8iKiymjnzpy0lKoC_DcGqXdu8
   caption: Tage Søgaard er ved at ordne udstyr. Affotograferet fra Jubilæumsskriftet 1992.
@@ -8,7 +10,6 @@ category:
   - Årsskrift
 tags:
   - Jubilæumsskrift 1992
-  - forstander
   - Tage Søgaard
 excerpt: "Tage Søgaard fortæller bl.a. sin version af, da han som forstander blev frataget ledelsen og sagde op med bitterhed i 1964."
 toc: true
@@ -43,7 +44,7 @@ Magtkampen på skolen fulgte i årene efter Svend Aage Thomsens pludselige død 
 
 ## Konflikter med forretningsføreren
 
-Med til historien hører også ansættelse af Viktor Nielsen som forretningsfører på skolen i slutningen af 50'erne. Viktor Nielsen – formand i Samvirkende Idrætsklubber i Vejle – blev arbejdsløs, da Vejle Eksport Slagteri måtte lukkes. Skolens daværende bestyrelsesformand, borgmester Villy Sørensen, ønskede Viktor Nielsen ansat på DJI i håb om, at Viktor Nielsen kunne bringe orden i skolens betrængte økonomi.
+Med til historien hører også ansættelse af Viktor Nielsen som forretningsfører på skolen i slutningen af 50'erne. Viktor Nielsen – formand i Samvirkende Idrætsklubber i Vejle – blev arbejdsløs, da Vejle Eksport Slagteri måtte lukkes. Skolens daværende bestyrelsesformand, borgmester Willy Sørensen, ønskede Viktor Nielsen ansat på DJI i håb om, at Viktor Nielsen kunne bringe orden i skolens betrængte økonomi.
 
 > Svend Aage Thomsen kæmpede indædt imod denne ansættelse. Han brød sig ikke om Viktor Nielsen, og jeց havde også løbende konflikter med ham. Han ville blande sig i skolen pædagogiske ledelse, hvorfor jeg ved flere lejligheder - efter Svend Aages død bad ham holde sig til det økonomiske og lade mig om den pædagogiske linie.
 

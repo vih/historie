@@ -2,10 +2,9 @@
 title: Ideer til sitet
 permalink: /ideer/
 category:
-  - website
+  - Website
 tags:
   - website
-  - historie
 excerpt: "Ideer om personer, begivenheder eller andet vi skal behandle på sitet"
 ---
 

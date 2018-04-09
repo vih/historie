@@ -1,11 +1,12 @@
 ---
 title: Der er danset nok på denne skole denne vinter
-author: jub92
-category:
-  - Jubilæumsskrift 1992
+authors:
+  - klaus_hansen
+  - ib_pilegaard
 category:
   - Årsskrift
-  - forstander
+tags:
+  - Jubilæumsskrift 1992
   - Tage Benjaminsen
 excerpt: "Tage Benjaminsen har haft fire _møder_ med Den jyske Idrætsskole lige fra puritanismens dage via ungdomsoprør med forsinkelse og til at være forstander for en splittet lærerkreds."
 ---

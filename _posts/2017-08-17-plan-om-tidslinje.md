@@ -1,8 +1,6 @@
 ---
 title: Planer om en tidslinje for skolens historie
 permalink: /plan-tidslinje/
-category:
-  - tidslinje
 tags:
   - tidslinje
 excerpt: "Planer om en tidslinje på skolen"

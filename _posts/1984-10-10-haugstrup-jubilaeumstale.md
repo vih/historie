@@ -1,12 +1,11 @@
 ---
 title: Jubilæumstale den 11. aug. 1984
-author: haugstrup
+author: søren_haugstrup_jensen
 permalink: /haugstrups-jubilaeumstale/
 category:
   - Årsskrift
 tags:
-  - Haugstrup
-  - dji
+  - Søren Haugstrup Jensen
   - Årsskrift 1984
 excerpt: "Søren Haugstrups tale til 40 års jubilæum."
 ---

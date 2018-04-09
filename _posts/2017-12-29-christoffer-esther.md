@@ -1,7 +1,9 @@
 ---
 title: 50 Princes and 50 Princesses
 permalink: /aarsskrift/2017/christoffer-esther/
-author: christoffer_og_esther
+authors:
+  - christoffer_sand
+  - esther_steingrimsdottir
 category:
   - Årsskrift
 tags:

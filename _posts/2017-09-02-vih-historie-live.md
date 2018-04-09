@@ -10,9 +10,17 @@ header:
   video:
     id: _GunyJNgzYI
     provider: youtube
+category:
+  - Video
 tags:
-  - video
-  - youtube
+  - Ole Damgaard
+  - Bjarne Thomsen
+  - Jørn Richter
+  - Niels Henning Broch-Mikkelsen
+  - Carsten Lang Petersen
+  - Pia Rask
+  - Carsten Lang Petersen
+  - Torben Espersen
 ---
 
 I anledning af skolens 75 års jubilæum kan du komme med på en rejse gennem Vejle Idrætshøjskoles historie. Du kommer til at høre små beretninger fra nuværende og tidligere personligheder på højskolen, se billeder fra skolens historie, overvære interviews, opleve korte film og synge de historiske sange. Det bliver historiske oplivende, opløftende og oplysende.
@@ -36,7 +44,7 @@ I anledning af skolens 75 års jubilæum kan du komme med på en rejse gennem Ve
 - 00:26:00 Bjarne Thomsen mindes Kong Frederiks besøg
 - 00:28:30 Historien om talerstolen
 - 00:29:45 1971 - Oversigtsbillede over de nye byggetiltag
-- 00:30:30 Den jyske idrætshøjskoles logo tilbage i 1978
+- 00:30:30 Den jyske idrætsskoles og Vejle Idrætshøjskoles logo tilbage i 1978
 - 00:31:00 Interview med Jørn Richter om hans lange karriere som højskolelærer
 - 00:37:30 Jørn Richter interviewes om det værdige menneske og højskolens tidligere værdigrundlag
 - 00:40:00 Carsten Lang og Pia Rask (tidligere medlemmer fra elevforeningen fra 1980) mindes højskolen med anekdoter og skrapbog

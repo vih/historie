@@ -1,10 +1,13 @@
 ---
 title: Stærkere modstand end Svend Aage var klar over
-author: jub92
+authors:
+  - klaus_hansen
+  - ib_pilegaard
 category:
   - Årsskrift
 tags:
   - Jubilæumsskrift 1992
+  - Jens Ejlert Hagelsø
 excerpt: "Thormod Petersen fortæller om hans oplevelser på Den Jyske Idrætsskole i de allerførste år af skolens eksistens."
 ---
 

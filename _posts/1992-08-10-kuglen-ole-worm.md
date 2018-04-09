@@ -3,12 +3,13 @@ title: KUGLEN - spillerum for fantasi og fremtid
 header:
   image: https://lh3.googleusercontent.com/OCsIACYdZNWVQoAqjgNL8nkqSXXFPdsRrQurcCPH4UXK0dA89IoJeD7_hSL23l1ka8Gv7fl05s1wcwhJ4_yY4HoFHz3Y863Izrax0YEQ4cZ5NHOs1CVTM5LlXSQtBIXTlY-aevI2yec
   caption: Inspirationen til KUGLEN er fra La Geode i _La Vilette_ i Paris
-author: jub92
+authors:
+  - klaus_hansen
+  - ib_pilegaard
 category:
   - Årsskrift
 tags:
   - Jubilæumsskrift 1992
-  - Ole Worm
   - Globen
 excerpt: "Ole Worm fortæller om, hvad Den Jyske Idrætsskole skal være i samfundet og om KUGLEN"
 ---

@@ -12,7 +12,7 @@ excerpt: "Astrid Hartvigs brev fortæller, hvad hun mener sangen kan bruges til"
 >
 > - Bjørnson.
 
-Sangen er en gave, vi har fået til at bruge både i glæde og sorg i og nød. Så langt tilbage, som vi kan granske både i vor egen og andre folks historie, har sangen været brugt. Skulle der gives udtryk for glæde, da skete det gennem sang; men også den store sorg og den dybe vemod kunne man tolke gennem sangen. Blev man betaget af noget stort og skønt, ja, da måtte man have udløsning gennem ord og toner
+Sangen er en gave, vi har fået til at bruge både i glæde og sorg i og nød. Så langt tilbage, som vi kan granske både i vor egen og andre folks historie, har sangen været brugt. Skulle der gives udtryk for glæde, da skete det gennem sang; men også den store sorg og den dybe vemod kunne man tolke gennem sangen. Blev man betaget af noget stort og skønt, ja, da måtte man have udløsning gennem ord og toner.
 
 Sangen har en underlig og uforklarlig magt over sindet; den kan neddæmpe vrede og mildne sorg; den kan knytte vidt forskellige mennesker sammen, så glæden ved et samvær bliver rigere og stærkere.
 

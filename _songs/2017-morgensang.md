@@ -1,5 +1,5 @@
 ---
-title: "En sang om livsmod"
+title: "En sang om livsmod (2017)"
 author: dy_plambeck
 composer: michael_bojesen
 category:

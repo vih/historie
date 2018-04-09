@@ -1,6 +1,6 @@
 ---
 title: Søren Haugstrup Jensen
-author_name: "haugstrup"
+author_name: "søren_haugstrup_jensen"
 start_date: 
   year: 1943
   month: 11

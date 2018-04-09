@@ -1,5 +1,5 @@
 ---
-title: "Morgensang om livsmod"
+title: "En sang om livsmod"
 author: dy_plambeck
 composer: michael_bojesen
 category:
@@ -25,7 +25,7 @@ drømmen tog med en fugl på træk.
 _Og så ser du: i natten skiftede du ham_  
 _vipstjerten kalder, kroppen er i gang_  
 _du standser og lytter_  
-_indeni dig bor en sang,_  
+_indeni dig bor en sang, bor en sang_  
 _om livsmod_  
 
 Hjertet løber hurtigt mellem skovens grønne træer.  
@@ -56,7 +56,7 @@ til en evig susen fra det liv, der leves her.
 Drømmens fugl synger hver dag ny.  
 Vågn nu op. Det er morgengry.  
 
-_Skrevet i forbindelse med Vejle Idrætshøjskoles 75 års jubilæum i 2017._
+_Skrevet i forbindelse med Vejle Idrætshøjskoles 75 års jubilæum og Vejle Idrætsefterskoles 10 års jubilæum i 2017/18._
 
 {% include figure image_path="https://drive.google.com/uc?id=15sYiEGzBlSJr3OYKD9HHVEONfEhO6KgH" caption="Første side af noderne til morgensang skrevet ifm. 75 års jubilæum" alt="Første side af noderne til morgensang skrevet ifm. 75 års jubilæum" %}
 

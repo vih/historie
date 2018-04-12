@@ -26,7 +26,7 @@ Med hensyn til kursusvirksomheden er det mit håb, at vi også her må kunne få
 
 Sluttelig vil jeg rette en TAK til Bjarne Hauger og i samme forbindelse også til Benthe.
 
-Bjarne har i sin tid lært mig at svømme. Fremtiden vil vise, om han har lært mig: at træde vande - flyde ovenpå - eller svømme fremad.Der skal IKKE laves nogen saltovendinger - det, jeg vist blev bedst til, var et adstadigt brystsvømningstempo.
+Bjarne har i sin tid lært mig at svømme. Fremtiden vil vise, om han har lært mig: at træde vande - flyde ovenpå - eller svømme fremad. Der skal IKKE laves nogen saltovendinger - det, jeg vist blev bedst til, var et adstadigt brystsvømningstempo.
 
 Jeg vil gerne takke for en grundig og saglig indføring i de mange forretningsgange og kringelkroge, der er ved en sådan virksomhed som Den jyske Idrætsskole.
 

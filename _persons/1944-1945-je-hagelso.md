@@ -1,6 +1,6 @@
 ---
 title: Jens Ejlert Hagelsø
-author_name: "hagelsø"
+author_name: "jens_ejlert_hagelsø"
 start_date: 
   year: 1944
   month: 11

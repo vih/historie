@@ -13,6 +13,10 @@ tage_benjaminsen:
   bio: "Forstander på Den Jyske Idrætsskole fra 1982-1984."
   avatar: "/assets/images/authors/default-profile.png"
   featured: true
+finn_spanning:
+  name: "Finn Spanning"
+  bio: "Journalist på Jyllands-Posten i 1960'erne."
+  avatar: "/assets/images/authors/default-profile.png"
 evald_andersen:
   name: "Evald Andersen"
   bio: "Ved du mere om Evald Andersen, så brug gerne kommentarerne."

@@ -8,6 +8,11 @@ bjarne_hauger:
   bio: "Forstander på Den Jyske Idrætsskole fra 1967-1982."
   avatar: "/assets/images/authors/default-profile.png"
   featured: true
+tage_benjaminsen:
+  name: "Tage Benjaminsen"
+  bio: "Forstander på Den Jyske Idrætsskole fra 1982-1984."
+  avatar: "/assets/images/authors/default-profile.png"
+  featured: true
 evald_andersen:
   name: "Evald Andersen"
   bio: "Ved du mere om Evald Andersen, så brug gerne kommentarerne."

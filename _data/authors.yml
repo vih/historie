@@ -13,6 +13,11 @@ tage_benjaminsen:
   bio: "Forstander på Den Jyske Idrætsskole fra 1982-1984."
   avatar: "/assets/images/authors/default-profile.png"
   featured: true
+aksel_bjerregaard:
+  name: "Aksel Bjerregaard"
+  bio: "Forstander på Den Jyske Idrætsskole fra 1961-1967."
+  avatar: "/assets/images/authors/default-profile.png"
+  featured: true
 finn_spanning:
   name: "Finn Spanning"
   bio: "Journalist på Jyllands-Posten i 1960'erne."

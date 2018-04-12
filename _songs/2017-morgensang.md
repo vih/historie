@@ -62,4 +62,4 @@ _Skrevet i forbindelse med Vejle Idrætshøjskoles 75 års jubilæum og Vejle Id
 
 {% include figure image_path="https://drive.google.com/uc?id=1ydPnFrjGsQLGaI8znAIaE9WceiKzh8M6" caption="Anden side af noderne til morgensang skrevet ifm. 75 års jubilæum" alt="Første side af noderne til morgensang skrevet ifm. 75 års jubilæum" %}
 
-[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=11nR2OZsUNONKAQc3-E5IomcLfc_Th7mt){: .btn .btn--danger .btn--primary .btn--large}
+[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1qvtkHxfodmgbxqR14WaI3JuGykZXOFSM){: .btn .btn--danger .btn--primary .btn--large}

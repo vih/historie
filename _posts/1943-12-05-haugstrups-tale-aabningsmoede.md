@@ -1,11 +1,10 @@
 ---
 title: Idrætsskole eller Folkehøjskole
-author: haugstrup
+author: søren_haugstrup_jensen
 permalink: /haugstrups-tale-aabningsmoede/
 category:
   - Årsskrift
 tags:
-  - Søren Haugstrup Jensen
   - Årsskrift 1944
 excerpt: "Søren Haugstrup skriver lidt om ordvalget og hvorvidt DJI skulle opfattes som en højskole."
 ---
@@ -54,7 +53,7 @@ Nu ved jeg godt, at saadan Oplysning kan gives ud fra vidt forskellige – ja, v
 
 Hvad det hele Saaledes drejer sig om i Højskoletiden er jævnt sagt en Oplivelse og Oplysning af de unges Ævner og Muligheder, saa det fører til Helhed og Sandhed i deres personlige Liv, og en Belysning af Menneskeslægtens mere bestandige Grundforhold, saa den enkelte derved kan blive klar over Maalet og Vejen for sin egen Færd. Lykkes denne Belysning, og lykkes denne Beaanding, saadan at de unge faar Ægthed ind i deres Tilværelse, saa er de samtidig blevet virkelig danske Mennesker, saa vist som den, der vil leve sandt og ret i sit personlige Liv, i det lange Løb nødvendig her i Landet maa ende med at blive en god Dansker. For saadan er det jo nemlig med det ægte danske, at det som
 
-Alfred Povlsen engang har sagt det - simpelthen er en Udfoldelse af danske Menneskers gode Egenskaber. —
+Alfred Povlsen engang har sagt det - simpelthen er en Udfoldelse af danske Menneskers gode Egenskaber.
 
 Maaske er der her talt for meget om Højskolen, vil nogen mene, og for lidt om Idrætten, da vi dog er paa en ny Idrætsskole. Men det hænger sammen med Overbevisningen om, at skal alt gaa vel, saa maa man ikke glemme, at det for de unge ikke blot gælder om at faa den faglige Uddannelse i Orden, hvad de saa end selv kan mene derom, men at det i Ungdomstiden i nok saa høj Grad gælder en ren menneskelig Forberedelse.
 

@@ -3,6 +3,11 @@ svend_aage_thomsen:
   bio: "Den Jyske Idrætshøjskoles grundlægger og idemanden bag projektet. Forstander på skolen indtil sin død i 1961."
   avatar: "/assets/images/authors/svend-aage-thomsen.png"
   featured: true
+rask_nielsen:
+  name: "Rask Nielsen"
+  bio: "Medforstander i perioden 1945-1948"
+  avatar: "/assets/images/authors/default-profile.png"
+  featured: true
 tage_søgård:
   name: "Tage Søgård"
   bio: "Forstander på Den Jyske Idrætsskole fra 1961-1964."

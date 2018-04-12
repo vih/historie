@@ -10,7 +10,6 @@ category:
   - Årsskrift
 tags:
   - Jubilæumsskrift 1992
-  - Ole Worm
   - Globen
 excerpt: "Ole Worm fortæller om, hvad Den Jyske Idrætsskole skal være i samfundet og om KUGLEN"
 ---

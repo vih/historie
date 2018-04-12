@@ -1,6 +1,6 @@
 ---
 title: Jubilæumstale den 11. aug. 1984
-author: haugstrup
+author: søren_haugstrup_jensen
 permalink: /haugstrups-jubilaeumstale/
 category:
   - Årsskrift

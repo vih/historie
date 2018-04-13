@@ -228,3 +228,7 @@ michael_bojesen:
   bio: "Komponist og har skrevet melodien til jubilæumssangen fra 2017."
   facebook: "michaelbojesen.dk"
   avatar: "/assets/images/authors/default-profile.png"
+astrid_hartvig:
+  name: "Astrid Hartvig"
+  bio: "Musiklærer på Den Jyske Idrætsskole - brug gerne kommentarerne hvis du ved hvilken periode."
+  avatar: "/assets/images/authors/default-profile.png"

@@ -1,6 +1,6 @@
 ---
 title: Tage Søgaard
-author_name: "tage_søgaard"
+author_name: "tage_søgård"
 start_date: 
   year: 1961
 end_date:

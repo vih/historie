@@ -9,7 +9,8 @@ header:
   teaser: https://lh3.googleusercontent.com/EoV-vVgCGpvKr888_FixU05i7zPjHQoxnLvtc3mCUENcZcfz7UoZyHh2fi4bPKuAv0xDUDztwGsjvxO_9aTNlMoarH_p_-aD1-j4ic3Rg9cFY0GF9sE15ImvOthoq4Aw7up2xL4MCWQ
 tags:
   - historie
-excerpt: "Hvordan startede den Jyske Idrætsskole - og hvilke udfordringer var der i starten fra 1942-1948"
+  - 50 års jubilæum
+excerpt: "Ole Worm dykker ned i anledning af 50 års jubilæet ned i, hvordan Den Jyske Idrætsskole begyndte - og hvilke udfordringer der var i årene fra 1942-1948."
 toc: true
 ---
 

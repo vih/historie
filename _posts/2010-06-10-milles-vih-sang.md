@@ -4,6 +4,7 @@ author: mille_christensen
 composer: mille_christensen
 category:
   - Sange
+  - Officiel skolesang
 excerpt: "Skolesang skrevet sammen med forårsholdet 2010."
 permalink: /sang/2010/
 toc: true

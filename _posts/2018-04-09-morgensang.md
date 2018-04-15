@@ -4,8 +4,11 @@ author: dy_plambeck
 composer: michael_bojesen
 category:
   - Sange
+  - Officiel skolesang
+  - Årsskrift
 tags:
   - Jubilæum 2017
+  - Årsskrift 2018
 excerpt: "Morgensang skrevet af Dy Plambeck og Michael Bojesen i forbindelse med højskolens 75 års jubilæum 2017 og efterskolens 10 års jubilæum."
 permalink: /sang/morgensang-2017/
 ---

@@ -1,6 +1,6 @@
 ---
-layout: tag
-taxonomy: Officiel skolesang
+layout: collection
+collection: songs
 entries_layout: grid
 title: "Sange fra Vejle Idrætshøjskoles historie"
 excerpt: "Her kan du se og lytte til sangene fra Vejle Idrætshøjskoles historie."

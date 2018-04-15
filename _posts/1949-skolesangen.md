@@ -4,6 +4,10 @@ author: william_hansen
 composer: karl_olav_dahlbaek
 category:
   - Sange
+  - Officiel skolesang
+  - Årsskrift
+tags:
+  - Årsskrift 1949
 excerpt: "Den oprindelige skolesang på Den Jyske Idrætsskole."
 permalink: /sang/oprindelig/
 toc: true

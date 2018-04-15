@@ -1,7 +1,7 @@
 ---
 title: Skolesangen (1949)
 author: william_hansen
-composer: karl_olav_dahlbaek
+composer: karl_olav_dahlbæk
 category:
   - Sange
   - Officiel skolesang

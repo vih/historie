@@ -4,10 +4,12 @@ author: sten_kaaloe
 composer: signy_jensen
 category:
   - Sange
+  - Officiel skolesang
+  - Årsskrift
 tags:
   - Jubilæum 1992
   - Årsskrift 1993
-  - jubilæum
+  - 50 års jubilæum
 excerpt: "Skolesang skrevet i forbindelse med indvielsen af DJIs nye foredragssal, Globen."
 permalink: /sang/1992/
 toc: true

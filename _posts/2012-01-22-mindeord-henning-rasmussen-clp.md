@@ -1,5 +1,5 @@
 ---
-title: "Med hatten i hånden"
+title: "Et stykke af skolens historie er gået bort..."
 author: carsten_lang_petersen
 tags:
   - mindeord

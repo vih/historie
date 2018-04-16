@@ -33,6 +33,14 @@ aksel_bjerregaard:
   bio: "Forstander på Den Jyske Idrætsskole fra 1961-1967."
   avatar: "/assets/images/authors/default-profile.png"
   featured: true
+alfred_thomsen:
+  name: "Alfred Thomsen"
+  bio: "Svend Aage Thomsens broder"
+  avatar: "/assets/images/authors/default-profile.png"
+grete_laulund:
+  name: "Grete Laulund"
+  bio: "Hvis du ved mere om Grete så skriv endelig i kommentarerne"
+  avatar: "/assets/images/authors/default-profile.png"
 finn_spanning:
   name: "Finn Spanning"
   bio: "Journalist på Jyllands-Posten i 1960'erne."

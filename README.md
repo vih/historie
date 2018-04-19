@@ -1,6 +1,6 @@
-# History of Vejle Idrætshøjskole
+# History of [Vejle Idrætshøjskole](http://historie.vih.dk)
 
-Site created in Jekyll based on Minimal Made Mistakes theme.
+Site created in Jekyll based on [Minimal Made Mistakes theme](https://github.com/mmistakes/minimal-mistakes).
 
 ## Tools used
 

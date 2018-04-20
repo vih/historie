@@ -8,6 +8,11 @@ jens_ejlert_hagelsø:
   bio: "Medforstander i perioden 1944-1945"
   avatar: "/assets/images/authors/default-profile.png"
   featured: true
+signe_troelsen:
+  name: "Signe Troelsen"
+  bio: "Mangeårig lærer på Den Jyske Idrætsskole."
+  avatar: "/assets/images/authors/default-profile.png"
+  featured: true
 rask_nielsen:
   name: "Rask Nielsen"
   bio: "Medforstander i perioden 1945-1948"

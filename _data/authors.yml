@@ -126,9 +126,18 @@ karl_olav_dahlbæk:
   bio: "Har skrevet melodien til den oprindelige skolesang fra 1949. Var selv elev i 1948-49. Hvis du ved mere om ham, så brug endelig kommentarerne."
   avatar: "/assets/images/authors/default-profile.png"
   featured: true
-sten_kaaloe:
-  name: "Sten Kaalø"
-  bio: "Frimenighedspræst og forfatter til skolesangen fra 1993."
+karl_olav_dahlbæk:
+  name: "Karl Olav-Dahlbæk"
+  bio: "Har skrevet melodien til den oprindelige skolesang fra 1949. Var selv elev i 1948-49. Hvis du ved mere om ham, så brug endelig kommentarerne."
+  avatar: "/assets/images/authors/default-profile.png"
+  featured: true
+bent_serup:
+  name: "Bent Serup"
+  bio: "Forstander på Vejle Idrætshøjskole fra 1999-2006"
+  avatar: "/assets/images/authors/default-profile.png"
+torben_espersen:
+  name: "Torben Espersen"
+  bio: "Mangeårig lærer, forretningsfører, viceforstander og konstitueret forstander på Vejle Idrætshøjskole."
   avatar: "/assets/images/authors/default-profile.png"
 alice_kragh:
   name: "Alice Grønborg Kragh"

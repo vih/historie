@@ -27,3 +27,15 @@ permalink: /personer/
 {% endfor %}
 
 </div>
+
+<h2 style="clear: both;">Væsentlige personer</h2>
+
+<div class="grid__wrapper">
+
+{% assign vip = site.persons | where: "category", "Væsentlige personer" | sort: "date" %}
+
+{% for post in vip %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
+</div>

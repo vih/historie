@@ -27,6 +27,17 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+
+# reCaptcha
+# Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
+reCaptcha:
+  enabled: true
+  siteKey: "6LdCtVoUAAAAADcxG1WekIUuEuJy3YPoQ8DtbzK8"
+  # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
+  # For more information, https://staticman.net/docs/encryption
+  secret: "B6TmweBhBmEXsUUZKFEXOuFbAOHGBluvOCpsyTzAR+jjB5IkDNXzQo2NmMt8alWLWHh1HentKbOWAOx7HCl7AH3qgSeGWIvaTV99lKC8IakuyWGd2ZJR+eGxqN5RbmiNA1e4NXT4Z3DEMzq89iM/1VFkjSOY+LqAtWkdpJQTIGQ="
+
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :

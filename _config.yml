@@ -78,8 +78,8 @@ author:
   avatar           : "/assets/images/authors/vih-logo.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til."
   location         : "Vejle"
-  email            : "webmaster@vih.dk"
-  uri              : "https://vih.dk/"
+  email            : "info@vih.dk"
+  uri              : "https://www.vih.dk/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -360,7 +360,7 @@ podcast_url: http://historie.vih.dk/podcast
 podcast_album_art: /assets/podcasts/cover-stemmer.png
 podcast_title: Vejle Idrætshøjskoles Stemmer
 podcast_owner: Vejle Idrætshøjskole
-podcast_email: webmaster@vih.dk
+podcast_email: info@vih.dk
 podcast_category: Vejle Idrætshøjskole
 podcast_subcategory:
  - Historie

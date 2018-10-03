@@ -8,10 +8,10 @@ end_date:
 header:
   teaser: /assets/images/persons/tage-benjaminsen-1982.jpg
 media: 
-  url: https://filer.arkibas.dk/filer/visning/4f590955db935f8b97b63f90f0e7abf9?t=da85b8643e1afcd010584bdd81f60cbb8363973b334dd7466b7a04cba37c8fdf
+  url: //filweb.arkibas.dk/filer/visning/4f590955db935f8b97b63f90f0e7abf9
   credit: arkiv.dk
   caption: "Tage Benjaminsen"
-  thumbnail: //images.weserv.nl/?url=filer.arkibas.dk/filer/visning/4f590955db935f8b97b63f90f0e7abf9?t=da85b8643e1afcd010584bdd81f60cbb8363973b334dd7466b7a04cba37c8fdf&w=100
+  thumbnail: //images.weserv.nl/?url=filweb.arkibas.dk/filer/visning/4f590955db935f8b97b63f90f0e7abf9
 category:
   - Forstander
 tags:

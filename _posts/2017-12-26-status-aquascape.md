@@ -8,7 +8,7 @@ tags:
   - Årsskrift 2017
 excerpt: "Forstander, Ole Damgaard, fortæller om arbejdet med at få realiseret AquaScape og derved renoveret vores gamle svømmebad fra 1957 - og gøre Vejle Idrætshøjskole til samlingspunkt for den aktive Nørreskov."
 header:
-  overlay_image: https://vih.dk/sites/vih.local/files/wysiwyg/hoejen_opdateret.jpg
+  overlay_image: //dev.vih.dk/sites/vih.local/files/wysiwyg/hoejen_opdateret.jpg
   caption: "Skitse set fra Højen ved klatretårnet, som skal være samlingssted i Nørreskoven"
   overlay_color: "#2ae"
   cta_label: "<i class='fas fa-money-bill-alt'></i> Støt projektet"
@@ -57,7 +57,7 @@ Samt en række praktiske fornødenheder, der desuden fungerer som støttepunkt t
 - Samlingssteder til undervisning
 - Toiletfaciliteter
 
-{% include figure image_path="https://vih.dk/sites/vih.local/files/pages/aquascape_vih_friluftsbadet.jpg" caption="En skitse over det nye friluftsbad" alt="En skitse over det nye friluftsbad" %}
+{% include figure image_path="//dev.vih.dk/sites/vih.local/files/pages/aquascape_vih_friluftsbadet.jpg" caption="En skitse over det nye friluftsbad" alt="En skitse over det nye friluftsbad" %}
 
 ## En bæredygtig omlægning
 

@@ -17,13 +17,13 @@ subtitle: "- højskolelærerliv og højskolen i livet"
 description: "Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: http://historie.vih.dk/assets/podcasts/hans-lauge.mp3
+  mp3: //historie.vih.dk/assets/podcasts/hans-lauge.mp3
 podcast_file_size: 59.6 MB # for mp3-file
 podcast_duration: "30:11" # for mp3-file
 podcast_length: 62564068 # for mp3-file
 chapters:
  - '00:00:00.0 Intro'
-transcript: http://historie.vih.dk/assets/podcasts/hans-lauge.txt
+transcript: //historie.vih.dk/assets/podcasts/hans-lauge.txt
 ---
 
 {% include podcast-player.html %}

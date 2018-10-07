@@ -12,7 +12,8 @@ header:
   overlay_image: /assets/podcasts/frontpage.jpg
   teaser: /assets/podcasts/frontpage.jpg
   caption: "Svend Aage Thomsen lytter til grammofon med med eleverne"
-  cta_url: "/feed/podcast/"
-  cta_label: "<i class='fas fa-podcast'></i> Podcast feed"
+  actions:
+    - label: "<i class='fas fa-podcast'></i> Podcast feed"
+      url: "/feed/podcast/" 
 classes: wide
 ---

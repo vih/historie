@@ -89,10 +89,20 @@ jørn_richter:
 lsolesen:
   name: "Lars Olesen"
   bio: "Højskolelærer på Vejle Idrætshøjskole siden 1999 og siden 2013 viceforstander."
-  email: "lars@vih.dk"
-  linkedin: "lsolesen"
   avatar: "/assets/images/authors/lars-olesen.png"
-  twitter: "lsolesen"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lars@vih.dk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://larsolesen.dk"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lsolesen"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/lsolesen/"
   featured: true
 thormod_petersen:
   name: "Thormod Petersen"
@@ -147,9 +157,14 @@ alice_kragh:
 bent_aalbaek_nielsen:
   name: "Bent Aalbæk-Nielsen"
   bio: "Bent Aalbæk-Nielsen, søn af Rask Nielsen, der var medforstander på skolen i årene 1945-1948."
-  uri: "http://www.aalbaek-nielsen.dk/"
-  facebook: "bent.aalbaeknielsen"
   avatar: "/assets/images/authors/bent-aalbaek-nielsen.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.aalbaek-nielsen.dk/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/bent.aalbaeknielsen"
   featured: true
 søren_haugstrup_jensen:
   name: "Søren Haugstrup Jensen"
@@ -186,7 +201,10 @@ jannie_tolstrup:
   name: "Jannie Tolstrup"
   bio: "Elev på efterårsholdet 2017 og forårsholdet 2018"
   avatar: "/assets/images/authors/jannie-tolstrup.jpg"
-  facebook: "jannievictoria.tolstrup"
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/jannievictoria.tolstrup"
 mette_holst_nymand:
   name: "Mette Holst Nymand"
   bio: "Højskolelærer på Vejle Idrætshøjskole"
@@ -196,27 +214,42 @@ dina_knudsen:
   name: "Dina Knudsen"
   bio: "Markedsføring og fondsansøgninger på Vejle Idrætshøjskole"
   avatar: "/assets/images/authors/dina-knudsen.jpg"
-  email: "dina@vih.dk"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:dina@vih.dk"
   featured: true
 martin_davidsen:
   name: "Martin Davidsen"
   bio: "Højskolelærer i sportsjournalistik på Vejle Idrætshøjskole og freelance sportsjournalist"
   avatar: "/assets/images/authors/martin-davidsen.jpg"
-  linkedin: "martin-davidsen-915b1231/"
-  twitter: "mpbdavidsen"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mpbdavidsen"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/martin-davidsen-915b1231"
   featured: true
 peter_sebastian_petersen:
   name: "Peter Sebastian Petersen"
   bio: "Forretningsudvikler på Vejle Idrætshøjskole"
   avatar: "/assets/images/authors/peter-sebastian-petersen.jpg"
-  email: "ps@vih.dk"
-  facebook: "peter.s.petersen.56"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ps@vih.dk"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/peter.s.petersen.56"
   featured: true
 ole_damgaard:
   name: "Ole Damgaard"
   bio: "Forstander på Vejle Idrætshøjskole fra 2010 og indtil nu."
   avatar: "/assets/images/authors/ole-damgaard.jpg"
-  email: "ole@vih.dk"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ole@vih.dk"
   featured: true
 carsten_lang_petersen:
   name: "Carsten Lang Petersen"
@@ -227,7 +260,10 @@ per_jensen:
   name: "Per Jensen"
   bio: "Medlem af bestyrelsen på Vejle Idrætshøjskole og Vejle Idrætsefterskole - og en af idemagerne bag starten af idrætsefterskolen."
   avatar: "/assets/images/authors/per-jensen.jpg"
-  linkedin: "per-jensen-41093730"
+  links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/per-jensen-41093730"
   featured: true
 martin_madsen:
   name: "Martin Madsen"
@@ -241,13 +277,19 @@ elmo_pedersen:
 dy_plambeck:
   name: "Dy Plambeck"
   bio: "Forfatter og har skrevet teksten til jubilæumssangen fra 2017."
-  uri: http://www.dyplambeck.dk/
-  avatar: "/assets/images/authors/default-profile.png"  
+  avatar: "/assets/images/authors/default-profile.png"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.dyplambeck.dk/"
 michael_bojesen:
   name: "Michael Bojesen"
   bio: "Komponist og har skrevet melodien til jubilæumssangen fra 2017."
-  facebook: "michaelbojesen.dk"
   avatar: "/assets/images/authors/default-profile.png"
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/michaelbojesen.dk"
 astrid_hartvig:
   name: "Astrid Hartvig"
   bio: "Musiklærer på Den Jyske Idrætsskole - brug gerne kommentarerne hvis du ved hvilken periode."

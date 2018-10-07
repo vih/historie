@@ -102,7 +102,7 @@ lsolesen:
       url: "https://twitter.com/lsolesen"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-square"
-      url: "https://linkedin.com/lsolesen"
+      url: "https://www.linkedin.com/in/lsolesen/"
   featured: true
 thormod_petersen:
   name: "Thormod Petersen"
@@ -229,7 +229,7 @@ martin_davidsen:
       url: "https://twitter.com/mpbdavidsen"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-square"
-      url: "https://linkedin.com/martin-davidsen-915b1231"
+      url: "https://www.linkedin.com/in/martin-davidsen-915b1231"
   featured: true
 peter_sebastian_petersen:
   name: "Peter Sebastian Petersen"
@@ -263,7 +263,7 @@ per_jensen:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-square"
-      url: "https://linkedin.com/per-jensen-41093730"
+      url: "https://www.linkedin.com/in/per-jensen-41093730"
   featured: true
 martin_madsen:
   name: "Martin Madsen"

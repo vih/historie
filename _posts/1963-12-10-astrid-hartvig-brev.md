@@ -5,12 +5,12 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 1963
-excerpt: "Astrid Hartvigs brev fortæller, hvad hun mener sangen kan bruges til"
+excerpt: "Astrid Hartvigs brev til de tidligere elever fortæller, hvad hun mener sangen og det at synge kan bruges til i ens liv."
 ---
 
 > Sangen har lysning, og derfor den gyder over dit arbejde forklarelsens skin; sangen har varme, og derfor den bryder stivhed og frost, så det tør i dit sind. Sangen har evighed, derfor den skyder fortid og fremtid i hob for dit syn, teender uendelig attrå og flyder bort i et lyshav af længsler og lyn.
 >
-> - Bjørnson.
+> \- Bjørnson
 
 Sangen er en gave, vi har fået til at bruge både i glæde og sorg i og nød. Så langt tilbage, som vi kan granske både i vor egen og andre folks historie, har sangen været brugt. Skulle der gives udtryk for glæde, da skete det gennem sang; men også den store sorg og den dybe vemod kunne man tolke gennem sangen. Blev man betaget af noget stort og skønt, ja, da måtte man have udløsning gennem ord og toner.
 

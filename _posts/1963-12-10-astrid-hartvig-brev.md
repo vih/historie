@@ -8,7 +8,7 @@ tags:
 excerpt: "Astrid Hartvigs brev til de tidligere elever fortæller, hvad hun mener sangen og det at synge kan bruges til i ens liv."
 ---
 
-> Sangen har lysning, og derfor den gyder over dit arbejde forklarelsens skin; sangen har varme, og derfor den bryder stivhed og frost, så det tør i dit sind. Sangen har evighed, derfor den skyder fortid og fremtid i hob for dit syn, teender uendelig attrå og flyder bort i et lyshav af længsler og lyn.
+> Sangen har lysning, og derfor den gyder over dit arbejde forklarelsens skin; sangen har varme, og derfor den bryder stivhed og frost, så det tør i dit sind. Sangen har evighed, derfor den skyder fortid og fremtid i hob for dit syn, tænder uendelig attrå og flyder bort i et lyshav af længsler og lyn.
 >
 > \- Bjørnson
 

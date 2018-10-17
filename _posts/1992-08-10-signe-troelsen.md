@@ -67,12 +67,12 @@ Skolens ledelse opslog stillingen som forstander. Mange kvalificerede søgte. De
 
 > Kompetencestridighederne skabte uro på lederplan, men et stærkt, sobert og loyalt sammenhold blandt skolens trofaste lærerteam og medarbejderstab stod "vagt" om skolens traditioner og profil for: 
 > 
-> "Kendes skal i borg og hytte,  
-> vi på ungdomsgerining tror”... 
+> "Kendes skal i borg og hytte: 
+> Vi på ungdomsgerning tror"... 
 
 Op gennem 60'erne - indtil Bjarne Hauger blev forstander - forløb med 5 måneders vinterskole m/k fra november til april med ca. 60-65 elever ligeligt fordelt på kønnene og en 3 måneders kvindelig sommerskole fra maj til august med ca. 30-36 elever. 25 års tradition med sommerleverne sluttede med 67-holdet, og det sidste hold 5-måneders elever forlod skolen i maj 1968. 
 
-> En epoke var forbi. Fremtidens skoleterminer var analyseret og markedsført til en 8 måneders skole med start 2. september 1968, hvor skolen modtog 72 m/k elever. En ny epoke var begyndt. "Den Jyske ldrætsskole" gik nu en perspektivrig, aktiv og lykkelig fremtid i møde med et stabilt voksende elevtal og dermed udvidelse af skolens dygtige lærerteam og ambitiøse stab i køkken, "kælder" og loft, fortæller Signe Troelsen – i øvrigt stadig aktiv som kursusinstruktør på skolen – bl.a. med pensionist-gymnastikken
+> En epoke var forbi. Fremtidens skoleterminer var analyseret og markedsført til en 8 måneders skole med start 2. september 1968, hvor skolen modtog 72 m/k elever. En ny epoke var begyndt. "Den Jyske ldrætsskole" gik nu en perspektivrig, aktiv og lykkelig fremtid i møde med et stabilt voksende elevtal og dermed udvidelse af skolens dygtige lærerteam og ambitiøse stab i køkken, "kælder" og loft, fortæller Signe Troelsen – i øvrigt stadig aktiv som kursusinstruktør på skolen – bl.a. med pensionist-gymnastikken.
 
 ## Det var dengang...
 
@@ -81,21 +81,22 @@ Op gennem 60'erne - indtil Bjarne Hauger blev forstander - forløb med 5 månede
     alt="Lucia-optog på DJI"
     caption="Tidligere var der tradition for vækning med Lucia-optog og sang 13. december" %}
 
-- I samspil med en talentfuld ledelse og tresserårenes samfundsopsving stod skolen nu på tærskelen til en ny æra. Signe Troelsen har dykket i hukommelsen og sat en række løsrevne erindringer sammen under overskriften "Det var dengang"...
-- at der var fuldt skema - også om lørdagen 
-- at Skoleforløbet afsluttedes prover og eksamen i idrætsfag 
-- da drengene ikke måtte ses på pigeværelserne - og omvendt. Brud på denne ordensregel - med efterfølgende bortvisning af den “modige" synder - fandt som nævnt tidligere i artiklen sted. Men - de forelskede par må ha’ fundet ud af det - på deres måde, da mange tresserpar forlængst har fejret sølvbryllup og siden har deres voksne børn været elever på skolen. 
-- at lærere og elever samledes til morgensang - hver dag 
-- Der blev tilkaldt en læge - eller sygeplejerske - hvis en pjækkesyg elev var fraværende til time
-- at der - som optakt til årets "fætterkusine”-bal var kutyme for weekendundervisning i den tids modedanse
+I samspil med en talentfuld ledelse og tresserårenes samfundsopsving stod skolen nu på tærskelen til en ny æra. Signe Troelsen har dykket i hukommelsen og sat en række løsrevne erindringer sammen under overskriften "Det var dengang"...
+
+- at der var fuldt skema - også om lørdage.
+- at skoleforløbet afsluttedes med prøver og eksamen i idrætsfag.
+- da drengene ikke måtte ses på pigeværelserne - og omvendt. Brud på denne ordensregel - med efterfølgende bortvisning af den "modige" synder - fandt som nævnt tidligere i artiklen sted. Men - de forelskede par må ha’ fundet ud af det - på deres måde, da mange tresserpar forlængst har fejret sølvbryllup og siden har deres voksne børn været elever på skolen. 
+- at lærere og elever samledes til morgensang - hver dag.
+- Der blev tilkaldt en læge - eller sygeplejerske - hvis en pjækkesyg elev var fraværende til time.
+- at der - som optakt til årets "fætterkusine”-bal var kutyme for weekendundervisning i den tids modedanse.
 - da der var tradition for at de kvindelige elever - 13. december - gik "LUCIA" og med sang vækkede alle overalt på skolen.
-- da en teateraften til Århus var tradition - for vinterholdene
+- da en teateraften til Århus var tradition - for vinterholdene.
 - at 2-dages udflugter med kulturoplevelser og gymnastikopvisninger var en tradition - på sommerholdene. I flere år havde skolen en stående invitation til opvisninger i Sydslesvig og på Søfartsskolen i Svendborg.
 
 ## det var også dengang…
 
 - at et hold sommerpiger selv lagde fangtsstrategi af "blottere" i skoven. hvor pigerne helst løb ifred. Fangsten forløb som planlagt. I nettet hos de 36 piger var der to voksne. Straffen var et par omgange – for "åben" skærm" i baljen. Skovidyllen forblev intakt - den sommer
-- at aftenvagten - efter endt “godnatslukkelys-runde” - frit kunne gå i køkkenregionerne for at finde sig lidt tiltrængt natmad.
+- at aftenvagten - efter endt "godnatslukkelys-runde" - frit kunne gå i køkkenregionerne for at finde sig lidt tiltrængt natmad.
 - da der blev rettet op på vaklende økonomi. I årene bagud var de likvide midler ofte så svingende, at udbetaling af lærerlønninger kunne trække i langdrag. Skolens eksistens og gode image var jo dengang - som nu - alles ansvar.
 
 I 1967 markerede skolen sit 25-års jubilæum. Gratulanterne strømmede til med gaver. Særlig kærkommen var et stort pengebeløb til udsmykning. Festmiddagen vidnede om skolens køkkenkunstner, og skolens formand fremhævede i sin tale håbet om, at skolen - efter den næste 25 års periode - måtte stå som en idealskole på en sådan måde, at fortidens ideer og traditioner facetteres til perspektivrige fremtidsopgaver. 

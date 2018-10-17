@@ -8,7 +8,7 @@ tags:
 excerpt: "Signe Troelsen skriver brev til tidligere elever om at synge."
 ---
 
-Melos betyder sang, og sangen fodtes i menneskets strube, da sindet første gang fyldtes og løb over med lykke eller sorg.
+Melos betyder sang, og sangen fødtes i menneskets strube, da sindet første gang fyldtes og løb over med lykke eller sorg.
 
 Denne evne - eller rettere sagt gave - til at give luft for sindets følelser i sang må vi i vor undervisning være med til at bevare.
 

@@ -16,7 +16,7 @@ excerpt: "Signe Troelsen har en masse erindringer fra sin tid på Den Jyske Idr�
 
 **Signe Troelsen oplevede Svend Aage Thomsen som maler og billedhugger og har søgt at fastholde erindringer fra 60'erne - stort og småt - i sorg og glæde**
 
-Signe Troelsen kom til Den Jyske Idrætsskole fra Sjælland i 1954. Hun blev der i 30 år, kommer der fortsat Ofte og er gennem årene blevet en institution som skolen selv. Det er ikke forkert, når hun omtaler skolen som "mit andet hjem". 
+Signe Troelsen kom til Den Jyske Idrætsskole fra Sjælland i 1954. Hun blev der i 30 år, kommer der fortsat ofte og er gennem årene blevet en institution som skolen selv. Det er ikke forkert, når hun omtaler skolen som "mit andet hjem". 
 
 Minderne er mangfoldige, og Signe Troelsen har været stillet overfor et svært valg. Det blev dog gjort en smule nemmere, da hun blev bedt om primært at se på 60'erne. 
 
@@ -24,7 +24,7 @@ Minderne er mangfoldige, og Signe Troelsen har været stillet overfor et svært 
 >
 > 1. Skolens første forstander og stifter Svend Aage Thomsens pludselige dødsfald i foråret 1961. 
 > 
-> 2. Derefter - en 5-6 år frem en turbulent periode med skiftende forstandere (eller slet ingen) og en evig flytten ind-ud og omkring i skolens forstander- og lærer boliger.
+> 2. Derefter - en 5-6 år frem en turbulent periode med skiftende forstandere (eller slet ingen) og en evig flytten ind-ud og omkring i skolens forstander- og lærerboliger.
 > 
 > 3. Sidst i 60'erne koordineredes Idrætsskolens traditioner med tressernes samfundssignaler. Nye tider - placering af ny skolestruktur.
 > 

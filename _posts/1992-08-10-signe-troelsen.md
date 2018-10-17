@@ -67,7 +67,7 @@ Skolens ledelse opslog stillingen som forstander. Mange kvalificerede søgte. De
 
 > Kompetencestridighederne skabte uro på lederplan, men et stærkt, sobert og loyalt sammenhold blandt skolens trofaste lærerteam og medarbejderstab stod "vagt" om skolens traditioner og profil for: 
 > 
-> "Kendes skal i borg og hytte: 
+> "Kendes skal i borg og hytte:  
 > Vi på ungdomsgerning tror"... 
 
 Op gennem 60'erne - indtil Bjarne Hauger blev forstander - forløb med 5 måneders vinterskole m/k fra november til april med ca. 60-65 elever ligeligt fordelt på kønnene og en 3 måneders kvindelig sommerskole fra maj til august med ca. 30-36 elever. 25 års tradition med sommerleverne sluttede med 67-holdet, og det sidste hold 5-måneders elever forlod skolen i maj 1968. 

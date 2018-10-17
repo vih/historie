@@ -6,12 +6,12 @@ start_date:
 end_date:
   year: 1967
 header:
-  teaser: https://filer.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25?t=860f81500e9065900ac37d117d3889c38d1aa7cc591aedad4e2629e0c3414806
+  teaser: //filweb.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25
 media: 
-  url: https://filer.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25?t=860f81500e9065900ac37d117d3889c38d1aa7cc591aedad4e2629e0c3414806
+  url: //filweb.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25
   credit: arkiv.dk
   caption: "Aksel Bjerregaard"
-  thumbnail: //images.weserv.nl/?url=filer.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25?t=860f81500e9065900ac37d117d3889c38d1aa7cc591aedad4e2629e0c3414806&w=100
+  thumbnail: //images.weserv.nl/?url=filweb.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25&w=100
 category:
   - Forstander
 tags:
@@ -21,7 +21,7 @@ excerpt: "Ansat som forstander efter Svend Aage Thomsens død i 1961 med stor op
 description: "En af de fremmeste eksponenter for træning, bl.a. circuit træning. Blev medforstander for Tage Søgaard. Samarbejdet blev aldrig optimalt og det antydes i Jubilæumsskriftet fra 1992, at Bjerregaard blev nødt til at stoppe, fordi hans livsstil ikke kunne forenes med at være forstander på en Idrætsskole."
 sidebar:
   - title: Aksel Bjerregaard
-    image: https://filer.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25?t=860f81500e9065900ac37d117d3889c38d1aa7cc591aedad4e2629e0c3414806
+    image: //filweb.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25
     image_alt: Aksel Bjerregaard
     text: "Ansat som forstander efter Svend Aage Thomsens død i 1961 med stor opbakning fra DIF-baglandet. Forstander sammen med Tage Søgaard. Sluttede som forstander i 1967."
 ---

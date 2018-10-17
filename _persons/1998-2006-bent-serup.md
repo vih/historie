@@ -6,12 +6,12 @@ start_date:
 end_date:
   year: 2006
 header:
-  teaser: /assets/images/authors/default-profile.png
+  teaser: https://user-images.githubusercontent.com/148026/38486438-56daa45e-3bdd-11e8-8a1a-7546ff77bafb.jpg
 media: 
-  url: /assets/images/authors/default-profile.png
+  url: https://user-images.githubusercontent.com/148026/38486438-56daa45e-3bdd-11e8-8a1a-7546ff77bafb.jpg
   #credit: ""
   caption: "Bent Serup"
-  thumbnail: /assets/images/authors/default-profile.png
+  thumbnail: https://user-images.githubusercontent.com/148026/38486438-56daa45e-3bdd-11e8-8a1a-7546ff77bafb.jpg
 category:
   - Forstander
 tags:
@@ -21,7 +21,7 @@ excerpt: "Forstander fra 1998 - 2006. Var bl.a. med til at etablere kunstgræsba
 description: "Bent Serup har tætte bånd til DIF og Team Danmark. Bent sørger bl.a. for at skolen ved hjælp af Vejle Kommune og DBU får anlagt en kunstgræsbane."
 sidebar:
   - title: Bent Serup
-    image: /assets/images/authors/default-profile.png
+    image: https://user-images.githubusercontent.com/148026/38486438-56daa45e-3bdd-11e8-8a1a-7546ff77bafb.jpg
     image_alt: Bent Serup
     text: "Forstander fra 1998 - 2006. Var bl.a. med til at etablere kunstgræsbanen."
 ---

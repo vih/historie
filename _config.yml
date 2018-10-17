@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "mmistakes/minimal-mistakes@4.11.1"
+remote_theme:            "mmistakes/minimal-mistakes@4.13.0"
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Site Settings
@@ -26,6 +26,17 @@ staticman:
   branch                 : "gh-pages"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
+
+# reCaptcha
+# Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
+reCaptcha:
+  enabled: true
+  siteKey: "6LdCtVoUAAAAADcxG1WekIUuEuJy3YPoQ8DtbzK8"
+  # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
+  # For more information, https://staticman.net/docs/encryption
+  secret: "B6TmweBhBmEXsUUZKFEXOuFbAOHGBluvOCpsyTzAR+jjB5IkDNXzQo2NmMt8alWLWHh1HentKbOWAOx7HCl7AH3qgSeGWIvaTV99lKC8IakuyWGd2ZJR+eGxqN5RbmiNA1e4NXT4Z3DEMzq89iM/1VFkjSOY+LqAtWkdpJQTIGQ="
+
 
 # SEO Related
 google_site_verification :
@@ -67,31 +78,28 @@ author:
   avatar           : "/assets/images/authors/vih-logo.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til."
   location         : "Vejle"
-  email            : "webmaster@vih.dk"
-  uri              : "https://vih.dk/"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "groups/655406751295188"
-  foursquare       :
-  github           : "vih/historie.git"
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        : "vihdk"
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          : "vihdk"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"
+  links            :
+    - label: "E-mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@vih.dk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.vih.dk/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/vihdk"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/groups/655406751295188"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/vih/historie.git"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/vihdk"
 
 
 # Reading Files
@@ -349,7 +357,7 @@ podcast_url: http://historie.vih.dk/podcast
 podcast_album_art: /assets/podcasts/cover-stemmer.png
 podcast_title: Vejle Idrætshøjskoles Stemmer
 podcast_owner: Vejle Idrætshøjskole
-podcast_email: webmaster@vih.dk
+podcast_email: info@vih.dk
 podcast_category: Vejle Idrætshøjskole
 podcast_subcategory:
  - Historie

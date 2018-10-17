@@ -25,7 +25,7 @@ Efterhaanden kom dog flere af Eleverne med, f. Eks. Ole Lind (Hans Peter Jensen)
 
 Skolen var stadig Vaabenarsenal, og der var ofte store Mængder af Vaaben og Sprængstof gemt paa Skolen og i dens Nærhed. Rensningsanlæget var et glimrende Gemmested for kortere Perioder. Det var let her at gemme store Mængder, naar det skulde ske i en Fart, og herfra kunde det saa senere fordeles til de andre Depoter, der laa rundt i Skoven. Ogsaa under Halmen paa Nørremarksgaarden var der gemt meget. Der var omkring Maj Vaaben og Udrustning nok til et helt Kompagni paa Skolen.
  
-Det mest interessante var vel nok det hemmelige Rum paa Jomsborg. Det lavede Svend Aage Thomsen en Dag, der kom Meddelelse om, at Gestapo havde fanget en af de Mænd, Skolen havde Kontakt med, saa alt maatte fjernes fra de kendte Gemmesteder. Det blev ved at være henmmelig for alle indtil de sidste Dage i April; men det fandtes under Gulvet med Nedgang under Ross Sørensens Seng, og han har hele Vinteren, uden at vide det, ligget paa store Mængder Sprængstof.
+Det mest interessante var vel nok det hemmelige Rum paa Jomsborg. Det lavede Svend Aage Thomsen en Dag, der kom Meddelelse om, at Gestapo havde fanget en af de Mænd, Skolen havde Kontakt med, saa alt maatte fjernes fra de kendte Gemmesteder. Det blev ved at være hemmelig for alle indtil de sidste Dage i April; men det fandtes under Gulvet med Nedgang under Ross Sørensens Seng, og han har hele Vinteren, uden at vide det, ligget paa store Mængder Sprængstof.
 
 Hele Vinteren maatte der handles med den største Forsigtighed. Vi kendte jo nok de forskellige Elever, men alligevel ikke saa meget, at det var klogt at tale alt for højt om de Ting, der fandt Sted.
 

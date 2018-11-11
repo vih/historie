@@ -52,7 +52,7 @@ med en takt, som nok skal vare,
 om vor sundhed står vi vagt.  
 Vi stævner frem med sol i sindet,  
 og toner bruser fra vor mund,  
-En glød som aldrig går af mindet  
+en glød som aldrig går af mindet  
 i den årle morgenstund.  
 Frem i takt med vor sang,  
 den om Jyllands jord vil tale,  

@@ -1,11 +1,11 @@
 ---
-title: VIH-sangen (2010)
+title: Her i Nørreskoven (2010)
 author: mille_christensen
 composer: mille_christensen
 category:
   - Sange
   - Officiel skolesang
-excerpt: "Skolesang skrevet sammen med forårsholdet 2010."
+excerpt: "VIH-sangen skrevet sammen med forårsholdet 2010."
 permalink: /sang/2010/
 toc: true
 ---

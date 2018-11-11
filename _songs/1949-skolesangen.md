@@ -1,5 +1,5 @@
 ---
-title: Skolesangen (1949)
+title: Frem i takt (1949)
 author: william_hansen
 composer: karl_olav_dahlbæk
 category:
@@ -8,7 +8,7 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 1949
-excerpt: "Den oprindelige skolesang på Den Jyske Idrætsskole."
+excerpt: "Den oprindelige skolesang på Den Jyske Idrætsskole skrevet i 1949."
 permalink: /sang/oprindelig/
 toc: true
 ---

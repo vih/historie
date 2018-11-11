@@ -1,5 +1,5 @@
 ---
-title: "DJI's skolesang (1993)"
+title: "Som grenen bryder ud af stammen (1993)"
 author: sten_kaaloe
 composer: signy_jensen
 category:
@@ -10,7 +10,7 @@ tags:
   - Jubilæum 1992
   - Årsskrift 1993
   - 50 års jubilæum
-excerpt: "Skolesang skrevet i forbindelse med indvielsen af DJIs nye foredragssal, Globen."
+excerpt: "Skolesang skrevet i forbindelse med indvielsen af Den Jyske Idrætsskoles nye foredragssal, Globen, i 1993."
 permalink: /sang/1992/
 toc: true
 ---

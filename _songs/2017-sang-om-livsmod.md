@@ -2,6 +2,8 @@
 title: "En sang om livsmod (2017)"
 author: dy_plambeck
 composer: michael_bojesen
+header:
+  overlay_picture: //images.weserv.nl/?url=drive.google.com/open?id=1-i-QnYpwJvU9SjMASBFL01D1XmvngE-C&w=2000&a=attention
 category:
   - Sange
   - Officiel skolesang

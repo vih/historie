@@ -149,7 +149,7 @@ karl_olav_dahlbæk:
 bent_serup:
   name: "Bent Serup"
   bio: "Forstander på Vejle Idrætshøjskole fra 1999-2006"
-  avatar: https://user-images.githubusercontent.com/148026/38486438-56daa45e-3bdd-11e8-8a1a-7546ff77bafb.jpg
+  avatar: "https://user-images.githubusercontent.com/148026/38486438-56daa45e-3bdd-11e8-8a1a-7546ff77bafb.jpg"
 torben_espersen:
   name: "Torben Espersen"
   bio: "Mangeårig lærer, forretningsfører, viceforstander og konstitueret forstander på Vejle Idrætshøjskole."
@@ -244,6 +244,7 @@ peter_sebastian_petersen:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ps@vih.dk"
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/peter.s.petersen.56"
   featured: true
@@ -298,4 +299,8 @@ michael_bojesen:
 astrid_hartvig:
   name: "Astrid Hartvig"
   bio: "Musiklærer på Den Jyske Idrætsskole - brug gerne kommentarerne hvis du ved hvilken periode."
+  avatar: "/assets/images/authors/default-profile.png"
+kristian_enevoldsen:
+  name: "Kristian Enevoldsen"
+  bio: "Pianist og komponist. Har bl.a. i 2018 skrevet et nyt bud på en melodi til jubilæumssangen fra 1993."
   avatar: "/assets/images/authors/default-profile.png"

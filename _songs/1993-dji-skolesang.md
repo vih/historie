@@ -10,55 +10,53 @@ tags:
   - Jubilæum 1992
   - Årsskrift 1993
   - 50 års jubilæum
-excerpt: "Skolesang skrevet i forbindelse med indvielsen af Den Jyske Idrætsskoles nye foredragssal, Globen, i 1993."
-permalink: /sang/1992/
+excerpt: "Skolesang skrevet af Sten Kaalø i forbindelse med indvielsen af Den Jyske Idrætsskoles nye foredragssal, Globen, i 1993 med musik af Signy Jensen."
+permalink: /sang/1993/
 toc: true
 ---
 
 ## Tekst
 
-**Musik**: Signy Jensen  
-**Tekst**: Sten Kaalø
+**Tekst**: Sten Kaalø  
+**Musik**: Signy Jensen
 
-{% include audio src="https://drive.google.com/uc?id=1JwRHx7uvKuKa9T5iGW8ZfUVyAghNJ9-9"  %}
+{% include audio src="https://drive.google.com/uc?id=1JwRHx7uvKuKa9T5iGW8ZfUVyAghNJ9-9" %}
 
 Som grenen bryder ud af stammen,  
 og bladet springer af sit skud,  
 sådan er krop og tanke sammen,  
 et evigt samspil foldes ud.  
-Så svæv min sjæl i kroppens vinge,   
-og løft dig krop mod tankens tinde.
-
-I fordums tider opstod legen,  
-og formed sig til kamp for sjov,   
-i ramme alvor – kamp til stregen,  
-så langt som hjertet gi'r os lov.  
-Så svæv min sjæl i kroppens vinge,   
-og løft dig krop mod tankens tinde.
-
-Og fælles er vi om det hele,  
-med sved og krop og tankens spring,   
-og alting må vi skønsomt dele,  
-så ingen står med ingenting.  
-Så svæv min sjæl i kroppens vinge,   
-og løft dig krop mod tankens tinde.
-
-Vorherres lille store kugle,  
-hvor måne, stjerner kigger ned,   
-med bølgeskvulp og sommerfugle,  
-er skabt - trods alt – til kærlighed.   
 Så svæv min sjæl i kroppens vinge,  
 og løft dig krop mod tankens tinde.
 
-_Skrevet af Sten Kaalø i forbindelse med indvielsen af Den Jyske Idrætsskoles nye foredragssal, Globen, i 23. januar 1993. Oprindeligt også bragt i Årsskriftet fra 1993._
+I fordums tider opstod legen,  
+og formed sig til kamp for sjov,  
+i ramme alvor – kamp til stregen,  
+så langt som hjertet gi'r os lov.  
+Så svæv min sjæl i kroppens vinge,  
+og løft dig krop mod tankens tinde.
+
+Og fælles er vi om det hele,  
+med sved og krop og tankens spring,  
+og alting må vi skønsomt dele,  
+så ingen står med ingenting.  
+Så svæv min sjæl i kroppens vinge,  
+og løft dig krop mod tankens tinde.
+
+Vorherres lille store kugle,  
+hvor måne, stjerner kigger ned,  
+med bølgeskvulp og sommerfugle,  
+er skabt - trods alt – til kærlighed.  
+Så svæv min sjæl i kroppens vinge,  
+og løft dig krop mod tankens tinde.
 
 ## Noder
-
-{% include figure image_path="https://drive.google.com/uc?id=1fRT1z6E12bG-UfySKa1jmPV4Xwc4-nFI" caption="Skolesang skrevet i forbindelse med indvielsen af Globen" alt="Skolesang skrevet i forbindelse med indvielsen af Globen" %}
 
 [<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1SuRoR8I5e26PcQftwZSnDmJ0Me1Ejzye){: .btn .btn--danger .btn--primary .btn--large}
 
 ## Om sangen
+
+Skrevet af Sten Kaalø i forbindelse med indvielsen af Den Jyske Idrætsskoles nye foredragssal, Globen, 23. januar 1993. Oprindeligt også bragt i Årsskriftet fra 1993. Sangen havde oprindelig melodi af Signy Jensen, men i 2018 blev der [skrevet endnu en melodi af Kristian Enevoldsen](/sang/2018/)
 
 Jørn Richter [fortolker sangen](/aarsskrift/1993/fortolkning-kaaloe/) i Årsskriftet fra 1993.
 

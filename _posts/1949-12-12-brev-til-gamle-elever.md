@@ -42,6 +42,7 @@ Det næste skridt var at faa udarbejdet endelige Planer. Det var et glædeligt A
 Men saa skulde hele Anlæget ogsaa være tip top og vil i Henseende til Velindrettethed og Alsidighed ligge som et af de bedste i Norden foruden dette, at Skolen med sin ideelle Beliggenhed i den skønne Vejlenatur ogsaa med udendørs Anlæg vil blive et Mønster.
 
 Men dette vil koste flere Penge, og ved et nyt Møde mellem de interesserede Parter blev man enig om at søge Udvej ogsaa for dette. Maaske var der et og andet, der maatte vente, men Planen i sin Helhed maatte ikke fraviges, og det, der skulde bygges, maatte kunne staa for enhver Kritik.
+
 Der er et stykke Vej tilbage endnu, inden vi kan sætte Spaden i Jorden. Skolebyggeri er jo ikke givet fri endnu, men jeg er fast overbevist om, at nu vil det lykkes at skabe et Anlæg her, som vil være dansk Idræt værdig.
 
 Hvornaar vil Skolen staa færdig? Spørg mig ikke. Jeg haaber dog, det vil ske i Løbet af to Aar, men det er ikke saa lige en Sag at stable saa store Bygninger paa Benene, og meget afhænger af Arbejds- og Byggesituationen. Et kan I være sikker paa, og det er, at vi vil gøre alt, for at det kan ske saa snart som muligt.

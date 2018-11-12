@@ -3,7 +3,7 @@ title: "En sang om livsmod (2017)"
 author: dy_plambeck
 composer: michael_bojesen
 header:
-  overlay_picture: //images.weserv.nl/?url=drive.google.com/open?id=1-i-QnYpwJvU9SjMASBFL01D1XmvngE-C&w=2000&a=attention
+  overlay_image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=1-cFj15x1cUa1hNri4b62E4DUJgoaZksj&w=2000&a=attention"
 category:
   - Sange
   - Officiel skolesang
@@ -71,7 +71,7 @@ _Og så ser du: i natten skiftede du ham..._
 
 ## Noder
 
-[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1qvtkHxfodmgbxqR14WaI3JuGykZXOFSM){: .btn .btn--danger .btn--primary .btn--large}
+[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1-i4gLDOQT7wFsimUi4X_Zyzd_rFpxnFT){: .btn .btn--danger .btn--primary .btn--large}
 
 ## Om sangen
 

@@ -2,6 +2,8 @@
 title: "Som grenen bryder ud af stammen (2018)"
 author: sten_kaaloe
 composer: kristian_enevoldsen
+header:
+  overlay_image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=10ARwulcE0vAL4O16UsExEwu3P6MTP-QL&w=2000&a=attention"
 category:
   - Sange
   - Officiel skolesang

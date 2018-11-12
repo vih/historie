@@ -2,6 +2,8 @@
 title: "Som grenen bryder ud af stammen (1993)"
 author: sten_kaaloe
 composer: signy_jensen
+header:
+  overlay_image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=1-gyH2Wv92pKRLHsGAl3YGjWIE_nGIZIc&w=2000&a=attention"
 category:
   - Sange
   - Officiel skolesang
@@ -52,7 +54,7 @@ og løft dig krop mod tankens tinde.
 
 ## Noder
 
-[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1SuRoR8I5e26PcQftwZSnDmJ0Me1Ejzye){: .btn .btn--danger .btn--primary .btn--large}
+[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1-cz_IY1oksDdc30GJ0cXpDc5udQ82dvU){: .btn .btn--danger .btn--primary .btn--large}
 
 ## Om sangen
 

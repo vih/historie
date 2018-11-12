@@ -2,6 +2,8 @@
 title: Frem i takt (1949)
 author: william_hansen
 composer: karl_olav_dahlbæk
+header:
+  overlay_image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=1-i-QnYpwJvU9SjMASBFL01D1XmvngE-C&w=2000&a=attention"
 category:
   - Sange
   - Officiel skolesang
@@ -61,7 +63,7 @@ vil vi mødes nok engang.
 
 ## Noder
 
-[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1xA-6Y0HeX5PQ4D_SFXJcCd55kH8awEkC){: .btn .btn--danger .btn--primary .btn--large}
+[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1-WnldtjlnqypqrP9v3Xsq39cWkdG-Zdj){: .btn .btn--danger .btn--primary .btn--large}
 
 ## Om forfatterne og komponisten
 

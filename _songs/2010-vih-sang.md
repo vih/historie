@@ -2,6 +2,8 @@
 title: Her i Nørreskoven (2010)
 author: mille_christensen
 composer: mille_christensen
+header:
+  overlay_image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=10-OPzL2wR6sagrymCVSB3ONcyOUpOWrN&w=2000&a=attention"
 category:
   - Sange
   - Officiel skolesang
@@ -15,7 +17,7 @@ toc: true
 **Tekst**: Elever på forårsholdet 2010 og Mille Sigsgaard Christensen  
 **Musik**: Mille Sigsgaard Christensen
 
-{% include audio src="https://drive.google.com/uc?id=1NTU3tobgFgxHWozk-Pjp3uIL7wo4WRiE" %}
+{% include audio src="https://drive.google.com/uc?id=1f25oc8w-oHXBEJt75pjlrL2ycCbzeVu3" %}
 
 _Her i Nørreskoven_  
 _midt i det bakkede, Jyske landskab_  

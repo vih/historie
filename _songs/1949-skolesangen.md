@@ -30,7 +30,7 @@ Der lyder takt af lette fødder,
 som bre’r sig rundt om land og strand.  
 Her skal vor idræt fæste rødder  
 i hver kvinde og hver mand.  
-Frem i takt glade trop,  
+Frem i takt glade trop!  
 og som lysets stolte ridder  
 ser vi mod de vide vidder,  
 der hvor solen stiger op.
@@ -56,7 +56,7 @@ Vi stævner frem med sol i sindet,
 og toner bruser fra vor mund,  
 en glød som aldrig går af mindet  
 i den årle morgenstund.  
-Frem i takt med vor sang,  
+Frem i takt med vor sang!  
 den om Jyllands jord vil tale,  
 og i disse skove, dale,  
 vil vi mødes nok engang.

@@ -1,11 +1,13 @@
 ---
-title: VIH-sangen (2010)
+title: Her i Nørreskoven (2010)
 author: mille_christensen
 composer: mille_christensen
+header:
+  overlay_image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=10-OPzL2wR6sagrymCVSB3ONcyOUpOWrN&w=2000&a=attention"
 category:
   - Sange
   - Officiel skolesang
-excerpt: "Skolesang skrevet sammen med forårsholdet 2010."
+excerpt: "VIH-sangen skrevet af højskolelærer, Mille Sigsgaard, sammen med elever og lærere på forårsholdet 2010."
 permalink: /sang/2010/
 toc: true
 ---
@@ -15,20 +17,16 @@ toc: true
 **Tekst**: Elever på forårsholdet 2010 og Mille Sigsgaard Christensen  
 **Musik**: Mille Sigsgaard Christensen
 
-{% include audio src="https://drive.google.com/uc?id=1NTU3tobgFgxHWozk-Pjp3uIL7wo4WRiE"  %}
+{% include audio src="https://drive.google.com/uc?id=1f25oc8w-oHXBEJt75pjlrL2ycCbzeVu3" %}
 
-**OMKVÆD**
-
-Her i Nørreskoven   
-midt i det bakkede, Jyske landskab    
-Går vi rundt og smiler til hinanden.    
-Hver en kamp og fordom klarer vi i fællesskab  
-Med bravour – både kvinde og mand.  
-Man kan være høj, lav, ung, gammel, lys, mørk, tyk, tynd, lige eller skrå  
-Men man finder altid en man kan stole på.  
-Her på VIH
-
-**VERS 1**
+_Her i Nørreskoven_  
+_midt i det bakkede, Jyske landskab_  
+_Går vi rundt og smiler til hinanden._  
+_Hver en kamp og fordom klarer vi i fællesskab_  
+_Med bravour – både kvinde og mand._  
+_Man kan være høj, lav, ung, gammel, lys, mørk, tyk, tynd, lige eller skrå_  
+_Men man finder altid en man kan stole på._  
+_Her på VIH_
 
 Fra Sibirien til Wembley  
 Vi sveder men det gir så megen energi  
@@ -38,11 +36,7 @@ Rundt om Globen, ned til stranden,
 i solen og i vinden,  
 det' umuligt at være sur
 
-**OMKVÆD**
-
-Her i Nørreskoven...
-
-**VERS 2**
+_Her i Nørreskoven..._
 
 Fra godmorgen til godnat  
 Vi bor og lever sammen både dag og nat  
@@ -53,15 +47,9 @@ Det' en tid man aldrig glemmer,
 en tid med gode minder,  
 En tid med et dejligt hjem.
 
-**OMKVÆD**
-
-Her i Nørreskoven...
+_Her i Nørreskoven..._
 
 ## Noder
-
-{% include figure image_path="https://drive.google.com/uc?id=1Jyh67nxtLt5UUIbue6vmqNZRlC7lmFk9" caption="Noderne til VIH-sangen" alt="Noderne til VIH-sangen" %}
-
-{% include figure image_path="https://drive.google.com/uc?id=1EcMFJVs5wwqx2RVbILk7kWyTCvkZr7xv" caption="Noderne til VIH-sangen" alt="Noderne til VIH-sangen" %}
 
 [<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1jFLJSBwTVwdeaYyStUh3frER3jy0wtHZ){: .btn .btn--danger .btn--primary .btn--large}
 
@@ -76,11 +64,11 @@ Det var et rigtig godt udgangspunkt.
 
 Tekst og musik blev skrevet på samme tid. Den er oprindeligt skrevet med en guitar i hånden, og da lød den sådan her:
 
-{% include audio src="https://drive.google.com/uc?id=1zl6hc8EZSvTHomt03aldeGYT2E3AbZy4"  %}
+{% include audio src="https://drive.google.com/uc?id=1zl6hc8EZSvTHomt03aldeGYT2E3AbZy4" %}
 
 Senere blev den forfinet lidt efter klaveret blev involveret, og det kom til at lyde sådan her:
 
-{% include audio src="https://drive.google.com/uc?id=1NTU3tobgFgxHWozk-Pjp3uIL7wo4WRiE"  %}
+{% include audio src="https://drive.google.com/uc?id=1NTU3tobgFgxHWozk-Pjp3uIL7wo4WRiE" %}
 
 Der er også lavet små melodiske rettelser ([se originalen](https://drive.google.com/uc?id=1Zw7xOedI8IchEZVob0C03M0A3zc-ubcH)) efter at have afprøvet sangen med det første elevhold. Det viste sig at der var visse fraser, som fungerede bedre i en lidt anden udgave, og igen fik "flertallet" lov til at bestemme. 
 

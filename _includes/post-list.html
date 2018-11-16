@@ -1,6 +1,6 @@
 {% for post in include.posts %}
 
-<a href="{{ post.url | absolute_url }}" rel="permalink">{{ post.title }}</a>
+<a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
 : {{ post.excerpt }}
 
 {% endfor %}

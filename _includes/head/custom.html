@@ -19,11 +19,11 @@
 {% if page.source %}
   <meta name="DC.Source" content="{{ page.source }}">
 {% endif %}
-<meta name="DC.Description" content="{{ page.excerpt | strip_html }} - Fra: {{ page.source }}">
+<meta name="DC.Description" content="{{ page.excerpt | strip_html }} - Fra: {{ site.title }}">
 {% if page.publisher %}
   <meta name="DC.Publisher" content="{{ page.publisher }}">
 {% else %}
-  <meta name="DC.Publisher" content="Vejle Idrætshøjskole">
+  <meta name="DC.Publisher" content="{{ site.name }}">
 {% endif %}
 {% if page.type %}
   <meta name="DC.Type" content="{{ page.type }}">

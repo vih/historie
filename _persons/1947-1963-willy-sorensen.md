@@ -11,7 +11,7 @@ media:
   url: //www.vejlewiki.dk/images/4/41/Willy1.jpg
   credit: vejlewiki.dk
   caption: "Willy Sørensen"
-  thumbnail: //images.weserv.nl/?url=//www.vejlewiki.dk/images/4/41/Willy1.jpg&w=100
+  thumbnail: //images.weserv.nl/?url=http://www.vejlewiki.dk/images/4/41/Willy1.jpg&w=100
 category:
   - Bestyrelsesformænd
 tags:

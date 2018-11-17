@@ -1,5 +1,5 @@
 ---
-title: "Kære gamle elever"
+title: "Kære gamle elever, fra Årsskrift 1961"
 author: tage_søgård
 category:
   - Årsskrift

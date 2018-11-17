@@ -26,7 +26,7 @@ sidebar:
     # text: "Vejles daværende borgmester blev formand på det stiftende møde for Den Jyske Idrætshøjskole i 1942 og var formand indtil 1947."
 ---
 
-_Vi mangler et ordentligt billede af Signe Troelsen fra hans formandsperiode på Vejle Idrætshøjskole. Kan du hjælpe?_
+_Vi mangler et ordentligt billede af Signe Troelsen fra hendes lærertid på Vejle Idrætshøjskole. Kan du hjælpe?_
 {: .notice--info}
 
 {{ page.description }}

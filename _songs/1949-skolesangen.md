@@ -66,6 +66,10 @@ den om Jyllands jord vil tale,
 og i disse skove, dale,  
 vil vi mødes nok engang.
 
+## Video
+
+{% include video provider="google-drive" id="1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO" %}
+
 ## Noder
 
 [<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1-WnldtjlnqypqrP9v3Xsq39cWkdG-Zdj){: .btn .btn--danger .btn--primary .btn--large}

@@ -13,6 +13,11 @@ tags:
   - Årsskrift 2018
 excerpt: "Morgensang skrevet af Dy Plambeck og med musik af Michael Bojesen i forbindelse med højskolens 75 års jubilæum 2017/18 og efterskolens 10 års jubilæum."
 permalink: /sang/2017/
+sidebar:
+  - title: "Vejle Idrætshøjskoles Sange"
+    image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=10k7zuB8CRXnnKxBye_kIzKdBnO5uKGwi&w=300&a=attention&t=square"
+    image_alt: "Vejle Idrætshøjskoles Sange"
+    text: "Indspillet i 2018 af Mille Sigsgaard Christensen og Charlotte Støjberg. **Køb den eller stream den fra din foretrukne musiktjeneste.**"
 ---
 
 **Tekst**: Dy Plambeck, 2017  

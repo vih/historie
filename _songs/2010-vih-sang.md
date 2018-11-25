@@ -10,6 +10,11 @@ category:
 excerpt: "VIH-sangen skrevet af højskolelærer, Mille Sigsgaard, sammen med elever og lærere på forårsholdet 2010."
 permalink: /sang/2010/
 toc: true
+sidebar:
+  - title: "Vejle Idrætshøjskoles Sange"
+    image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=10k7zuB8CRXnnKxBye_kIzKdBnO5uKGwi&w=300&a=attention&t=square"
+    image_alt: "Vejle Idrætshøjskoles Sange"
+    text: "Indspillet i 2018 af Mille Sigsgaard Christensen. **Køb den eller stream den fra din foretrukne musiktjeneste.**"
 ---
 
 ## Teksten

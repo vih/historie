@@ -68,7 +68,7 @@ vil vi mødes nok engang.
 
 ## Video
 
-{% include video provider="google-drive" id="1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO" %}
+{% include video provider="youtube" id="5mrLexcY1b0" %}
 
 ## Noder
 

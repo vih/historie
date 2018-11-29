@@ -62,7 +62,7 @@ og løft dig krop mod tankens tinde. ::/
 
 ## Video
 
-{% include video provider="google-drive" id="1VWeH9nyVo26irtICLSwYYq8mHG1JxXdq" %}
+{% include video provider="youtube" id="MT4gCCZr6wU" %}
 
 ## Noder
 

@@ -56,7 +56,7 @@ _Her i Nørreskoven..._
 
 ## Video
 
-{% include video provider="google-drive" id="1-vlE036T5k2Y0zyao8nbZh2a9UeEvAB2" %}
+{% include video provider="youtube" id="K_05Gzq2Z9k" %}
 
 ## Noder
 

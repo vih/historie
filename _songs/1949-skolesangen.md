@@ -13,6 +13,11 @@ tags:
 excerpt: "Den oprindelige skolesang på Den Jyske Idrætsskole skrevet i 1949 af William O. Hansen og Karl-Olav Dahlbæk."
 permalink: /sang/1949/
 toc: true
+sidebar:
+  - title: "Vejle Idrætshøjskoles Sange"
+    image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=10k7zuB8CRXnnKxBye_kIzKdBnO5uKGwi&w=300&a=attention&t=square"
+    image_alt: "Vejle Idrætshøjskoles Sange"
+    text: "Indspillet i 2018 af Mille Sigsgaard Christensen og Charlotte Støjberg. **Køb den eller stream den fra din foretrukne musiktjeneste.**"
 ---
 
 ## Teksten
@@ -72,3 +77,7 @@ William O. Hansen og Karl-Olav Dahlbæk var elever på elevholdet i 1948-49.
 {% include figure image_path="https://drive.google.com/uc?id=1V2jRCeVItexqKrnzMEzW441fIm76zIhZ" caption="Elevbillede med Vinterholdet 1948 og 1949 med forfatter og komponist" alt="Vinterholdet 1948-49" %}
 
 _Hvis du ved mere om tilblivelsen af denne sang, så brug endelig kommentarerne._
+
+## Køb eller stream sangen
+
+Sangen blev indspillet i 2018 af Mille Sigsgaard Christensen og Charlotte Støjberg - både med vokal og som akkompagnement. **Køb den eller stream den fra din foretrukne musiktjeneste.**, fx [Google Play](https://play.google.com/music/listen#/album/Birdaib4zktzgwthhtd4uxlafta), [Itunes](https://itunes.apple.com/album/-/id1444457441), [Deezer](https://www.deezer.com/da/album/79792202), [Tidal](https://listen.tidal.com/album/99556066).

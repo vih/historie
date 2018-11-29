@@ -60,6 +60,10 @@ er skabt - trods alt – til kærlighed.
 //: Så svæv min sjæl i kroppens vinge,  
 og løft dig krop mod tankens tinde. ::/
 
+## Video
+
+{% include video provider="youtube" id="MT4gCCZr6wU" %}
+
 ## Noder
 
 [<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1dfcMaxc0IGYoVmlNYwTTP63GI-7NuF5H){: .btn .btn--danger .btn--primary .btn--large}

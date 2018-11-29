@@ -54,6 +54,10 @@ En tid med et dejligt hjem.
 
 _Her i Nørreskoven..._
 
+## Video
+
+{% include video provider="youtube" id="K_05Gzq2Z9k" %}
+
 ## Noder
 
 [<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1jFLJSBwTVwdeaYyStUh3frER3jy0wtHZ){: .btn .btn--danger .btn--primary .btn--large}

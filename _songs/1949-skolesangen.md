@@ -84,4 +84,4 @@ _Hvis du ved mere om tilblivelsen af denne sang, så brug endelig kommentarerne.
 
 ## Køb eller stream sangen
 
-Sangen blev indspillet i 2018 af Mille Sigsgaard Christensen og Charlotte Støjberg - både med vokal og som akkompagnement. **Køb den eller stream den fra din foretrukne musiktjeneste.**, fx [Google Play](https://play.google.com/music/listen#/album/Birdaib4zktzgwthhtd4uxlafta), [Itunes](https://itunes.apple.com/album/-/id1444457441), [Deezer](https://www.deezer.com/da/album/79792202), [Tidal](https://listen.tidal.com/album/99556066).
+Sangen blev indspillet i 2018 af Mille Sigsgaard Christensen og Charlotte Støjberg - både med vokal og som akkompagnement. **Køb den eller stream den fra din foretrukne musiktjeneste.**, fx [Google Play](https://play.google.com/music/listen#/album/Birdaib4zktzgwthhtd4uxlafta), [Itunes](https://itunes.apple.com/album/-/id1444457441), [Deezer](https://www.deezer.com/da/album/79792202), [Tidal](https://listen.tidal.com/album/99556066), [Spotify](https://play.spotify.com/album/6vpvN8PtyRg7wYLUqIdlbI).

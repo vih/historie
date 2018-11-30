@@ -14,8 +14,6 @@ header:
   #overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   #overlay_filter: rgba(255, 0, 0, 0.5)
   overlay_color: "#1aa2dd"
-  #cta_label: "More Info"
-  #cta_url: "https://unsplash.com"
 toc: false
 sidebar:
   nav: "yearbook-2017"

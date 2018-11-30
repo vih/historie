@@ -304,3 +304,24 @@ kristian_enevoldsen:
   name: "Kristian Enevoldsen"
   bio: "Pianist og komponist. Har bl.a. i 2018 skrevet et nyt bud på en melodi til jubilæumssangen fra 1993."
   avatar: "/assets/images/authors/default-profile.png"
+martin_olsen:
+  name: "Martin Olsen"
+  bio: "Højskolelærer på Vejle Idrætshøjskole."
+  avatar: "/assets/images/authors/default-profile.png"
+anne_vinternes:
+  name: "Anne Vinternes"
+  bio: "Unglærer på Vejle Idrætshøjskole i foråret 2018."
+  avatar: "/assets/images/authors/default-profile.png"
+birte_christensen:
+  name: "Birte Christensen"
+  bio: "Datter af skolens grundlægger, Svend Aaage Thomsen."
+  avatar: "/assets/images/authors/default-profile.png"
+axel_gyntler:
+  name: "Axel Gyntler"
+  bio: "Søn af Leo Gyntler, tidligere Dansk Håndbold-Forbund, som havde sin faste gang på Den Jyske Idrætsskole i 1940'erne og 1950'erne."
+  avatar: "/assets/images/authors/default-profile.png"
+poul_grejs:
+  name: "Poul Grejs"
+  bio: "Mangeårig bestyrelsesformand på Vejle Idrætshøjskole og -Idrætsefterskole."
+  avatar: "/assets/images/authors/default-profile.png"
+  

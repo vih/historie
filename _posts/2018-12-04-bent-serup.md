@@ -1,5 +1,5 @@
 ---
-title: Årets gang 2018
+title: God mentalitet i en hård tid - Bent Serup
 permalink: /aarsskrift/2018/bent-serup/
 author: martin_davidsen
 category:
@@ -7,9 +7,11 @@ category:
 tags:
   - Årsskrift 2018
   - dagbog
-excerpt: "Vi holder stadig jubilæum på Vejle Idrætshøjskole. Lars Olesen, viceforstander, fortæller lidt om indholdet i årsskriftet."
+excerpt: "Bent Serup var forstander på Vejle Idrætshøjskole gennem syv år med mange udfordringer, men han husker alligevel tiden i Vejle for godt højskoleliv og en positiv mentalitet blandt lærerstaben."
 header:
-  overlay_color: "#1aa2dd"
+  overlay_image: &image /assets/images/yearbook/2018/bent-serup.jpg
+  teaser: *image
+  caption: "Foto: Jørgen Outzen, Fyens Amts Avis"
 toc: true
 sidebar:
   nav: "yearbook-2018"

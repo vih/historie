@@ -27,7 +27,7 @@ songs:
   - title: Sange
     url: /sange/
     children:
-    - title: "Frem i takt"
+    - title: "Frem i takt (1949)"
       url: "/sang/1949/"
     - title: "Som grenen bryder ud (1993)"
       url: "/sang/1993/"

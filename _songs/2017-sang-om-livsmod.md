@@ -18,6 +18,7 @@ sidebar:
     image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=10k7zuB8CRXnnKxBye_kIzKdBnO5uKGwi&w=300&a=attention&t=square"
     image_alt: "Vejle Idrætshøjskoles Sange"
     text: "Indspillet i 2018 af Mille Sigsgaard Christensen og Charlotte Støjberg. **Køb den eller stream den fra din foretrukne musiktjeneste.**"
+toc: true
 ---
 
 **Tekst**: Dy Plambeck, 2017  

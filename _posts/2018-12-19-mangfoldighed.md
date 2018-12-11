@@ -1,5 +1,5 @@
 ---
-title: Årets gang 2018
+title: Mangfoldighed
 permalink: /aarsskrift/2018/mangfoldighed/
 author: mette_holst_nymand
 category:

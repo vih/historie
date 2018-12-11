@@ -6,10 +6,10 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2018
-  - dagbog
+  - Bent Serup
 excerpt: "Bent Serup var forstander på Vejle Idrætshøjskole gennem syv år med mange udfordringer, men han husker alligevel tiden i Vejle for godt højskoleliv og en positiv mentalitet blandt lærerstaben."
 header:
-  overlay_image: &image /assets/images/yearbook/2018/bent-serup.jpg
+  overlay_image: &image /assets/images/yearbooks/2018/bent-serup.jpg
   teaser: *image
   caption: "Foto: Jørgen Outzen, Fyens Amts Avis"
 toc: true

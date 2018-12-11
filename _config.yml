@@ -8,6 +8,9 @@
 remote_theme:            "mmistakes/minimal-mistakes@4.14.1"
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
+# Jekyll specific
+future: true
+
 # Site Settings
 locale                   : "da"
 title                    : "Vejle Idrætshøjskoles Historie"

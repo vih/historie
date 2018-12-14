@@ -7,7 +7,7 @@ category:
 tags:
   - Årsskrift 2018
   - dagbog
-excerpt: "Efter at have dykket ned i højskolens historie dukker der nye spændende vinkler frem. Knud Thomassens datter, Tove, fortalte, at jeg burde prøve at få fat i Axel Gyntler for at lære mere om højskolens første år, og det har vist sig at være en god ide, for Axel kan fortælle virkelig meget om skolen. Det følgende er en bearbejdet e-mail udveksling med Axel."
+excerpt: "Axel Gyntler, søn af Leo Gyntler, fulgte Den Jyske Idrætsskole tæt i de første år. Læs vores e-mail-udveksling med Axel."
 header:
   overlay_color: "#1aa2dd"
   overlay_image: &image https://drive.google.com/uc?id=1-tK0g3xB0wHcuuJHNlCkyiVEb__ZQ0iJ

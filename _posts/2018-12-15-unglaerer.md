@@ -7,7 +7,7 @@ category:
 tags:
   - Årsskrift 2018
   - dagbog
-excerpt: "Vi holder stadig jubilæum på Vejle Idrætshøjskole. Lars Olesen, viceforstander, fortæller lidt om indholdet i årsskriftet."
+excerpt: "Unglærer-stillingen er et unikt pædagogisk koncept, som gør både lærere og elever bedre. Og unglærerne elsker det!"
 header:
   overlay_color: "#1aa2dd"
   teaser: https://drive.google.com/uc?id=1yiQS7fAF1796chJ0bsTrc8UV9zVp8yl8

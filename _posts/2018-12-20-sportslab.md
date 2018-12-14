@@ -6,7 +6,7 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2018
-excerpt: "En eliteløber mod fire højskoleelever. En cykelrytter på havelåge mod en amatør. En bøf mod en boldspils-spirrevip. Hvem mon vinder? Det har en gruppe elever på Vejle Idrætshøjskole testet og klippet sammen til et journalistisk indslag kaldet VIH Sportslab."
+excerpt: "En eliteløber mod fire højskoleelever. En cykelrytter på havelåge mod en amatør. En bøf mod en boldspils-spirrevip. Hvem mon vinder?"
 header:
   overlay_color: "#1aa2dd"
   teaser: https://drive.google.com/uc?id=1dOtbqi5yJ_tlXfI0ceSzX1yjrdxxN3Iw
@@ -44,7 +44,7 @@ _[Desværre blev videoen til dette aldrig færdig i foråret 2018, så Jakob Sik
 
 ## Bøf vs. boldspils-spirrevip
 
-{% include figure image_path="https://drive.google.com/uc?id=1KC5cWY6w8tfCKhJybgUrOQCCTTBan7Yu" alt="Boldspilsspirrevip mod Bøf" caption="Foto: Lars Olesen" %}
+{% include figure image_path="https://drive.google.com/uc?id=1KC5cWY6w8tfCKhJybgUrOQCCTTBan7Yu" alt="Boldspilsspirrevip mod Bøf" caption="Kan du gætte, hvem der er bøffen og boldspilsspirrevippen. Foto: Lars Olesen" %}
 
 Vi undersøger her, hvordan en relativt spinkel fodboldfyr klarer sig i forhold til en velpumpet styrketræningsfyr. Til at starte med skulle de dyste i styrke, hvor de blandt andet skulle bænkpresse deres egen max-vægt mod hinanden. Derudover skulle de også dyste i eksplositivet. Her konkurrerede de om, hvem der kunne hoppe højest og lave de hurtigste retningsskift. Det spændende lå så i, hvem der ville vinde i sidste ende, da en stor og stærk fyr faktisk kan have en ulempe, når vi kigger på eksplosivitet, mens han vil have en klar fordel i styrke-disciplinerne. 
 

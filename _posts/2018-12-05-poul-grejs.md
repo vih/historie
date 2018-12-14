@@ -6,8 +6,8 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2018
-  - Poul Grejs
-excerpt: "Vi holder stadig jubilæum på Vejle Idrætshøjskole. Lars Olesen, viceforstander, fortæller lidt om indholdet i årsskriftet."
+  - dagbog
+excerpt: "Poul Grejs husker tilbage på sine år som bestyrelsesformand for Den Jyske Idrætsskole, Vejle Idrætshøjskole og Vejle Idrætsefterskole gennem 22 år."
 header:
   overlay_color: "#1aa2dd"
 toc: true

@@ -7,7 +7,7 @@ category:
 tags:
   - Årsskrift 2018
   - Bent Serup
-excerpt: "Bent Serup var forstander på Vejle Idrætshøjskole gennem syv år med mange udfordringer, men han husker alligevel tiden i Vejle for godt højskoleliv og en positiv mentalitet blandt lærerstaben."
+excerpt: "Bent Serup var forstander på Vejle Idrætshøjskole gennem syv år med mange udfordringer fra 1999-2006."
 header:
   overlay_image: &image /assets/images/yearbooks/2018/bent-serup.jpg
   teaser: *image

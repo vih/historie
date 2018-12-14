@@ -7,7 +7,7 @@ category:
 tags:
   - Årsskrift 2018
   - dagbog
-excerpt: "Svend Aage Thomsen datter, Birte Christensen, husker tilbage på sine gode år på den Jyske Idrætsskole, som sluttede brat i 1961 ved Svend Aage Thomsens død og uenighed med bestyrelsen."
+excerpt: "Svend Aage Thomsen datter, Birte Christensen, husker tilbage på sine gode år på den Jyske Idrætsskole fra 1942 - 1961."
 header:
   overlay_image: /assets/images/podcasts/birte-christensen-2018.jpg
   teaser: /assets/images/podcasts/birte-christensen-2018.jpg

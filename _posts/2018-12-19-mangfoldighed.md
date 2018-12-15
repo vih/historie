@@ -48,6 +48,6 @@ gallery:
     title: "Mangfoldighed på højskolen"
 ---
 
-{% include figure image_path="" caption="Udsmykning af elevdør" alt="Udsmykning af elevdør" %}
+{% include figure image_path="https://drive.google.com/uc?id=1A6gLfY_xP9--fu9nHUeXelzr0WpmCaoX" caption="Udsmykning af elevdør" alt="Udsmykning af elevdør" %}
 
 {% include gallery caption="Billeder fra projektet" %}

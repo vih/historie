@@ -6,10 +6,10 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2018
-  - dagbog
 excerpt: "Se hvad der sker, når mangfoldigheden bringes i spil på højskolen. Højskoleformen kan udvide elevers ekkokammer og skabe social forståelse."
 header:
   overlay_color: "#1aa2dd"
+  teaser: https://drive.google.com/uc?id=1A6gLfY_xP9--fu9nHUeXelzr0WpmCaoX
 toc: true
 sidebar:
   nav: "yearbook-2018"
@@ -114,4 +114,8 @@ Der tales om polariseringstendenser i samfundet, hvor forsamlingshuse er et sær
 
 På en af årets sidste dage med efterårets elevhold er mine internationale teamelever samlet for at fortælle hinanden en personlig historie om, hvad der har gjort mest indtryk på dem i løbet af deres halve år på skolen, hvad den mest betydningsfulde forandring var for dem. En af mine teamelever starter sin historie med at fortælle, at det har været det bedste halve år i hendes liv, at hun har fået venner for livet, og hun fortsætter med at hylde tanken om, at hun har udvidet sin comfort zone og er stolt af at have fundet ud af, at hun som person, mentalt og fysisk, kan kapere meget mere, end hun troede var muligt. 
 
-Men hendes historie rækker ud over den individuelle succes, da hun fortæller videre. ‘Jeg tror også, at jeg kommer til at blive en person, der meget bedre kan forstå minoriteter, end jeg har kunnet før, fordi jeg nu som international selv har prøvet at være en minoritet - har prøvet, hvad det vil sige at føle sig uden for fællesskabet og at skulle kæmpe sig ind i det, at have prøvet at forlade sit trygge land, sin trygge kultur med familie og et kendt sprog. Det er en gave og en kompetence, som jeg tager med videre i mit liv.’ Som teamlærer, højskolemor og med tanke på mit og skolens mangfoldighedsprojekt bliver jeg med hendes fortælling glad og stolt. Og samtidig vokser mit håb på sammenhængskraftens og samfundets vegne. Og med håbet vokser troen på, at det vi laver på Vejle Idrætshøjskole giver mening i et højere perspektiv. 
+Men hendes historie rækker ud over den individuelle succes, da hun fortæller videre. 
+
+> ‘Jeg tror også, at jeg kommer til at blive en person, der meget bedre kan forstå minoriteter, end jeg har kunnet før, fordi jeg nu som international selv har prøvet at være en minoritet - har prøvet, hvad det vil sige at føle sig uden for fællesskabet og at skulle kæmpe sig ind i det, at have prøvet at forlade sit trygge land, sin trygge kultur med familie og et kendt sprog. Det er en gave og en kompetence, som jeg tager med videre i mit liv.’ 
+
+Som teamlærer, højskolemor og med tanke på mit og skolens mangfoldighedsprojekt bliver jeg med hendes fortælling glad og stolt. Og samtidig vokser mit håb på sammenhængskraftens og samfundets vegne. Og med håbet vokser troen på, at det vi laver på Vejle Idrætshøjskole giver mening i et højere perspektiv. 

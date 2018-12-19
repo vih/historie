@@ -24,7 +24,7 @@ main:
     url: /om/
 
 songs:
-  - title: Sange
+  - title: Vejle Idrætshøjskoles Sange
     url: /sange/
     children:
     - title: "Frem i takt (1949)"

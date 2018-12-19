@@ -3,7 +3,9 @@ title: Frem i takt (1949)
 author: william_hansen
 composer: karl_olav_dahlbæk
 header:
-  overlay_image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=1-i-QnYpwJvU9SjMASBFL01D1XmvngE-C&w=2000&a=attention"
+  overlay_color: "#p0W9kDwB"
+  overlay_image: &image "//images.weserv.nl/?url=https://drive.google.com/uc?id=1-i-QnYpwJvU9SjMASBFL01D1XmvngE-C&w=2000&a=attention"
+  teaser: *image
 category:
   - Sange
   - Officiel skolesang

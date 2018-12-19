@@ -3,7 +3,9 @@ title: "Som grenen bryder ud af stammen (1993)"
 author: sten_kaaloe
 composer: signy_jensen
 header:
-  overlay_image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=1-gyH2Wv92pKRLHsGAl3YGjWIE_nGIZIc&w=2000&a=attention"
+  overlay_color: "#p0W9kDwB"
+  overlay_image: &image "//images.weserv.nl/?url=https://drive.google.com/uc?id=1-gyH2Wv92pKRLHsGAl3YGjWIE_nGIZIc&w=2000&a=attention"
+  teaser: *image
 category:
   - Sange
   - Officiel skolesang

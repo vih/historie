@@ -3,7 +3,9 @@ title: Her i Nørreskoven (2010)
 author: mille_christensen
 composer: mille_christensen
 header:
-  overlay_image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=10-OPzL2wR6sagrymCVSB3ONcyOUpOWrN&w=2000&a=attention"
+  overlay_color: "#p0W9kDwB"
+  overlay_image: &image "//images.weserv.nl/?url=https://drive.google.com/uc?id=10-OPzL2wR6sagrymCVSB3ONcyOUpOWrN&w=2000&a=attention"
+  teaser: *image
 category:
   - Sange
   - Officiel skolesang

@@ -6,6 +6,7 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2017
+  - pædagogik
 excerpt: "Martin Davidsen, højskolelærer og sportsjournalist, fortæller om en ny linje med fokus på sportsjournalistik. Eleverne skal i et halvt år prøve kræfter med disciplinen og snuser til fagets mange facetter."
 header:
   overlay_image: /assets/images/yearbooks/2017/sportsjournalist.jpg

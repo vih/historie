@@ -6,6 +6,7 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2017
+  - pædagogik
 excerpt: "På Vejle Idrætshøjskole har lærerne i fællesskab defineret forståelsen af demokratisk dannelse, som er en del af hovedsigtet i højskoleloven. Forståelsen tager udgangspunkt i, hvordan vi får besvaret spørgsmålet: <q>Hvordan vil vi gerne leve sammen?</q>. Lars Olesen, viceforstander, samlede det til en artikle i antologien Demokratisk Dannelse, som blev udgivet af FFD. Læs den her."
 header:
   overlay_image: /assets/images/yearbooks/2017/demokratisk-dannelse.jpg

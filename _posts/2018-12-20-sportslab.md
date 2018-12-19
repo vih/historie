@@ -6,6 +6,7 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2018
+  - pædagogik
 excerpt: "En eliteløber mod fire højskoleelever. En cykelrytter på havelåge mod en amatør. En bøf mod en boldspils-spirrevip. Hvem mon vinder?"
 header:
   overlay_color: "#1aa2dd"

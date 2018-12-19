@@ -6,6 +6,7 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2017
+  - tale
 excerpt: "Jannie Tolstrup, højskoleelev, har øvet sig et helt semester for at lære at spille klaver. Og hun lærte at spille _Hjem_ med Sanne Salomonsen. Her er Jannies tale fra afslutningsmiddagen for efterårsholdet 2017, hvor hun knytter lidt flere ord til, hvorfor sangen har betydet så meget for hende og efterårsholdet."
 header:
   overlay_image: /assets/images/yearbooks/2017/jannie-tolstrup.jpg

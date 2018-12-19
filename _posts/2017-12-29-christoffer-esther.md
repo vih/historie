@@ -6,6 +6,7 @@ authors:
   - esther_steingrimsdottir
 category:
   - Årsskrift
+  - tale
 tags:
   - Årsskrift 2017
 excerpt: "Hvert år beder vi to elever holde tale til afslutningsmiddagen. Her kan du læse Christoffers (nordjyde) og Esthers (islænding) tale til afslutningsmiddagen for efterårsholdet 2017."

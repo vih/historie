@@ -106,7 +106,7 @@ lsolesen:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/lsolesen"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lsolesen/"
   featured: true
 thormod_petersen:
@@ -233,7 +233,7 @@ martin_davidsen:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mpbdavidsen"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/martin-davidsen-915b1231"
   featured: true
 peter_sebastian_petersen:
@@ -268,7 +268,7 @@ per_jensen:
   avatar: "/assets/images/authors/per-jensen.jpg"
   links:
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/per-jensen-41093730"
   featured: true
 martin_madsen:
@@ -283,7 +283,7 @@ elmo_pedersen:
 dy_plambeck:
   name: "Dy Plambeck"
   bio: "Forfatter og har skrevet teksten til jubilæumssangen fra 2017."
-  avatar: "/assets/images/authors/default-profile.png"
+  avatar: "https://forfatterweb.dk/sites/default/files/styles/medium/public/img-artikel/plambeck_dy_kap.jpg?itok=JkdT337-"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -291,7 +291,7 @@ dy_plambeck:
 michael_bojesen:
   name: "Michael Bojesen"
   bio: "Komponist og har skrevet melodien til jubilæumssangen fra 2017."
-  avatar: "/assets/images/authors/default-profile.png"
+  avatar: "http://s3.amazonaws.com/static.musicsalesclassical.com/images/composer/img-1951.jpg"
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -303,23 +303,23 @@ astrid_hartvig:
 kristian_enevoldsen:
   name: "Kristian Enevoldsen"
   bio: "Pianist og komponist. Har bl.a. i 2018 skrevet et nyt bud på en melodi til jubilæumssangen fra 1993."
-  avatar: "/assets/images/authors/default-profile.png"
+  avatar: "http://blesstheday.dk/wp-content/uploads/2014/10/kristian_enevoldsen_200.jpg"
 martin_olsen:
   name: "Martin Olsen"
   bio: "Højskolelærer på Vejle Idrætshøjskole."
-  avatar: "/assets/images/authors/default-profile.png"
+  avatar: "https://www.vih.dk/sites/vih/files/styles/medium/public/laerere-32_0.jpg?itok=duMB0SOi"
 anne_vinternes:
   name: "Anne Vinternes"
   bio: "Unglærer på Vejle Idrætshøjskole i foråret 2018."
-  avatar: "/assets/images/authors/default-profile.png"
+  avatar: "http://dev.vih.dk/sites/vih.local/files/employees/anne-1.jpg?itok=sCSe_L8G"
 birte_christensen:
   name: "Birte Christensen"
   bio: "Datter af skolens grundlægger, Svend Aaage Thomsen."
-  avatar: "/assets/images/authors/default-profile.png"
+  avatar: "/assets/images/authors/birte-christensen.png"
 axel_gyntler:
   name: "Axel Gyntler"
   bio: "Søn af Leo Gyntler, tidligere Dansk Håndbold-Forbund, som havde sin faste gang på Den Jyske Idrætsskole i 1940'erne og 1950'erne."
-  avatar: "/assets/images/authors/default-profile.png"
+  avatar: "https://media.licdn.com/dms/image/C5603AQFY5rYAi8R6Lw/profile-displayphoto-shrink_800_800/0?e=1550707200&v=beta&t=ZRDNAJT_aX02nvgpepRbgI_itRRF_0y_Gx3bQVLbsd4"
 poul_grejs:
   name: "Poul Grejs"
   bio: "Mangeårig bestyrelsesformand på Vejle Idrætshøjskole og -Idrætsefterskole."

@@ -6,6 +6,7 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2018
+  - pædagogik
 excerpt: "Se hvad der sker, når mangfoldigheden bringes i spil på højskolen. Højskoleformen kan udvide elevers ekkokammer og skabe social forståelse."
 header:
   overlay_color: "#1aa2dd"
@@ -80,7 +81,7 @@ I den første uge med eleverne fik alle elever via sangens kraft et umiddelbart 
 
 De øvrige fotos afspejler en af de aktiviteter, jeg har lavet som del af mit mangfoldighedsfokus. Det viser elever, der sidder i Havestuen på Vejle Idrætshøjskole på en dag i oktober, lige inden der ankommer 40 nye elever. Selvom fokus på det tidspunkt i semesteret er rigtig meget på, hvad gør vi for at inkludere de nye elever i fællesskabet, så handler det denne formiddag om, at få dannet flere rødder og nye, alternative rødder i det allerede eksisterende fællesskab. Lærergruppen har denne dag stillet en portrætopgave, der via en række konkrete spørgsmål skal føre til, at eleverne i par taler sammen og derefter skriver et portræt af hinanden. Det inviterer til en samtale menneske til menneske mellem elever, der ikke i forvejen har en tæt relation og som måske ikke naturligt finder hinanden. De går på samme elevhold, har måske fag sammen, men derudover har vi ikke kendskab til, at de har en større kontakt. Vi har matchet dem ud fra forskellige principper og kriterier, vurderet, at det kunne tjene begge parter godt at få øjnene op for hinandens verdener, baggrund og livssyn.
 
-{% include gallery caption="Eleverne sidder i Havestuen og laver en portrætopgave" layout="half" %}
+{% include gallery caption="Eleverne sidder i Havestuen og laver en portrætopgave" layout="half" class="full" %}
 
 ## En automatisk folkelig oplysning og en folkelig oplysning, der hjælpes på vej
 

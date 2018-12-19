@@ -78,3 +78,5 @@ Dy fortsætter:
 > Det der med ligesom at vågne. Det var meget den fornemmelse, jeg gerne ville have ind. Det første vers starter også med at der er nogen der vågner. Det er et vi der taler i sangen. Den der drøm forsvinder. Det er ligesom en cyklus, der er i sangen. En cirkel. For man ender ved det der vor  og med den der fugl, der bliver beskrevet i første vers er også med femte vers. Og den der drøm der er forsvundet. Og fuglen der synger morgengryet ind igen.
  
 Nu har Vejle Idrætshøjskole og -Idrætsefterskole fået en morgensang, som vi glæder os til at synge i mange år fremover. En sang som vi også håber kan finde sin vej til Højskolesangbogens næste udgave.
+
+{% include video provider="youtube" id="8u1yR2rBCAY" %}

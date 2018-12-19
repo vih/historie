@@ -7,6 +7,7 @@ category:
 tags:
  - Hans Lauge
 header:
+  overlay_color: "#77bddb"
   overlay_image: /assets/images/podcasts/hans-lauge-2018.jpg
   teaser: /assets/images/podcasts/hans-lauge-2018.jpg
   caption: "Foto: Lars Olesen, 2018"

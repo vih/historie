@@ -3,6 +3,7 @@ title: Et Tilbageblik på Den Jyske Idrætsskoles Tilblivelse
 author: svend_aage_thomsen
 permalink: /tilblivelsen/
 header:
+  overlay_color: "#686868"
   overlay_image: https://drive.google.com/uc?id=0B5v4mAibvkKXMHRVdU4zWUswa1E
   caption: Hovedbygningen på Den Jyske Idrætsskole er i gang.
 category:

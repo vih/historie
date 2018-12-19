@@ -7,6 +7,7 @@ category:
 tags:
  - Lischen Lyngholm
 header:
+  overlay_color: "#818181"
   overlay_image: /assets/images/podcasts/lischen-lyngholm-2018.jpg
   teaser: /assets/images/podcasts/lischen-lyngholm-2018.jpg
   caption: "Foto: Lars Olesen, 2018"

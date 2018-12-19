@@ -7,6 +7,7 @@ category:
 tags:
  - Svend Aage Thomsen
 header:
+  overlay_color: "#746f74"
   overlay_image: /assets/images/podcasts/birte-christensen-2018.jpg
   teaser: /assets/images/podcasts/birte-christensen-2018.jpg
   caption: "Foto: Lars Olesen, 2018"

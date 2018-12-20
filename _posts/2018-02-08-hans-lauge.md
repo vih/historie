@@ -10,6 +10,11 @@ header:
   overlay_image: /assets/images/podcasts/hans-lauge-2018.jpg
   teaser: /assets/images/podcasts/hans-lauge-2018.jpg
   caption: "Foto: Lars Olesen, 2018"
+sidebar:
+  - title: Vejle Idrætshøjskoles Stemmer
+    image: /assets/podcasts/cover-stemmer.png
+    image_alt: "Vejle Idrætshøjskoles Stemmer"
+    text: "Podcast af og om menneskene på Vejle Idrætshøjskole. [Lyt til flere afsnit](/podcast/)"
 # Podcast
 listen_time: true
 episode_cover: /assets/podcasts/cover-stemmer.png

@@ -9,6 +9,11 @@ tags:
   - Jørn Richter
   - menneskesyn
   - idrætssyn
+sidebar:
+  - title: Vejle Idrætshøjskoles Stemmer
+    image: /assets/podcasts/cover-stemmer.png
+    image_alt: "Vejle Idrætshøjskoles Stemmer"
+    text: "Podcast af og om menneskene på Vejle Idrætshøjskole. [Lyt til flere afsnit](/podcast/)"
 # Podcast
 listen_time: true
 episode_cover: /assets/podcasts/cover-stemmer.png

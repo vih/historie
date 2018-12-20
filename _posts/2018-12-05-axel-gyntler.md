@@ -6,6 +6,7 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2018
+  - Svend Aage Thomsen
 excerpt: "Axel Gyntler, søn af Leo Gyntler, fulgte Den Jyske Idrætsskole tæt i de første år. Læs vores e-mail-udveksling med Axel."
 header:
   overlay_color: "#1aa2dd"

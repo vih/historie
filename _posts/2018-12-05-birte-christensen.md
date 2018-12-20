@@ -6,6 +6,7 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2018
+  - Svend Aage Thomsen
 excerpt: "Svend Aage Thomsen datter, Birte Christensen, husker tilbage på sine gode år på den Jyske Idrætsskole fra 1942 - 1961."
 header:
   overlay_image: /assets/images/podcasts/birte-christensen-2018.jpg

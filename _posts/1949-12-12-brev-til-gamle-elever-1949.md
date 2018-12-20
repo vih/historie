@@ -1,5 +1,6 @@
 ---
 title: Kære gamle Elever! fra Årsskrift 1949
+permalink: /dagbog/1949/
 author: svend_aage_thomsen
 category:
   - Årsskrift
@@ -23,7 +24,7 @@ Aarsskrift 1947: Med Udvidelsen har det lange Udsigter, Byggesituationen er vans
 
 Aarsskrift 1948: Hvorledes gaar det med den planlagte Udvidelse? Ikke godt, der gives ikke Tilladelse til Skolebyggeri endnu, men til næste Aar haaber jeg at have godt nyt at fortælle.
 
-Aarsskrift 1949 ???
+Aarsskrift 1949: ???
 
 Nu har jeg virkelig godt nyt at fortælle, som min Indledning vel allerede har sagt jer, og jeg skal prøve at fremsætte Nyhederne i den Rækkefølge, de er fremkommet.
 

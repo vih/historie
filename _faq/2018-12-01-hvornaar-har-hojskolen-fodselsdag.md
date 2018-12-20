@@ -20,11 +20,11 @@ I [Ole Worms beretning om højskolens start](/dji-start/) oplistes følgende cen
 - 05.12.1943 DJI åbner officielt
 - 30.05.1945 DJI godkendes som faghøjskole
 
-I [årsskriftet fra 1949 skriver Svend Aage Thomsen](/årsskrift/brev-til-gamle-elever/), at skolen har 6 års fødselsdag den 3. juli, hvilket betyder, at Svend Aage Thomsen anser datoen for det først afholdte kursus (som var Dansk Håndbold Forbund) som skolens fødselsdag. 
+I [årsskriftet fra 1949 skriver Svend Aage Thomsen](/dagbog/1949/), at skolen har 6 års fødselsdag den 3. juli, hvilket betyder, at Svend Aage Thomsen anser datoen for det først afholdte kursus (som var Dansk Håndbold Forbund) som skolens fødselsdag. 
 
-I [årsskriftet fra 1967 skriver Otto Lassen](/årsskrift/otto-lassen-indledning/), at forretningsudvalget valgte at bruge datoen for grundstensnedlæggelsen den 3. oktober 1942 som skolens fødselsdag, så skolen på denne dato i 1967 kunne fejre 25 års jubilæum.
+I [årsskriftet fra 1967 skriver Otto Lassen](/aarsskrift/1967/indledning/), at forretningsudvalget valgte at bruge datoen for grundstensnedlæggelsen den 3. oktober 1942 som skolens fødselsdag, så skolen på denne dato i 1967 kunne fejre 25 års jubilæum.
 
-[Otto Lassen skriver](/årsskrift/otto-lassen-indledning/) også, at man kraftigt overvejede at bruge den 25. januar 1942 som skolens fødselsdag, da det var her repræsentantskabet trådte sammen og godkendte fundats og tegninger til skolen for første gang.
+[Otto Lassen skriver](/aarsskrift/1967/indledning/) også, at man kraftigt overvejede at bruge den 25. januar 1942 som skolens fødselsdag, da det var her repræsentantskabet trådte sammen og godkendte fundats og tegninger til skolen for første gang.
 
 I højskolekredse betragtes skolen først som værende etableret i 1943, da de regner det første højskoleelevhold som skolens fødselsdag. Det første højskoleelevhold startede 3. november 1943.
 

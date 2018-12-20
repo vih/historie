@@ -1,6 +1,7 @@
 ---
 title: "I anledning af..."
 author: otto_lassen
+permalink: /aarsskrift/1967/indledning/
 category:
   - Årsskrift
 tags:

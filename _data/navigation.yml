@@ -23,6 +23,21 @@ main:
   - title: "Om"
     url: /om/
 
+songs:
+  - title: Vejle Idrætshøjskoles Sange
+    url: /sange/
+    children:
+    - title: "Frem i takt (1949)"
+      url: "/sang/1949/"
+    - title: "Som grenen bryder ud (1993)"
+      url: "/sang/1993/"
+    - title: "Her i Nørreskoven (2010)"
+      url: "/sang/2010/"
+    - title: "En sang om livsmod (2017)"
+      url: "/sang/2017/"
+    - title: "Som grenen bryder ud (2018)"
+      url: "/sang/2018/"
+
 yearbook-2017:
   - title: Årsskrift 2017
     url: /aarsskrift/2017/

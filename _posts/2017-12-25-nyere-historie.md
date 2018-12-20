@@ -97,7 +97,7 @@ Vi er ved at samle historien i flere detaljer ved retrospektivt at udforme dagb√
 
 <dl>
 {% for post in site_posts %}
-  <dt><a href="{{ post.url | absolute_url }}" rel="permalink">{{ post.title }}</a></dt>
+  <dt><a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a></dt>
   <dd>{{ post.excerpt }}</dd>
 {% endfor %}
 </dl>

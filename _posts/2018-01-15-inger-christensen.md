@@ -8,6 +8,7 @@ tags:
  - stråtækte hus
  - Højskoledagen
 header:
+  overlay_color: "#591518"
   overlay_image: /assets/images/podcasts/inger-christensen-2018.jpg
   teaser: /assets/images/podcasts/inger-christensen-2018.jpg
   caption: "Foto: Lars Olesen, 2018"

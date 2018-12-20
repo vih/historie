@@ -78,6 +78,10 @@ Vågn nu op. Det er morgengry.
 
 _Og så ser du: i natten skiftede du ham..._  
 
+## Video
+
+{% include video provider="youtube" id="8u1yR2rBCAY" %}
+
 ## Noder
 
 [<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1-i4gLDOQT7wFsimUi4X_Zyzd_rFpxnFT){: .btn .btn--danger .btn--primary .btn--large}

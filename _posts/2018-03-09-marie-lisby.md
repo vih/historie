@@ -8,6 +8,7 @@ tags:
  - Marie Lisby
  - kursuscenter
 header:
+  overlay_color: "#525252"
   overlay_image: /assets/images/podcasts/marie-lisby-2018.jpg
   teaser: /assets/images/podcasts/marie-lisby-2018.jpg
   caption: "Foto: Lars Olesen, 2018"

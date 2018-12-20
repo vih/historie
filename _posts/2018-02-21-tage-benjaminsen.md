@@ -7,6 +7,7 @@ category:
 tags:
  - Tage Benjaminsen
 header:
+  overlay_color: "#0a0a0a"
   overlay_image: /assets/images/podcasts/tage-benjaminsen-2018.jpg
   teaser: /assets/images/podcasts/tage-benjaminsen-2018.jpg
   caption: "Foto: Lars Olesen, 2018"

@@ -6,6 +6,7 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2017
+  - tale
 excerpt: "Den sidste fest for eleverne for efteråret 2017 var en gallafest. Højskoleelev, Laura Wobeser Sparre, holdt tale, hvor hun satte ord på, hvad V.I.H. står for."
 header:
   overlay_image: /assets/images/yearbooks/2017/laura-wobeser-sparre.jpg

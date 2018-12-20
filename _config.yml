@@ -335,6 +335,7 @@ defaults:
       comments: true
       share: true
       related: true
+      breadcrumbs: true
 # _yearbooks
   - scope:
       path: ""

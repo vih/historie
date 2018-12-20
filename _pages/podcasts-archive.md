@@ -16,4 +16,9 @@ header:
     - label: "<i class='fas fa-podcast'></i> Podcast feed"
       url: "/feed/podcast/" 
 classes: wide
+sidebar:
+  - title: Vejle Idrætshøjskoles Stemmer
+    image: /assets/podcasts/cover-stemmer.png
+    image_alt: "Vejle Idrætshøjskoles Stemmer"
+    text: "Podcast af og om menneskene på Vejle Idrætshøjskole"
 ---

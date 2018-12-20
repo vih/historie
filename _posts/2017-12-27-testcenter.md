@@ -14,8 +14,9 @@ header:
   caption: "Testcenteret har tid til dig, hvis du vil holde styr på din træning"
   overlay_color: "#2ae"
   overlay_filter: rgba(26, 162, 221, 0.7)
-  cta_url: "http://testcenter.vih.dk"
-  cta_label: "<i class='fas fa-arrow-alt-circle-right'></i> Book din egen tid i testcenteret"
+  actions:
+    - label: "<i class='fas fa-arrow-alt-circle-right'></i> Book din egen tid i testcenteret"
+      url: "http://testcenter.vih.dk" 
 toc: false
 sidebar:
   nav: "yearbook-2017"

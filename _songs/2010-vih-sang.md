@@ -3,7 +3,9 @@ title: Her i Nørreskoven (2010)
 author: mille_christensen
 composer: mille_christensen
 header:
-  overlay_image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=10-OPzL2wR6sagrymCVSB3ONcyOUpOWrN&w=2000&a=attention"
+  overlay_color: "#p0W9kDwB"
+  overlay_image: &image "//images.weserv.nl/?url=https://drive.google.com/uc?id=10-OPzL2wR6sagrymCVSB3ONcyOUpOWrN&w=2000&a=attention"
+  teaser: *image
 category:
   - Sange
   - Officiel skolesang
@@ -14,7 +16,8 @@ sidebar:
   - title: "Vejle Idrætshøjskoles Sange"
     image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=10k7zuB8CRXnnKxBye_kIzKdBnO5uKGwi&w=300&a=attention&t=square"
     image_alt: "Vejle Idrætshøjskoles Sange"
-    text: "Indspillet i 2018 af Mille Sigsgaard Christensen. **Køb den eller stream den fra din foretrukne musiktjeneste.**"
+    text: "Indspillet i 2018 af Mille Sigsgaard Christensen. **Køb den eller stream den fra din foretrukne musiktjeneste**, fx [Google Play](https://play.google.com/music/listen#/album/Birdaib4zktzgwthhtd4uxlafta), [Itunes](https://itunes.apple.com/album/-/id1444457441), [Deezer](https://www.deezer.com/da/album/79792202), [Tidal](https://listen.tidal.com/album/99556066), [Spotify](https://play.spotify.com/album/6vpvN8PtyRg7wYLUqIdlbI), [YouSee](https://musik.yousee.dk/album/202470120/vejle-idraetshojskoles-sange)."
+    nav: songs
 ---
 
 ## Teksten

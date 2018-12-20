@@ -8,6 +8,11 @@ header:
   video:
     id: EXLi7vWhLFw
     provider: youtube
+sidebar:
+  - title: Vejle Idrætshøjskoles Stemmer
+    image: /assets/podcasts/cover-stemmer.png
+    image_alt: "Vejle Idrætshøjskoles Stemmer"
+    text: "Podcast af og om menneskene på Vejle Idrætshøjskole. [Lyt til flere afsnit](/podcast/)"
 category:
   - Podcast
   - Video

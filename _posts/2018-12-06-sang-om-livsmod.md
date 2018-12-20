@@ -9,7 +9,7 @@ tags:
   - sange
 excerpt: "Nu har vi officielt lanceret _En sang om Livsmod_ skrevet af Michael Bojesen og Dy Plambeck. Peter Sebastian Petersen fortæller historien bag sangen."
 header:
-  overlay_image: &image https://drive.google.com/uc?id=116zeaTjBm_X8KuiSozI1aCkkF56dxbxM
+  overlay_image: &image //images.weserv.nl/?url=https://drive.google.com/uc?id=116zeaTjBm_X8KuiSozI1aCkkF56dxbxM&w=2000
   overlay_color: "#1aa2dd"
   teaser: *image
 toc: true

@@ -10,7 +10,7 @@ tags:
 excerpt: "Axel Gyntler, søn af Leo Gyntler, fulgte Den Jyske Idrætsskole tæt i de første år. Læs vores e-mail-udveksling med Axel."
 header:
   overlay_color: "#1aa2dd"
-  overlay_image: &image https://drive.google.com/uc?id=1-tK0g3xB0wHcuuJHNlCkyiVEb__ZQ0iJ
+  overlay_image: &image //images.weserv.nl/?url=https://drive.google.com/uc?id=1-tK0g3xB0wHcuuJHNlCkyiVEb__ZQ0iJ&w=2000
   teaser: *image
   caption: "Fjernsynet gør sit indtog på Den Jyske Idrætsskole - og Axel Gyntler kigger med."
 toc: true

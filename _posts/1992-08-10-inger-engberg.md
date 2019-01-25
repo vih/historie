@@ -8,6 +8,7 @@ category:
 tags:
   - Jubilæumsskrift 1992
   - Inger Engberg
+  - Danmarks Idrætsforbund
 excerpt: "Skolens mangeårige formand, Inger Engberg, giver sit bud på Den Jyske Idrætsskoles virke."
 ---
 

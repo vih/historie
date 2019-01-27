@@ -1,12 +1,13 @@
 ---
 title: Idrætsskole eller Folkehøjskole
-author: søren_haugstrup_jensen
-permalink: /haugstrups-tale-aabningsmoede/
 category:
   - Årsskrift
 tags:
   - Årsskrift 1944
-excerpt: "Søren Haugstrup skriver lidt om ordvalget og hvorvidt DJI skulle opfattes som en højskole."
+  - højskole
+excerpt: >-
+  Søren Haugstrup skriver lidt om ordvalget og hvorvidt DJI skulle opfattes som
+  en højskole.
 ---
 
 **TALE VED AABNINGSMØDET DEN 5. DECEMBER 1943**

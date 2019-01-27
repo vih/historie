@@ -26,4 +26,4 @@ collections:
           - {label: Overlay color, name: overlay_color, widget: string}
           - {label: Overlay image, name: overlay_image, widget: string}
           - {label: Caption, name: caption, widget: string}
-      - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown"}

@@ -41,6 +41,7 @@ collections:
     label: "Authors"
     files: 
       - file: "_data/authors.yml"
+        name: "authors"
         label: "Authors"
         format: yaml
         extension: yml

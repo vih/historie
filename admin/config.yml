@@ -16,7 +16,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "string", hidden: true, required: false}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false}
       - {label: "Category", name: "category", widget: "list", allow_add: false}
       - {label: "Tags", name: "tags", widget: "list", allow_add: false}
       - {label: "Excerpt", name: "excerpt", widget: "string"}
@@ -37,8 +37,8 @@ collections:
         required: false
         fields:
           - {label: Sidebar Navigation, name: nav, widget: string, required: false}
-  - name: "authors"
-    label: "Authors"
+  - name: "pages"
+    label: "Pages"
     files: 
       - file: "_data/authors.yml"
         name: "authors"

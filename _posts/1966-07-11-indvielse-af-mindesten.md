@@ -10,6 +10,7 @@ category:
 tags:
   - Svend Aage Thomsen
   - Årsskrift 1966
+  - Årbog 1960
 excerpt: "Indtryk fra afsløringen af mindestenen for Svend Aage Thomsen i 1966"
 toc: true
 ---

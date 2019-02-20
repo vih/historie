@@ -5,6 +5,7 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 1967
+  - Dansk Idræts-Forbund
 excerpt: "Parly Jensen forholder sig kritisk til demokratiet på DJI og udviklingen på skolen ift. Dansk Idræts-Forbund."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Kære gamle Elever! fra Årsskrift
+title: Kære gamle Elever! fra Årsskrift 1956
 permalink: /dagbog/1955/
 author: svend_aage_thomsen
 category:

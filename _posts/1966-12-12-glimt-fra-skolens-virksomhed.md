@@ -5,6 +5,7 @@ category:
   - Årsskrift
 tags:
   - Årbog 1966
+  - dagbog
 excerpt: "Aksel Bjerregaard samler op på året."
 ---
 

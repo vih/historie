@@ -20,32 +20,32 @@ Stort set var alle bygninger under tag, inden vinteren for alvor satte ind førs
 
 Nogle enkelte data fra bygge dagbogen: 
 
-14\. januar: Ovenlys færdig i idrætshal. 
-23\. januar: Køkkenmaskiner indsættes. 
-1\. februar: Køkkeninventar indsættes, maler begynder i idrætshallen. 
-10\. februar: Snestorm, håndværkerne sneet ude et dage. 
-28\. februar: Malerne begynder i elevbygningen. 
-6\. marts: Licitation på møbler. 
-17\. marts: Inventar i elevværelser opsættes. 
-31\. marts: Der lægges elastogulv i gymnastiksal. 
-8\. april: Omforandring af den gamle hovedbygning påbegyndes. 
-16\. april: Lægning af venylgulve startes. 
-24\. april: Vejanlægget påbegyndes. 
-29\. april: Gymnastiksalen er færdig. 
-30\. april: Køkkenet tages i brug. Madrasser ankommer 
-2\. maj: Foredragssal og 1. sal i elevbygning er klar. 
-3\. maj: Sommerpigerne ankommer og rykker ind i de nye værelser.
-6\. maj: Det nye køkken og spisesalen tages i brug. 
+14\. januar: Ovenlys færdig i idrætshal.  
+23\. januar: Køkkenmaskiner indsættes.  
+1\. februar: Køkkeninventar indsættes, maler begynder i idrætshallen.  
+10\. februar: Snestorm, håndværkerne sneet ude et dage.  
+28\. februar: Malerne begynder i elevbygningen.  
+6\. marts: Licitation på møbler.  
+17\. marts: Inventar i elevværelser opsættes.  
+31\. marts: Der lægges elastogulv i gymnastiksal.  
+8\. april: Omforandring af den gamle hovedbygning påbegyndes.  
+16\. april: Lægning af venylgulve startes.  
+24\. april: Vejanlægget påbegyndes.  
+29\. april: Gymnastiksalen er færdig.   
+30\. april: Køkkenet tages i brug. Madrasser ankommer   
+2\. maj: Foredragssal og 1. sal i elevbygning er klar.  
+3\. maj: Sommerpigerne ankommer og rykker ind i de nye værelser.  
+6\. maj: Det nye køkken og spisesalen tages i brug.  
 
 Skolearbejdet gik sin gang, medens håndværkerne arbejdede på livet løs med at få alle de øvrige bygninger, svømmebassin og udendørs anlæg færdige. Det så til tider håbløst ud, og vi havde vore tvivl, om vi kunne nå at blive færdige til den 20. juli. Vi havde jo forespurgt Hans Majestæt Kongen, om han ville komme til stede, og da tilsagnet forelå, var der kun eet at gøre — vi skulle være færdige. 
 
-10\. juni: Begyndte at lægge gulv i idrætshal. Elevbygning er nu færdig. 
-3\. juli: Vejtromlen ankommer, og belægning af vejbaner påbegyndes. 
-10\. juli: Asfalt pålægges, og svømmebassinet males. 
-14\. juli: Vejle brandvæsen fylder svømmebassinet. 
-18\. juli: Øsende regnvejr, og vi mangler endnu meget. 
-19\. juli: Opholdsvejr til de sidste hektiske forberedelser. 
-20\. juli: Den store dag oprinder med strålende solskin. 
+10\. juni: Begyndte at lægge gulv i idrætshal. Elevbygning er nu færdig.  
+3\. juli: Vejtromlen ankommer, og belægning af vejbaner påbegyndes.  
+10\. juli: Asfalt pålægges, og svømmebassinet males.  
+14\. juli: Vejle brandvæsen fylder svømmebassinet.  
+18\. juli: Øsende regnvejr, og vi mangler endnu meget.  
+19\. juli: Opholdsvejr til de sidste hektiske forberedelser.  
+20\. juli: Den store dag oprinder med strålende solskin.  
 
 Helt færdige var vi vel ikke; der var endnu meget at gøre med detaljer, og den sidste håndværker har endnu ikke forladt skolen, når disse linier skrives.
 

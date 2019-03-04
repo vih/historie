@@ -1,11 +1,11 @@
 ---
-title: Kære gamle Elever! fra Årsskrift 1958
-permalink: /dagbog/1958/
+title: Kære gamle Elever! fra Årsskrift 1957
+permalink: /dagbog/1957/
 author: svend_aage_thomsen
 category:
   - Årsskrift
 tags:
-  - Årsskrift 1958
+  - Årsskrift 1957
   - dagbog
 excerpt: "Svend Aage Thomsens skriver sin årsberetning til de tidligere elever."
 ---
@@ -50,18 +50,18 @@ Desuden får vi to nye fodboldbaner, en kastebane og en tennisbane.
 
 Nogle få data fra byggeriet: 
 
-25\. februar: Licitation. 
-21\. marts: Endeligt tilsagn fra byggemyndighederne. 
-26\. marts: Grunden sættes af. 
-27\. marts: Vinter Eleverne tager det første spadestik. 
+25\. februar: Licitation.  
+21\. marts: Endeligt tilsagn fra byggemyndighederne.  
+26\. marts: Grunden sættes af.  
+27\. marts: Vinter Eleverne tager det første spadestik.  
 
 Nu gik det hurtigt; bulldozerne og gravemaskinerne ordnede pladsen, støbningen af kældre og fundamenter gik programmæssigt, og den 
 
-26\. juni var køkken, spisesal og foredragssal i rejsehøjde. 
-13\. august: Elevbygning i rejsehøjde. 
-29\. august: Gymnastiksal i rejsehøjde. 
-17\. september: Rejsegilde. 
-19\. oktober: Alle større bygninger under tag. 
+26\. juni var køkken, spisesal og foredragssal i rejsehøjde.  
+13\. august: Elevbygning i rejsehøjde.  
+29\. august: Gymnastiksal i rejsehøjde.  
+17\. september: Rejsegilde.  
+19\. oktober: Alle større bygninger under tag.  
 
 Medens disse linier skrives, lukkes bygningerne, og inden længe kan vi sætte varme på. Uanset vinter og kulde kan arbejdet foregå uhindret inden døre. 
 

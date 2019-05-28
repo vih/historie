@@ -1,5 +1,5 @@
 ---
-title: 8 måneders idræt og højskole
+title: "8 måneders idræt og højskole"
 author: bjarne_hauger
 category:
   - Årsskrift

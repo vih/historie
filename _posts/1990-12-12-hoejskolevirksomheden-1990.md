@@ -7,7 +7,7 @@ category:
 tags:
   - Årsskrift 1990
   - dagbog
-excerpt: "Ole Worms samler op på året."
+excerpt: "Ole Worm samler op på året."
 ---
 
 Staten skal spare. Det gør højskolerne også. Man kan altid drøfte fordelingspolitikken og sluttelig også drøfte, hvad samfundet i grunden vil med de danske folkehøjskoler. Vi har en rodfæstet tradition for, at dette pædagogiske eksperiment, som er det eneste større, Danmark har lavet, eksisterer dels ved stædige højskolefolks tro på sagen dels ved nogle folketingspolitikers bevågenhed. Det sidste er ikke nogen lov, men alene grundet i vor skoleforms nytte. Logisk må skolernes frihed øges i takt med, at de i stigende grad bliver selvfinansierende. På en række områder så jeg gerne, at direktoratets begrænsninger af friheden, blev fjernet. Jeg tænker bl.a. på betingelserne for godkendelse af de korte kurser. Tiden er måske moden til, at den gamle lov erstattes af folkehøjskolernes egen lov? 

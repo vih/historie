@@ -33,6 +33,12 @@ _Vi er først lige begyndt at lave biografier på nogle af de væsentlige person
 
 {% include posts-persons.html author=page.author_name tag=page.title %}
 
+## Mere om Villy Sørensen
+
+Villy Sørensen fortæller i denne korte film fra Vejle Stadsarkiv om sig selv i "Et demokrati kan ikke leve uden en stærk mand". Filmen er ikke relateret direkte til Den Jyske Idrætsskole, men fortæller om Villy Sørensen.
+
+{% include video provider="vimeo" id="237548697" %}
+
 ## Referencer
 
 - [Vejle Wiki om Willy Sørensen](http://www.vejlewiki.dk/index.php?title=Willy_S%C3%B8rensen)

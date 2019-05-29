@@ -319,9 +319,12 @@ birte_christensen:
 axel_gyntler:
   name: "Axel Gyntler"
   bio: "Søn af Leo Gyntler, tidligere Dansk Håndbold-Forbund, som havde sin faste gang på Den Jyske Idrætsskole i 1940'erne og 1950'erne."
-  avatar: "https://media.licdn.com/dms/image/C5603AQFY5rYAi8R6Lw/profile-displayphoto-shrink_800_800/0?e=1550707200&v=beta&t=ZRDNAJT_aX02nvgpepRbgI_itRRF_0y_Gx3bQVLbsd4"
+  avatar: "https://media.licdn.com/dms/image/C5603AQFY5rYAi8R6Lw/profile-displayphoto-shrink_800_800/0?e=1564617600&v=beta&t=VlfaMbullyPuWRKyfEaTZnICOkzf7zsBlnrp87QhlrY"
 poul_grejs:
   name: "Poul Grejs"
   bio: "Mangeårig bestyrelsesformand på Vejle Idrætshøjskole og -Idrætsefterskole."
   avatar: "/assets/images/authors/default-profile.png"
-  
+parly_jensen:
+  name: "Parly Jensen"
+  bio: "Højskolelærer på Den Jyske Idrætsskole fra 1966-1967."
+  avatar: "/assets/images/authors/default-profile.png"

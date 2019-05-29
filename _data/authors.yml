@@ -324,4 +324,7 @@ poul_grejs:
   name: "Poul Grejs"
   bio: "Mangeårig bestyrelsesformand på Vejle Idrætshøjskole og -Idrætsefterskole."
   avatar: "/assets/images/authors/default-profile.png"
-  
+parly_jensen:
+  name: "Parly Jensen"
+  bio: "Højskolelærer på Den Jyske Idrætsskole fra 1966-1967."
+  avatar: "/assets/images/authors/default-profile.png"

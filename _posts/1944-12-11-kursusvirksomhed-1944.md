@@ -21,10 +21,10 @@ Fremfor at skulle møde til Kursus under daarlige og uhjemlige Forhold, ser vi d
 
 Udfra dette er det tillige vort Haab, at Skolen gennem sin Indsats maa være medvirkende til, at de forskellige Kursister kan rejse hjem med nye Impulser, nyt Mod, øget Dygtighed og større Forstaaelse for Idrættens Værdi i vort Ungdomsarbejde.
 
-- 3/. Juli 1943 rykkede det første Hold ind paa de nyferniserede Gulve. Det var Dansk Haandbold-Forbunds 14 Dages Kursus. For første Gang mødtes vi med Landsinstruktør Axel Pedersen, der viste sig at være en fremragende Leder. Det var lærerige Dage, selv om det tillod sig at regne hver Gang, Axel fløjtede Haandboldspillerne udendørs til Instruktion.
-- 18/. Juli. Jydsk Boldspil-Union. To 8 Dages Kursus. Dygtige Ledere var Vestervig Madsen og Fritz Molnar. J. B. U.s Formand, Niels Madsen, og Sekretær Johs. Høiriis var ivrigt medvirkende alle 14 Dage.
-- 1/. August F. D. F.s Instruktionshøjskole. Leder var Forbundssekretær Erik Petersen, der holdt 25 Mand i Aande paa en mesterlig Maade.
-- 22/. August første Old-boys Kursus, og samtidig kom det danske Cyklelandshold, der skulde dygtiggøre sig med den forestaaende Landskamp med Sverige for øje. Det blev nogle urolige Dage. Jeg selv maatte rejse til Sverige som
+- 3\. Juli 1943 rykkede det første Hold ind paa de nyferniserede Gulve. Det var Dansk Haandbold-Forbunds 14 Dages Kursus. For første Gang mødtes vi med Landsinstruktør Axel Pedersen, der viste sig at være en fremragende Leder. Det var lærerige Dage, selv om det tillod sig at regne hver Gang, Axel fløjtede Haandboldspillerne udendørs til Instruktion.
+- 18\. Juli. Jydsk Boldspil-Union. To 8 Dages Kursus. Dygtige Ledere var Vestervig Madsen og Fritz Molnar. J. B. U.s Formand, Niels Madsen, og Sekretær Johs. Høiriis var ivrigt medvirkende alle 14 Dage.
+- 1\. August F. D. F.s Instruktionshøjskole. Leder var Forbundssekretær Erik Petersen, der holdt 25 Mand i Aande paa en mesterlig Maade.
+- 22\. August første Old-boys Kursus, og samtidig kom det danske Cyklelandshold, der skulde dygtiggøre sig med den forestaaende Landskamp med Sverige for øje. Det blev nogle urolige Dage. Jeg selv maatte rejse til Sverige som
 
 Deltager i Atletiklandskampen og var derfor ikke hjemme, da Deltagerne rejste, nogle af dem over Hals og Hoved. Hvorfor, forstaar I sikkert, naar jeg fortæller, at det var Ugen indtil 29. August. Et Boksekursus og et Kursus i fri Idræt maatte vi desuden aflyse.
 
@@ -32,22 +32,22 @@ Det var jo en lille Streg i Regningen, men det maatte vi tage med godt Humør. N
 
 Sommeren 1944. Efter Vinterskolens Afslutning skulde vi allerede i Paasken have Kursus, og forinden skulde der jo helst gøres hovedrent. I den Anledning blev 7 af Vinterskolens Elever i nogle Dage og hjalp til, saa Huset blev som nyt igen.
 
-- 6/. April. K.F.U.M. Paaskeinstruktionslejr for Idrætsledere.
-- 10/. April. Dansk Atletik-Forbund. 14 Dages Kursus i fri Idræt.
-- 23/. April. Dansk Atletik-Forbund. 14 Dages Kursus i fri Idræt.
-- 3/. Juni. De danske Gymnastikforeninger. 3 Dages Haandbolddommerkursus.
-- 18/. Juni. D. A. F. Første Kursus i fri Idræt for Kvinder. 8 Dage.
-- 1/. Juli. H. K. Sydjydsk Ungdomsgruppe. 2 Dages Orienteringsstævne.
-- 2/. Juli. Vort første Lærerindekurusus. 8 Dage.
-- 9/. Juli. Dansk Idræts-Forbunds Foreningslederkursus. 8 Dage.
-- 16/. Juli. J. B. U. 8 Dages Kursus for Juniorinstruktører
-- 22/. Juli. Vort første Idrætsmærkekursus for Delingsførere 3 Dage.
-- 23/. Juli. J. B. U. 8 Dages Kursus for Juniorinstruktører. 30. Juli. F. D. F. 8 Dages Instruktionshøjskole. 
-- 6/. August. Vort første Lærerkursus. 8 Dage. 
-- 6/. August. Dansk Haandbold-Forbunds 14 Dages Kursus. 
-- 20/. August. Vort andet Old-Boys Kursus. 8 Dage. 
-- 20/. August. D. S. 0. 0. F. 14 Dages Orienteringskursus. 
-- 3/. Septbr. J. A. B. U. 8 Dages Boksekursus.
+- 6\. April. K.F.U.M. Paaskeinstruktionslejr for Idrætsledere.
+- 10\. April. Dansk Atletik-Forbund. 14 Dages Kursus i fri Idræt.
+- 23\. April. Dansk Atletik-Forbund. 14 Dages Kursus i fri Idræt.
+- 3\. Juni. De danske Gymnastikforeninger. 3 Dages Haandbolddommerkursus.
+- 18\. Juni. D. A. F. Første Kursus i fri Idræt for Kvinder. 8 Dage.
+- 1\. Juli. H. K. Sydjydsk Ungdomsgruppe. 2 Dages Orienteringsstævne.
+- 2\. Juli. Vort første Lærerindekurusus. 8 Dage.
+- 9\. Juli. Dansk Idræts-Forbunds Foreningslederkursus. 8 Dage.
+- 16\. Juli. J. B. U. 8 Dages Kursus for Juniorinstruktører
+- 22\. Juli. Vort første Idrætsmærkekursus for Delingsførere 3 Dage.
+- 23\. Juli. J. B. U. 8 Dages Kursus for Juniorinstruktører. 30. Juli. F. D. F. 8 Dages Instruktionshøjskole. 
+- 6\. August. Vort første Lærerkursus. 8 Dage. 
+- 6\. August. Dansk Haandbold-Forbunds 14 Dages Kursus. 
+- 20\. August. Vort andet Old-Boys Kursus. 8 Dage. 
+- 20\. August. D. S. 0. 0. F. 14 Dages Orienteringskursus. 
+- 3\. Septbr. J. A. B. U. 8 Dages Boksekursus.
 
 Dermed var det Slut med Sommerens Kursus, og vi kunde puste lidt, inden vi skulde i Gang med Vinterskolen. Det har været os en stor Glæde, at saa mange Idrætsorganisationer har villet gøre Brug af Skolen, og vi er taknemlige over den Støtte, der dermed er ydet os.
 

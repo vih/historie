@@ -6,7 +6,7 @@ task :test do
       :check_opengraph => true,
       :assume_extension => true,
       :only_4xx => true,
-      :url_ignore => [/drupalcode.org/, /drupal.org/],
+      :url_ignore => [/\/feed\/podcast\//],
       :check_favicon => true,
       :check_html => true,
       :allow_hash_href => true

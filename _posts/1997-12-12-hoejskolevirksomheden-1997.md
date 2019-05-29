@@ -6,7 +6,7 @@ category:
 tags:
   - Årsskrift 1997
   - dagbog
-excerpt: "Ole Worms samler op på året, bl.a. med at konstatere at Globen ikke er en sag for højesteret."
+excerpt: "Ole Worm samler op på året, bl.a. med at konstatere at Globen ikke er en sag for højesteret."
 ---
 
 Globen var ikke en sag for højesteret. Arkitektsagen er definitiv slut, idet Justitsministeriet ikke fandt arkitekternes anke så principiel, at den kunne klare en tredje retsinstans. Enig! 

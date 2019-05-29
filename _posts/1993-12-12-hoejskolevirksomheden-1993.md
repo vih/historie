@@ -7,7 +7,7 @@ category:
 tags:
   - Årsskrift 1993
   - dagbog
-excerpt: "Ole Worms samler op på året."
+excerpt: "Ole Worm samler op på året."
 ---
 
 ## Skolens indre liv 

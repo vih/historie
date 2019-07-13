@@ -10,7 +10,7 @@ tags:
   - Årsskrift 2017
 excerpt: "De ansatte i Testcenteret fortæller om, hvordan testcenteret efterhånden arbejdet sig ind i skolens hverdag og hvad planerne er for de eksterne samarbejder i 2018."
 header:
-  overlay_image: https://vih.dk/sites/vih.local/files/subjects/2k2a0602.jpg
+  overlay_image: /assets/images/2k2a0602.jpg
   caption: "Testcenteret har tid til dig, hvis du vil holde styr på din træning"
   overlay_color: "#2ae"
   overlay_filter: rgba(26, 162, 221, 0.7)

@@ -8,9 +8,11 @@ tags:
 excerpt: "Svend Aage Thomsens bringer et uddrag af den første skoleplan for Den Jyske Idrætsskole."
 ---
 
-»Idrætsskolens Formaal er at skabe et Hjemsted for en grundlæggende Uddannelse i alle Idrætter, hvorved det skal haves for Øje at udbrede kendskabet til og frugtbargøre de Fremskridt, der i Indland og Udland maatte fremkomme paa Idrættens Omraade. Idrætsskolen skal derhos være aaben for enhver sund aandelig Paavirkning og skal navnlig gennem Foredrag af kvalificerede Repræsentanter for Videnskab, Højskole og Kirke etc. søge at orientere Eleverne i Tidens aandelige og kulturelle Strømninger. Idrætsskolen skal navnlig virke for at udbrede kendskabet til Idretten i Befolkningen og fremme Forstaaelse af Idrættens Mission som opdragende Samfundsfaktor.«
+> »Idrætsskolens Formaal er at skabe et Hjemsted for en grundlæggende Uddannelse i alle Idrætter, hvorved det skal haves for Øje at udbrede kendskabet til og frugtbargøre de Fremskridt, der i Indland og Udland maatte fremkomme paa Idrættens Omraade. Idrætsskolen skal derhos være aaben for enhver sund aandelig Paavirkning og skal navnlig gennem Foredrag af kvalificerede Repræsentanter for Videnskab, Højskole og Kirke etc. søge at orientere Eleverne i Tidens aandelige og kulturelle Strømninger. Idrætsskolen skal navnlig virke for at udbrede kendskabet til Idretten i Befolkningen og fremme Forstaaelse af Idrættens Mission som opdragende Samfundsfaktor.«
 
-I vor Skoleplan har jeg uddybet dette og bl.a. skrevet: »Som almindelig Højskole vil den jyske Idrætsskole se det som sin Opgave at uddanne Ledere til det frivillige Ungdomsarbejde med Idræt og Gymnastik i By og paa Land, samt fremme Forstaaelsen af Idrættens Betydning som opdragende Samfundsfaktor.«
+I vor Skoleplan har jeg uddybet dette og bl.a. skrevet: 
+
+> »Som almindelig Højskole vil den jyske Idrætsskole se det som sin Opgave at uddanne Ledere til det frivillige Ungdomsarbejde med Idræt og Gymnastik i By og paa Land, samt fremme Forstaaelsen af Idrættens Betydning som opdragende Samfundsfaktor.«
 
 Da Idræt og Gymnastik imidlertid aldrig i sig selv kan være noget Maal, men kun et Middel i Ungdomsarbejdets Tjeneste, maa de være et Led i en større sammenhæng, og det findes i det folkelige Fællesskab, som vi vil prøve at gøre til en levende virkelighed ved Tale om vort danske og kristne Folkeliv.
 
@@ -29,14 +31,14 @@ Paa Sommerskolen er der desuden Undervisning i Sanglege og Folkedans, ligesom Ho
 
 ## Delingsføreruddannelsen. 
 
-- I det frivillige idrætslige Ungdomsarbejde bestaar der en Vekselvirkning mellem indendørs og udendørs Arbejde, Gymnastiken om Vinteren, fri Idræt og Boldspil om sommeren.
+> I det frivillige idrætslige Ungdomsarbejde bestaar der en Vekselvirkning mellem indendørs og udendørs Arbejde, Gymnastiken om Vinteren, fri Idræt og Boldspil om sommeren.
 
 Medens der i næsten alle Sogne er anlagt Idrætspladser, har Uddannelsen af Ledere i fri Idræt og Boldspil ikke fulgt Trit med denne Udvikling, og den udendørs Idret ligger ikke tilnærmelsesvis paa samme høje Stade som Gymnastikken.
 
 Under Hensyn til denne Udvikling vil den naturlige Forbindelse med Gymnastikken og de øvrige Idrætter blive udbygget, og foruden Delingsføreruddannelse i Gymnastik vil der blive en udvidet Lederuddannelse i fri Idræt og Boldspil, som tager Sigte paa at bringe Arbejdet ind i faste Rammer og ved Hjælp af en god Lederteknik sammen med praktisk kunnen at yde Delingsførerne større Støtte i Ledelsen af de unge paa Idrætspladserne.
 
-Arbejdet legges saaledes til Rette, at de unge, som gaar ud fra Skolen, skal være veludrustede til at staa som Ledere af frivillig Idrzet, Gymnastik og andet Ungdomsarbejde.
+Arbejdet legges saaledes til Rette, at de unge, som gaar ud fra Skolen, skal være veludrustede til at staa som Ledere af frivillig Idræet, Gymnastik og andet Ungdomsarbejde.
 
-Idrætsmærkebestemmelserne vil blive gennemgaaet i Teori og Praksis, og der vil baade paa Vinter- og Sommerskolen blive Lejlighed til at erhverve Idretsmærket.
+Idrætsmærkebestemmelserne vil blive gennemgaaet i Teori og Praksis, og der vil baade paa Vinter- og Sommerskolen blive Lejlighed til at erhverve Idrætsmærket.
 
 _Artiklen af Svend Aage Thomsen blev opfindeligt bragt i Årsskriftet fra 1944_

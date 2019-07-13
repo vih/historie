@@ -24,6 +24,8 @@ sidebar:
 
 På Vejle Idrætshøjskole har lærerne defineret deres forståelse af demokratisk dannelse. Forståelsen tager udgangspunkt i, hvordan vi får besvaret spørgsmålet: ”Hvordan vil vi gerne leve sammen?”. Demokratisk dannelse handler om at turde stå foran andre, at alle får mulighed for at sige noget, at ville byde ind, at have mulighed for medbestemmelse og at være sit ansvar bevidst. Gennem tre konkrete eksempler fra idrætsundervisningen vises, hvordan den demokratiske dannelse sættes i spil i praksis gennem idrættens iboende kvaliteter. Idrætten behøver altså ikke at være noget andet, men kan løfte det lovmæssige krav om demokratisk dannelse i sig selv.
 
+[Køb Demokratisk Dannelse - højskolen til debat hos Saxo*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/demokratisk-dannelse_rasmus-kolby-rahbekrasmus-kolby-rahbek_haeftet_9788771298567){: .btn .btn--large .btn--danger}
+
 ## Forståelsen af demokratisk dannelse
 
 > Vi skulle på faget Det Gælder Livet fortælle en af vores personlige historier for de andre elever. Det gjorde især indtryk på mig, da en elev skulle fortælle. Det var tydeligt, at det var en kæmpe udfordring for hende. Der blev holdt lange pauser med tung vejrtrækning, og hun kæmpede for at holde tårerne inde. Det overraskede mig, at alle andre elever var hundrede procent fokuserede på, hvad der blev sagt. Alle sad bare musestille. Da hun afrundede sit oplæg begyndte folk at klappe; højlydte faste klap, som varede fem gange så lang tid som ved de andres oplæg. Denne form for gensidig respekt gjorde et kæmpe indtryk på mig. (Højskoleelev)
@@ -135,4 +137,6 @@ Vejen til svarene på spørgsmålet om “Hvordan vil vi gerne leve sammen?” k
 
 > Det har især gjort indtryk på mig, at alle hjælper hinanden og altid er klar til at løfte den anden op, hvis der er brug for det. Gøre tårerne til latter. Gøre nederlag til sejr. Det bedste er, at alle er med til at gøre andres mørke dag til den bedste dag - og det allerbedste er, at man er en af dem. (Højskoleelev)
 
-_Artiklen har oprindeligt været bragt i Jonas Møller og Rasmus Kolby, red.: Demokratisk dannelse - højskolen til debat, ISBN-13:9788771298567_
+_Artiklen har oprindeligt været bragt i Jonas Møller og Rasmus Kolby, red.: [Demokratisk Dannelse - højskolen til debat hos Saxo*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/demokratisk-dannelse_rasmus-kolby-rahbekrasmus-kolby-rahbek_haeftet_9788771298567), ISBN-13:9788771298567_
+
+[Køb Demokratisk Dannelse - højskolen til debat hos Saxo*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/demokratisk-dannelse_rasmus-kolby-rahbekrasmus-kolby-rahbek_haeftet_9788771298567){: .btn .btn--large .btn--danger}

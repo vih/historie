@@ -9,7 +9,9 @@ task :test do
       :url_ignore => [/\/feed\/podcast\//],
       :check_favicon => true,
       :check_html => true,
-      :allow_hash_href => true
+      :allow_hash_href => true,
+      :empty_alt_ignore => true,
+      :alt_ignore => '/.*/'
   }
   HTMLProofer.check_directory("./_site", options).run
 end

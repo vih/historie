@@ -1,6 +1,9 @@
 ---
 title: Uddrag af vor skoleplan
 author: svend_aage_thomsen
+permalink: /uddrag-skoleplan-1944/
+redirect_from:
+  - /årsskrift/uddrag-skoleplan/
 category:
   - Årsskrift
 tags:
@@ -18,8 +21,7 @@ Da Idræt og Gymnastik imidlertid aldrig i sig selv kan være noget Maal, men ku
 
 I Undervisningen samler vi os derfor baade om det menneskelige og faglige, saaledes at Forbindelsen mellem disse Omraader stadig fastholdes og styrkes.
 
-Med Hensyn til selve Højskoleundervisningen vil der blive Foredrag med Emner fra det danske Folks Historie og Verdenshistorien, fra Menighedens Liv og fra dansk og nordisk Digtning, desuden Undervisning i Dansk, Samfundslære, Kulturgeografi, Sundhedslære, Regning og eventuelt Sprog og andre Fag.
-Sang øves baade som Fællessang og Korsang.
+Med Hensyn til selve Højskoleundervisningen vil der blive Foredrag med Emner fra det danske Folks Historie og Verdenshistorien, fra Menighedens Liv og fra dansk og nordisk Digtning, desuden Undervisning i Dansk, Samfundslære, Kulturgeografi, Sundhedslære, Regning og eventuelt Sprog og andre Fag. Sang øves baade som Fællessang og Korsang.
 
 Dansk omfatter sproglig Vejledning og øvelse, væsentlig gennem Højtlæsning, Diktat og Stilskrivning samt Øvelse i at tilrettelegge og holde et Foredrag over selvvalgte og opgivne Emner. Baade Dansk og Regning vil blive tilrettelagt efter Elevernes Kunnen og tidligere Uddannelse.
 

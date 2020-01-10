@@ -1,5 +1,15 @@
+---
+layout: none
+---
 {
-    "name": "Vejle Idrætshøjskoles Historie",
+    "name": "{{ site.title }}",
+    "short_name": "{{ site.title }}",
+    "description": "{{ site.description }}",
+    "start_url": "{{ site.url }}",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "lang": "{{ site.language }}",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -12,7 +22,4 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
 }

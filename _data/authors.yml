@@ -206,10 +206,6 @@ jannie_tolstrup:
   name: "Jannie Tolstrup"
   bio: "Elev på efterårsholdet 2017 og forårsholdet 2018"
   avatar: "/assets/images/authors/jannie-tolstrup.jpg"
-  links:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/jannievictoria.tolstrup"
 mette_holst_nymand:
   name: "Mette Holst Nymand"
   bio: "Højskolelærer på Vejle Idrætshøjskole"
@@ -319,7 +315,7 @@ birte_christensen:
 axel_gyntler:
   name: "Axel Gyntler"
   bio: "Søn af Leo Gyntler, tidligere Dansk Håndbold-Forbund, som havde sin faste gang på Den Jyske Idrætsskole i 1940'erne og 1950'erne."
-  avatar: "https://media.licdn.com/dms/image/C5603AQFY5rYAi8R6Lw/profile-displayphoto-shrink_800_800/0?e=1564617600&v=beta&t=VlfaMbullyPuWRKyfEaTZnICOkzf7zsBlnrp87QhlrY"
+  avatar: "/assets/images/authors/axel-gyntler.png"
 poul_grejs:
   name: "Poul Grejs"
   bio: "Mangeårig bestyrelsesformand på Vejle Idrætshøjskole og -Idrætsefterskole."

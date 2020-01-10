@@ -9,7 +9,7 @@ layout: none
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone",
-    "lang": "{{ site.language }}",
+    "lang": "{{ site.locale }}",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",

@@ -3,9 +3,9 @@ layout: none
 ---
 {
     "name": "{{ site.title }}",
-    "short_name": "{{ site.title }}",
+    "short_name": "vih-historie",
     "description": "{{ site.description }}",
-    "start_url": "{{ site.url }}",
+    "start_url": "/",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone",

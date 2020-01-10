@@ -1,4 +1,4 @@
-<!-- start custom head snippets -->
+<link rel="manifest" type="application/manifest+json" href="{{ "/manifest.json" | relative_url }}">
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -32,4 +32,20 @@
 <meta name="DC.Language" content="da">
 <meta name="DC.Rights" content="All rights reserved">
 
-<!-- end custom head snippets -->
+<script>
+// Check compatibility for the browser we're running this in
+if ("serviceWorker" in navigator) {
+  if (navigator.serviceWorker.controller) {
+    console.log("[{{ site.title }}] active service worker found, no need to register");
+  } else {
+    // Register the service worker
+    navigator.serviceWorker
+      .register("{{ '/pwabuilder-sw.js' | relative_url }}", {
+        scope: "./"
+      })
+      .then(function (reg) {
+        console.log("[{{ site.title }}] Service worker has been registered for scope: " + reg.scope);
+      });
+  }
+}
+</script>

@@ -324,3 +324,7 @@ parly_jensen:
   name: "Parly Jensen"
   bio: "Højskolelærer på Den Jyske Idrætsskole fra 1966-1967."
   avatar: "/assets/images/authors/default-profile.png"
+erik_sidenius:
+  name: "Erik Sidenius"
+  bio: "Højskolelærer på Den Jyske Idrætsskole fra ? - ?. Konstitueret forstander i 2009-2010."
+  avatar: "/assets/images/authors/default-profile.png"

@@ -15,3 +15,7 @@ sidebar:
   nav: "yearbook-2019"
 toc: true
 ---
+
+Det der især gjorde indtryk på mig var selve kulminationen af højskoleopholdet. Jeg skulle til at skrive hilsener. I dette øjeblik blev man konfronteret med selve højskoleopholdet og hvad folk har betydet for en. Under opholdet kan man godt komme til at tage venskaber og oplevelser for givet. 
+
+--- <cite>Emil, elev 2018-209</cite>

@@ -7,3 +7,4 @@ bower_components
 .jekyll-metadata
 .DS_Store
 Gemfile.lock
+npm-debug.log

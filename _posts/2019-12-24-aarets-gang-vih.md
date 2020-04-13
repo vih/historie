@@ -16,6 +16,15 @@ header:
 sidebar:
   nav: "yearbook-2019"
 toc: true
+gallery_pool_clean:
+  - url: https://drive.google.com/uc?id=14yrYtvid5MQwFl12stjEtbN4p2i8whkF
+    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14yrYtvid5MQwFl12stjEtbN4p2i8whkF&w=400
+    alt: "Vippen August 2018"
+    title: "Vippen August 2018"
+  - url: https://drive.google.com/uc?id=14yMC54IRT8UDtxU4ox_JgcdV-vuj4o9-
+    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14yMC54IRT8UDtxU4ox_JgcdV-vuj4o9-&w=400
+    alt: "Vippen December 2019"
+    title: "Vippen December 2019"
 ---
 
 Med alle de bekymringer, spekulationer, nytænkning og strategier som har været lagt igennem de seneste 15 år på Vejle Idrætshøjskole….. Så er det en stor fornøjelse, at konstatere, at 2019 blev året hvor vi havde venteliste til alle fire elevoptag.
@@ -36,15 +45,17 @@ Outdoor AquaScape som projektet hedder har indeholdt renovering af det gamle bas
 
 Poolen blev fyldt med vand i maj måned og pedelafdelingen kæmpede bravt med at blive dus med den fine biologi som danner udgangspunktet for rent og klart vand i poolen. Vi fik nemt rent vand, men vi har i den grad kæmpet med sigtbarheden i bassinet. Derfor er bassinet først blevet åbnet for offentligheden efter sommerferien og vi mangler stadig at lave en officiel indvielse.
 
-Vi planlægger en officiel indvielse i maj måned, hvor sommer badesæsonen starter.
+Vi planlægger en officiel indvielse i maj måned 2020, hvor sommer badesæsonen starter.
 
 Lige nu bliver poolen flittigt brugt til vinterbadning af vores elever. Der kommer også enkelte gæster udefra og tager en kold dukkert og derefter en tur i saunaen.
+
+{% include gallery id="gallery_pool_clean" class="full" caption="Svømmesøen klæder Globen. Svømmesøen er i gang og der gøres rent og der gøres en del rent i den." %}
 
 I slutningen af 2019 tog vi beslutning om at udbygge højskolens havestue, så vi har igen bygge rod omkring os frem mod sommerferien. Vi glæder os til at få lidt mere plads og have en havestue som i højere grad kan rumme de 149 elever som går på højskolen.
 
 ## Højskolerne fejrede 175 års jubilæum
 
-Den 7 november 1844 åbnede Rødding Højskole for første gang dørene for højskoleelever. Det kan vi glæde os over og det blev fejret med royalt besøg pompt og pragt på 175 årsdagen :)
+Den 7. november 1844 åbnede Rødding Højskole for første gang dørene for højskoleelever. Det kan vi glæde os over og det blev fejret med royalt besøg pompt og pragt på 175 årsdagen :)
 
 Her har dannelse og uddannelse siden 1844 gået hånd i hånd og medvirket til at oplive og oplyse, så vi i dag har et af de mest sammenhængende og oplyste samfund i verden. N.F.S. Grundtvigs banebrydende tanker om Højskolen og livsoplysning har bredt sig verden over, og højskolen har det godt. Der er i dag 73 højskoler på i Danmark, og der strømmer flere og flere unge til.
 
@@ -88,3 +99,5 @@ Der er mange ting som går fantastisk godt for Vejle Idrætshøjskole i disse å
 Vi har en stærk, farverig, engageret og nærværende lærergruppe som til stadighed udvikler på vores produkt. De tager sig af hinanden og vores elever.
 
 Vi har en fantastisk elevforening på VIH. De arbejder godt med de faste ting og traditioner, derudover kommer de også med mange nye tiltag, som er med til at styrke VIH og sikre skolen for fremtiden. Den energi som leveres her af frivillige tidligere elever er noget ganske særligt og det sætter jeg i høj grad pris på.
+
+[<i class='fas fa-money-bill-alt'></i> Få medlemsskab af fonden](http://fond.vih.dk){: .btn .btn--warning .btn--primary .btn--large} [<i class='fas fa-money-bill-alt'></i> Giv bidrag til fonden](http://fond.vih.dk/bidrag){: .btn .btn--primary .btn--large}

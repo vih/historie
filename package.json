@@ -21,6 +21,6 @@
   "devDependencies": {
   },
   "scripts": {
-    "start": "jekyll server --port 8080 --incremental"
+    "start": "bundle exec jekyll server --port 8080 --incremental"
   }
 }

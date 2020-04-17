@@ -5,23 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+remote_theme:            "mmistakes/minimal-mistakes@4.19.1"
+minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
-# Settings for deploy rake task
-# Username and repo of Github repo, e.g.
-# https://github.com/USERNAME/REPO.git
-# username defaults to ENV['GIT_NAME'] used by Travis
-# repo defaults to USERNAME.github.io
-# Branch defaults to "source" for USERNAME.github.io
-# or "master" otherwise
-username:             vih
-repo:                 historie
-branch:               master
-
-
-# Jekyll source / destination
-source:               .
-destination:          _site
-
+# Jekyll specific
+future: true
 
 # Site Settings
 locale                   : "da"
@@ -33,43 +21,34 @@ url                      : "" # the base hostname & protocol for your site e.g. 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vih/historie" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+# masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
 staticman:
-  allowedFields          : ['name', 'email', 'message', 'website']
   branch                 : "gh-pages"
-  commitMessage          : "Ny kommentar."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
+
+# reCaptcha
+# Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
+reCaptcha:
+  enabled: true
+  siteKey: "6LdCtVoUAAAAADcxG1WekIUuEuJy3YPoQ8DtbzK8"
+  # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
+  # For more information, https://staticman.net/docs/encryption
+  secret: "B6TmweBhBmEXsUUZKFEXOuFbAOHGBluvOCpsyTzAR+jjB5IkDNXzQo2NmMt8alWLWHh1HentKbOWAOx7HCl7AH3qgSeGWIvaTV99lKC8IakuyWGd2ZJR+eGxqN5RbmiNA1e4NXT4Z3DEMzq89iM/1VFkjSOY+LqAtWkdpJQTIGQ="
+
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+
 
 # Social Sharing
 twitter:
@@ -85,6 +64,13 @@ social:
   type                   : "Organization" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/vihdk"
+    - "https://www.facebook.com/vihdk"
+    - "https://www.instagram.com/vihdk"
+
+# Site search
+search: true
+
 
 # Analytics
 analytics:
@@ -93,43 +79,58 @@ analytics:
     tracking_id          : "UA-4137620-10"
 
 
+# Site Footer
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://twitter.com/vihdk"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://www.facebook.com/vihdk"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/vih/historie"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/vihdk"
+
+
 # Site Author
 author:
   name             : "Vejle Idrætshøjskole"
   avatar           : "/assets/images/authors/vih-logo.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til."
   location         : "Vejle"
-  email            : "webmaster@vih.dk"
-  uri              : "https://vih.dk/"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "groups/655406751295188"
-  foursquare       :
-  github           : "vih/historie.git"
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        : "vihdk"
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          : "vihdk"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"
+  links            :
+    - label: "E-mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@vih.dk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.vih.dk/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/vihdk"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/groups/655406751295188"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/vih/historie.git"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/vihdk"
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
+  - .well-known
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -183,7 +184,7 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
+  toc_levels: 1..3
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
@@ -208,6 +209,9 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-redirect-from
+  - jekyll-include-cache
+
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -259,16 +263,22 @@ compress_html:
 collections:
   places:
     output: true
-    permalink: /:collection/:path/
+    permalink: /steder/:path/
   timelines:
     output: true
-    permalink: /:collection/:path/
+    permalink: /tidslinje/:path/
   songs:
     output: true
     permalink: /:collection/:path/
   faq:
     output: true
     permalink: /:collection/:path/
+  persons:
+    output: true
+    permalink: /:collection/:path/
+  yearbooks:
+    output: true
+    permalink: /aarsskrift/:path/
 
 
 # Defaults
@@ -281,6 +291,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      listen_time: false
+      video_time: false
       comments: true
       share: true
       related: true
@@ -291,10 +303,24 @@ defaults:
     values:
       layout: collection-single
       author_profile: true
+      listen_time: false
+      video_time: false
       read_time: false
       comments: true
       share: true
       related: true
+# _persons
+  - scope:
+      path: ""
+      type: persons
+    values:
+      layout: collection-single
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      related: true
+      toc: true
 # _timelines
   - scope:
       path: ""
@@ -302,6 +328,8 @@ defaults:
     values:
       layout: collection-single
       author_profile: true
+      listen_time: false
+      video_time: false
       read_time: false
       comments: true
       share: true
@@ -313,6 +341,8 @@ defaults:
     values:
       layout: collection-single
       author_profile: true
+      listen_time: false
+      video_time: false
       read_time: false
       comments: true
       share: true
@@ -324,7 +354,42 @@ defaults:
     values:
       layout: collection-single
       author_profile: true
+      video_time: false
+      listen_time: false
       read_time: true
       comments: true
       share: true
       related: true
+# _yearbooks
+  - scope:
+      path: ""
+      type: yearbooks
+    values:
+      layout: collection-single
+      author_profile: false
+      read_time: true
+      listen_time: false
+      video_time: false
+      comments: true
+      share: true
+      related: true
+      toc: true
+
+
+# Podcast
+podcast_language: "da-DK"
+podcast_site_url: http://historie.vih.dk
+podcast_url: http://historie.vih.dk/podcast
+podcast_album_art: /assets/podcasts/cover-stemmer.png
+podcast_title: Vejle Idrætshøjskoles Stemmer
+podcast_owner: Vejle Idrætshøjskole
+podcast_email: info@vih.dk
+podcast_category: Vejle Idrætshøjskole
+podcast_subcategory:
+ - Historie
+ - Tankegods
+podcast_explicit: "no"
+podcast_author: Lars Olesen
+podcast_description: Stemmer fra Vejle Idrætshøjskoles historie kommer til orde.
+podcast_summary: Lars Olesen, viceforstander, lader stemmerne fra Vejle Idrætshøjskole komme til orde. Vi samler på historier, viden, gode oplevelser, diskussioner fra før og nu i højskolens historie.
+podcast_subtitle: Stemmer fra Vejle Idrætshøjskoles historie.  Vært er Lars Olesen.

@@ -19,6 +19,31 @@ header:
 sidebar:
   nav: "yearbook-2019"
 toc: true
+feature_row:
+  - image_path: https://www.vih.dk/sites/vih/files/20170619-2K2A0269-2.JPG
+    alt: "Når jeg bliver til VIH"
+    title: "Når jeg bliver til VIH"
+    excerpt: "Kurset vil være et koncentrat af et langt højskolekursus på VIH. Du kan vælge mellem tre forskellige linjer og følger dem hele ugen. I forbindelse med tilmeldingen noterer du i kommentarfeltet, hvilken linje du ønsker. Foruden linjetimerne vil du opleve en stor palet af almindelige højskolefag med diskussioner og debat samt en masse fælles aktiviteter, hvor fællesskabet, som er kendt fra højskolen vil være i højsædet. Kurset afvikles i samarbejde med Vejle Idrætshøjskoles elevforening."
+    url: "https://www.vih.dk/kortekurser"
+    btn_label: "Læs om Når jeg bliver til 'VIH'"
+    btn_class: "btn--inverse"
+gallery:
+  - url: /assets/images/yearbooks/2019/ef-4.png
+    image_path: /assets/images/yearbooks/2019/ef-4.png
+    alt: "Elevforeningens plakater"
+    title: "Elevforeningens plakater"
+  - url: /assets/images/yearbooks/2019/ef-2.png
+    image_path: /assets/images/yearbooks/2019/ef-2.png
+    alt: "Elevforeningens plakater"
+    title: "Elevforeningens plakater"
+  - url: /assets/images/yearbooks/2019/ef-3.png
+    image_path: /assets/images/yearbooks/2019/ef-3.png
+    alt: "Elevforeningens plakater"
+    title: "Elevforeningens plakater"
+  - url: /assets/images/yearbooks/2019/ef-1.png
+    image_path: /assets/images/yearbooks/2019/ef-1.png
+    alt: "Elevforeningens plakater"
+    title: "Elevforeningens plakater"
 ---
 
 I det følgende kigger jeg tilbage på endnu et aktivt år i Elevforeningen. Et dejligt år med store øjeblikke. Stjernekastere og røde lamper til Gensynsweekenden. En større og blomstrende bestyrelse samt masser af nye spændende initiativer. 
@@ -30,7 +55,10 @@ På det konstituerende møde sidst i 2018 besluttede vi i Elevforeningen at ford
 Det første store projekt handlede om at øge kendskabsgraden til arbejdet i Elevforeningen og skabe en større en større efterspørgsel for at blive aktiv i bestyrelsen. 
 
 Vi har fået et nyt logo, som pryder vores nye t-shirts og sweatshirts som vi bar med stolthed til Gensynsweekenden. Det var også med til at øge service-niveauet under Gensynsweekenden, da folk nu vidste hvem de skulle spørge om hjælp. 
+
 Vi har i samarbejde med tegneren Egon Clausen lavet 4 nye plakater, som alle på hver sin måde symboliserer VIH. Dels for at øge kendskabsgraden til Elevforeningen, men også for at tidligere elever har mulighed for at få et minde med hjem fra Gensynsweekenden. 
+
+{% include gallery class="full" layout="half" %}
 
 ## Et forår med fart på
 
@@ -54,6 +82,8 @@ Vi festede i øvrigt til den lyse morgen, som vi jo gør det bedst på VIH.
 
 Bag facaden af organisationsstruktur og synlighed, så er vi bare en flok glade og nysgerrige tidligere elever, der i 2020 i endnu højere grad vil skabe gode dage og dejlige minder for både tidligere og nuværende elever. 
 
-Vi forsøgte med en Surf ferie i uge 42. Få tilmeldte, men vi gør et stærkt forsøg igen næste år. I uge 31 sommeren 2020 afholder vi i samarbejde med skolen et kort sommerkursus ”Når jeg bliver til VI(H)” målrettet tidligere elever. Det bliver et festfyrværkeri af alt det bedste fra din højskole tid. Vi glæder os helt vildt og tror på en stor tilslutning. Derudover er der flere projekter i støbeskeen, som vi ikke kan løfte sløret for endnu. 
+Vi forsøgte med en Surf ferie i uge 42. Få tilmeldte, men vi gør et stærkt forsøg igen næste år. I uge 31 sommeren 2020 afholder vi i samarbejde med skolen et kort sommerkursus ”Når jeg bliver til VI(H)”, hvor vi håber der kommer mange tidligere elever. Det bliver et festfyrværkeri af alt det bedste fra din højskole tid. Vi glæder os helt vildt og tror på en stor tilslutning. Derudover er der flere projekter i støbeskeen, som vi ikke kan løfte sløret for endnu. 
 
 Mere fest, mere gensynsglæde og flere store øjeblikke venter i 2020.
+
+{% include feature_row class="left" %}

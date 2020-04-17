@@ -120,3 +120,33 @@ yearbook-2018:
     - title: "Fonden tager afsæt"
       url: "/aarsskrift/2018/fonden/"
 
+yearbook-2019:
+  - title: Årsskrift 2019
+    url: /aarsskrift/2019/
+    children:
+    - title: "Indledning"
+      url: "/aarsskrift/2019/indledning/"
+    - title: "Årets gang på Vejle Idrætshøjskole 2019"
+      url: "/aarsskrift/2019/dagbog/"
+    - title: "Fokus på værdier og overlevelse"
+      url: "/aarsskrift/2019/fokus-vaerdier-overlevelse/"
+    - title: "Teambuilderlinjen løser ægte opgaver"
+      url: "/aarsskrift/2019/teambuilder-loeser-aegte-opgaver/"
+    - title: "25 år på Vejle Idræthøjskole"
+      url: "/aarsskrift/2019/niels-beck-jubilaeum/"
+    - title: "Et årti, 10 års eller deca jubilæum"
+      url: "/aarsskrift/2019/thea-henriksen/"
+    - title: "Bæredygtighed på Vejle Idrætshøjskole"
+      url: "/aarsskrift/2019/baeredygtighed/"
+    - title: "Tilbageblik på året der gik i elevforeningen"
+      url: "/aarsskrift/2019/elevforeningen/"
+    - title: "Tilbageblik på året der gik i elevforeningen"
+      url: "/aarsskrift/2019/elevforeningen/"
+    - title: "Niels Henning stemte for Globen"
+      url: "/aarsskrift/2019/globen/"
+    - title: "Fonden støtter renoveringen af Globen"
+      url: "/aarsskrift/2019/fonden/"
+    - title: "Flyglet i Globen"
+      url: "/aarsskrift/2019/flygel/"
+    - title: "Tilbageblik: Tikampmester bygger Idrætsskole"
+      url: "/aarsskrift/2019/billedbladet-1943/"

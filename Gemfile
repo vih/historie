@@ -14,4 +14,4 @@ group :jekyll_plugins do
     gem "jekyll-remote-theme"
 end
 gem 'html-proofer'
-gem "rake", "~> 10.1.1"
+gem "rake"

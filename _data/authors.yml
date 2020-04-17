@@ -327,4 +327,16 @@ parly_jensen:
 erik_sidenius:
   name: "Erik Sidenius"
   bio: "Højskolelærer på Den Jyske Idrætsskole fra ? - ?. Konstitueret forstander i 2009-2010."
-  avatar: "/assets/images/authors/default-profile.png"
+  avatar: "/assets/images/authors/erik-sidenius.png"
+carl_emil_clausen:
+  name: "Carl-Emil Clausen"
+  bio: "Elev i foråret 2017, Formand for Elevforeningen siden 2018, Medlem af Repræsentantskabet."
+  avatar: "/assets/images/authors/carl-emil.jpg"
+thea_henriksen:
+  name: "Thea Storm Henriksen"
+  bio: "Elev i foråret 2000 og højskolelærer på Vejle Idrætshøjskole siden 2009."
+  avatar: "/assets/images/authors/thea-storm-henriksen.png"
+mika_lund:
+  name: "Mika Lund"
+  bio: "Højskolelærer på Vejle Idrætshøjskole siden 2001."
+  avatar: "/assets/images/authors/mika-lund.png"

@@ -21,7 +21,7 @@ Hvis du ved, hvornår diskoskasteren blev logo for højskolen, så brug endelig 
 I starten bibeholdt man Den Jyske Idrætsskole på logoet for at fastholde det gode gamle navn. I 2001 fjernede vi Den Jyske Idrætsskole endeligt fra logoet.
 
 {% include figure
-    image_path="//kurser.hojskolerne.dk/umbraco/ImageGen.ashx?image=/media/502434/vih_logo_-_sort.jpg&width=220"
+    image_path="https://hoejskolerne.s3.amazonaws.com/production/uploadable_file/logo_da/68/vih_logo_-_sort.jpg"
     alt="Nuværende logo for Vejle Idrætshøjskole"
     caption="Nuværende logo blev indført i 2003 er et relief af Globen" %}
 

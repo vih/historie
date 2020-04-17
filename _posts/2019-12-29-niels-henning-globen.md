@@ -26,7 +26,7 @@ toc: true
 
 **I løbt af 2020 skal vi renovere Globen. Derfor kan det være meget sjovt at mindes, hvorfor den i sin tid blev bygget. Niels Henning fortæller, hvordan han på sit første bestyrelsesmøde på Den Jyske Idrætsskole i Vejle skulle være med til at tage beslutning om man skulle bygge Globen.**
 
-Niels Henning fortæller:
+Niels Henning Broch-Mikkelsen fortæller:
 
 ***
 

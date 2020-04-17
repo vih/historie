@@ -83,7 +83,24 @@ En af de konkrete tiltag vi har lavet for at styrke mangfoldigheden på vores sk
 Cafeen eller gruppesamtalen skaber et rum hvor man fortæller om sine udfordringer, finder andre der også er udfordret. Selve det at dele er hovedpointen ved cafeen. Til hver cafe deltager der to højskolelærere og vi opfordrer også elever som ikke er presset lige nu, men som kender følelsen til at deltage som støtte personer.
 
 Vi har afholdt cafeer med få deltagere og andre gange optil 15 deltagere. Cafeen har skabt et rum, hvor elever i tillid bringer ting frem i lyset som fylder. Jeg oplever det har været en god katalysator til at finde ro og fortsætte som elev og dermed forsat bidrage til mangfoldigheden på skolen.
- 
+
+## Most significant change
+
+Most Significant Change er en evalueringstype udviklet til udviklingsprojekter, som vi har taget til os på Vejle Idrætshøjskole. Det giver hvert år nogle rigtig dejlige historier, som er med til at lave en krølle på det nuværende hold.
+
+> Det der især gjorde indtryk på mig var selve kulminationen af højskoleopholdet. Jeg skulle til at skrive hilsener. I dette øjeblik blev man konfronteret med selve højskoleopholdet og hvad folk har betydet for en. Under opholdet kan man godt komme til at tage venskaber og oplevelser for givet, men nu møder man for alvor virkeligheden og indser, hvor specielt det har været - og hvor meget folk har betydet for en.
+>
+> Fra det øjeblik hvor kuglepennen rører papiret og til det øjeblik den løftes igen ved afslutningen på en hilsen følte jeg, at venskabet samt de talrige oplevelser med det tilsigtede VIH-krydderi passerede revy.
+>
+> Det er måske lidt en overdramatisering at sammenligne det at være på højskole med en nærdødsoplevelse. Men når det gælder lige netop højskolen, så er intet for meget. Nej tværtimod.
+>
+> For det er lidt som en nærdødsoplevelse at indse det faktum:at tiden på VIH snart er fortid. At den tid er død, og at man selv bliver taget med i faldet. Ja, i hvert fald mister lidt af sig selv.
+>
+> Men for at dæmme lidt op for melankolien skal _en_ ting dog understreges. Tiden på VIH bliver aldrig til fortid. Tiden på VIH vil for evigt leve videre i mig, i dig, i os alle.
+>
+
+--- <cite>Emil, elev 2018-209</cite>
+
 ## Sommerkurser på VIH 2020
 
 På Vejle Idrætshøjskole har vi tradition for at have ugekurser om sommeren. Her når vi en målgruppe som ikke kommer på de lange kurser. Ugekurser er på den måde med til at sætte højskolerne i Danmark på landkortet for en stor gruppe. Ifølge opgørelse af elevtal fra Højskoleforeningen var der i 2018/19 29.422 uge kursister på højskole i Danmark.
@@ -91,7 +108,7 @@ På Vejle Idrætshøjskole har vi tradition for at have ugekurser om sommeren. H
 Til næste sommer har vi igen et spændende program med sommerkurser af forskellig slags – familie, kajak, golf, outdoor/mtb, body & mind, fitness og så har vi en nyhed…..
 
 Som et nyt tiltag har vi i samarbejde med elevforeningen lavet et nyt kursus ”Når jeg bliver til VIH”. Det er et kursus som vi håber mange tidligere VIHer har lyst til at deltage på og måske tager de en ven med hjemmefra. Vi har gennem flere år gået med tanken om at lave dette kursus, nu kom det op at stå på initiativ fra elevforeningen – det er stærkt.
-  
+
 ## Afslutning
 
 Der er mange ting som går fantastisk godt for Vejle Idrætshøjskole i disse år. Vi oplever at gøre en forskel for mange unge som søger på højskole og deri ligger der meget energi for os.

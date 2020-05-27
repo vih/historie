@@ -14,4 +14,6 @@ group :jekyll_plugins do
     gem "jekyll-remote-theme"
 end
 gem 'html-proofer'
+gem 'classifier-reborn'
+gem 'gsl'
 gem "rake"

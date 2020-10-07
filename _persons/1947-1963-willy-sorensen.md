@@ -1,5 +1,5 @@
 ---
-title: Willy Sørensen
+title: "Willy Sørensen"
 author_name: "willy_sørensen"
 start_date: 
   year: 1947
@@ -11,7 +11,7 @@ media:
   url: /assets/images/persons/willy-sorensen.jpg
   credit: vejlewiki.dk
   caption: "Willy Sørensen"
-  thumbnail: >/assets/images/persons/willy-sorensen.jpg
+  thumbnail: /assets/images/persons/willy-sorensen.jpg
 category:
   - Bestyrelsesformænd
 tags:

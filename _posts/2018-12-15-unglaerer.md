@@ -15,12 +15,12 @@ toc: true
 sidebar:
   nav: "yearbook-2018"
 gallery-foraar:
-  - url: http://dev.vih.dk/sites/vih.local/files/employees/emil-1000.jpg?itok=yqZ3tPKL
-    image_path: http://dev.vih.dk/sites/vih.local/files/employees/emil-1000.jpg?itok=yqZ3tPKL
+  - url: https://drive.google.com/uc?id=17VNmXRAhD5pBP_OMQeMUuzRhOVoUJK8S
+    image_path: https://drive.google.com/uc?id=17VNmXRAhD5pBP_OMQeMUuzRhOVoUJK8S
     alt: "Emil Kirk"
     title: "Emil Kirk"
-  - url: http://dev.vih.dk/sites/vih.local/files/employees/anne-1.jpg?itok=sCSe_L8G
-    image_path: http://dev.vih.dk/sites/vih.local/files/employees/anne-1.jpg?itok=sCSe_L8G
+  - url: https://drive.google.com/uc?id=1nphoj578rUSxJShctOVrOmT2fsjZ4FGG
+    image_path: https://drive.google.com/uc?id=1nphoj578rUSxJShctOVrOmT2fsjZ4FGG
     alt: "Anne Vinternes"
     title: "Anne Vinternes"
 gallery-efteraar:
@@ -38,7 +38,11 @@ På Vejle Idrætshøjskole er unglærerne en stor del af den oplevelse, vi gerne
 
 I efteråret 2012 fik vi en god ide. Vi ville indføre unglærere på Vejle Idrætshøjskole.
 
-> Vi ville rigtig gerne have en øget grad af tilstedeværelse og supplere de daglige højskoleværter. Vi ville også gerne give nogen unge mennesker en mulighed for at afprøve sig selv - og samtidig være med til at bidrage til fællesskabet på højskolen - og give nogle af deres ideer videre. På den måde så håbede vi også, at unglærerne ville sætte et stærkt kulturaftryk på højskoleholdet. De prøver ofte at udleve de værdier, som de synes gav dem selv et godt ophold, som unglærere, siger forstander Ole Damgaard.
+> Vi startede unglærerstillingen op som et forsøg. Jeg havde en tro på, at det ville blive et aktiv for skolen og en lærerig oplevelse for unglærerne, sig er Ole Damgaard.
+
+Nogle af tankerne var, at unglærerne skulle have mulighed for at prøve sig selv af i både undervisning, samvær og aktiviteter på højskolen for derigennem at blive inspireret videre i deres liv. Unglærerne bor på skolen, hvilket gør, at de bliver en del af den frie tid. Tanken var at de sammen med de skiftende værtslærere kunne være med til at katalysere et endnu bedre højskoleophold for eleverne.
+
+> Vi ville rigtig gerne have en øget grad af tilstedeværelse og supplere de daglige højskoleværter. Vi ville også gerne give nogen unge mennesker en mulighed for at afprøve sig selv - og samtidig være med til at bidrage til fællesskabet på højskolen - og give nogle af deres ideer videre. På den måde så håbede vi også, at unglærerne ville sætte et stærkt kulturaftryk på højskoleholdet. De prøver ofte at udleve de værdier, som de synes gav dem selv et godt ophold som unglærere, siger forstander Ole Damgaard.
 
 Vi startede med en unglærer i 2012, som var fra det hold, der lige var sluttet. Erfaringerne fra det forløb viste, at det vil være bedre at have to unglærere, som kan dele udfordringerne og glæderne ved at være unglærer. Desuden besluttede vi os for, at man ikke kunne gå direkte fra at være elev og til at være unglærer, men at man helst skulle have lavet noget andet indimellem, så man ikke på forhånd kender eleverne.
 

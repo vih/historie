@@ -38,7 +38,7 @@ På Vejle Idrætshøjskole er unglærerne en stor del af den oplevelse, vi gerne
 
 I efteråret 2012 fik vi en god ide. Vi ville indføre unglærere på Vejle Idrætshøjskole.
 
-> Vi startede unglærerstillingen op som et forsøg. Jeg havde en tro på, at det ville blive et aktiv for skolen og en lærerig oplevelse for unglærerne, sig er Ole Damgaard.
+> Vi startede unglærerstillingen op som et forsøg. Jeg havde en tro på, at det ville blive et aktiv for skolen og en lærerig oplevelse for unglærerne, siger forstander Ole Damgaard.
 
 Nogle af tankerne var, at unglærerne skulle have mulighed for at prøve sig selv af i både undervisning, samvær og aktiviteter på højskolen for derigennem at blive inspireret videre i deres liv. Unglærerne bor på skolen, hvilket gør, at de bliver en del af den frie tid. Tanken var at de sammen med de skiftende værtslærere kunne være med til at katalysere et endnu bedre højskoleophold for eleverne.
 

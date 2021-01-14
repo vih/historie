@@ -316,7 +316,7 @@ martin_olsen:
 anne_vinternes:
   name: "Anne Vinternes"
   bio: "Unglærer på Vejle Idrætshøjskole i foråret 2018."
-  avatar: "http://dev.vih.dk/sites/vih.local/files/employees/anne-1.jpg?itok=sCSe_L8G"
+  avatar: "/assets/images/authors/anne-vinternes.png"
 birte_christensen:
   name: "Birte Christensen"
   bio: "Datter af skolens grundlægger, Svend Aaage Thomsen."

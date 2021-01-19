@@ -3,7 +3,7 @@ backend:
   repo: vih/historie
   branch: master
   api_root: https://api.github.com
-  site_domain: plakaterne.netlify.app
+  site_domain: historie.netlify.app
   base_url: https://api.netlify.com
   auth_endpoint: auth
   cms_label_prefix: netlify-cms/

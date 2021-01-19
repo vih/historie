@@ -315,8 +315,8 @@ martin_olsen:
   avatar: "https://www.vih.dk/sites/vih/files/styles/medium/public/laerere-32_0.jpg?itok=duMB0SOi"
 anne_vinternes:
   name: "Anne Vinternes"
-  bio: "Unglærer på Vejle Idrætshøjskole i foråret 2018."
-  avatar: "http://dev.vih.dk/sites/vih.local/files/employees/anne-1.jpg?itok=sCSe_L8G"
+  bio: "Unglærer på VIH i foråret 2018. Ansat som højskolelærer i 2020 primært i sportsjournalistik og outdoor-fag."
+  avatar: "/assets/images/authors/anne-vinternes.png"
 birte_christensen:
   name: "Birte Christensen"
   bio: "Datter af skolens grundlægger, Svend Aaage Thomsen."
@@ -349,3 +349,11 @@ mika_lund:
   name: "Mika Lund"
   bio: "Højskolelærer på Vejle Idrætshøjskole siden 2001."
   avatar: "/assets/images/authors/mika-lund.png"
+lene_brask:
+  name: "Lene Brask"
+  bio: "Højskoleelev på Vejle Idrætshøjskole i efteråret 2020."
+  avatar: "/assets/images/authors/lene-brask.png"
+kasper_nymand:
+  name: "Kasper Nymand"
+  bio: "Højskoleelev på Vejle Idrætshøjskole i efteråret 2020."
+  avatar: "/assets/images/authors/kasper-nymand.png"

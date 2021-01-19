@@ -1,5 +1,5 @@
 ---
-title: Hvornår har højskolen fødselsdag?
+title: "Hvornår har højskolen fødselsdag?"
 permalink: /faq/fodselsdag/
 author: lsolesen
 excerpt: "Hvornår kan højskolen egentlig fejre fødselsdag? Det er der flere bud på!"

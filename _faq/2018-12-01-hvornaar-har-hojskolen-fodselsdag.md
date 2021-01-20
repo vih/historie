@@ -1,10 +1,9 @@
 ---
-title: Hvornår har højskolen fødselsdag?
+title: "Hvornår har højskolen fødselsdag?"
 permalink: /faq/fodselsdag/
 author: lsolesen
 excerpt: "Hvornår kan højskolen egentlig fejre fødselsdag? Det er der flere bud på!"
 toc: true
-author: lsolesen
 ---
 
 Hvornår skal højskolen fejre fødselsdag? Skal det være ved udklækkelsen af ideen, første spadestik, godkendelse som højskole eller da det første elevhold starter? Alle disse begivenheder spreder sig over to år i 1942 og 1943, så derfor har vi i 2017/2018 med god samvittighed holdt et langt jubilæum.

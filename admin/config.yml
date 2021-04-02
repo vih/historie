@@ -275,17 +275,3 @@ collections:
             fields:
               - {label: "Display Text", name: title, widget: string}
               - {label: URL, name: url, widget: string}
-          - label: "Sidelinks"
-            label_singular: "Sidelink"
-            name: blog
-            widget: list
-            fields:
-              - {label: "Display Text", name: title, widget: string}
-              - {label: "URL", name: url, widget: string, required: false}
-              - label: "Links"
-                name: children
-                widget: list
-                fields:
-                  - {label: "Display Text", name: title, widget: string}
-                  - {label: "URL", name: url, widget: string, required: false}
-

@@ -22,7 +22,7 @@ sidebar:
 
 ## Om tilknytningen til Den jyske Idrætsskole
 
-_Axel Gyntler fortæller om hans egen tilknytning til Den Jyske Idrætsskole._
+_Axel Gyntler fortæller om sin egen tilknytning til Den Jyske Idrætsskole._
 
 Jeg er nu 78 år, og min kontakt til “Den Jyske Idrætsskole” går mange år tilbage. Svend Aage og min far, Leo Gyntler (død 1981), var gamle idrætskammerater, og min far støttede især skolen med kursushold i krigens første år, hvor det grundet de kedelige krigstider, kneb for Svend Aages skole at få tilstrækkelige kursushold til at holde en fornuftig driftsøkonomi. 
 

@@ -15,8 +15,6 @@ logo_url: https://historie.vih.dk/android-chrome-192x192.png
 
 show_preview_links: false
 
-media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
-
 editor:
   preview: false
 
@@ -26,6 +24,8 @@ slug:
   encoding: "ascii"
   clean_accents: true
   sanitize_replacement: "-"
+
+media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
@@ -288,3 +288,4 @@ collections:
                 fields:
                   - {label: "Display Text", name: title, widget: string}
                   - {label: "URL", name: url, widget: string, required: false}
+

@@ -101,13 +101,22 @@ lsolesen:
       url: "mailto:lars@vih.dk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://larsolesen.dk"
+      url: "https://www.larsolesen.dk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/lsolesen"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lsolesen/"
+    - label: "Motionsplan.dk"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.motionsplan.dk"
+    - label: "Legestue.net"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.legestue.net"
+    - label: "Cykel-ruter.dk"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.cykel-ruter.dk"
   featured: true
 thormod_petersen:
   name: "Thormod Petersen"
@@ -206,10 +215,6 @@ jannie_tolstrup:
   name: "Jannie Tolstrup"
   bio: "Elev på efterårsholdet 2017 og forårsholdet 2018"
   avatar: "/assets/images/authors/jannie-tolstrup.jpg"
-  links:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/jannievictoria.tolstrup"
 mette_holst_nymand:
   name: "Mette Holst Nymand"
   bio: "Højskolelærer på Vejle Idrætshøjskole"
@@ -311,7 +316,7 @@ martin_olsen:
 anne_vinternes:
   name: "Anne Vinternes"
   bio: "Unglærer på Vejle Idrætshøjskole i foråret 2018."
-  avatar: "http://dev.vih.dk/sites/vih.local/files/employees/anne-1.jpg?itok=sCSe_L8G"
+  avatar: "/assets/images/authors/anne-vinternes.png"
 birte_christensen:
   name: "Birte Christensen"
   bio: "Datter af skolens grundlægger, Svend Aaage Thomsen."
@@ -319,9 +324,28 @@ birte_christensen:
 axel_gyntler:
   name: "Axel Gyntler"
   bio: "Søn af Leo Gyntler, tidligere Dansk Håndbold-Forbund, som havde sin faste gang på Den Jyske Idrætsskole i 1940'erne og 1950'erne."
-  avatar: "https://media.licdn.com/dms/image/C5603AQFY5rYAi8R6Lw/profile-displayphoto-shrink_800_800/0?e=1550707200&v=beta&t=ZRDNAJT_aX02nvgpepRbgI_itRRF_0y_Gx3bQVLbsd4"
+  avatar: "/assets/images/authors/axel-gyntler.png"
 poul_grejs:
   name: "Poul Grejs"
   bio: "Mangeårig bestyrelsesformand på Vejle Idrætshøjskole og -Idrætsefterskole."
   avatar: "/assets/images/authors/default-profile.png"
-  
+parly_jensen:
+  name: "Parly Jensen"
+  bio: "Højskolelærer på Den Jyske Idrætsskole fra 1966-1967."
+  avatar: "/assets/images/authors/default-profile.png"
+erik_sidenius:
+  name: "Erik Sidenius"
+  bio: "Højskolelærer på Den Jyske Idrætsskole fra ? - ?. Konstitueret forstander i 2009-2010."
+  avatar: "/assets/images/authors/erik-sidenius.png"
+carl_emil_clausen:
+  name: "Carl-Emil Clausen"
+  bio: "Elev i foråret 2017, Formand for Elevforeningen siden 2018, Medlem af Repræsentantskabet."
+  avatar: "/assets/images/authors/carl-emil.jpg"
+thea_henriksen:
+  name: "Thea Storm Henriksen"
+  bio: "Elev i foråret 2000 og højskolelærer på Vejle Idrætshøjskole siden 2009."
+  avatar: "/assets/images/authors/thea-storm-henriksen.png"
+mika_lund:
+  name: "Mika Lund"
+  bio: "Højskolelærer på Vejle Idrætshøjskole siden 2001."
+  avatar: "/assets/images/authors/mika-lund.png"

@@ -1,0 +1,26 @@
+{
+  "name": "historie.vih.dk",
+  "version": "1.0.0",
+  "description": "Official site for historie.vih.dk.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vih/historie.git"
+  },
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "netlify"
+  ],
+  "author": "Lars Olesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vih/historie/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "bundle exec jekyll server --port 8080 --incremental"
+  }
+}

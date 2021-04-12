@@ -1,19 +1,20 @@
 ---
-title: Velkommen til Årsskriftet 2019
-permalink: /aarsskrift/2019/indledning/
+title: Højskole og corona
+permalink: /aarsskrift/2020/hoejskole-corona/
 author: lsolesen
 category:
   - Årsskrift
 tags:
-  - Årsskrift 2019
-excerpt: "Lars Olesen, viceforstander, byder velkommen til årsskriftet og fortæller lidt om indholdet i årsskriftet."
+  - Årsskrift 2020
+  - dagbog
+excerpt: "Vi holder stadig jubilæum på Vejle Idrætshøjskole. Lars Olesen, viceforstander, fortæller lidt om indholdet i årsskriftet."
 header:
   overlay_color: "#1aa2dd"
   teaser: &image //images.weserv.nl/?url=https://drive.google.com/uc?id=1fz50QBUxsqp6fq-DYbAI3jmF8Y_W0CjN&w=300
   overlay_image: //images.weserv.nl/?url=https://drive.google.com/uc?id=1fz50QBUxsqp6fq-DYbAI3jmF8Y_W0CjN&w=2000
 toc: true
 sidebar:
-  nav: "yearbook-2019"
+  nav: "yearbook-2020"
 ---
 
 Igen byder vi velkommen til et årsskrift for Vejle Idrætshøjskole. 
@@ -36,7 +37,7 @@ Tak fordi du læser med og interesserer dig for livet på Vejle Idrætshøjskole
 
 ## Hvad kan du læse om?
 
-{% assign site_posts = site.posts | where: "tags", "Årsskrift 2019" | sort: "date" | shift %}
+{% assign site_posts = site.posts | where: "tags", "Årsskrift 2020" | sort: "date" | shift %}
 
 <dl>
 {% for post in site_posts %}

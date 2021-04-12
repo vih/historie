@@ -1,5 +1,5 @@
 ---
-title: "Café space giver plads til mange modeller"
+title: "Café Space giver plads til mange modeller"
 permalink: /aarsskrift/2020/cafe-space/
 author: mette_holst_nymand
 category:
@@ -7,7 +7,7 @@ category:
 tags:
   - Årsskrift 2020
   - dagbog
-excerpt: "Vi holder stadig jubilæum på Vejle Idrætshøjskole. Lars Olesen, viceforstander, fortæller lidt om indholdet i årsskriftet."
+excerpt: "Mette Holst fortæller om Café Space, som er et nyt etableret frirum for samtale. Her inviterer lærere på skift til frivillige samtaler om det der rør sig i det enkelte menneske."
 header:
   overlay_color: "#1aa2dd"
   teaser: &image //images.weserv.nl/?url=https://drive.google.com/uc?id=1fz50QBUxsqp6fq-DYbAI3jmF8Y_W0CjN&w=300
@@ -21,7 +21,7 @@ Ville der overhovedet komme nogen, var jeg kompetent nok til at løfte opgaven, 
 
 Vi drak og talte, bordet rundt og på kryds og tværs. Der var mødt dem med hjemve, dem med social angst og flerårig depression, og som var taget på højskole for at udfordre det, dem med kærester, der var imod højskoletanken og som nu, hvor de mærkede udfordringer frygtede, at de ville lide nederlag, og kæresten ville få ret, dem der var blevet mobbet gennem mange år, dem der havde følt sig usynlige og som en byrde for andre, dem med præstationsangst ift. at det at være på højskole kun kunne lade sig gøre, hvis man var ekstremt sjov og udadvendt.
 
-<div class="notice notice--info">
+<div class="notice notice--info" markdown="1">
 ### Faktaboks
  
 - Vejle Idrætshøjskole har afholdt Café Space siden januar 2019.

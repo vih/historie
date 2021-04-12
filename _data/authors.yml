@@ -357,3 +357,7 @@ kasper_nymand:
   name: "Kasper Nymand"
   bio: "Højskoleelev på Vejle Idrætshøjskole i efteråret 2020."
   avatar: "/assets/images/authors/kasper-nymand.png"
+michelle_moller_andersen:
+  name: "Michelle Møller Andersen"
+  bio: "Højskoleelev på Vejle Idrætshøjskole i foråret 2020 og unglærer i foråret 2021."
+  avatar: "/assets/images/authors/default.png"

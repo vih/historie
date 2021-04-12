@@ -9,3 +9,5 @@ bower_components
 Gemfile.lock
 npm-debug.log
 .jekyll-cache
+vendor
+.bundle

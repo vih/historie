@@ -9,8 +9,8 @@ tags:
 excerpt: "Kasper Nymand, højskoleelev efteråret 2020, skrev denne tale til afslutningsmiddagen på højskolen. Han indleder talen med: Jeg må turde at træde ud, før det er for sent."
 header:
   overlay_color: "#1aa2dd"
-  teaser: &image //images.weserv.nl/?url=https://drive.google.com/uc?id=1fz50QBUxsqp6fq-DYbAI3jmF8Y_W0CjN&w=300
-  overlay_image: //images.weserv.nl/?url=https://drive.google.com/uc?id=1fz50QBUxsqp6fq-DYbAI3jmF8Y_W0CjN&w=2000
+  teaser: &image //images.weserv.nl/?url=https://drive.google.com/uc?id=187DgPtdPgB9OUcvzvcLFHxrhJFwNwrcM&w=300
+  overlay_image: //images.weserv.nl/?url=https://drive.google.com/uc?id=187DgPtdPgB9OUcvzvcLFHxrhJFwNwrcM&w=2000
 toc: true
 sidebar:
   nav: "yearbook-2020"

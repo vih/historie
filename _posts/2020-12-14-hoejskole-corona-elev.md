@@ -10,8 +10,8 @@ tags:
 excerpt: "Højskoleelev, Michelle Møller Andersen, samler op på elevernes oplevelse af at være på højskole i løbet af Corona-pandemien."
 header:
   overlay_color: "#1aa2dd"
-  teaser: &image //images.weserv.nl/?url=https://drive.google.com/uc?id=1fz50QBUxsqp6fq-DYbAI3jmF8Y_W0CjN&w=300
-  overlay_image: //images.weserv.nl/?url=https://drive.google.com/uc?id=1fz50QBUxsqp6fq-DYbAI3jmF8Y_W0CjN&w=2000
+  teaser: &image //images.weserv.nl/?url=https://drive.google.com/uc?id=1lrwHony_ZYgu60H4pK0a22iSNEltwWgw&w=300
+  overlay_image: //images.weserv.nl/?url=https://drive.google.com/uc?id=1lrwHony_ZYgu60H4pK0a22iSNEltwWgw&w=2000
 toc: true
 sidebar:
   nav: "yearbook-2020"

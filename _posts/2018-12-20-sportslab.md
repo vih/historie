@@ -27,7 +27,7 @@ Vi overvejede, hvordan vi kunne skabe et projekt, der kunne inddrage alle elever
 
 {% include figure image_path="https://drive.google.com/uc?id=1ILUqkkXMmYVA6rw58pW9TLcWS_T-IJ6r" alt="Efterskoleelev, Ebbe, bliver interviewet om sine forventninger." caption="Efterskoleelev, Ebbe, bliver interviewet om sine forventninger. Foto: Lars Olesen" %}
 
-I dette eksperiment lader vi eliteløberen Ebbe Schou Møller fra efterskolen konkurrere på skolens 400-meter bane. Han skulle dyste imod fire højskole-elever på distancen 3000 meter. Højskole-eleverne måtte give stafetten videre hver runde, mens eliteløberen Ebbe skulle løbe hele distancen selv. Kan eliteløberen holde en høj nok fart på hele distancen og vinde over højskole-eleverne, som skal løbe kortere og får en pause? Alle deltagere skulle derfor lave en max-test inden, så de kunne blive sammenlignet. Her viste resultaterne, at eliteløberen klart havde det højeste kondital, men at højskole-eleverne også lå i den høje ende, hvilket gjorde løbet tæt. 
+I dette eksperiment lader vi eliteløberen Ebbe Schou Møller fra efterskolen konkurrere på skolens 400-meter bane. Han skulle dyste imod fire højskole-elever på distancen 3000 meter. Højskole-eleverne måtte give stafetten videre hver runde, mens eliteløberen Ebbe skulle løbe hele distancen selv. Kan eliteløberen holde en høj nok fart på hele distancen og vinde over højskole-eleverne, som skal løbe kortere og får en pause? Alle deltagere skulle derfor lave en max-test inden, så de kunne blive sammenlignet. Her viste resultaterne, at eliteløberen klart havde det højeste [kondital](https://www.motionsplan.dk/kondital/), men at højskole-eleverne også lå i den høje ende, hvilket gjorde løbet tæt. 
 
 Du kan se, hvem der vandt i videoen nedenfor:
 

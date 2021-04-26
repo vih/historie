@@ -150,3 +150,32 @@ yearbook-2019:
       url: "/aarsskrift/2019/flygel/"
     - title: "Tilbageblik: Tikampmester bygger Idrætsskole"
       url: "/aarsskrift/2019/billedbladet-1943/"
+
+yearbook-2020:
+  - title: Årsskrift 2020
+    url: /aarsskrift/2020/
+    children:
+    - title: "Indledning"
+      url: "/aarsskrift/2020/indledning/"
+    - title: "Årets gang"
+      url: "/aarsskrift/2020/dagbog/"
+    - title: "Livet som højskolelærer"
+      url: "/aarsskrift/2020/hojskolelaereren/"
+    - title: "Cafe Space giver plads til mange modeller"
+      url: "/aarsskrift/2020/cafe-space/"
+    - title: "Højskole i en pandemi"
+      url: "/aarsskrift/2020/hoejskole-corona/"
+    - title: "Højskole, fællesskab og Corona"
+      url: "/aarsskrift/2020/hoejskole-corona-elev/"
+    - title: "Livshistorier på Vejle Idrætshøjskole"
+      url: "/aarsskrift/2020/livshistorier/"
+    - title: "Højskole, fællesskab og Corona"
+      url: "/aarsskrift/2020/hoejskole-corona-elev/"
+    - title: "Strategi og helhedsplan"
+      url: "/aarsskrift/2020/strategi-og-helhedsplan/"
+    - title: "Globen renoveres"
+      url: "/aarsskrift/2020/globen/"
+    - title: "Mette flytter grænser"
+      url: "/aarsskrift/2020/lene-brask/"
+    - title: "Du greb chancen"
+      url: "/aarsskrift/2020/kasper-nymand/"

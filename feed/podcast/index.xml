@@ -1,0 +1,2200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+>
+
+    <channel>
+        <title>Vejle Idrætshøjskoles Stemmer</title>
+        <atom:link href="http://historie.vih.dk/feed/podcast/" rel="self" type="application/rss+xml"/>
+        <link>http://historie.vih.dk</link>
+        <description>Stemmer fra Vejle Idrætshøjskoles historie kommer til orde.</description>
+        <lastBuildDate>Mon, 26 Apr 2021 11:38:13 +0000</lastBuildDate>
+        <language>da-DK</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <generator>http://jekyllrb.com</generator>
+        <itunes:summary>Lars Olesen, viceforstander, lader stemmerne fra Vejle Idrætshøjskole komme til orde. Vi samler på historier, viden, gode oplevelser, diskussioner fra før og nu i højskolens historie.</itunes:summary>
+        <itunes:author>Lars Olesen</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.png"/>
+        <itunes:owner>
+            <itunes:name>Vejle Idrætshøjskole</itunes:name>
+            <itunes:email>info@vih.dk</itunes:email>
+        </itunes:owner>
+        <managingEditor>info@vih.dk (Vejle Idrætshøjskole)</managingEditor>
+        <itunes:subtitle>Stemmer fra Vejle Idrætshøjskoles historie.  Vært er Lars Olesen.</itunes:subtitle>
+        <image>
+            <title>Vejle Idrætshøjskoles Stemmer</title>
+            <url>http://historie.vih.dk/assets/podcasts/cover-stemmer.png</url>
+            <link>http://historie.vih.dk</link>
+        </image>
+        <itunes:category text="Vejle Idrætshøjskole">
+            
+              <itunes:category text="Historie"/>
+            
+              <itunes:category text="Tankegods"/>
+            
+        </itunes:category>
+        
+        
+        <item>
+            <title>Vejle Idrætshøjskoles Historie #Live Modstandskampen</title>
+            <link>http://historie.vih.dk/hojskolens-historie-live-modstandskampen/</link>
+            <comments>http://historie.vih.dk/hojskolens-historie-live-modstandskampen/#comments</comments>
+            <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            <category><![CDATA[Video]]></category>
+            
+            
+            <category><![CDATA[Svend Aage Thomsen]]></category>
+            
+            <category><![CDATA[Thormod Petersen]]></category>
+            
+            <category><![CDATA[modstandskampen]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/hojskolens-historie-live-modstandskampen/
+            </guid>
+            <description>
+                <![CDATA[Morgensamling om det illegale arbejde under 2. verdenskrig. Se bl.a. nogle klip skolens grundlægger, Svend Aage Thomsen, har filmet under krigen.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1aG_G9S0X4VF31shRTUsp6CAXm6W1yZe3"
+    
+    },
+    "title": "Vejle Idrætshøjskoles Historie #Live Modstandskampen",
+    
+    "subtitle": "Modstandskampen under 2. verdenskrig",
+    
+    
+    "description": "Morgensamling om det illegale arbejde under 2. verdenskrig. Se bl.a. nogle klip skolens grundlægger, Svend Aage Thomsen, har filmet under krigen.",
+    
+    "url": "http://historie.vih.dk/hojskolens-historie-live-modstandskampen/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.000", "title": "Intro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/modstandskampen.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1aG_G9S0X4VF31shRTUsp6CAXm6W1yZe3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1aG_G9S0X4VF31shRTUsp6CAXm6W1yZe3">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Morgensamling om det illegale arbejde under 2. verdenskrig. Se bl.a. nogle klip skolens grundlægger, Svend Aage Thomsen, har filmet under krigen.</p>
+
+<p>I anledning af Vejle Idrætshøjskoles 75 års jubilæum holdt viceforstander, Lars Olesen, en morgensamling om det illegale arbejde under 2. verdenskrig.</p>
+
+<p>Morgensamlingen er klippet sammen til at være et led i rækken af <a href="/hojskolens-historie-live-modstandskampen/">podcasts i Vejle Idrætshøjskoles Stemmer</a>, men du kan med fordel se og høre podcastet på <code class="highlighter-rouge">historie.vih.dk/podcast/modstandskampen</code>. Her får du nemlig lejlighed til at se videoklip og slides, der blev brugt under morgensamlingen.</p>
+
+<h2 id="indhold">Indhold</h2>
+
+<ul>
+  <li>00:00:00 Velkomst v/ Lars Olesen (nuværende viceforstander på Vejle Idrætshøjskole)</li>
+</ul>
+
+<p class="notice--info"><em>Hjælp meget gerne med at lave flere afsnit i udsendelsen, så man let kan springe til det, man er interesseret i. Brug kommentarerne til det.</em></p>
+
+<h2 id="udskrift-af-udsendelse">Udskrift af udsendelse</h2>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+
+<p><em>Morgenamlingen blev holdt 13. september 2017 for skolens elever.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="https://drive.google.com/uc?id=1aG_G9S0X4VF31shRTUsp6CAXm6W1yZe3" length="52457472" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Morgensamling om det illegale arbejde under 2. verdenskrig. Se bl.a. nogle klip skolens grundlægger, Svend Aage Thomsen, har filmet under krigen.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1aG_G9S0X4VF31shRTUsp6CAXm6W1yZe3"
+    
+    },
+    "title": "Vejle Idrætshøjskoles Historie #Live Modstandskampen",
+    
+    "subtitle": "Modstandskampen under 2. verdenskrig",
+    
+    
+    "description": "Morgensamling om det illegale arbejde under 2. verdenskrig. Se bl.a. nogle klip skolens grundlægger, Svend Aage Thomsen, har filmet under krigen.",
+    
+    "url": "http://historie.vih.dk/hojskolens-historie-live-modstandskampen/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.000", "title": "Intro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/modstandskampen.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1aG_G9S0X4VF31shRTUsp6CAXm6W1yZe3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1aG_G9S0X4VF31shRTUsp6CAXm6W1yZe3">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Morgensamling om det illegale arbejde under 2. verdenskrig. Se bl.a. nogle klip skolens grundlægger, Svend Aage Thomsen, har filmet under krigen.</p>
+
+<p>I anledning af Vejle Idrætshøjskoles 75 års jubilæum holdt viceforstander, Lars Olesen, en morgensamling om det illegale arbejde under 2. verdenskrig.</p>
+
+<p>Morgensamlingen er klippet sammen til at være et led i rækken af <a href="/hojskolens-historie-live-modstandskampen/">podcasts i Vejle Idrætshøjskoles Stemmer</a>, men du kan med fordel se og høre podcastet på <code class="highlighter-rouge">historie.vih.dk/podcast/modstandskampen</code>. Her får du nemlig lejlighed til at se videoklip og slides, der blev brugt under morgensamlingen.</p>
+
+<h2 id="indhold">Indhold</h2>
+
+<ul>
+  <li>00:00:00 Velkomst v/ Lars Olesen (nuværende viceforstander på Vejle Idrætshøjskole)</li>
+</ul>
+
+<p class="notice--info"><em>Hjælp meget gerne med at lave flere afsnit i udsendelsen, så man let kan springe til det, man er interesseret i. Brug kommentarerne til det.</em></p>
+
+<h2 id="udskrift-af-udsendelse">Udskrift af udsendelse</h2>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+
+<p><em>Morgenamlingen blev holdt 13. september 2017 for skolens elever.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>36:25</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Knud Thomassen om sin idrætsbaggrund (1/3)</title>
+            <link>http://historie.vih.dk/podcast/thomassen-erindringer/</link>
+            <comments>http://historie.vih.dk/podcast/thomassen-erindringer/#comments</comments>
+            <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[Knud Thomassen]]></category>
+            
+            <category><![CDATA[Svend Aage Thomsen]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/thomassen-erindringer/
+            </guid>
+            <description>
+                <![CDATA[Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om, hvordan han kom i kontakt med Svend Aage Thomsen gennem idrætten.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1EF5AUdwKxdE_RzyZ6NjtLI1kKomFeXcp"
+    
+    },
+    "title": "Knud Thomassen om sin idrætsbaggrund (1/3)",
+    
+    "subtitle": "Hvordan mødte Knud Svend Aage Thomsen?",
+    
+    
+    "description": "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om, hvordan han kom i kontakt med Svend Aage Thomsen gennem idrætten.",
+    
+    "url": "http://historie.vih.dk/podcast/thomassen-erindringer/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:00:11.0", "title": "Talt intro"},
+    
+    
+    {"start": "00:01:18.0", "title": "Knud Thomassens beretning"},
+    
+    
+    {"start": "00:18:27.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/thomassen-erindringer.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1EF5AUdwKxdE_RzyZ6NjtLI1kKomFeXcp" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1EF5AUdwKxdE_RzyZ6NjtLI1kKomFeXcp">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om, hvordan han kom i kontakt med Svend Aage Thomsen gennem idrætten.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="https://drive.google.com/uc?id=1EF5AUdwKxdE_RzyZ6NjtLI1kKomFeXcp" length="36771915" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om, hvordan han kom i kontakt med Svend Aage Thomsen gennem idrætten.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1EF5AUdwKxdE_RzyZ6NjtLI1kKomFeXcp"
+    
+    },
+    "title": "Knud Thomassen om sin idrætsbaggrund (1/3)",
+    
+    "subtitle": "Hvordan mødte Knud Svend Aage Thomsen?",
+    
+    
+    "description": "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om, hvordan han kom i kontakt med Svend Aage Thomsen gennem idrætten.",
+    
+    "url": "http://historie.vih.dk/podcast/thomassen-erindringer/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:00:11.0", "title": "Talt intro"},
+    
+    
+    {"start": "00:01:18.0", "title": "Knud Thomassens beretning"},
+    
+    
+    {"start": "00:18:27.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/thomassen-erindringer.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1EF5AUdwKxdE_RzyZ6NjtLI1kKomFeXcp" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1EF5AUdwKxdE_RzyZ6NjtLI1kKomFeXcp">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om, hvordan han kom i kontakt med Svend Aage Thomsen gennem idrætten.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>19:09</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Knud Thomassen om skolens start (2/3)</title>
+            <link>http://historie.vih.dk/podcast/thomassen-skolens-start/</link>
+            <comments>http://historie.vih.dk/podcast/thomassen-skolens-start/#comments</comments>
+            <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[Knud Thomassen]]></category>
+            
+            <category><![CDATA[Svend Aage Thomsen]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/thomassen-skolens-start/
+            </guid>
+            <description>
+                <![CDATA[Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens baggrund for at starte skolen.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1dfnMnGdWBFLdwPyUUUPMqBnX7tDY5if_"
+    
+    },
+    "title": "Knud Thomassen om skolens start (2/3)",
+    
+    "subtitle": "Hvad var Svend Aage Thomsens bevæggrunde",
+    
+    
+    "description": "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens baggrund for at starte skolen.",
+    
+    "url": "http://historie.vih.dk/podcast/thomassen-skolens-start/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:00:12.0", "title": "Om udsendelsen"},
+    
+    
+    {"start": "00:06:41.0", "title": "Afslutning"},
+    
+    
+    {"start": "00:07:13.0", "title": "Intro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/thomassen-skolens-start.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1dfnMnGdWBFLdwPyUUUPMqBnX7tDY5if_" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1dfnMnGdWBFLdwPyUUUPMqBnX7tDY5if_">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens baggrund for at starte skolen.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="https://drive.google.com/uc?id=1dfnMnGdWBFLdwPyUUUPMqBnX7tDY5if_" length="14474118" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens baggrund for at starte skolen.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1dfnMnGdWBFLdwPyUUUPMqBnX7tDY5if_"
+    
+    },
+    "title": "Knud Thomassen om skolens start (2/3)",
+    
+    "subtitle": "Hvad var Svend Aage Thomsens bevæggrunde",
+    
+    
+    "description": "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens baggrund for at starte skolen.",
+    
+    "url": "http://historie.vih.dk/podcast/thomassen-skolens-start/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:00:12.0", "title": "Om udsendelsen"},
+    
+    
+    {"start": "00:06:41.0", "title": "Afslutning"},
+    
+    
+    {"start": "00:07:13.0", "title": "Intro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/thomassen-skolens-start.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1dfnMnGdWBFLdwPyUUUPMqBnX7tDY5if_" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1dfnMnGdWBFLdwPyUUUPMqBnX7tDY5if_">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens baggrund for at starte skolen.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>07:32</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Knud Thomassen om Svend Aage Thomsens idrætskarriere (3/3)</title>
+            <link>http://historie.vih.dk/podcast/thomassen-svaat-karriere/</link>
+            <comments>http://historie.vih.dk/podcast/thomassen-svaat-karriere/#comments</comments>
+            <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[Knud Thomassen]]></category>
+            
+            <category><![CDATA[Svend Aage Thomsen]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/thomassen-svaat-karriere/
+            </guid>
+            <description>
+                <![CDATA[Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens idrætskarriere.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1W4PoWvzo-3DU7NcUgGA1fF84g817yU7B"
+    
+    },
+    "title": "Knud Thomassen om Svend Aage Thomsens idrætskarriere (3/3)",
+    
+    "subtitle": "Hvordan så Svend Aage Thomsens Idrætskarriere ud?",
+    
+    
+    "description": "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens idrætskarriere.",
+    
+    "url": "http://historie.vih.dk/podcast/thomassen-svaat-karriere/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:00:11.0", "title": "Talt intro"},
+    
+    
+    {"start": "00:13:21.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/thomassen-svaat-karriere.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1W4PoWvzo-3DU7NcUgGA1fF84g817yU7B" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1W4PoWvzo-3DU7NcUgGA1fF84g817yU7B">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens idrætskarriere.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="https://drive.google.com/uc?id=1W4PoWvzo-3DU7NcUgGA1fF84g817yU7B" length="27200290" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens idrætskarriere.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1W4PoWvzo-3DU7NcUgGA1fF84g817yU7B"
+    
+    },
+    "title": "Knud Thomassen om Svend Aage Thomsens idrætskarriere (3/3)",
+    
+    "subtitle": "Hvordan så Svend Aage Thomsens Idrætskarriere ud?",
+    
+    
+    "description": "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens idrætskarriere.",
+    
+    "url": "http://historie.vih.dk/podcast/thomassen-svaat-karriere/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:00:11.0", "title": "Talt intro"},
+    
+    
+    {"start": "00:13:21.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/thomassen-svaat-karriere.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1W4PoWvzo-3DU7NcUgGA1fF84g817yU7B" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1W4PoWvzo-3DU7NcUgGA1fF84g817yU7B">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens idrætskarriere.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>14:09</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Jørn Richter om idrætssyn og værdigrundlag</title>
+            <link>http://historie.vih.dk/podcast/jorn-richter-vaerdigrundlag/</link>
+            <comments>http://historie.vih.dk/podcast/jorn-richter-vaerdigrundlag/#comments</comments>
+            <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[værdigrundlag]]></category>
+            
+            <category><![CDATA[Jørn Richter]]></category>
+            
+            <category><![CDATA[menneskesyn]]></category>
+            
+            <category><![CDATA[idrætssyn]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/jorn-richter-vaerdigrundlag/
+            </guid>
+            <description>
+                <![CDATA[Interview med Jørn Richter om, hvordan menneskesynet og idrætssynet i hans tid som højskolelærer fra 1973 - 2005 blev sat på dagsorden på Den Jyske Idrætsskole og Vejle Idrætshøjskole.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1Lbs739Me93s6vm3Ih_2GdRyp3zoL6vqq"
+    
+    },
+    "title": "Jørn Richter om idrætssyn og værdigrundlag",
+    
+    "subtitle": "Om udviklingen af menneskesyn, idrætssyn og værdigrundlag",
+    
+    
+    "description": "Interview med Jørn Richter om, hvordan menneskesynet og idrætssynet i hans tid som højskolelærer fra 1973 - 2005 blev sat på dagsorden på Den Jyske Idrætsskole og Vejle Idrætshøjskole.",
+    
+    "url": "http://historie.vih.dk/podcast/jorn-richter-vaerdigrundlag/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.000", "title": "Intro"},
+    
+    
+    {"start": "00:00:34.000", "title": "Præsentation af udsendelsen"},
+    
+    
+    {"start": "00:01:12.000", "title": "Om idrætssynet på højskolen"},
+    
+    
+    {"start": "00:16:13.000", "title": "Outro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/richter-vaerdigrundlag.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1Lbs739Me93s6vm3Ih_2GdRyp3zoL6vqq" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1Lbs739Me93s6vm3Ih_2GdRyp3zoL6vqq">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Jørn Richter om, hvordan menneskesynet og idrætssynet i hans tid som højskolelærer fra 1973 - 2005 blev sat på dagsorden på Den Jyske Idrætsskole og Vejle Idrætshøjskole.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="https://drive.google.com/uc?id=1Lbs739Me93s6vm3Ih_2GdRyp3zoL6vqq" length="27204281" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Interview med Jørn Richter om, hvordan menneskesynet og idrætssynet i hans tid som højskolelærer fra 1973 - 2005 blev sat på dagsorden på Den Jyske Idrætsskole og Vejle Idrætshøjskole.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1Lbs739Me93s6vm3Ih_2GdRyp3zoL6vqq"
+    
+    },
+    "title": "Jørn Richter om idrætssyn og værdigrundlag",
+    
+    "subtitle": "Om udviklingen af menneskesyn, idrætssyn og værdigrundlag",
+    
+    
+    "description": "Interview med Jørn Richter om, hvordan menneskesynet og idrætssynet i hans tid som højskolelærer fra 1973 - 2005 blev sat på dagsorden på Den Jyske Idrætsskole og Vejle Idrætshøjskole.",
+    
+    "url": "http://historie.vih.dk/podcast/jorn-richter-vaerdigrundlag/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.000", "title": "Intro"},
+    
+    
+    {"start": "00:00:34.000", "title": "Præsentation af udsendelsen"},
+    
+    
+    {"start": "00:01:12.000", "title": "Om idrætssynet på højskolen"},
+    
+    
+    {"start": "00:16:13.000", "title": "Outro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/richter-vaerdigrundlag.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1Lbs739Me93s6vm3Ih_2GdRyp3zoL6vqq" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1Lbs739Me93s6vm3Ih_2GdRyp3zoL6vqq">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Jørn Richter om, hvordan menneskesynet og idrætssynet i hans tid som højskolelærer fra 1973 - 2005 blev sat på dagsorden på Den Jyske Idrætsskole og Vejle Idrætshøjskole.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>16:30</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Jørn Richter om at være højskolelærer?</title>
+            <link>http://historie.vih.dk/podcast/jorn-richter-hoejskolelaerer/</link>
+            <comments>http://historie.vih.dk/podcast/jorn-richter-hoejskolelaerer/#comments</comments>
+            <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[Jørn Richter]]></category>
+            
+            <category><![CDATA[højskolelærer]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/jorn-richter-hoejskolelaerer/
+            </guid>
+            <description>
+                <![CDATA[Interview med Jørn Richter om, hvordan hvordan han ser på det at være højskolelærer.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=12ObT1KxS6HC07tfwiqTyfmXWVzVJTbNS"
+    
+    },
+    "title": "Jørn Richter om at være højskolelærer?",
+    
+    "subtitle": "Hvad har Jørn lagt vægt på som højskolelærer?",
+    
+    
+    "description": "Interview med Jørn Richter om, hvordan hvordan han ser på det at være højskolelærer.",
+    
+    "url": "http://historie.vih.dk/podcast/jorn-richter-hoejskolelaerer/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:00:10.0", "title": "Talt intro"},
+    
+    
+    {"start": "00:19:08.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/richter-hoejskolelaerer.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=12ObT1KxS6HC07tfwiqTyfmXWVzVJTbNS" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=12ObT1KxS6HC07tfwiqTyfmXWVzVJTbNS">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Jørn Richter om, hvordan hvordan han ser på det at være højskolelærer.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="https://drive.google.com/uc?id=12ObT1KxS6HC07tfwiqTyfmXWVzVJTbNS" length="38440960" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Interview med Jørn Richter om, hvordan hvordan han ser på det at være højskolelærer.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=12ObT1KxS6HC07tfwiqTyfmXWVzVJTbNS"
+    
+    },
+    "title": "Jørn Richter om at være højskolelærer?",
+    
+    "subtitle": "Hvad har Jørn lagt vægt på som højskolelærer?",
+    
+    
+    "description": "Interview med Jørn Richter om, hvordan hvordan han ser på det at være højskolelærer.",
+    
+    "url": "http://historie.vih.dk/podcast/jorn-richter-hoejskolelaerer/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:00:10.0", "title": "Talt intro"},
+    
+    
+    {"start": "00:19:08.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/richter-hoejskolelaerer.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=12ObT1KxS6HC07tfwiqTyfmXWVzVJTbNS" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=12ObT1KxS6HC07tfwiqTyfmXWVzVJTbNS">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Jørn Richter om, hvordan hvordan han ser på det at være højskolelærer.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>20:01</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Jørn Richter om eleverne</title>
+            <link>http://historie.vih.dk/podcast/jorn-richter-eleverne/</link>
+            <comments>http://historie.vih.dk/podcast/jorn-richter-eleverne/#comments</comments>
+            <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[Jørn Richter]]></category>
+            
+            <category><![CDATA[eleverne]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/jorn-richter-eleverne/
+            </guid>
+            <description>
+                <![CDATA[Interview med Jørn Richter om de elever, han er stødt ind i som lærer på Vejle Idrætshøjskole.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1yLiFMF4CcBwXf5S3qN5ZjO3B1gRuFqNz"
+    
+    },
+    "title": "Jørn Richter om eleverne",
+    
+    "subtitle": "Hvilke interessante elever er Jørn stødt på?",
+    
+    
+    "description": "Interview med Jørn Richter om de elever, han er stødt ind i som lærer på Vejle Idrætshøjskole.",
+    
+    "url": "http://historie.vih.dk/podcast/jorn-richter-eleverne/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:00:10.0", "title": "Talt intro"},
+    
+    
+    {"start": "00:23:25.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/richter-eleverne.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1yLiFMF4CcBwXf5S3qN5ZjO3B1gRuFqNz" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1yLiFMF4CcBwXf5S3qN5ZjO3B1gRuFqNz">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Jørn Richter om de elever, han er stødt ind i som lærer på Vejle Idrætshøjskole.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="https://drive.google.com/uc?id=1yLiFMF4CcBwXf5S3qN5ZjO3B1gRuFqNz" length="38440960" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Interview med Jørn Richter om de elever, han er stødt ind i som lærer på Vejle Idrætshøjskole.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1yLiFMF4CcBwXf5S3qN5ZjO3B1gRuFqNz"
+    
+    },
+    "title": "Jørn Richter om eleverne",
+    
+    "subtitle": "Hvilke interessante elever er Jørn stødt på?",
+    
+    
+    "description": "Interview med Jørn Richter om de elever, han er stødt ind i som lærer på Vejle Idrætshøjskole.",
+    
+    "url": "http://historie.vih.dk/podcast/jorn-richter-eleverne/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:00:10.0", "title": "Talt intro"},
+    
+    
+    {"start": "00:23:25.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/richter-eleverne.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1yLiFMF4CcBwXf5S3qN5ZjO3B1gRuFqNz" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1yLiFMF4CcBwXf5S3qN5ZjO3B1gRuFqNz">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Jørn Richter om de elever, han er stødt ind i som lærer på Vejle Idrætshøjskole.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>24:08</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Jørn Richter om interessante personer</title>
+            <link>http://historie.vih.dk/podcast/jorn-richter-personer/</link>
+            <comments>http://historie.vih.dk/podcast/jorn-richter-personer/#comments</comments>
+            <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[Jørn Richter]]></category>
+            
+            <category><![CDATA[personer]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/jorn-richter-personer/
+            </guid>
+            <description>
+                <![CDATA[Interview med Jørn Richter om de personligheder, han er stødt ind i som lærer på Vejle Idrætshøjskole.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1571Juz3KUFuL1_dC-qHj85rc4fG9HS3E"
+    
+    },
+    "title": "Jørn Richter om interessante personer",
+    
+    "subtitle": "Hvilke interessante personligheder er Jørn stødt på?",
+    
+    
+    "description": "Interview med Jørn Richter om de personligheder, han er stødt ind i som lærer på Vejle Idrætshøjskole.",
+    
+    "url": "http://historie.vih.dk/podcast/jorn-richter-personer/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:14:56.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/richter-personer.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1571Juz3KUFuL1_dC-qHj85rc4fG9HS3E" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1571Juz3KUFuL1_dC-qHj85rc4fG9HS3E">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Jørn Richter om de personligheder, han er stødt ind i som lærer på Vejle Idrætshøjskole.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="https://drive.google.com/uc?id=1571Juz3KUFuL1_dC-qHj85rc4fG9HS3E" length="30085120" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Interview med Jørn Richter om de personligheder, han er stødt ind i som lærer på Vejle Idrætshøjskole.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1571Juz3KUFuL1_dC-qHj85rc4fG9HS3E"
+    
+    },
+    "title": "Jørn Richter om interessante personer",
+    
+    "subtitle": "Hvilke interessante personligheder er Jørn stødt på?",
+    
+    
+    "description": "Interview med Jørn Richter om de personligheder, han er stødt ind i som lærer på Vejle Idrætshøjskole.",
+    
+    "url": "http://historie.vih.dk/podcast/jorn-richter-personer/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:14:56.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/richter-personer.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1571Juz3KUFuL1_dC-qHj85rc4fG9HS3E" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1571Juz3KUFuL1_dC-qHj85rc4fG9HS3E">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Jørn Richter om de personligheder, han er stødt ind i som lærer på Vejle Idrætshøjskole.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>15:40</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Bent Aalbæk-Nielsen om Rask Nielsen</title>
+            <link>http://historie.vih.dk/podcast/bent-aalbaek-nielsen-rask-nielsen/</link>
+            <comments>http://historie.vih.dk/podcast/bent-aalbaek-nielsen-rask-nielsen/#comments</comments>
+            <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[Rask Nielsen]]></category>
+            
+            <category><![CDATA[Bent Aalbæk-Nielsen]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/bent-aalbaek-nielsen-rask-nielsen/
+            </guid>
+            <description>
+                <![CDATA[Interview med Bent Aalbæk-Nielsen om, hvordan Rask Nielsen, skolens tredje medforstander, kom til Vejle Idrætshøjskole.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1yO3Hjf5zohtY5gt9FRYxzODk581Uvs9B"
+    
+    },
+    "title": "Bent Aalbæk-Nielsen om Rask Nielsen",
+    
+    "subtitle": "Hvordan kom familien til Den Jyske Idrætsskole?",
+    
+    
+    "description": "Interview med Bent Aalbæk-Nielsen om, hvordan Rask Nielsen, skolens tredje medforstander, kom til Vejle Idrætshøjskole.",
+    
+    "url": "http://historie.vih.dk/podcast/bent-aalbaek-nielsen-rask-nielsen/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.000", "title": "Intro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/bent-aalbaek-nielsen-rask-nielsen.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1yO3Hjf5zohtY5gt9FRYxzODk581Uvs9B" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1yO3Hjf5zohtY5gt9FRYxzODk581Uvs9B">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Bent Aalbæk-Nielsen om, hvordan Rask Nielsen, skolens tredje medforstander, kom til Vejle Idrætshøjskole.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="https://drive.google.com/uc?id=1yO3Hjf5zohtY5gt9FRYxzODk581Uvs9B" length="34570240" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Interview med Bent Aalbæk-Nielsen om, hvordan Rask Nielsen, skolens tredje medforstander, kom til Vejle Idrætshøjskole.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1yO3Hjf5zohtY5gt9FRYxzODk581Uvs9B"
+    
+    },
+    "title": "Bent Aalbæk-Nielsen om Rask Nielsen",
+    
+    "subtitle": "Hvordan kom familien til Den Jyske Idrætsskole?",
+    
+    
+    "description": "Interview med Bent Aalbæk-Nielsen om, hvordan Rask Nielsen, skolens tredje medforstander, kom til Vejle Idrætshøjskole.",
+    
+    "url": "http://historie.vih.dk/podcast/bent-aalbaek-nielsen-rask-nielsen/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.000", "title": "Intro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/bent-aalbaek-nielsen-rask-nielsen.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1yO3Hjf5zohtY5gt9FRYxzODk581Uvs9B" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1yO3Hjf5zohtY5gt9FRYxzODk581Uvs9B">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Bent Aalbæk-Nielsen om, hvordan Rask Nielsen, skolens tredje medforstander, kom til Vejle Idrætshøjskole.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>18:00</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Bent Aalbæk-Nielsen om interessante personer</title>
+            <link>http://historie.vih.dk/podcast/bent-aalbaek-nielsen-personer/</link>
+            <comments>http://historie.vih.dk/podcast/bent-aalbaek-nielsen-personer/#comments</comments>
+            <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[Svend Aage Thomsen]]></category>
+            
+            <category><![CDATA[Knud Thomassen]]></category>
+            
+            <category><![CDATA[Bent Aalbæk-Nielsen]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/bent-aalbaek-nielsen-personer/
+            </guid>
+            <description>
+                <![CDATA[Interview med Bent Aalbæk-Nielsen om de interessante personer, han husker fra den tid, hvor hans far, Rask Nielsen (skolens tredje medforstander) var på Den Jyske Idrætsskole.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1KcodNrtSd02piGcSpewhUTigbkAQiSH7"
+    
+    },
+    "title": "Bent Aalbæk-Nielsen om interessante personer",
+    
+    "subtitle": "Hvilke interessante personer husker Bent Aalbæk-Nielsen?",
+    
+    
+    "description": "Interview med Bent Aalbæk-Nielsen om de interessante personer, han husker fra den tid, hvor hans far, Rask Nielsen (skolens tredje medforstander) var på Den Jyske Idrætsskole.",
+    
+    "url": "http://historie.vih.dk/podcast/bent-aalbaek-nielsen-personer/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:00:09.0", "title": "Talt intro"},
+    
+    
+    {"start": "00:00:30.0", "title": "Præsentation af udsendelsen"},
+    
+    
+    {"start": "00:21:59.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/bent-aalbaek-nielsen-personer.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1KcodNrtSd02piGcSpewhUTigbkAQiSH7" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1KcodNrtSd02piGcSpewhUTigbkAQiSH7">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Bent Aalbæk-Nielsen om de interessante personer, han husker fra den tid, hvor hans far, Rask Nielsen (skolens tredje medforstander) var på Den Jyske Idrætsskole.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="https://drive.google.com/uc?id=1KcodNrtSd02piGcSpewhUTigbkAQiSH7" length="44040192" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Interview med Bent Aalbæk-Nielsen om de interessante personer, han husker fra den tid, hvor hans far, Rask Nielsen (skolens tredje medforstander) var på Den Jyske Idrætsskole.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "https://drive.google.com/uc?id=1KcodNrtSd02piGcSpewhUTigbkAQiSH7"
+    
+    },
+    "title": "Bent Aalbæk-Nielsen om interessante personer",
+    
+    "subtitle": "Hvilke interessante personer husker Bent Aalbæk-Nielsen?",
+    
+    
+    "description": "Interview med Bent Aalbæk-Nielsen om de interessante personer, han husker fra den tid, hvor hans far, Rask Nielsen (skolens tredje medforstander) var på Den Jyske Idrætsskole.",
+    
+    "url": "http://historie.vih.dk/podcast/bent-aalbaek-nielsen-personer/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:00:09.0", "title": "Talt intro"},
+    
+    
+    {"start": "00:00:30.0", "title": "Præsentation af udsendelsen"},
+    
+    
+    {"start": "00:21:59.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "http://historie.vih.dk/assets/podcasts/bent-aalbaek-nielsen-personer.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="https://drive.google.com/uc?id=1KcodNrtSd02piGcSpewhUTigbkAQiSH7" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="https://drive.google.com/uc?id=1KcodNrtSd02piGcSpewhUTigbkAQiSH7">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Bent Aalbæk-Nielsen om de interessante personer, han husker fra den tid, hvor hans far, Rask Nielsen (skolens tredje medforstander) var på Den Jyske Idrætsskole.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>22:56</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Inger Christensen om det stråtækte hus</title>
+            <link>http://historie.vih.dk/podcast/inger-christensen/</link>
+            <comments>http://historie.vih.dk/podcast/inger-christensen/#comments</comments>
+            <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[stråtækte hus]]></category>
+            
+            <category><![CDATA[Højskoledagen]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/inger-christensen/
+            </guid>
+            <description>
+                <![CDATA[Interview med Inger Christensen som i mange år boet i Skovhytten fra 1978 - 2004 og været involveret i højskoledagen, som blev startet af Signe Troelsen.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "//drive.google.com/uc?id=15eHI6uulcHebhG9sXaMmzp89RVHCidAd"
+    
+    },
+    "title": "Inger Christensen om det stråtækte hus",
+    
+    "subtitle": "... og lidt om højskoledagen",
+    
+    
+    "description": "Interview med Inger Christensen som i mange år boet i Skovhytten fra 1978 - 2004 og været involveret i højskoledagen, som blev startet af Signe Troelsen.",
+    
+    "url": "http://historie.vih.dk/podcast/inger-christensen/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:13:20.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "//historie.vih.dk/assets/podcasts/inger-christensen-skovhytten.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="//drive.google.com/uc?id=15eHI6uulcHebhG9sXaMmzp89RVHCidAd" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="//drive.google.com/uc?id=15eHI6uulcHebhG9sXaMmzp89RVHCidAd">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Inger Christensen som i mange år boet i Skovhytten fra 1978 - 2004 og været involveret i højskoledagen, som blev startet af Signe Troelsen.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="//drive.google.com/uc?id=15eHI6uulcHebhG9sXaMmzp89RVHCidAd" length="26259456" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Interview med Inger Christensen som i mange år boet i Skovhytten fra 1978 - 2004 og været involveret i højskoledagen, som blev startet af Signe Troelsen.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "//drive.google.com/uc?id=15eHI6uulcHebhG9sXaMmzp89RVHCidAd"
+    
+    },
+    "title": "Inger Christensen om det stråtækte hus",
+    
+    "subtitle": "... og lidt om højskoledagen",
+    
+    
+    "description": "Interview med Inger Christensen som i mange år boet i Skovhytten fra 1978 - 2004 og været involveret i højskoledagen, som blev startet af Signe Troelsen.",
+    
+    "url": "http://historie.vih.dk/podcast/inger-christensen/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:13:20.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "//historie.vih.dk/assets/podcasts/inger-christensen-skovhytten.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="//drive.google.com/uc?id=15eHI6uulcHebhG9sXaMmzp89RVHCidAd" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="//drive.google.com/uc?id=15eHI6uulcHebhG9sXaMmzp89RVHCidAd">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Inger Christensen som i mange år boet i Skovhytten fra 1978 - 2004 og været involveret i højskoledagen, som blev startet af Signe Troelsen.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>13:40</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Lischen Lyngholm om at værehøjskolelærer fra 1968 - 1993</title>
+            <link>http://historie.vih.dk/podcast/lischen-lyngholm/</link>
+            <comments>http://historie.vih.dk/podcast/lischen-lyngholm/#comments</comments>
+            <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[Lischen Lyngholm]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/lischen-lyngholm/
+            </guid>
+            <description>
+                <![CDATA[Interview med Lischen Lyngholm, der var højskolelærer på Den Jyske Idrætsskole fra 1968 - 1993. Hun fortæller om, hvordan hun startede som faglærer i gymnastik, men langsomt fandt nye veje ind i højskolelærerlivet.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "//historie.vih.dk/assets/podcasts/lischen-lyngholm.mp3"
+    
+    },
+    "title": "Lischen Lyngholm om at være<br>højskolelærer fra 1968 - 1993",
+    
+    "subtitle": "... og lidt om at være den første der lader piger springe til gymnastik",
+    
+    
+    "description": "Interview med Lischen Lyngholm, der var højskolelærer på Den Jyske Idrætsskole fra 1968 - 1993. Hun fortæller om, hvordan hun startede som faglærer i gymnastik, men langsomt fandt nye veje ind i højskolelærerlivet.",
+    
+    "url": "http://historie.vih.dk/podcast/lischen-lyngholm/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:13:20.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "//historie.vih.dk/assets/podcasts/lischen-lyngholm.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="//historie.vih.dk/assets/podcasts/lischen-lyngholm.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="//historie.vih.dk/assets/podcasts/lischen-lyngholm.mp3">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Lischen Lyngholm, der var højskolelærer på Den Jyske Idrætsskole fra 1968 - 1993. Hun fortæller om, hvordan hun startede som faglærer i gymnastik, men langsomt fandt nye veje ind i højskolelærerlivet.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="//historie.vih.dk/assets/podcasts/lischen-lyngholm.mp3" length="61509231" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Interview med Lischen Lyngholm, der var højskolelærer på Den Jyske Idrætsskole fra 1968 - 1993. Hun fortæller om, hvordan hun startede som faglærer i gymnastik, men langsomt fandt nye veje ind i højskolelærerlivet.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "//historie.vih.dk/assets/podcasts/lischen-lyngholm.mp3"
+    
+    },
+    "title": "Lischen Lyngholm om at være<br>højskolelærer fra 1968 - 1993",
+    
+    "subtitle": "... og lidt om at være den første der lader piger springe til gymnastik",
+    
+    
+    "description": "Interview med Lischen Lyngholm, der var højskolelærer på Den Jyske Idrætsskole fra 1968 - 1993. Hun fortæller om, hvordan hun startede som faglærer i gymnastik, men langsomt fandt nye veje ind i højskolelærerlivet.",
+    
+    "url": "http://historie.vih.dk/podcast/lischen-lyngholm/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"},
+    
+    
+    {"start": "00:13:20.0", "title": "Talt outro"}
+    
+    ],
+    
+    
+    "transcript": "//historie.vih.dk/assets/podcasts/lischen-lyngholm.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="//historie.vih.dk/assets/podcasts/lischen-lyngholm.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="//historie.vih.dk/assets/podcasts/lischen-lyngholm.mp3">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Lischen Lyngholm, der var højskolelærer på Den Jyske Idrætsskole fra 1968 - 1993. Hun fortæller om, hvordan hun startede som faglærer i gymnastik, men langsomt fandt nye veje ind i højskolelærerlivet.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>39:12</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Birte Christensen om at være datter af grundlæggeren</title>
+            <link>http://historie.vih.dk/podcast/birte-christensen/</link>
+            <comments>http://historie.vih.dk/podcast/birte-christensen/#comments</comments>
+            <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[Svend Aage Thomsen]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/birte-christensen/
+            </guid>
+            <description>
+                <![CDATA[Interview med Birte Christensen som var fem år, da højskolen blev etableret, og som datter af Svend Aage Thomsen har hun naturligvis mange minder fra sine år på Den Jyske Idrætsskole.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "//historie.vih.dk/assets/podcasts/birte-christensen.mp3"
+    
+    },
+    "title": "Birte Christensen om at være datter af grundlæggeren",
+    
+    "subtitle": "... hendes oplevelser som datter, elev og lærer",
+    
+    
+    "description": "Interview med Birte Christensen som var fem år, da højskolen blev etableret, og som datter af Svend Aage Thomsen har hun naturligvis mange minder fra sine år på Den Jyske Idrætsskole.",
+    
+    "url": "http://historie.vih.dk/podcast/birte-christensen/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"}
+    
+    ],
+    
+    
+    "transcript": "//historie.vih.dk/assets/podcasts/birte-christensen.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="//historie.vih.dk/assets/podcasts/birte-christensen.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="//historie.vih.dk/assets/podcasts/birte-christensen.mp3">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Birte Christensen som var fem år, da højskolen blev etableret, og som datter af Svend Aage Thomsen har hun naturligvis mange minder fra sine år på Den Jyske Idrætsskole.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="//historie.vih.dk/assets/podcasts/birte-christensen.mp3" length="62377851" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Interview med Birte Christensen som var fem år, da højskolen blev etableret, og som datter af Svend Aage Thomsen har hun naturligvis mange minder fra sine år på Den Jyske Idrætsskole.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "//historie.vih.dk/assets/podcasts/birte-christensen.mp3"
+    
+    },
+    "title": "Birte Christensen om at være datter af grundlæggeren",
+    
+    "subtitle": "... hendes oplevelser som datter, elev og lærer",
+    
+    
+    "description": "Interview med Birte Christensen som var fem år, da højskolen blev etableret, og som datter af Svend Aage Thomsen har hun naturligvis mange minder fra sine år på Den Jyske Idrætsskole.",
+    
+    "url": "http://historie.vih.dk/podcast/birte-christensen/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"}
+    
+    ],
+    
+    
+    "transcript": "//historie.vih.dk/assets/podcasts/birte-christensen.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="//historie.vih.dk/assets/podcasts/birte-christensen.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="//historie.vih.dk/assets/podcasts/birte-christensen.mp3">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Birte Christensen som var fem år, da højskolen blev etableret, og som datter af Svend Aage Thomsen har hun naturligvis mange minder fra sine år på Den Jyske Idrætsskole.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>29:48</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Hans Lauge - stemt af højskolen</title>
+            <link>http://historie.vih.dk/podcast/hans-lauge/</link>
+            <comments>http://historie.vih.dk/podcast/hans-lauge/#comments</comments>
+            <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[Hans Lauge]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/hans-lauge/
+            </guid>
+            <description>
+                <![CDATA[Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "//historie.vih.dk/assets/podcasts/hans-lauge.mp3"
+    
+    },
+    "title": "Hans Lauge - stemt af højskolen",
+    
+    "subtitle": "- højskolelærerliv og højskolen i livet",
+    
+    
+    "description": "Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv.",
+    
+    "url": "http://historie.vih.dk/podcast/hans-lauge/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"}
+    
+    ],
+    
+    
+    "transcript": "//historie.vih.dk/assets/podcasts/hans-lauge.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="//historie.vih.dk/assets/podcasts/hans-lauge.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="//historie.vih.dk/assets/podcasts/hans-lauge.mp3">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv.</p>
+
+<h2 id="errata">Errata</h2>
+
+<p>Hans Lauge kommer i podcastet til at sige, at han har været selvstændig erhvervsdrivende i 4 år, men det er i starten af 2018 24 år.</p>
+
+<h2 id="mere-om-hans-lauge">Mere om Hans Lauge</h2>
+
+<p>Du kan følge Hans Lauges blog på <a href="http://facebook.com/hanslaugedk">Facebook</a> og læse mere på <a href="http://hanslauge.dk">hans hjemmeside</a>.</p>
+
+<h2 id="transkribering">Transkribering</h2>
+
+<p><a href="https://docs.google.com/document/d/15XhJkYXc0YriZ6wC1dc-aFiQ_SPfUOV5vuY9017zLY8/edit?usp=sharing" class="btn btn--warning btn--primary btn--large"><i class="far fa-question-circle"></i> Hjælp med at transkribere</a></p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="//historie.vih.dk/assets/podcasts/hans-lauge.mp3" length="62564068" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "//historie.vih.dk/assets/podcasts/hans-lauge.mp3"
+    
+    },
+    "title": "Hans Lauge - stemt af højskolen",
+    
+    "subtitle": "- højskolelærerliv og højskolen i livet",
+    
+    
+    "description": "Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv.",
+    
+    "url": "http://historie.vih.dk/podcast/hans-lauge/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"}
+    
+    ],
+    
+    
+    "transcript": "//historie.vih.dk/assets/podcasts/hans-lauge.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="//historie.vih.dk/assets/podcasts/hans-lauge.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="//historie.vih.dk/assets/podcasts/hans-lauge.mp3">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv.</p>
+
+<h2 id="errata">Errata</h2>
+
+<p>Hans Lauge kommer i podcastet til at sige, at han har været selvstændig erhvervsdrivende i 4 år, men det er i starten af 2018 24 år.</p>
+
+<h2 id="mere-om-hans-lauge">Mere om Hans Lauge</h2>
+
+<p>Du kan følge Hans Lauges blog på <a href="http://facebook.com/hanslaugedk">Facebook</a> og læse mere på <a href="http://hanslauge.dk">hans hjemmeside</a>.</p>
+
+<h2 id="transkribering">Transkribering</h2>
+
+<p><a href="https://docs.google.com/document/d/15XhJkYXc0YriZ6wC1dc-aFiQ_SPfUOV5vuY9017zLY8/edit?usp=sharing" class="btn btn--warning btn--primary btn--large"><i class="far fa-question-circle"></i> Hjælp med at transkribere</a></p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>30:11</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Tage Benjaminsens fire møder</title>
+            <link>http://historie.vih.dk/podcast/tage-benjaminsen/</link>
+            <comments>http://historie.vih.dk/podcast/tage-benjaminsen/#comments</comments>
+            <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[Tage Benjaminsen]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/tage-benjaminsen/
+            </guid>
+            <description>
+                <![CDATA[Interview med Tage Benjaminsen, som både har været elev, højskolelærer og forstander fra 1982-1984 på Den Jyske Idrætsskole.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "//historie.vih.dk/assets/podcasts/tage-benjaminsen.mp3"
+    
+    },
+    "title": "Tage Benjaminsens fire møder",
+    
+    "subtitle": "- om at være elev, højskolelærer og forstander på DJI",
+    
+    
+    "description": "Interview med Tage Benjaminsen, som både har været elev, højskolelærer og forstander fra 1982-1984 på Den Jyske Idrætsskole.",
+    
+    "url": "http://historie.vih.dk/podcast/tage-benjaminsen/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"}
+    
+    ],
+    
+    
+    "transcript": "//historie.vih.dk/assets/podcasts/tage-benjaminsen.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="//historie.vih.dk/assets/podcasts/tage-benjaminsen.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="//historie.vih.dk/assets/podcasts/tage-benjaminsen.mp3">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Tage Benjaminsen, som både har været elev, højskolelærer og forstander fra 1982-1984 på Den Jyske Idrætsskole.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="//historie.vih.dk/assets/podcasts/tage-benjaminsen.mp3" length="72914402" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Interview med Tage Benjaminsen, som både har været elev, højskolelærer og forstander fra 1982-1984 på Den Jyske Idrætsskole.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "//historie.vih.dk/assets/podcasts/tage-benjaminsen.mp3"
+    
+    },
+    "title": "Tage Benjaminsens fire møder",
+    
+    "subtitle": "- om at være elev, højskolelærer og forstander på DJI",
+    
+    
+    "description": "Interview med Tage Benjaminsen, som både har været elev, højskolelærer og forstander fra 1982-1984 på Den Jyske Idrætsskole.",
+    
+    "url": "http://historie.vih.dk/podcast/tage-benjaminsen/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"}
+    
+    ],
+    
+    
+    "transcript": "//historie.vih.dk/assets/podcasts/tage-benjaminsen.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="//historie.vih.dk/assets/podcasts/tage-benjaminsen.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="//historie.vih.dk/assets/podcasts/tage-benjaminsen.mp3">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Tage Benjaminsen, som både har været elev, højskolelærer og forstander fra 1982-1984 på Den Jyske Idrætsskole.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>47:12</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Marie Lisby</title>
+            <link>http://historie.vih.dk/podcast/marie-lisby/</link>
+            <comments>http://historie.vih.dk/podcast/marie-lisby/#comments</comments>
+            <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[{"name"=>"Vejle Idrætshøjskole", "avatar"=>"/assets/images/authors/vih-logo.png", "bio"=>"Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til.", "location"=>"Vejle", "links"=>[{"label"=>"E-mail", "icon"=>"fas fa-fw fa-envelope-square", "url"=>"mailto:info@vih.dk"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link", "url"=>"https://www.vih.dk/"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square", "url"=>"https://twitter.com/vihdk"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square", "url"=>"https://facebook.com/groups/655406751295188"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github", "url"=>"https://github.com/vih/historie.git"}, {"label"=>"Youtube", "icon"=>"fab fa-fw fa-youtube", "url"=>"https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram", "url"=>"https://instagram.com/vihdk"}]}]]></dc:creator>
+            
+            <category><![CDATA[Podcast]]></category>
+            
+            
+            <category><![CDATA[Marie Lisby]]></category>
+            
+            <category><![CDATA[kursuscenter]]></category>
+            
+            <guid isPermaLink="true">http://historie.vih.dk/podcast/marie-lisby/
+            </guid>
+            <description>
+                <![CDATA[Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "//drive.google.com/uc?id=1zw9BvrI_HYein1KWZPbuR-S7CrzVI0rF"
+    
+    },
+    "title": "Marie Lisby",
+    
+    "subtitle": "- ansat 39 år med ansvar for kursuscenter og rengøring",
+    
+    
+    "description": "Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003.",
+    
+    "url": "http://historie.vih.dk/podcast/marie-lisby/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"}
+    
+    ],
+    
+    
+    "transcript": "//historie.vih.dk/assets/podcasts/marie-lisby.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="//drive.google.com/uc?id=1zw9BvrI_HYein1KWZPbuR-S7CrzVI0rF" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="//drive.google.com/uc?id=1zw9BvrI_HYein1KWZPbuR-S7CrzVI0rF">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]>
+            </content:encoded>
+
+            <enclosure url="//drive.google.com/uc?id=1zw9BvrI_HYein1KWZPbuR-S7CrzVI0rF" length="51437185" type="audio/mpeg"/>
+            <itunes:subtitle>
+                <![CDATA[Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[<script>
+    window.playerConfiguration = {
+        "episode": {
+            "media": {
+    
+    "mp3": "//drive.google.com/uc?id=1zw9BvrI_HYein1KWZPbuR-S7CrzVI0rF"
+    
+    },
+    "title": "Marie Lisby",
+    
+    "subtitle": "- ansat 39 år med ansvar for kursuscenter og rengøring",
+    
+    
+    "description": "Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003.",
+    
+    "url": "http://historie.vih.dk/podcast/marie-lisby/",
+    
+    "chaptermarks": [
+    
+    
+    {"start": "00:00:00.0", "title": "Intro"}
+    
+    ],
+    
+    
+    "transcript": "//historie.vih.dk/assets/podcasts/marie-lisby.txt",
+    
+    "coverUrl": "http://historie.vih.dk/assets/podcasts/cover-stemmer.png"
+    }
+    }
+</script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+
+<noscript>
+    <audio controls="">
+        <source src="//drive.google.com/uc?id=1zw9BvrI_HYein1KWZPbuR-S7CrzVI0rF" type="audio/mpeg" />
+        Your browser does not support the audio element.
+        <a href="//drive.google.com/uc?id=1zw9BvrI_HYein1KWZPbuR-S7CrzVI0rF">Download podcast</a>
+    </audio>
+</noscript>
+
+<p>Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003.</p>
+
+<p class="notice--info"><em>Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen.</em></p>
+]]></itunes:summary>
+            <itunes:author>Lars Olesen</itunes:author>
+            <itunes:image href="http://historie.vih.dk/assets/podcasts/cover-stemmer.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>35:43</itunes:duration>
+        </item>
+        
+    </channel>
+</rss>

@@ -10,8 +10,8 @@ tags:
 excerpt: "Højskolelærer, Anne Vinternes, har i forbindelse med sine studier dykket ned i højskolelærerrollen. Her besvarer hun spørgsmålet: Hvad er egentlig det særlige ved at være højskolelærer på en idrætshøjskole?"
 header:
   overlay_color: "#1aa2dd"
-  teaser: &image //images.weserv.nl/?url=https://drive.google.com/uc?id=1fz50QBUxsqp6fq-DYbAI3jmF8Y_W0CjN&w=300
-  overlay_image: //images.weserv.nl/?url=https://drive.google.com/uc?id=1fz50QBUxsqp6fq-DYbAI3jmF8Y_W0CjN&w=2000
+  teaser: &image /assets/images/yearbooks/frontpage/2020.png
+  overlay_image: /assets/images/yearbooks/frontpage/2020.png
 toc: true
 sidebar:
   nav: "yearbook-2020"

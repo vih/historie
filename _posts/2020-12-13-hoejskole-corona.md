@@ -10,7 +10,7 @@ tags:
 excerpt: "Viceforstander, Lars Olesen, skriver med citater fra højskolelærere om, hvordan Corona-nedlukning og -pandemi har haft betydning for Vejle Idrætshøjskole."
 header:
   overlay_color: "#1aa2dd"
-  teaser: &image //images.weserv.nl/?url=https://drive.google.com/uc?id=1B1OcpHjDeXABiM2JWlhxMG6gDjnhCle8&w=300
+  teaser: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1B1OcpHjDeXABiM2JWlhxMG6gDjnhCle8&w=600
   overlay_image: //images.weserv.nl/?url=https://drive.google.com/uc?id=1B1OcpHjDeXABiM2JWlhxMG6gDjnhCle8&w=2000
 toc: true
 sidebar:

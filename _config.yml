@@ -84,22 +84,22 @@ footer:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://twitter.com/vihdk"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
       url: "https://www.facebook.com/vihdk"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/vih/historie"
+    - label: "Facebook Historisk Gruppe"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/groups/655406751295188"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/vihdk"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/vih/historie"
 
 
 # Site Author
 author:
   name             : "Vejle Idrætshøjskole"
-  avatar           : "/assets/images/authors/vih-logo.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/authors/vih-logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til."
   location         : "Vejle"
   links            :

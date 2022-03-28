@@ -6,7 +6,6 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2020
-  - dagbog
 excerpt: "Højskolelærer, Anne Vinternes, har i forbindelse med sine studier dykket ned i højskolelærerrollen. Her besvarer hun spørgsmålet: Hvad er egentlig det særlige ved at være højskolelærer på en idrætshøjskole?"
 header:
   overlay_color: "#1aa2dd"
@@ -41,7 +40,7 @@ De er alle enige om, at det er derfor, de er højskolelærere. Lærerne nævner,
 Lærer-elev-relationen bliver også mere personlig som resultat af kostskoleformen på en idrætshøjskole og det beskrives som en frihed ikke at skulle eksaminere. Det beskrives af flere lærere, hvordan de ser eleverne på alle sider af døgnet, hvilket gør, at eleverne smider masken og viser sig, som dem, de er. En lærer fortæller også, hvordan det samme gør sig gældende for lærerne:
 
 > ”Det helt særlige ved at være højskolelærer er, at man er et menneske, ikke en lærer, tror jeg først og fremmest, men et menneske, som møder et andet menneske. At det ikke bare er skallen eller en brøkdel, men at det er det hele.”
- 
+
 Det særlige ved relationen til eleverne er også, at lærerne vil noget mere. Det skal ikke bare være hyggeligt. De ønsker, at der bliver sat en milepæl i elevernes liv og at de rykker sig og bliver dannede. De ønsker at influere på, hvor ungdommen skal rykkes hen i forhold til festkultur, samværskultur og idrætskultur. Det giver lærerne en stor meningsfuldhed at påvirke eleverne.
 
 {% include figure image_path="/assets/images/yearbooks/2020/wordcloud.png" caption="Wordcloud: Ordenes størrelse svarer til, hvor hyppigt de fremgår i svaret på spørgsmålet 'Hvad er det særlige ved at være højskolelærer på en idrætshøjskole?'" %}
@@ -89,21 +88,21 @@ Omvendt er der et andet udbredt synspunkt blandt nogle andre lærere, som mener,
 ## Højskolelærere er mere end bare kollegaer
 
 Relationen mellem højskolelærerne beskrives af lærerne som tæt, hvilket kan være med til at gøre rollen som højskolelærer særlig på en idrætshøjskole. Flere lærere beskriver et venskabeligt forhold til flere af sine kolleger.
- 
+
 > ”Vi bor jo lige ved siden af hinanden her de fleste af os, har fag på kryds og tværs og har også engang imellem haft mange kollegaer med børn, så det har også været noget, vi har haft til fælles. Jeg synes nok, det er en mere familiær relation, jeg har til mine kollegaer.”
- 
+
 Det er med til at sige noget om, hvor værdifuld relationen mellem højskolelærerne er for mange af lærerne, når det bliver beskrevet som familiært. Denne relation mellem lærerne opstår som følger af et tæt samarbejde via fag og idræt eller samvær i privaten. Dette samvær i privaten kommer også stærkt til udtryk i form af lærernes bopæl, hvor nogle af lærerne er naboer og kender hinandens familier. En anden lærer beskriver også, hvordan kollegerne påvirker hinanden meget via deres engagement og dermed kan stable helt unikke ting på benene i fællesskab. Det er med til at skabe et meget inspirerende miljø for læreren. Læreren påpeger dog også en ulempe en ved dette store engagement:
 
 > ”Der er et problem, som ikke alle kollegaer er enige i. Nogle gange så giver vi for meget af os selv til skolen, uden at vi får noget for det. Og det kan egentlig være med til at underminere hele højskolelærer-rollen, for så kommer man til at gå ned med stress.”
- 
+
 Som nævnt er der dog også andre lærere, som ikke anser det som en problematik, men blot en gave at have kolleger, der er gode venner, inspirerer og bidrager med forskellighed.
- 
+
 ## Idrætten som nøgle
 
 Ifølge højskoleloven skal idrætten have en “fremtrædende plads, men aldrig på bekostning af det almene.” (§ 1, 2019). Undersøgelsen viser, at idrætten er en stærk medspiller til at engagere og danne eleverne. Mange af eleverne er typisk rigtig glade for at dyrke idræt på en idrætshøjskole, og det skaber et særligt potentiale i undervisningen, at lærerne møder eleverne i et forum, hvor de er meget motiverede. En lærer forklarer, hvordan idrætten bliver en nøgle til at danne eleverne:
- 
+
 > ”Jeg har potentiale for at fange dem bedre i idrætsfagene, fordi det er det, de er optaget af. Og så kan jeg skabe nogle vinkler, som de ikke havde opdaget. Og det er mit virke som højskolelærer, at det er der, hvor jeg skal fange dem.”
- 
+
 Derudover har højskolelærerne på en idrætshøjskole også en stor kærlighed og passion for idræt. På den måde mødes lærer og elev omkring samme interesse for idræt som sag. Eleverne ser netop lærerne i et andet forum end et klasseværelse, og det er med til at skabe en mere ligeværdig relation mellem lærer-elev. Samtidig bliver det af flere lærere også udtrykt, at det kan være lidt sværere at fange det perspektiverende UBAK i idrætsfagene, fordi lærere og elever bliver så optaget af idrættens egenværdi. Flere af lærerne mener dog også, at idrætten har en betydning og værdi i sig selv. De er dog meget bevidste omkring at tænke det brede almene ind i idrætten på forskellige måder.
 
 <div class="notice notice--success" markdown="1">

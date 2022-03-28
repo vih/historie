@@ -7,4 +7,5 @@ comments: true
 collection: timelines
 entries_layout: grid
 classes: wide
+author_profile: true
 ---

@@ -6,7 +6,6 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2020
-  - dagbog
 excerpt: "Viceforstander, Lars Olesen, fortæller om det arbejde og de samtaler, der har været på højskolen om et projekt omkring livshistorier, og hvordan den enkeltes livshistorie skal fylde på højskolen."
 header:
   overlay_color: "#1aa2dd"
@@ -25,12 +24,12 @@ Først kigger vi lidt på den nuværende placering for livshistorierne på højs
 
 ## Hvad er livshistorier?
 
-Livshistorier kan forstås som indre fortællinger om vores livsforløb, der både indbefatter vores fortid, nutid og fremtid. Livshistorier er altså en del af vores indre tankeliv. 
+Livshistorier kan forstås som indre fortællinger om vores livsforløb, der både indbefatter vores fortid, nutid og fremtid. Livshistorier er altså en del af vores indre tankeliv.
 En livshistorie formes ud fra et menneskes erindringer om livet. Erindringerne kan være om valg, vi har truffet, og mål, vi har forfulgt, eller om livet der har ramt os på den ene eller anden måde.
 
 Livshistorien fortæller noget om, hvem vi er, hvordan vi er blevet sådan, og hvad der er vigtigt for os. En livshistorie er en fortælling om den enkeltes liv, men livshistorien giver også et indblik i, hvordan det enkelte menneske ser og forstår sig selv.
 
-Den enkelte laver et _selvbiografisk ræsonnement_ for at skabe mening og sammenhæng i livshistorien. Det sker blandt andet ved at danne en tidsmæssig ordnet fortælling med årsagsforbindelser mellem udvalgte begivenheder og perioder i livet. 
+Den enkelte laver et _selvbiografisk ræsonnement_ for at skabe mening og sammenhæng i livshistorien. Det sker blandt andet ved at danne en tidsmæssig ordnet fortælling med årsagsforbindelser mellem udvalgte begivenheder og perioder i livet.
 
 I livshistorien vælger du nogle begivenheder som vigtige - og ikke andre. På den måde skaber du en fornemmelse af, hvem du er som person. Livshistorierne kommer altså til at understøtte vores selvforståelse og identitet.
 
@@ -68,11 +67,11 @@ Vi har tydeligst sat det i spil i forbindelse med Det Gælder Livet, på teams o
 
 Historier fra livet har i mange året været en fast bestanddel på Vejle Idrætshøjskole på Studiekreds og senere Det Gælder Livet. Mange tidligere elever husker sikkert stadig, når de har lyttet til væsentlige historier og fortællinger fra de andre elevers liv i det fortrolige og trygge rum.
 
-Det Gælder Livet er et livsfilosofisk fag, hvor vi snakker om menneskets grundlæggende livsvilkår. Det Gælder Livet er et gennemgående fag, som eleverne har to gange om ugen. 
+Det Gælder Livet er et livsfilosofisk fag, hvor vi snakker om menneskets grundlæggende livsvilkår. Det Gælder Livet er et gennemgående fag, som eleverne har to gange om ugen.
 
 Som elev på Det Gælder Livet er eleverne blevet inviteret til at fortælle om **Det store i mit liv**. Præmissen for fortællingerne har været at dele noget signifikant fra eget liv.
 
-I praksis får eleverne tildelt et tidsrum på omkring 30 minutter til at dele deres historie, svare på spørgsmål og deltage i en samtale om den fortalte historie og perspektiverne fra historien. 
+I praksis får eleverne tildelt et tidsrum på omkring 30 minutter til at dele deres historie, svare på spørgsmål og deltage i en samtale om den fortalte historie og perspektiverne fra historien.
 
 Eleverne kan selv være med til at påvirke, hvordan fortællingen skal fortælles, men de fleste ender med at være midtpunkt for en halvcirkel af lyttende højskoleelever.
 
@@ -106,11 +105,11 @@ I løbet af efteråret 2020 havde vi besøg af [Menneskebiblioteket](https://men
 
 Menneskebiblioteket inspirerede os til at lave vores eget Menneskebibliotek med vores egne elever. De øvrige elever kunne nå at høre og samtale med tre bøger med meget forskelligartede og rørende fortællinger.
 
-> 
+>
 
 ## Livshistorier giver adgang
 
-Livshistorier er også en måde at blive set på. Når man deler sin livshistorie, så får man adgang til hinandens liv. 
+Livshistorier er også en måde at blive set på. Når man deler sin livshistorie, så får man adgang til hinandens liv.
 
 Lene Tanggaard beskriver i [Det kreative nej](https://www.saxo.com/dk/det-kreative-nej_lene-tanggaard_epub_9788750054153) vores samtid som et adgangssamfund, hvor hun trækker på de to filosoffer Axel Honneth og Shoshanna Zukoff.
 

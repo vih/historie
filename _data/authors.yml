@@ -99,21 +99,9 @@ lsolesen:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lars@vih.dk"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/lsolesen"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lsolesen/"
-    - label: "motionsplan.dk"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.motionsplan.dk"
-    - label: "legestue.net"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.legestue.net"
-    - label: "cykel-ruter.dk"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.cykel-ruter.dk"
   featured: true
 thormod_petersen:
   name: "Thormod Petersen"
@@ -357,4 +345,4 @@ kasper_nymand:
 michelle_moller_andersen:
   name: "Michelle Møller Andersen"
   bio: "Højskoleelev på Vejle Idrætshøjskole i foråret 2020 og unglærer i foråret 2021."
-  avatar: "/assets/images/authors/default.png"
+  avatar: "/assets/images/authors/default-profile.png"

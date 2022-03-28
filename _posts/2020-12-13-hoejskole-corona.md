@@ -6,7 +6,6 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2020
-  - dagbog
 excerpt: "Viceforstander, Lars Olesen, skriver med citater fra højskolelærere om, hvordan Corona-nedlukning og -pandemi har haft betydning for Vejle Idrætshøjskole."
 header:
   overlay_color: "#1aa2dd"
@@ -77,7 +76,7 @@ Heldigvis fik eleverne lov til at komme tilbage på skolen den 27. maj, og så f
 
 Pludselig var der kommet restriktioner på den måde, vi kunne være sammen på. Eleverne var inddelt i familiegrupper, og der skulle holdes mindst en meters afstand til alle andre. Der var opstillet Bright Water overalt, og der skulle gøres meget mere rent.
 
-Fra myndighedernes side var den oprindelige udmelding i forhold familiegruppernes størrelse, at der måtte være omkring 20 elever i hver familiegruppe. Det bruger vi tirsdagen før eleverne kommer tilbage på at planlægge og gøre klar til. 
+Fra myndighedernes side var den oprindelige udmelding i forhold familiegruppernes størrelse, at der måtte være omkring 20 elever i hver familiegruppe. Det bruger vi tirsdagen før eleverne kommer tilbage på at planlægge og gøre klar til.
 
 Vi flytter også spisesalen for højskolen ned i Multihallen. Det gør vi dels for at få mere plads , men også så vi ikke skal dele spisesal med efterskolen. Vi får introduceret eleverne til familiegrupperne og kommer faktisk fint i gang. Eleverne har glædet sig helt vildt til at komme tilbage.
 
@@ -109,7 +108,7 @@ Det var særligt vigtigt for os at løse tre udfordringer:
 
 Corona-pandemien har været en udfordrende modspiller på højskolen. Højskolens helt grundlæggende værdi er **nærvær**, og hvordan kan det lade sig gøre at opretholde nærvær, når diskursen er, at vi skal **være sammen på afstand**.
 
-Hvordan kan lærerne agere under de ændrede rammer. 
+Hvordan kan lærerne agere under de ændrede rammer.
 
 Højskolebladet skrev naturligvis også om, hvordan det lykkes at lave højskole, da eleverne kom tilbage på skolen efter hjemsendelsen i foråret 2020.
 
@@ -118,7 +117,7 @@ De interviewede bl.a. højskolelærer, Thea Storm Henriksen.
 > ### Gå på kompromis
 >
 > Når Thea Storm Henriksen underviser i løb, havkajak og friluftsliv på Vejle Idrætshøjskole, foregår det selvsagt udendørs. Derfor oplever hun ikke de store faglige udfordringer under corona.
-> 
+>
 > Men der er alligevel visse mellemløsninger. Som opvarmning til løb plejede hun at lave parøvelser, hvor eleverne har tæt kontakt, og hvor der opstår nye gruppedynamikker. Når hun sætter eleverne sammen i coronatid, bliver det inden for de afgrænsede familiegrupper, de tilhører.
 >
 > > “Vi bliver nødt til at gå på kompromis. Til gengæld opstår der nye måder at tænke undervisning på,” siger Thea Storm Henriksen.
@@ -152,7 +151,7 @@ Der er ofte en italesættelse af, hvordan ungdommen er gået glip af noget i lø
 
 Noemi Katznelson fortæller, hvordan de unge i deres livsbiografiske projekt virkelig føler, at de går glip af noget, fordi der i deres liv er en del skift i den alder.
 
-Noemi Katznelson mener samtidig, at almenmenneskelige reaktioner på nogle usædvanlige eksistensbetingelser. Vi får ikke grebet det til at snakke om, hvad man gør, når man er alene - og i stedet får italesat det som mistrivsel. 
+Noemi Katznelson mener samtidig, at almenmenneskelige reaktioner på nogle usædvanlige eksistensbetingelser. Vi får ikke grebet det til at snakke om, hvad man gør, når man er alene - og i stedet får italesat det som mistrivsel.
 
 Vi har forpasset lejligheden til at tale om hvad anderledesheden i det sociale gør ved os som mennesker. Derved svækker vi begreberne om ensomhed, som er en varig følelse af ensomhed - ikke en forbigående fordi de sociale betingelser er anderledes lige nu.
 

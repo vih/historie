@@ -28,7 +28,6 @@ https://www.sparksandhoney.com/gen-z
 
 ***
 
-<<<<<<< HEAD
 https://docs.google.com/presentation/d/1HNXlK2SBnnktAPhjX9Imo4fvvTwEuRPgtDeGaIGtHoY/edit#slide=id.g10b6bcc1e29_0_71
 
 https://docs.google.com/document/d/1Vz3hQucSTXEy4uy0QMDoOrE8-8PySKiS0vyGwRD8hP8/edit#heading=h.t1qeoac1t7q1
@@ -38,7 +37,7 @@ https://docs.google.com/document/d/1FN2yqtZu1OhVQARUyEEwvyc8xz1Asl-eFAKG35BcOQY/
 ***
 
 Attention span på 8 sekunder.
-=======
+
 
 Attention span på 8 sekunder.
 

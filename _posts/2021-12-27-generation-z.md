@@ -16,10 +16,7 @@ sidebar:
   nav: "yearbook-2021"
 ---
 
-
 LINK  til FOMO HØJSKOLE.
-
-***
 
 Hvor mange vågnede i morges og det første i gjorde var at række ud efter jeres _smartphone_.
 
@@ -31,6 +28,7 @@ https://www.sparksandhoney.com/gen-z
 
 ***
 
+<<<<<<< HEAD
 https://docs.google.com/presentation/d/1HNXlK2SBnnktAPhjX9Imo4fvvTwEuRPgtDeGaIGtHoY/edit#slide=id.g10b6bcc1e29_0_71
 
 https://docs.google.com/document/d/1Vz3hQucSTXEy4uy0QMDoOrE8-8PySKiS0vyGwRD8hP8/edit#heading=h.t1qeoac1t7q1
@@ -40,6 +38,10 @@ https://docs.google.com/document/d/1FN2yqtZu1OhVQARUyEEwvyc8xz1Asl-eFAKG35BcOQY/
 ***
 
 Attention span på 8 sekunder.
+=======
+
+Attention span på 8 sekunder.
+
 
 Jason Dorsey fortæller, at generationer kendetegnes af adfærd. Vi vil gerne sætte årstal på generationerne, men i virkeligheden er det <q>forudsigeligheden i deres adfærd</q>, der samlet betegner en generation.
 
@@ -47,10 +49,17 @@ De betydningsfulde begivenheder i verdenshistorien har stor betydning, når du s
 
 Vi forsøger her at skabe et billede af kendetegnene for den generation, der lige nu er på højskole i Vejle.
 
+
 Du mangler kontekst i forhold at tingene i fortiden er blevet gjort anderledes tidligere.
 
 1. **Forskellighed.** Mangfoldigheden er så stor i denne generation, at de først får øje på den, når den ikke er der. Obama har ledet USA. Homoseksuelle kan gifte sig. Kvinder kan blive statsministre.
 2. **Teknologi.** Teknologi er oplevelsen.
+
+Du mangler kontekst i forhold at tingene i fortiden er blevet gjort anderledes tidligere.
+
+1. **Forskellighed.** Mangfoldigheden er så stor i denne generation, at de først får øje på den, når den ikke er der. Obama har ledet USA. Homoseksuelle kan gifte sig. Kvinder kan blive statsministre.
+2. **Teknologi.** Teknologi er oplevelsen.
+
 
 
 {% include video provider="youtube" id="4f16o9Q0XGE" %}
@@ -67,10 +76,25 @@ Men hvad er tendenserne i den generation, der lige nu er på højskolerne.
 
 Swipe-kulturen. 8 sekunders
 
+Swipe-kulturen. 8 sekunders
+
+
 https://edura.com/udgivelser/digital-laering/kan-vi-haandtere-generation-z-og-deres-krav-til-laering/
 
 
+
 {% include video provider="youtube" id="nFaEPe6T_m4" %}
+
+Kender ikke en verden uden internettet.
+
+Bruger mere tid på at kommunikere med vennerne
+
+Efter 9/11 og finanskrisen. Den tidligere generation har fået at vide, at de kan blive alt, hvad de vil. Generation Z har fået at vide, at de skal arbejde hårdt for at få succes, ellers er der garanteret andre der vil.
+
+Generation Z vil have sikkerhed og løn.
+
+
+https://youtu.be/nFaEPe6T_m4
 
 Kender ikke en verden uden internettet.
 

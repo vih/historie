@@ -16,6 +16,11 @@ sidebar:
   nav: "yearbook-2021"
 ---
 
+
+LINK  til FOMO HØJSKOLE.
+
+***
+
 Hvor mange vågnede i morges og det første i gjorde var at række ud efter jeres _smartphone_.
 
 Generation Z er personer, der groft set er født mellem årene 1995 og 2010, og kommer efter Generation Y, bedre kendt som Millennials. Generation Z anses for at være den første generation i historien, som ikke kan huske eller har kendskab til et samfund uden internet, computere og mobiltelefoner. Generation Z omtales ofte som en digital generation, da de har en indgribende forståelse for digitale værktøjer. I dag er næsten 50% af generationen forbundet til internettet i 10 eller endnu flere timer om dagen. Mere end halvdelen menes desuden at bruge deres mobiltelefon i mere end 6 timer om dagen, og vil gennemsnitligt tjekke deres mobiltelefoner hvert 7-8 minut.

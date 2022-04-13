@@ -40,9 +40,6 @@ https://docs.google.com/document/d/1FN2yqtZu1OhVQARUyEEwvyc8xz1Asl-eFAKG35BcOQY/
 Attention span på 8 sekunder.
 
 
-Attention span på 8 sekunder.
-
-=======
 
 https://docs.google.com/document/d/1Vz3hQucSTXEy4uy0QMDoOrE8-8PySKiS0vyGwRD8hP8/edit#heading=h.t1qeoac1t7q1
 

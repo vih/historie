@@ -13,5 +13,5 @@ header:
   overlay_image: //images.weserv.nl/?url=https://drive.google.com/uc?id=1kelR1tTkENy6Ty8rcCT7k4jtKy6u85wK&w=2000
 toc: true
 sidebar:
-  nav: "yearbook-2020"
+  nav: "yearbook-2021"
 ---

@@ -16,8 +16,10 @@ sidebar:
   nav: "yearbook-2021"
 ---
 
-https://www.kristeligt-dagblad.dk/kultur/dr-dokumentar-viser-veloplagt-hvordan-danske-atleter-blev-klemt-mellem-sport-og-nazisme
 
+LINK  til FOMO HØJSKOLE.
+
+***
 
 Hvor mange vågnede i morges og det første i gjorde var at række ud efter jeres _smartphone_.
 

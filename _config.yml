@@ -382,12 +382,12 @@ defaults:
 
 # Podcast
 podcast_language: "da-DK"
-podcast_site_url: http://historie.vih.dk
-podcast_url: http://historie.vih.dk/podcast
+podcast_site_url: https://historie.vih.dk
+podcast_url: https://historie.vih.dk/podcast
 podcast_album_art: /assets/podcasts/cover-stemmer.png
 podcast_title: Vejle Idrætshøjskoles Stemmer
 podcast_owner: Vejle Idrætshøjskole
-podcast_email: info@vih.dk
+podcast_email: kontor@vih.dk
 podcast_category: Vejle Idrætshøjskole
 podcast_subcategory:
  - Historie

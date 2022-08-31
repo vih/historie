@@ -7,6 +7,15 @@ on:
   push:
     branches:
       - master
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
+    branches:
+      - master
+
+env:
+  RUBY_VERSION: "3.1.2"
+  BUNDLER_VERSION: "2.3.21"
+  AZURE_DOMAIN: "witty-moss-09a2a9e03.1.azurestaticapps.net"
 
 # Here is where we define our jobs.
 # Which means the tasks we want Github to execute
@@ -27,12 +36,13 @@ jobs:
           fetch-depth: 1
       - name: ⚡️ Install dependencies
         run: |
-          sudo apt-get update 
+          sudo apt-get update
           sudo apt-get install -y --no-install-recommends bats build-essential ca-certificates curl make shellcheck libgsl-dev libffi-dev
-          sudo gem install bundler:2.2.7
-      - uses: ruby/setup-ruby@v1
+          sudo gem install bundler:${{ env.BUNDLER_VERSION }}
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.6 # Not needed with a .ruby-version file
+          ruby-version: ${{ env.RUBY_VERSION }} # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       - name: ⚡️ Get cached gems
         uses: actions/cache@v2
@@ -41,14 +51,28 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-      - name: ⚡️ Setting up dependencies
-        run: |
-          bundle install
       - name: Checking Jekyll configuration
         run: bundle exec jekyll doctor
       - name: 🔨 Build site
         run: |
-          JEKYLL_ENV=production bundle exec jekyll build --trace --verbose --lsi
+          production bundle exec jekyll build --trace --verbose --lsi
+        env:
+          JEKYLL_ENV: production
+      - name: Optimize
+        run: |
+          minify -r -o _build/ --html-keep-document-tags --html-keep-end-tags --html-keep-default-attrvals --html-keep-whitespace --verbose _build
+
+  deploy:
+    if: github.event_name == 'push'
+    name: deploy
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use cache
+        uses: actions/cache@v3
+        with:
+          path: "_site/"
+          key: ${{ runner.os }}-${{ github.sha }}
       - name: 🎉 Deploy to GitHub Pages 🎊
         if: success()
         uses: crazy-max/ghaction-github-pages@v2
@@ -57,6 +81,15 @@ jobs:
           build_dir: _site
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  test:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use cache
+        uses: actions/cache@v3
+        with:
+          path: "_site/"
+          key: ${{ runner.os }}-${{ github.sha }}
       - name: ⚡️ Cache HTMLProofer
         id: cache-htmlproofer
         uses: actions/cache@v2
@@ -69,7 +102,128 @@ jobs:
         with:
           directory: "./_site"
           # The directory to scan
-          arguments: --only-4xx --assume-extension --check-favicon --check-html --check_opengraph --http-status-ignore "400, 403, 409, 429" --allow-hash-href --empty_alt_ignore --timeframe "1w"
+            arguments: |
+            --only-4xx
+            --assume-extension
+            --ignore-status-codes "400,403,409,429"
+            --allow-hash-href
+            --ignore-empty-alt
+            --cache '{ "timeframe": { "external": "30d" } }'
           # The arguments to pass to HTMLProofer
-      - name: ☁️ Cleaning up
+  clean:
+    needs: [build,deploy,test]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use cache
+        uses: actions/cache@v3
+        with:
+          path: "_site/"
+          key: ${{ runner.os }}-${{ github.sha }}
+        - name: ☁️ Cleaning up
         run: bundle exec jekyll clean
+  build_and_deploy_azure:
+    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
+    needs: build
+    runs-on: ubuntu-latest
+    name: Build and Deploy Azure
+    steps:
+      - name: Use cache
+        uses: actions/cache@v3
+        with:
+          path: "_site/"
+          key: ${{ runner.os }}-${{ github.sha }}
+      - name: Build And Deploy
+        id: builddeploy
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_WITTY_MOSS_09A2A9E03 }}
+          repo_token: ${{ secrets.GITHUB_TOKEN }} # Used for Github integrations (i.e. PR comments)
+          action: "upload"
+          ###### Repository/Build Configurations - These values can be configured to match your app requirements. ######
+          # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
+          skip_app_build: true
+          skip_api_build: true
+          app_location: "/_site" # App source code path
+          api_location: "" # Api source code path - optional
+          output_location: "" # Built app content directory - optional
+          ###### End of Repository/Build Configurations ######
+        env:
+          JEKYLL_ENV: development
+  close_pull_request_azure:
+    if: github.event_name == 'pull_request' && github.event.action == 'closed'
+    runs-on: ubuntu-latest
+    name: Close Pull Request Job
+    steps:
+      - name: Close Pull Request
+        id: closepullrequest
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_WITTY_MOSS_09A2A9E03 }}
+          action: "close"
+  lighthouse:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Lighthouse
+      uses: foo-software/lighthouse-check-action@master
+      with:
+        urls: 'https://historie.vih.dk/'
+  lighthouse_staging_azure:
+    name: Lighthouse report
+    needs: build_and_deploy_azure
+    if: github.event_name == 'pull_request' && github.event.action != 'closed'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Static Web App - get preview URL
+        id: static_web_app_preview_url
+        uses: azure/CLI@v1
+        with:
+          inlineScript: |
+            CUSTOM_DOMAIN='${{ env.AZURE_DOMAIN }}''
+            LOCATION='westeurope'
+
+            PREVIEW_URL="https://${CUSTOM_DOMAIN/.[1-9]./-${{github.event.pull_request.number }}.$LOCATION.1.}"
+
+            echo "::set-output name=PREVIEW_URL::$PREVIEW_URL"
+      - name: Static Web App - wait for preview
+        id: static_web_app_wait_for_preview
+        uses: nev7n/wait_for_response@v1
+        with:
+          url: '${{ steps.static_web_app_preview_url.outputs.PREVIEW_URL }}'
+          responseCode: 200
+          timeout: 600000
+          interval: 1000
+      - name: Audit URLs using Lighthouse
+        id: lighthouse_audit
+        uses: treosh/lighthouse-ci-action@v8
+        with:
+          urls: |
+            ${{ steps.static_web_app_preview_url.outputs.PREVIEW_URL }}
+            ${{ steps.static_web_app_preview_url.outputs.PREVIEW_URL }}/idealvaegt/
+          configPath: ./.github/workflows/lighthousesrc.json
+          uploadArtifacts: true
+          temporaryPublicStorage: true
+          runs: 5
+      - name: Format lighthouse score
+        id: format_lighthouse_score
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const lighthouseCommentMaker = require('./.github/workflows/lighthouseCommentMaker.js');
+
+            const lighthouseOutputs = {
+              manifest: ${{ steps.lighthouse_audit.outputs.manifest }},
+              links: ${{ steps.lighthouse_audit.outputs.links }}
+            };
+
+            const comment = lighthouseCommentMaker({ lighthouseOutputs });
+            core.setOutput("comment", comment);
+      - name: Add Lighthouse stats as comment
+        id: comment_to_pr
+        uses: marocchino/sticky-pull-request-comment@v2.0.0
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          number: ${{ github.event.pull_request.number }}
+          header: lighthouse-${{ github.sha }}
+          message: ${{ steps.format_lighthouse_score.outputs.comment }}

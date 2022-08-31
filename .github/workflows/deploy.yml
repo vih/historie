@@ -102,7 +102,7 @@ jobs:
         with:
           directory: "./_site"
           # The directory to scan
-            arguments: |
+          arguments: |
             --only-4xx
             --assume-extension
             --ignore-status-codes "400,403,409,429"

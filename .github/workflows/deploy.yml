@@ -103,13 +103,11 @@ jobs:
           directory: "./_site"
           # The directory to scan
           arguments: |
-            --only-4xx
-            --assume-extension
+            --only-4xx true
             --ignore-status-codes "400,403,409,429"
-            --allow-hash-href
-            --ignore-empty-alt
+            --allow-hash-href true
+            --ignore-empty-alt true
             --cache '{ "timeframe": { "external": "30d" } }'
-          # The arguments to pass to HTMLProofer
   clean:
     needs: [build,deploy,test]
     runs-on: ubuntu-latest

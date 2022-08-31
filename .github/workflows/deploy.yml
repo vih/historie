@@ -60,7 +60,7 @@ jobs:
           JEKYLL_ENV: production
       - name: Optimize
         run: |
-          minify -r -o _build/ --html-keep-document-tags --html-keep-end-tags --html-keep-default-attrvals --html-keep-whitespace --verbose _build
+          minify -r -o _site/ --html-keep-document-tags --html-keep-end-tags --html-keep-default-attrvals --html-keep-whitespace --verbose _site
 
   deploy:
     if: github.event_name == 'push'

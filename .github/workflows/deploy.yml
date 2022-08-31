@@ -69,7 +69,7 @@ jobs:
         with:
           directory: "./_site"
           # The directory to scan
-          arguments: --only-4xx --assume-extension --check-favicon --check-html --check_opengraph --http-status-ignore "400, 403, 409, 429" --allow-hash-href --empty_alt_ignore --timeframe "1w"
+          arguments: --only-4xx --assume-extension --check-favicon --check_opengraph --http-status-ignore "400, 403, 409, 429" --allow-hash-href --empty_alt_ignore --timeframe "1w"
           # The arguments to pass to HTMLProofer
       - name: ☁️ Cleaning up
         run: bundle exec jekyll clean

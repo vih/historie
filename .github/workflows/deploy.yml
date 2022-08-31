@@ -55,7 +55,7 @@ jobs:
         run: bundle exec jekyll doctor
       - name: 🔨 Build site
         run: |
-          production bundle exec jekyll build --trace --verbose --lsi
+          bundle exec jekyll build --trace --verbose --lsi
         env:
           JEKYLL_ENV: production
       - name: Optimize

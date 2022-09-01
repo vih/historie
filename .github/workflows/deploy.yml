@@ -44,13 +44,6 @@ jobs:
         with:
           ruby-version: ${{ env.RUBY_VERSION }} # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-      - name: ⚡️ Get cached gems
-        uses: actions/cache@v2
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
       - name: Checking Jekyll configuration
         run: bundle exec jekyll doctor
       - name: Cache jekyll
@@ -116,6 +109,11 @@ jobs:
     needs: [build,deploy,test]
     runs-on: ubuntu-latest
     steps:
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: ${{ env.RUBY_VERSION }} # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       - name: Use cache
         uses: actions/cache@v3
         with:

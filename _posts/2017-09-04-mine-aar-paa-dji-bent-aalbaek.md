@@ -4,22 +4,22 @@ author: bent_aalbaek_nielsen
 tags:
   - Rask Nielsen
 header:
-  overlay_image: http://aalbaek-nielsen.dk/____impro/1/onewebmedia/Den%20Jyske%20Idr%C3%A6tsskole,%20luftfoto.jpg?etag=W%2F%222ab7f-58f8ce7a%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&extract=0%2B0%2B392%2B259
-  teaser: http://aalbaek-nielsen.dk/____impro/1/onewebmedia/Den%20Jyske%20Idr%C3%A6tsskole,%20luftfoto.jpg?etag=W%2F%222ab7f-58f8ce7a%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&extract=0%2B0%2B392%2B259
+  overlay_image: http:https://aalbaek-nielsen.dk/____impro/1/onewebmedia/Den%20Jyske%20Idr%C3%A6tsskole,%20luftfoto.jpg?etag=W%2F%222ab7f-58f8ce7a%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&extract=0%2B0%2B392%2B259
+  teaser: http:https://aalbaek-nielsen.dk/____impro/1/onewebmedia/Den%20Jyske%20Idr%C3%A6tsskole,%20luftfoto.jpg?etag=W%2F%222ab7f-58f8ce7a%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&extract=0%2B0%2B392%2B259
 excerpt: "Bent Aalbæk-Nielsens erindringer fra perioden 1945-1948 om Den Jyske Idrætsskole."
 ---
 
 Den 20. juli, 1945 sagde jeg og min familie farvel til Ollerup og flyttede ind på Nørremarksgården lidt uden for Vejle.
 
-{% include figure image_path="http://aalbaek-nielsen.dk/____impro/1/onewebmedia/Den%20Jyske%20Idr%C3%A6tsskole,%20luftfoto.jpg?etag=W%2F%222ab7f-58f8ce7a%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&extract=0%2B0%2B392%2B259" caption="Den Jyske Idrætsskole i 1940'erne. I skovhjørnet ude til højre ses saunaen, og neden for den, i skovkanten, er det kursusbygningen _Jomsborg_. Rundt om det hele breder Nørreskoven sig." alt="Den Jyske Idrætsskole i 1940'erne" %}
+{% include figure image_path="http:https://aalbaek-nielsen.dk/____impro/1/onewebmedia/Den%20Jyske%20Idr%C3%A6tsskole,%20luftfoto.jpg?etag=W%2F%222ab7f-58f8ce7a%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&extract=0%2B0%2B392%2B259" caption="Den Jyske Idrætsskole i 1940'erne. I skovhjørnet ude til højre ses saunaen, og neden for den, i skovkanten, er det kursusbygningen _Jomsborg_. Rundt om det hele breder Nørreskoven sig." alt="Den Jyske Idrætsskole i 1940'erne" %}
 
-Det var - foruden mig selv - min mor Vilna, min storesøster Bodil og min storebror Kai, som dog kort tid efter flyttede til København for at begynde studier ved universitetet dér. Og så var det min morfar, som havde boet hos os i nogen tid efter min mormors død. Min far, Rask Nielsen, havde allerede boet der siden slutningen af april, idet han fra den første maj var blevet ansat som medforstander på Den Jyske Idrætsskole. Far og Idrætsskolens forstander, Svend Aage Thomsen, kendte hinanden fra Svend Aages ophold som elev på Gymnastikhøjskolen i Ollerup, hvor far havde været lærer siden 1922. Nu stod Idrætsskolen og manglede en medforstander, idet det var et krav for at få den almindelige statsstøtte til driften af skolen, at der var en pædagogisk uddannet ledelse, og i modsætning til Svend Aage havde min far en sådan, idet han var uddannet som lærer fra Jelling Statsseminarium. 
+Det var - foruden mig selv - min mor Vilna, min storesøster Bodil og min storebror Kai, som dog kort tid efter flyttede til København for at begynde studier ved universitetet dér. Og så var det min morfar, som havde boet hos os i nogen tid efter min mormors død. Min far, Rask Nielsen, havde allerede boet der siden slutningen af april, idet han fra den første maj var blevet ansat som medforstander på Den Jyske Idrætsskole. Far og Idrætsskolens forstander, Svend Aage Thomsen, kendte hinanden fra Svend Aages ophold som elev på Gymnastikhøjskolen i Ollerup, hvor far havde været lærer siden 1922. Nu stod Idrætsskolen og manglede en medforstander, idet det var et krav for at få den almindelige statsstøtte til driften af skolen, at der var en pædagogisk uddannet ledelse, og i modsætning til Svend Aage havde min far en sådan, idet han var uddannet som lærer fra Jelling Statsseminarium.
 
 Som nævnt havde far boet på Nørremarksgården fra slutningen af april 1945. Det kunne være blevet skæbnesvangert. Jeg har fået fortalt om, hvordan det hemmelige tyske politi, Gestapo, en af dagene omkring den 1. maj gennemførte en razzia på gården. Alt blev gennemgået fra kælder til kvist, og hvis de ude i laden var gået lidt længere ned i halmdyngen, ville de være stødt på et større lager af våben og sprængstoffer. Hvad det kunne have betydet for far og for den karl, der passede gården, og som boede på den, kan man kun gisne om. Nu fandt de altså intet, og få dage senere oplevede vi så befrielsen.
 
 Men på forskellige måder fik vi hurtigt et kendskab til en bemærkelsesværdig del af Idrætsskolens historie i de sidste år under besættelsen.
 
-{% include figure image_path="http://aalbaek-nielsen.dk/____impro/1/onewebmedia/Gunner,%20Alice%20og%20jeg.jpg?etag=W%2F%223fc3-58f8cec7%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&extract=0%2B0%2B199%2B267" caption="Jeg selv yderst til venstre sammen med Alice og Gunnar lige uden for skoven." alt="Bent Aalbæk-Nielsen og Alice og Gunnar" %}
+{% include figure image_path="http:https://aalbaek-nielsen.dk/____impro/1/onewebmedia/Gunner,%20Alice%20og%20jeg.jpg?etag=W%2F%223fc3-58f8cec7%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&extract=0%2B0%2B199%2B267" caption="Jeg selv yderst til venstre sammen med Alice og Gunnar lige uden for skoven." alt="Bent Aalbæk-Nielsen og Alice og Gunnar" %}
 
 Særligt efter at store dele af det danske politikorps blev arresteret i september 1944, var det ikke mange af skolens elever, der opholdt sig der under eget navn. Det var politifolk, der havde undgået arrestation. Nu fungerede de som frihedskæmpere og havde bl.a. til opgave at sabotere hovedjernbanen op gennem Jylland. Der er ikke langt fra skolen og ned gennem Nørreskoven til jernbanelinjen langs Vejle Fjord, og på film, som blev optaget af Svend Aage Thomsen, ses der flere sekvenser, hvor man følger aktioner, fra folkene fjernede bundbrædderne i en af sengene i den fritliggende kursusbygning med navnet "Jomsborg". Videre blev gulvbrædderne under sengen fjernet, og under dem åbenbarede sig et hemmeligt våben- og sprængstofdepot, hvorfra der blev hentet plastisk sprængstof og øvrige ingredienser til at fremstille de bomber, som nogle timer senere gjorde jernbanelinjen ubrugelig og forhindrede de vigtige transporter af tyske tropper og materiel. Også ved selve sprængningerne var Svend Aage Thomsen der med sit filmkamera og forevigede dermed disse aktioner. Det var jo ellers i en tid, da det var umuligt at skaffe sig smalfilm, men Svend Aage Thomsen fik dem leveret via Frihedsrådet, der var Modstandsbevægelsens øverste myndighed.
 
@@ -35,13 +35,13 @@ Blandt mine minder fra årene på Den Jyske Idrætsskole er også lørdags-aften
 
 Strofen lød:
 
-> Navnet mit er Kong Faruk  
-> abdiceret med et suk.  
-> Det var ham Naguib den slemme,  
-> som mig satte i en klemme.  
-> Svigermor var også stram,  
-> tog min lille Narriman,  
-> og fra Nilens skønne strand  
+> Navnet mit er Kong Faruk
+> abdiceret med et suk.
+> Det var ham Naguib den slemme,
+> som mig satte i en klemme.
+> Svigermor var også stram,
+> tog min lille Narriman,
+> og fra Nilens skønne strand
 > havned jeg i dette land.
 
 Jeg gad vidst, om ikke denne optræden er foreviget på film, for som tidligere nævnt var Svend Aage Thomsen en dygtig og ivrig filmfotograf.
@@ -50,14 +50,14 @@ Det var i øvrigt en interesse og evne, som vi fra tid til anden nød godt af p�
 
 På et tidspunkt var skolen tæt på at få en idrætshal. Jeg ved ikke, om den blev købt, eller om den blev foræret til skolen, men det drejede sig om det ubeklædte træskelet til en påbegyndt tysk hangar på flyvepladsen i Vandel. Det skulle skilles ad, og alene det var et meget stort arbejde, som jeg nogle gange var med til. Men hvor de andre, der tog del i det, kom fra, husker jeg ikke. De mange dele blev transporteret hjem til skolen, hvor de lå et stykke tid, inden man erkendte, at det ville blive for stort og vanskeligt et arbejde at få dem samlet igen og for dyrt at få hallen gjort færdig med beklædning på en måde, så den kunne være rigtig anvendelig. Derfor blev det opgivet, og hvad der egentlig skete med alt træværket, ved jeg ikke.
 
-Svend Aage Thomsen havde to børn, Birthe og Bjarne, som blev nogle af mine legekammerater. 
+Svend Aage Thomsen havde to børn, Birthe og Bjarne, som blev nogle af mine legekammerater.
 
 Når sneen dækkede området, gik turen jævnligt på ski rundt på Nørreskovens stier og hen til den skihopbakke, der var opført i skoven få hundrede meter fra skolen. Jeg prøvede den nogle få gange; men skihop blev nu aldrig min foretrukne fritidsbeskæftigelse.
 
-Allerede under krigen var min far begyndt at tage ud som foredragsholder ved utallige foreningsarrangementer i forsamlingshusene, på skoler, og hvor mennesker ellers mødtes dengang. Før krigen havde han rejst en del i Sydeuropa og på Balkan, og han havde fra disse ture en meget stor samling af lysbilleder. Med krigen og besættelsen og de lukkede grænser var der opstået et vældigt behov for at høre om, hvad det egentlig var, der skete ude i verden, baggrunden for det og en vurdering af det. Det kunne far give i en grad, så han hurtigt blev meget efterspurgt som foredragsholder. Og ud over den politiske orientering kunne han så efter "kaffe"­bordet, hvor man drak krigstidens surrogat med et stykke franskbrød med ost og en småkage til, vise sine lysbilleder, eller han læste en historie af en af de gode og gerne humoristiske forfattere. 
+Allerede under krigen var min far begyndt at tage ud som foredragsholder ved utallige foreningsarrangementer i forsamlingshusene, på skoler, og hvor mennesker ellers mødtes dengang. Før krigen havde han rejst en del i Sydeuropa og på Balkan, og han havde fra disse ture en meget stor samling af lysbilleder. Med krigen og besættelsen og de lukkede grænser var der opstået et vældigt behov for at høre om, hvad det egentlig var, der skete ude i verden, baggrunden for det og en vurdering af det. Det kunne far give i en grad, så han hurtigt blev meget efterspurgt som foredragsholder. Og ud over den politiske orientering kunne han så efter "kaffe"­bordet, hvor man drak krigstidens surrogat med et stykke franskbrød med ost og en småkage til, vise sine lysbilleder, eller han læste en historie af en af de gode og gerne humoristiske forfattere.
 
 Denne foredragsvirksomhed fortsatte han med også efter krigen, og der blev stadig oftere sendt bud efter ham. Til sidst blev det for meget for ham at klare ved siden af skolearbejdet. Ofte kom han først hjem et stykke hen på natten, og klokken syv om morgenen skulle han så igen stille på skolen til morgenmad sammen med eleverne. Det kunne han ikke blive ved med at klare, og nu måtte han vælge. Det blev i første omgang en mere begrænset foredragsvirksomhed og dermed en afsked med Idrætsskolen.
 
 Egentlig havde det allerede forinden været bestemt, at far skulle stoppe på Idrætsskolen, når sommerskolen sluttede til august 1948. Dels var der kommet nye ledelsesbestemmelser for højskoler, som gjorde det muligt, at Svend Aage Thomsen nu kunne være eneforstander, og dels var Gymnastikhøjskolen i Ollerup på det tidspunkt færdigrestaureret efter årene med tyske soldater og flygtninge, og Niels Buhk havde opfordret far til at vende tilbage, når et nyt hold elever skulle begynde til oktober. Sådan kom det imidlertid ikke til at gå, for i løbet af sommeren og efteråret blev det klart, at fars helbredstilstand ikke gjorde det muligt med et fast job som underviser. Og da min morfar døde i efteråret 1948, besluttede mine forældre at flytte ind i et hus, som han ejede i Jelling, men som hidtil havde været udlejet.
 
-_Dette er en revideret version af den [oprindelige erindringsberetning fra Bent Aalbæk-Nielsens hjemmeside](http://aalbaek-nielsen.dk/den%20jyske%20idr%C3%A6tsskole.html). Bragt med tilladelse fra Bent Aalbæk-Nielsen._
+_Dette er en revideret version af den [oprindelige erindringsberetning fra Bent Aalbæk-Nielsens hjemmeside](http:https://aalbaek-nielsen.dk/den%20jyske%20idr%C3%A6tsskole.html). Bragt med tilladelse fra Bent Aalbæk-Nielsen._

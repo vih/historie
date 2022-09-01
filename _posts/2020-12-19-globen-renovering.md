@@ -60,85 +60,85 @@ gallery_havestue:
     title: *title
 gallery_globen_inside:
   - url: https://drive.google.com/uc?id=14nk3wOdNdVGdIaEdz0nLAFh3wisaCG4q
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14nk3wOdNdVGdIaEdz0nLAFh3wisaCG4q&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14nk3wOdNdVGdIaEdz0nLAFh3wisaCG4q&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=14o5J964cHHUUgdmTv5T-sT_kMwAnEjxa
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14o5J964cHHUUgdmTv5T-sT_kMwAnEjxa&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14o5J964cHHUUgdmTv5T-sT_kMwAnEjxa&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=14u_Oy39zx4IBGdEbLJW760wjKGE-WC4Q
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14u_Oy39zx4IBGdEbLJW760wjKGE-WC4Q&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14u_Oy39zx4IBGdEbLJW760wjKGE-WC4Q&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=14paYuirWTUGYaN8lgzwTDSrGWcdR1j2w
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14paYuirWTUGYaN8lgzwTDSrGWcdR1j2w&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14paYuirWTUGYaN8lgzwTDSrGWcdR1j2w&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=14ibOJXbMsfjJKOj5PZt6wBijgv-8aBqQ
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14ibOJXbMsfjJKOj5PZt6wBijgv-8aBqQ&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14ibOJXbMsfjJKOj5PZt6wBijgv-8aBqQ&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=14i5yqAa2kQkfFcGIOozgWsPZM-ihtNnY
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14i5yqAa2kQkfFcGIOozgWsPZM-ihtNnY&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14i5yqAa2kQkfFcGIOozgWsPZM-ihtNnY&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=14gF4Ric2rDlwyOhjpZeeVRuZjYxewv8p
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14gF4Ric2rDlwyOhjpZeeVRuZjYxewv8p&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14gF4Ric2rDlwyOhjpZeeVRuZjYxewv8p&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=15-N653MBwgGnluMhsyPsdSeDlpDFJ_s1
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=15-N653MBwgGnluMhsyPsdSeDlpDFJ_s1&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=15-N653MBwgGnluMhsyPsdSeDlpDFJ_s1&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=15-kz-WXuYiJ6OL4piSZvQ3vias1Qk6VF
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=15-kz-WXuYiJ6OL4piSZvQ3vias1Qk6VF&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=15-kz-WXuYiJ6OL4piSZvQ3vias1Qk6VF&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
 gallery_globen_new:
   - url: https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=15WFCkC8oA6L4BCOJX9Eeq9hc4Ho7xVU-
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=15WFCkC8oA6L4BCOJX9Eeq9hc4Ho7xVU-&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=15WFCkC8oA6L4BCOJX9Eeq9hc4Ho7xVU-&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
 gallery_globen_inside_2021:
   - url: https://drive.google.com/uc?id=1HNo8PJHv_f5bY6STY9nvNyLTViB1Bdcp
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1HNo8PJHv_f5bY6STY9nvNyLTViB1Bdcp&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1HNo8PJHv_f5bY6STY9nvNyLTViB1Bdcp&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
   - url: https://drive.google.com/uc?id=1my-Q8KyIL82hruOyw7xrXW-lJ62LQxFv
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1my-Q8KyIL82hruOyw7xrXW-lJ62LQxFv&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1my-Q8KyIL82hruOyw7xrXW-lJ62LQxFv&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
   - url: https://drive.google.com/uc?id=1PlLVR06Mejh08WfRM6AcF3SVs4brzRRb
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1PlLVR06Mejh08WfRM6AcF3SVs4brzRRb&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1PlLVR06Mejh08WfRM6AcF3SVs4brzRRb&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
   - url: https://drive.google.com/uc?id=1ap9fqs2mtcUukmPlCOEbG-ASR9NYG0Jx
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1ap9fqs2mtcUukmPlCOEbG-ASR9NYG0Jx&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1ap9fqs2mtcUukmPlCOEbG-ASR9NYG0Jx&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
   - url: https://drive.google.com/uc?id=1HeHUdKXkHeleoX2eNoHytxnOqNMKvRXe
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1HeHUdKXkHeleoX2eNoHytxnOqNMKvRXe&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1HeHUdKXkHeleoX2eNoHytxnOqNMKvRXe&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
   - url: https://drive.google.com/uc?id=12aL6TmCgv5awNyTZhgqvjZYiZdL8qjDu
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=12aL6TmCgv5awNyTZhgqvjZYiZdL8qjDu&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=12aL6TmCgv5awNyTZhgqvjZYiZdL8qjDu&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
   - url: https://drive.google.com/uc?id=1U4KAcxBOwjaZbwQnyyL5HoZkK3cL1kVr
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1U4KAcxBOwjaZbwQnyyL5HoZkK3cL1kVr&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1U4KAcxBOwjaZbwQnyyL5HoZkK3cL1kVr&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
   - url: https://drive.google.com/uc?id=1K-NAIb-bY8FQr5EfQA-41N4uYUGjDEOH
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1K-NAIb-bY8FQr5EfQA-41N4uYUGjDEOH&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1K-NAIb-bY8FQr5EfQA-41N4uYUGjDEOH&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
   - url: https://drive.google.com/uc?id=1x0k1CAs_ELuyW88dr1sc6tsBc0j8wL4r
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1x0k1CAs_ELuyW88dr1sc6tsBc0j8wL4r&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1x0k1CAs_ELuyW88dr1sc6tsBc0j8wL4r&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
 ---

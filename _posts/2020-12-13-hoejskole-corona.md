@@ -9,8 +9,8 @@ tags:
 excerpt: "Viceforstander, Lars Olesen, skriver med citater fra højskolelærere om, hvordan Corona-nedlukning og -pandemi har haft betydning for Vejle Idrætshøjskole."
 header:
   overlay_color: "#1aa2dd"
-  teaser: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1B1OcpHjDeXABiM2JWlhxMG6gDjnhCle8&w=600
-  overlay_image: //images.weserv.nl/?url=https://drive.google.com/uc?id=1B1OcpHjDeXABiM2JWlhxMG6gDjnhCle8&w=2000
+  teaser: https:https://images.weserv.nl/?url=https://drive.google.com/uc?id=1B1OcpHjDeXABiM2JWlhxMG6gDjnhCle8&w=600
+  overlay_image: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1B1OcpHjDeXABiM2JWlhxMG6gDjnhCle8&w=2000
 toc: true
 sidebar:
   nav: "yearbook-2020"
@@ -102,7 +102,7 @@ Det var særligt vigtigt for os at løse tre udfordringer:
 - **Møder med eleverne**. Hvordan kan vi mødes nærværende med eleverne, når vi ikke helt kan gøre det vi plejer, fordi vi skal holde afstandskravet. Vi havde gode samtaler blandt lærerne om, hvor de kunne finde nye måder at møde eleverne på særligt i samværstiden.
 - **Fælles oplevelser**. Hvordan kan vi skabe fælles oplevelser for og med alle, når vi har et afstandskrav mellem familiegrupperne og til lærerne. Hvordan kan vi gøre det meningsfuldt uden at de små benspænd står i vejen for samværet.
 
-{% include figure image_path="//images.weserv.nl/?url=https://drive.google.com/uc?id=1B1OcpHjDeXABiM2JWlhxMG6gDjnhCle8&w=600" caption="Mundbind blev en del af hverdagen. Og det signalerer jo afstand. Det er væsentligt at få snakket om, hvordan man kan signalere nærhed selv bag mundbindet" %}
+{% include figure image_path="https://images.weserv.nl/?url=https://drive.google.com/uc?id=1B1OcpHjDeXABiM2JWlhxMG6gDjnhCle8&w=600" caption="Mundbind blev en del af hverdagen. Og det signalerer jo afstand. Det er væsentligt at få snakket om, hvordan man kan signalere nærhed selv bag mundbindet" %}
 
 ## Lærernes tanker omkring nedlukningen
 

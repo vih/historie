@@ -18,11 +18,11 @@ sidebar:
 toc: true
 gallery_pool_clean:
   - url: https://drive.google.com/uc?id=14yrYtvid5MQwFl12stjEtbN4p2i8whkF
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14yrYtvid5MQwFl12stjEtbN4p2i8whkF&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14yrYtvid5MQwFl12stjEtbN4p2i8whkF&w=400
     alt: "Vippen August 2018"
     title: "Vippen August 2018"
   - url: https://drive.google.com/uc?id=14yMC54IRT8UDtxU4ox_JgcdV-vuj4o9-
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14yMC54IRT8UDtxU4ox_JgcdV-vuj4o9-&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14yMC54IRT8UDtxU4ox_JgcdV-vuj4o9-&w=400
     alt: "Vippen December 2019"
     title: "Vippen December 2019"
 ---
@@ -35,9 +35,9 @@ Vi arbejder i øjeblikket med planer for efterårets kurser 2020, her planlægge
 
 I min fortælling herunder, har jeg taget nogle forskellige emner op, som vi har haft særlig fokus på i 2019, og som samtidig giver en indsigt i det arbejde som foregår på Vejle Idrætshøjskole.
 
-## Bygningerne i udvikling 
+## Bygningerne i udvikling
 
-Gennem de sidste 7 til 8 år er der virkelig sket mange forbedringer omkring skolens bygninger. Tidligere elever bliver ofte overrasket når de kommer på besøg og ser den udvikling skolen har været igennem. 
+Gennem de sidste 7 til 8 år er der virkelig sket mange forbedringer omkring skolens bygninger. Tidligere elever bliver ofte overrasket når de kommer på besøg og ser den udvikling skolen har været igennem.
 
 2019 blev året hvor poolen endelig blev færdig renoveret. Hele projektet omkring renovering af poolen og forandringerne til et ferskvands bassin med biologisk vandrensning har været en lang og kompliceret forløb. Heldigvis står vi i dag med et gennemført byggeprojekt som er lykkes på alle parametre.
 
@@ -75,7 +75,7 @@ Projektets formål har flere sider.
 Projektet løber i et år fra august 2019. Det afstedkommer mange forskellige tiltag og både internt men også forsøg på at møde mangfoldigheden i vores samfund eksternt.
 
 Jeg oplever at det er med til at styrke vores højskole i det daglige, at vi skærper vores bevidsthed og udsyn mod andre.
- 
+
 ## Cafe Space
 
 En af de konkrete tiltag vi har lavet for at styrke mangfoldigheden på vores skole er Cafe Space. Cafe Space er et tilbud om at møde op til en snak hvis du går og er lidt ”presset”. Man kan være ”presset af mange årsager – det kan være ensomhed, svært at falde til i fællesskabet, ting man tumler med, forskellige psykiske udfordringer etc.

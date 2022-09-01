@@ -1,17 +1,17 @@
 ---
 title: Bjarne Hauger
 author_name: "bjarne_hauger"
-start_date: 
+start_date:
   year: 1967
 end_date:
   year: 1982
 header:
   teaser: https://lh3.googleusercontent.com/3_whfQ-SVwaEXAIC90KlMIrjSeZ7HolB6VO11cnsvtnYp5nhvDZlBVyGHDPh-lR-bQJK_Cz2CHkHKupV1vTrjfm3Qkuf1BO5vb3l6oHqB9l9OxAybxv67jGVPUodapbxMFZEJEq5TQ=w2400
-media: 
+media:
   url: https://lh3.googleusercontent.com/3_whfQ-SVwaEXAIC90KlMIrjSeZ7HolB6VO11cnsvtnYp5nhvDZlBVyGHDPh-lR-bQJK_Cz2CHkHKupV1vTrjfm3Qkuf1BO5vb3l6oHqB9l9OxAybxv67jGVPUodapbxMFZEJEq5TQ=w2400
   credit: "Vejle Idrætshøjskoles arkiv"
   caption: "Bjarne Hauger"
-  thumbnail: //images.weserv.nl/?url=lh3.googleusercontent.com/3_whfQ-SVwaEXAIC90KlMIrjSeZ7HolB6VO11cnsvtnYp5nhvDZlBVyGHDPh-lR-bQJK_Cz2CHkHKupV1vTrjfm3Qkuf1BO5vb3l6oHqB9l9OxAybxv67jGVPUodapbxMFZEJEq5TQ=w2400&w=100
+  thumbnail: https://images.weserv.nl/?url=lh3.googleusercontent.com/3_whfQ-SVwaEXAIC90KlMIrjSeZ7HolB6VO11cnsvtnYp5nhvDZlBVyGHDPh-lR-bQJK_Cz2CHkHKupV1vTrjfm3Qkuf1BO5vb3l6oHqB9l9OxAybxv67jGVPUodapbxMFZEJEq5TQ=w2400&w=100
 category:
   - Forstander
 tags:

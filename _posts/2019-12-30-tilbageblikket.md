@@ -18,16 +18,16 @@ sidebar:
 toc: true
 gallery:
   - url: https://drive.google.com/uc?id=1bybB6QSZtmbHTvSXDw9pifCJk7eNxOqk
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1bybB6QSZtmbHTvSXDw9pifCJk7eNxOqk&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1bybB6QSZtmbHTvSXDw9pifCJk7eNxOqk&w=400
     alt: "Billed-Bladet 12. januar 1943"
     title: "Billed-Bladet 12. januar 1943"
   - url: https://drive.google.com/open?id=1bugyHyP7GDCGL2L9QxyylxglV16Ye5-b
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1bugyHyP7GDCGL2L9QxyylxglV16Ye5-b&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1bugyHyP7GDCGL2L9QxyylxglV16Ye5-b&w=400
     alt: "Billed-Bladet 12. januar 1943"
     title: "Billed-Bladet 12. januar 1943"
 ---
 
-Vi blev kontaktet af en privatmand, der samler på grafiske tryk, som gerne ville reducere sin smaling lidt. 
+Vi blev kontaktet af en privatmand, der samler på grafiske tryk, som gerne ville reducere sin smaling lidt.
 
 > Efterhånden har jeg fået en stor samling - FOR stor, mener min kone. Derfor skiller jeg mig løbende af med emner, som falder uden for mit primære interesseområde.
 >

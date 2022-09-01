@@ -2,17 +2,17 @@
 title: Svend Aage Thomsen
 author_name: "svend_aage_thomsen"
 permalink: /svaat/
-start_date: 
+start_date:
   year: 1942
 end_date:
   year: 1961
 header:
   teaser: //filweb.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8
-media: 
+media:
   url: //filweb.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8
   credit: arkiv.dk
   caption: "Svend Aage Thomsen"
-  thumbnail: //images.weserv.nl/?url=filweb.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8
+  thumbnail: https://images.weserv.nl/?url=filweb.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8
 category:
   - Forstander
 tags:

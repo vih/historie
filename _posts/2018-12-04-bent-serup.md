@@ -9,8 +9,8 @@ tags:
   - Bent Serup
 excerpt: "Bent Serup var forstander på Vejle Idrætshøjskole gennem syv år med mange udfordringer fra 1999-2006, men husker det gode højskoleliv og positive mentalitet."
 header:
-  overlay_image: //images.weserv.nl/?url=https://drive.google.com/uc?id=1F1d9hyQQfII2-IdkJ8Ud-oV9735N_D-p&w&w=2000
-  teaser: //images.weserv.nl/?url=https://drive.google.com/uc?id=1F1d9hyQQfII2-IdkJ8Ud-oV9735N_D-p&w&w=300
+  overlay_image: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1F1d9hyQQfII2-IdkJ8Ud-oV9735N_D-p&w&w=2000
+  teaser: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1F1d9hyQQfII2-IdkJ8Ud-oV9735N_D-p&w&w=300
   caption: "Foto: Jørgen Outzen, Fyens Amts Avis"
 toc: true
 sidebar:

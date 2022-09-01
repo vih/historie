@@ -53,6 +53,11 @@ jobs:
             ${{ runner.os }}-gems-
       - name: Checking Jekyll configuration
         run: bundle exec jekyll doctor
+      - name: Cache jekyll
+        uses: actions/cache@v3
+        with:
+          path: "_site/"
+          key: ${{ runner.os }}-${{ github.sha }}
       - name: 🔨 Build site
         run: |
           bundle exec jekyll build --trace --verbose --lsi
@@ -61,11 +66,6 @@ jobs:
       - name: Optimize
         run: |
           minify -r -o _site/ --html-keep-document-tags --html-keep-end-tags --html-keep-default-attrvals --html-keep-whitespace --verbose _site
-      - name: Cache jekyll
-        uses: actions/cache@v3
-        with:
-          path: "_site/"
-          key: ${{ runner.os }}-${{ github.sha }}
   deploy:
     if: github.event_name == 'push'
     name: deploy

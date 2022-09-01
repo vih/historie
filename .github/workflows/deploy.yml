@@ -134,6 +134,10 @@ jobs:
         with:
           path: "_site/"
           key: ${{ runner.os }}-${{ github.sha }}
+      - name: Remove exercise Podcasts
+        uses: JesseTG/rm@v1.0.3
+        with:
+          path: ./_site/assets/podcasts/
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1

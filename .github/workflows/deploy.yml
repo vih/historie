@@ -184,7 +184,7 @@ jobs:
         uses: azure/CLI@v1
         with:
           inlineScript: |
-            CUSTOM_DOMAIN='${{ env.AZURE_DOMAIN }}''
+            CUSTOM_DOMAIN='${{ env.AZURE_DOMAIN }}'
             LOCATION='westeurope'
 
             PREVIEW_URL="https://${CUSTOM_DOMAIN/.[1-9]./-${{github.event.pull_request.number }}.$LOCATION.1.}"

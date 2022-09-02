@@ -41,5 +41,5 @@ Villy Sørensen fortæller i denne korte film fra Vejle Stadsarkiv om sig selv i
 
 ## Referencer
 
-- [Vejle Wiki om Willy Sørensen](http://www.vejlewiki.dk/index.php?title=Willy_S%C3%B8rensen)
+- [Vejle Wiki om Willy Sørensen](https://www.vejlewiki.dk/index.php?title=Willy_S%C3%B8rensen)
 - [Willy Sørensen på Wikipedia](https://da.wikipedia.org/wiki/Willy_S%C3%B8rensen)

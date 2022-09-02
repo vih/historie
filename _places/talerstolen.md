@@ -1,7 +1,7 @@
 ---
 title:  Talerstolen
 header:
-    teaser: //filweb.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8
+    teaser: https://filweb.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8
 ---
 
 > Hilsen fra formanden!

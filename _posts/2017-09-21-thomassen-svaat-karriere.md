@@ -27,7 +27,7 @@ chapters:
   - '00:00:00.0 Intro'
   - '00:00:11.0 Talt intro'
   - '00:13:21.0 Talt outro'
-transcript: http://historie.vih.dk/assets/podcasts/thomassen-svaat-karriere.txt
+transcript: https://historie.vih.dk/assets/podcasts/thomassen-svaat-karriere.txt
 ---
 
 {% include podcast-player.html %}

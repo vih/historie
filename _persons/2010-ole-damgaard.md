@@ -1,14 +1,14 @@
 ---
 title: Ole Damgaard
 author_name: "ole_damgaard"
-start_date:
+start_date: 
   year: 2010
 end_date:
   year: 2018
 header:
   teaser: /assets/images/persons/ole-damgaard.jpg
-media:
-  url: //dev.vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg
+media: 
+  url: https://dev.vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg
   credit: "Vejle Idrætshøjskoles arkiv"
   caption: "Ole Damgaard"
   thumbnail: https://images.weserv.nl/?url=dev.vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg&w=100

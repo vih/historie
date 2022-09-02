@@ -8,10 +8,10 @@ end_date:
 header:
   teaser: /assets/images/persons/carsten-lang-petersen.png
 media:
-  url: http://dev.fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg
+  url: https://dev.fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg
   credit: "Vejle Idrætshøjskoles arkiv"
   caption: "Carsten Lang Petersen"
-  thumbnail: https://images.weserv.nl/?url=http://dev.fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg&w=100
+  thumbnail: https://images.weserv.nl/?url=https://dev.fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg&w=100
 category:
   - Bestyrelsesformænd
 tags:
@@ -21,7 +21,7 @@ excerpt: "Blev formand for bestyrelsen i 2008 efter at have været elev i 1978/7
 description: "Carsten Lang Petersen er den nuværende formand"
 sidebar:
   - title: Carsten Lang Petersen
-    image: http://dev.fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg
+    image: https://dev.fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg
     image_alt: Carsten Lang Petersen
     text: "Blev formand for bestyrelsen i 2008 efter at have været elev i 1978/79 og kasserer i Elevforeningen lige siden."
 ---

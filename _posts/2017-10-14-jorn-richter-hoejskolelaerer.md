@@ -27,7 +27,7 @@ chapters:
   - '00:00:00.0 Intro'
   - '00:00:10.0 Talt intro'
   - '00:19:08.0 Talt outro'
-transcript: http://historie.vih.dk/assets/podcasts/richter-hoejskolelaerer.txt
+transcript: https://historie.vih.dk/assets/podcasts/richter-hoejskolelaerer.txt
 ---
 
 {% include podcast-player.html %}

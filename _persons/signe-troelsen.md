@@ -8,7 +8,7 @@ author_name: "signe_troelsen"
 header:
   teaser: /assets/images/authors/default-profile.png
 #media:
-#  url: http://www.vejlewiki.dk/images/2/2e/JensenNP1.jpg
+#  url: https://www.vejlewiki.dk/images/2/2e/JensenNP1.jpg
 #  credit: "Vejle Wiki"
 #  caption: "N. P. Jensen"
 #  thumbnail: https://images.weserv.nl/?url=www.vejlewiki.dk/images/2/2e/JensenNP1.jpg&w=100

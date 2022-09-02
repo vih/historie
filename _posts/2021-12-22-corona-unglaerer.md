@@ -1,5 +1,5 @@
 ---
-title: Fællesskab og isolation, højskoleånd og nedlukning - et højskoleophold helt udover det sædvanlige
+title: Fællesskab og isolation, højskoleånd og nedlukning
 permalink: /aarsskrift/2021/unglaerer-under-corona-foraar-2021/
 author: michelle_moller_andersen
 category:
@@ -13,6 +13,8 @@ toc: true
 sidebar:
   nav: "yearbook-2021"
 ---
+
+Foråret 2021 var et højskoleophold helt udover det sædvanlige.
 
 D. 10 januar 2021. For mange er det ikke en særlig nævneværdig dato. Hvem husker egentlig den dag? Det var sikkert en grå, småkold og mørk vinterdag, hvor der var lange udsigter til både sne, sol og sommer. En dag, hvor de fleste af os sad hjemme i en coronabobbel, da landet var lukket ned. Det mest sindsoprivende må have været antallet af smittede og vaccinernes udrulning. Selvom det var hverdagen for de fleste, hvor den ene dag slugte den anden, mandag blev til fredag eller omvendt, så skulle denne søndag have været anderledes på Vejle Idrætshøjskole.
 

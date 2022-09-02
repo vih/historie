@@ -204,7 +204,6 @@ jobs:
         with:
           urls: |
             ${{ steps.static_web_app_preview_url.outputs.PREVIEW_URL }}
-            ${{ steps.static_web_app_preview_url.outputs.PREVIEW_URL }}/idealvaegt/
           configPath: ./.github/workflows/lighthousesrc.json
           uploadArtifacts: true
           temporaryPublicStorage: true

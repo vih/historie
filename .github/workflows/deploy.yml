@@ -105,22 +105,6 @@ jobs:
             --allow-hash-href true
             --ignore-empty-alt true
             --cache '{ "timeframe": { "external": "30d" } }'
-  clean:
-    needs: [build,deploy,test]
-    runs-on: ubuntu-latest
-    steps:
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: ${{ env.RUBY_VERSION }} # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-      - name: Use cache
-        uses: actions/cache@v3
-        with:
-          path: "_site/"
-          key: ${{ runner.os }}-${{ github.sha }}
-      - name: ☁️ Cleaning up
-        run: bundle exec jekyll clean
   build_and_deploy_azure:
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
     needs: build

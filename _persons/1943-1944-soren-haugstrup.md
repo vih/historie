@@ -32,7 +32,7 @@ sidebar:
 
 {{ page.description }}
 
-{% include figure image_path="//www.hojskolehistorie.dk/media/20061/grundvig-hoejskole-faellesbillede.jpg" caption="Søren Haugstrup Jensen foran Ry Højskole, hvor han oprindeligt var forstander. Kilde: hojskolehistorie.dk." alt="Søren Haugstrup Jensen foran Ry Højskole, hvor han oprindeligt var forstander." %}
+{% include figure image_path="https://hojskolehistorie.dk/media/18329/grundvig-hoejskole-faellesbillede.jpg" caption="Søren Haugstrup Jensen foran Ry Højskole, hvor han oprindeligt var forstander. Kilde: [hojskolehistorie.dk](https://hojskolehistorie.dk/erindringer/hoejskoler-i-danmark/grundtvigs-hoejskole-1958-59)." alt="Søren Haugstrup Jensen foran Ry Højskole, hvor han oprindeligt var forstander." %}
 
 _Vi er først lige begyndt at lave biografier på nogle af de væsentlige personligheder på Vejle Idrætshøjskole. Vi vil være rigtig taknemmelige for al den hjælp, vi kan få._
 {: .notice--info}

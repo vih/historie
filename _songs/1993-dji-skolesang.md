@@ -25,39 +25,41 @@ sidebar:
     nav: songs
 ---
 
+{{ page.excerpt }}
+
 ## Tekst
 
-**Tekst**: Sten Kaalø
+**Tekst**: Sten Kaalø<br>
 **Musik**: Signy Jensen
 
-{% include audio src="https://drive.google.com/uc?id=1JwRHx7uvKuKa9T5iGW8ZfUVyAghNJ9-9" %}
+{% include audio src="https://drive.google.com/uc?id=1fgzDqdSuLw-iI00pVs4hK4-1PEvZc3yH" %}
 
-Som grenen bryder ud af stammen,
-og bladet springer af sit skud,
-sådan er krop og tanke sammen,
-et evigt samspil foldes ud.
-Så svæv min sjæl i kroppens vinge,
+Som grenen bryder ud af stammen,<br>
+og bladet springer af sit skud,<br>
+sådan er krop og tanke sammen,<br>
+et evigt samspil foldes ud.<br>
+Så svæv min sjæl i kroppens vinge,<br>
+og løft dig krop mod tankens tinde.<br>
+
+I fordums tider opstod legen,<br>
+og formed sig til kamp for sjov,<br>
+i ramme alvor – kamp til stregen,<br>
+så langt som hjertet gi'r os lov.<br>
+Så svæv min sjæl i kroppens vinge,<br>
 og løft dig krop mod tankens tinde.
 
-I fordums tider opstod legen,
-og formed sig til kamp for sjov,
-i ramme alvor – kamp til stregen,
-så langt som hjertet gi'r os lov.
-Så svæv min sjæl i kroppens vinge,
+Og fælles er vi om det hele,<br>
+med sved og krop og tankens spring,<br>
+og alting må vi skønsomt dele,<br>
+så ingen står med ingenting.<br>
+Så svæv min sjæl i kroppens vinge,<br>
 og løft dig krop mod tankens tinde.
 
-Og fælles er vi om det hele,
-med sved og krop og tankens spring,
-og alting må vi skønsomt dele,
-så ingen står med ingenting.
-Så svæv min sjæl i kroppens vinge,
-og løft dig krop mod tankens tinde.
-
-Vorherres lille store kugle,
-hvor måne, stjerner kigger ned,
-med bølgeskvulp og sommerfugle,
-er skabt - trods alt – til kærlighed.
-Så svæv min sjæl i kroppens vinge,
+Vorherres lille store kugle,<br>
+hvor måne, stjerner kigger ned,<br>
+med bølgeskvulp og sommerfugle,<br>
+er skabt - trods alt – til kærlighed.<br>
+Så svæv min sjæl i kroppens vinge,<br>
 og løft dig krop mod tankens tinde.
 
 ## Video
@@ -65,6 +67,8 @@ og løft dig krop mod tankens tinde.
 {% include video provider="youtube" id="LPb5lvjVh4E" %}
 
 ## Noder
+
+{% include figure image_path="https://drive.google.com/uc?id=1vpKmi1WIvJU2-gZU3yChH4AW8396Tmgc" %}
 
 [<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1-cz_IY1oksDdc30GJ0cXpDc5udQ82dvU){: .btn .btn--danger .btn--primary .btn--large}
 

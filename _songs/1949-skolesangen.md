@@ -23,50 +23,52 @@ sidebar:
     nav: songs
 ---
 
-## Teksten
+{{ page.excerpt }}
 
-**Tekst**: William O. Hansen
+**Tekst**: William O. Hansen<br>
 **Musik**: Karl-Olav Dahlbæk
 
-{% include audio src="https://drive.google.com/uc?id=1fHDDrtxuhyxxw_xd0OLUAga5Ln5Le9Q3" %}
+{% include audio src="https://drive.google.com/uc?id=13ymU068cs1_uhqA_kGmecZEeliQUkohr" %}
 
-Frem i takt unge stål
-fra Den Jyske Idrætsskole.
-Du skal vide vist og stole
-på, at vi kan nå vort mål.
-Der lyder takt af lette fødder,
-som bre’r sig rundt om land og strand.
-Her skal vor idræt fæste rødder
-i hver kvinde og hver mand.
-Frem i takt glade trop!
-og som lysets stolte ridder
-ser vi mod de vide vidder,
+## Tekst
+
+Frem i takt unge stål<br>
+fra Den Jyske Idrætsskole.<br>
+Du skal vide vist og stole<br>
+på, at vi kan nå vort mål.<br>
+Der lyder takt af lette fødder,<br>
+som bre’r sig rundt om land og strand.<br>
+Her skal vor idræt fæste rødder<br>
+i hver kvinde og hver mand.<br>
+Frem i takt glade trop!<br>
+og som lysets stolte ridder<br>
+ser vi mod de vide vidder,<br>
 der hvor solen stiger op.
 
-Frem i takt, frem vi går,
-thi nu kaster vi vor terning,
-og vor ungdoms glade gerning
-vil vi røgte mange år.
-I landet rundt det snart vil kendes,
-vi deler gerne af vor skat,
-de unge, som til skolen sendes,
-vil med energi ta’ fat.
-Frem i takt! Til vort ord
-skal den danske ungdom lytte,
-kendes skal i gård og hytte:
+Frem i takt, frem vi går,<br>
+thi nu kaster vi vor terning,<br>
+og vor ungdoms glade gerning<br>
+vil vi røgte mange år.<br>
+I landet rundt det snart vil kendes,<br>
+vi deler gerne af vor skat,<br>
+de unge, som til skolen sendes,<br>
+vil med energi ta’ fat.<br>
+Frem i takt! Til vort ord<br>
+skal den danske ungdom lytte,<br>
+kendes skal i gård og hytte:<br>
 Vi på ungdomsgerning tror.
 
-Frem i takt, frem i takt,
-se vor ungdoms raske skare
-med en takt, som nok skal vare,
-om vor sundhed står vi vagt.
-Vi stævner frem med sol i sindet,
-og toner bruser fra vor mund,
-en glød som aldrig går af mindet
-i den årle morgenstund.
-Frem i takt med vor sang!
-den om Jyllands jord vil tale,
-og i disse skove, dale,
+Frem i takt, frem i takt,<br>
+se vor ungdoms raske skare<br>
+med en takt, som nok skal vare,<br>
+om vor sundhed står vi vagt.<br>
+Vi stævner frem med sol i sindet,<br>
+og toner bruser fra vor mund,<br>
+en glød som aldrig går af mindet<br>
+i den årle morgenstund.<br>
+Frem i takt med vor sang!<br>
+den om Jyllands jord vil tale,<br>
+og i disse skove, dale,<br>
 vil vi mødes nok engang.
 
 ## Video
@@ -74,6 +76,8 @@ vil vi mødes nok engang.
 {% include video provider="youtube" id="5mrLexcY1b0" %}
 
 ## Noder
+
+{% include figure image_path="https://drive.google.com/uc?id=1a91N5YWFnX7xNV98uiXLBXdkJwlnJwf1" %}
 
 [<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1-WnldtjlnqypqrP9v3Xsq39cWkdG-Zdj){: .btn .btn--danger .btn--primary .btn--large}
 

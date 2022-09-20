@@ -21,43 +21,45 @@ sidebar:
   - title: "Vejle Idrætshøjskoles Sange"
     image: "https://images.weserv.nl/?url=https://drive.google.com/uc?id=10k7zuB8CRXnnKxBye_kIzKdBnO5uKGwi&w=300&a=attention&t=square"
     image_alt: "Vejle Idrætshøjskoles Sange"
-    text: "Indspillet i 2018 af Mille Sigsgaard Christensen og Charlotte Støjberg. **Køb den eller stream den fra din foretrukne musiktjeneste**, fx [Google Play](https://play.google.com/music/listen#/album/Birdaib4zktzgwthhtd4uxlafta), [Itunes](https://itunes.apple.com/album/-/id1444457441), [Deezer](https://www.deezer.com/da/album/81167962), [Tidal](https://listen.tidal.com/album/99556066), [Spotify](https://play.spotify.com/album/6vpvN8PtyRg7wYLUqIdlbI), [YouSee](https://musik.yousee.dk/album/202470120/vejle-idraetshojskoles-sange)."
+    text: "Indspillet i 2018 af Mille Sigsgaard Christensen og Charlotte Støjberg. **Køb den eller stream den fra din foretrukne musiktjeneste**, fx [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kJSIIxRYv_Q9FeqfCbfPu1fXGwV4j3-Kk), [Itunes](https://itunes.apple.com/album/-/id1444457441), [Deezer](https://www.deezer.com/da/album/81167962), [Tidal](https://listen.tidal.com/album/99556066), [Spotify](https://play.spotify.com/album/6vpvN8PtyRg7wYLUqIdlbI), [YouSee](https://musik.yousee.dk/album/202470120/vejle-idraetshojskoles-sange)."
     nav: songs
 ---
 
+{{ page.excerpt }}
+
 ## Tekst
 
-**Tekst**: Sten Kaalø
+**Tekst**: Sten Kaalø<br>
 **Musik**: Signy Jensen
 
-{% include audio src="https://drive.google.com/uc?id=1JwRHx7uvKuKa9T5iGW8ZfUVyAghNJ9-9" %}
+{% include audio src="https://drive.google.com/uc?id=1fgzDqdSuLw-iI00pVs4hK4-1PEvZc3yH" %}
 
-Som grenen bryder ud af stammen,
-og bladet springer af sit skud,
-sådan er krop og tanke sammen,
-et evigt samspil foldes ud.
-Så svæv min sjæl i kroppens vinge,
+Som grenen bryder ud af stammen,<br>
+og bladet springer af sit skud,<br>
+sådan er krop og tanke sammen,<br>
+et evigt samspil foldes ud.<br>
+Så svæv min sjæl i kroppens vinge,<br>
+og løft dig krop mod tankens tinde.<br>
+
+I fordums tider opstod legen,<br>
+og formed sig til kamp for sjov,<br>
+i ramme alvor – kamp til stregen,<br>
+så langt som hjertet gi'r os lov.<br>
+Så svæv min sjæl i kroppens vinge,<br>
 og løft dig krop mod tankens tinde.
 
-I fordums tider opstod legen,
-og formed sig til kamp for sjov,
-i ramme alvor – kamp til stregen,
-så langt som hjertet gi'r os lov.
-Så svæv min sjæl i kroppens vinge,
+Og fælles er vi om det hele,<br>
+med sved og krop og tankens spring,<br>
+og alting må vi skønsomt dele,<br>
+så ingen står med ingenting.<br>
+Så svæv min sjæl i kroppens vinge,<br>
 og løft dig krop mod tankens tinde.
 
-Og fælles er vi om det hele,
-med sved og krop og tankens spring,
-og alting må vi skønsomt dele,
-så ingen står med ingenting.
-Så svæv min sjæl i kroppens vinge,
-og løft dig krop mod tankens tinde.
-
-Vorherres lille store kugle,
-hvor måne, stjerner kigger ned,
-med bølgeskvulp og sommerfugle,
-er skabt - trods alt – til kærlighed.
-Så svæv min sjæl i kroppens vinge,
+Vorherres lille store kugle,<br>
+hvor måne, stjerner kigger ned,<br>
+med bølgeskvulp og sommerfugle,<br>
+er skabt - trods alt – til kærlighed.<br>
+Så svæv min sjæl i kroppens vinge,<br>
 og løft dig krop mod tankens tinde.
 
 ## Video
@@ -65,6 +67,8 @@ og løft dig krop mod tankens tinde.
 {% include video provider="youtube" id="LPb5lvjVh4E" %}
 
 ## Noder
+
+{% include figure image_path="https://drive.google.com/uc?id=1vpKmi1WIvJU2-gZU3yChH4AW8396Tmgc" %}
 
 [<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1-cz_IY1oksDdc30GJ0cXpDc5udQ82dvU){: .btn .btn--danger .btn--primary .btn--large}
 
@@ -79,4 +83,4 @@ _Hvis du kender mere til tilblivelsen af sangen, så skriv endelig i kommentarer
 
 ## Køb eller stream sangen
 
-Sangen blev indspillet i 2018 af Mille Sigsgaard Christensen og Charlotte Støjberg - både med vokal og som akkompagnement. **Køb den eller stream den fra din foretrukne musiktjeneste.**, fx [Google Play](https://play.google.com/music/listen#/album/Birdaib4zktzgwthhtd4uxlafta), [Itunes](https://itunes.apple.com/album/-/id1444457441), [Deezer](https://www.deezer.com/da/album/81167962), [Tidal](https://listen.tidal.com/album/99556066), [Spotify](https://play.spotify.com/album/6vpvN8PtyRg7wYLUqIdlbI), [YouSee](https://musik.yousee.dk/album/202470120/vejle-idraetshojskoles-sange).
+Sangen blev indspillet i 2018 af Mille Sigsgaard Christensen og Charlotte Støjberg - både med vokal og som akkompagnement. **Køb den eller stream den fra din foretrukne musiktjeneste.**, fx [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kJSIIxRYv_Q9FeqfCbfPu1fXGwV4j3-Kk), [Itunes](https://itunes.apple.com/album/-/id1444457441), [Deezer](https://www.deezer.com/da/album/81167962), [Tidal](https://listen.tidal.com/album/99556066), [Spotify](https://play.spotify.com/album/6vpvN8PtyRg7wYLUqIdlbI), [YouSee](https://musik.yousee.dk/album/202470120/vejle-idraetshojskoles-sange).

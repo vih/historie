@@ -1,17 +1,17 @@
 ---
 title: Ole Damgaard
 author_name: "ole_damgaard"
-start_date:
+start_date: 
   year: 2010
 end_date:
   year: 2018
 header:
   teaser: /assets/images/persons/ole-damgaard.jpg
-media:
-  url: //dev.vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg
+media: 
+  url: https://www.vih.dk/sites/vih/files/laerere-143.jpg
   credit: "Vejle Idrætshøjskoles arkiv"
   caption: "Ole Damgaard"
-  thumbnail: https://images.weserv.nl/?url=dev.vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg&w=100
+  thumbnail: https://images.weserv.nl/?url=https://www.vih.dk/sites/vih/files/laerere-143.jpg&w=100
 category:
   - Forstander
 tags:
@@ -21,7 +21,7 @@ excerpt: "Blev forstander i 2010 og indgår i et ledelsesteam med efterskolefors
 description: "Ole Damgaard kommer til at indgå i et ledelsesteam med efterskoleforstander, Frank Rasmussen, og forretningsudvikler, Peter Sebastian Pedersen. Ole er tidligere toptræner i håndbold, og han er bl.a. med tl at få bygget Center for Sundhed, Test og Læring og sætte gang i Outdoor AquaScape."
 sidebar:
   - title: Ole Damgaard
-    image: //dev.vih.dk/sites/vih.local/files/profile_pictures/laerere-150.jpg
+    image: https://images.weserv.nl/?url=https://www.vih.dk/sites/vih/files/laerere-143.jpg&w=100
     image_alt: Ole Damgaard
     text: "Blev forstander i 2010 og indgår i et ledelsesteam med efterskoleforstander, Frank Rasmussen, og forretningsudvikler, Peter Sebastian Pedersen. Har bl.a. med tl at få bygget Center for Sundhed, Test og Læring og sætte gang i Outdoor AquaScape."
 ---

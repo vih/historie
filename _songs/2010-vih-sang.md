@@ -16,43 +16,45 @@ sidebar:
   - title: "Vejle Idrætshøjskoles Sange"
     image: "https://images.weserv.nl/?url=https://drive.google.com/uc?id=10k7zuB8CRXnnKxBye_kIzKdBnO5uKGwi&w=300&a=attention&t=square"
     image_alt: "Vejle Idrætshøjskoles Sange"
-    text: "Indspillet i 2018 af Mille Sigsgaard Christensen. **Køb den eller stream den fra din foretrukne musiktjeneste**, fx [Google Play](https://play.google.com/music/listen#/album/Birdaib4zktzgwthhtd4uxlafta), [Itunes](https://itunes.apple.com/album/-/id1444457441), [Deezer](https://www.deezer.com/da/album/81167962), [Tidal](https://listen.tidal.com/album/99556066), [Spotify](https://play.spotify.com/album/6vpvN8PtyRg7wYLUqIdlbI), [YouSee](https://musik.yousee.dk/album/202470120/vejle-idraetshojskoles-sange)."
+    text: "Indspillet i 2018 af Mille Sigsgaard Christensen. **Køb den eller stream den fra din foretrukne musiktjeneste**, fx [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kJSIIxRYv_Q9FeqfCbfPu1fXGwV4j3-Kk), [Itunes](https://itunes.apple.com/album/-/id1444457441), [Deezer](https://www.deezer.com/da/album/81167962), [Tidal](https://listen.tidal.com/album/99556066), [Spotify](https://play.spotify.com/album/6vpvN8PtyRg7wYLUqIdlbI), [YouSee](https://musik.yousee.dk/album/202470120/vejle-idraetshojskoles-sange)."
     nav: songs
 ---
 
-## Teksten
+{{ page.excerpt }}
 
-**Tekst**: Elever på forårsholdet 2010 og Mille Sigsgaard Christensen
+## Tekst
+
+**Tekst**: Elever på forårsholdet 2010 og Mille Sigsgaard Christensen<br>
 **Musik**: Mille Sigsgaard Christensen
 
 {% include audio src="https://drive.google.com/uc?id=1f25oc8w-oHXBEJt75pjlrL2ycCbzeVu3" %}
 
-_Her i Nørreskoven_
-_midt i det bakkede, Jyske landskab_
-_Går vi rundt og smiler til hinanden._
-_Hver en kamp og fordom klarer vi i fællesskab_
-_Med bravour – både kvinde og mand._
-_Man kan være høj, lav, ung, gammel, lys, mørk, tyk, tynd, lige eller skrå_
-_Men man finder altid en man kan stole på._
+_Her i Nørreskoven_<br>
+_midt i det bakkede, Jyske landskab_<br>
+_Går vi rundt og smiler til hinanden._<br>
+_Hver en kamp og fordom klarer vi i fællesskab_<br>
+_Med bravour – både kvinde og mand._<br>
+_Man kan være høj, lav, ung, gammel, lys, mørk, tyk, tynd, lige eller skrå_<br>
+_Men man finder altid en man kan stole på._<br>
 _Her på VIH_
 
-Fra Sibirien til Wembley
-Vi sveder men det gir så megen energi
-Vi klatrer, løber, spiller, vi synger, griner, griller,
-vi sludrer mens vi går os en tur
-Rundt om Globen, ned til stranden,
-i solen og i vinden,
+Fra Sibirien til Wembley<br>
+Vi sveder men det gir så megen energi<br>
+Vi klatrer, løber, spiller, vi synger, griner, griller,<br>
+vi sludrer mens vi går os en tur<br>
+Rundt om Globen, ned til stranden,<br>
+i solen og i vinden,<br>
 det' umuligt at være sur
 
 _Her i Nørreskoven..._
 
-Fra godmorgen til godnat
-Vi bor og lever sammen både dag og nat
-Der er altid en at lege med,
-altid en at snakke med,
-En til at give et klem
-Det' en tid man aldrig glemmer,
-en tid med gode minder,
+Fra godmorgen til godnat<br>
+Vi bor og lever sammen både dag og nat<br>
+Der er altid en at lege med,<br>
+altid en at snakke med,<br>
+En til at give et klem<br>
+Det' en tid man aldrig glemmer,<br>
+en tid med gode minder,<br>
 En tid med et dejligt hjem.
 
 _Her i Nørreskoven..._
@@ -63,7 +65,11 @@ _Her i Nørreskoven..._
 
 ## Noder
 
-[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1jFLJSBwTVwdeaYyStUh3frER3jy0wtHZ){: .btn .btn--danger .btn--primary .btn--large}
+{% include figure image_path="https://drive.google.com/uc?id=1b8qlTUrKXxih7rxA4pZH1od98bey8gJe" %}
+
+{% include figure image_path="https://drive.google.com/uc?id=1VoAZoO75Ct9IGoy4xge9oUCtqv31Um7Y" %}
+
+[<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=10b0LipWvSmwculpfB4XtsffASNodOtRN){: .btn .btn--danger .btn--primary .btn--large}
 
 ## Om sangen (skrevet af Mille Sigsgaard Christensen)
 
@@ -76,13 +82,13 @@ Det var et rigtig godt udgangspunkt.
 
 Tekst og musik blev skrevet på samme tid. Den er oprindeligt skrevet med en guitar i hånden, og da lød den sådan her:
 
-{% include audio src="https://drive.google.com/uc?id=1zl6hc8EZSvTHomt03aldeGYT2E3AbZy4" %}
+{% include audio src="https://drive.google.com/uc?id=1og7-8BY8YkofinNmsL5n_7_auhY2LzkU" %}
 
 Senere blev den forfinet lidt efter klaveret blev involveret, og det kom til at lyde sådan her:
 
-{% include audio src="https://drive.google.com/uc?id=1NTU3tobgFgxHWozk-Pjp3uIL7wo4WRiE" %}
+{% include audio src="https://drive.google.com/uc?id=1iW-2psORDNNTP5Ul0nDotcxEYUIpUcId" %}
 
-Der er også lavet små melodiske rettelser ([se originalen](https://drive.google.com/uc?id=1Zw7xOedI8IchEZVob0C03M0A3zc-ubcH)) efter at have afprøvet sangen med det første elevhold. Det viste sig at der var visse fraser, som fungerede bedre i en lidt anden udgave, og igen fik "flertallet" lov til at bestemme.
+Der er også lavet små melodiske rettelser ([se originalen](https://drive.google.com/uc?id=1WPV8zpLO2eta5kp7grZei9qlmlolqeYN)) efter at have afprøvet sangen med det første elevhold. Det viste sig at der var visse fraser, som fungerede bedre i en lidt anden udgave, og igen fik "flertallet" lov til at bestemme.
 
 Der er nogle pauser rundt omkring i melodien, som vi som regel får lidt sjov ud af, når nogle skal synge den for første gang. Pauser er altid noget af det sværeste, og derfor er der tit nogen kommer til at synge hen over dem, når de prøver sangen for første gang.
 
@@ -98,4 +104,4 @@ Musik er bare noget særligt!!
 
 ## Køb eller stream sangen
 
-Sangen blev indspillet i 2018 af Mille Sigsgaard Christensen - både med vokal og som akkompagnement. **Køb den eller stream den fra din foretrukne musiktjeneste.**, fx [Google Play](https://play.google.com/music/listen#/album/Birdaib4zktzgwthhtd4uxlafta), [Itunes](https://itunes.apple.com/album/-/id1444457441), [Deezer](https://www.deezer.com/da/album/81167962), [Tidal](https://listen.tidal.com/album/99556066).
+Sangen blev indspillet i 2018 af Mille Sigsgaard Christensen - både med vokal og som akkompagnement. **Køb den eller stream den fra din foretrukne musiktjeneste.**, fx [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kJSIIxRYv_Q9FeqfCbfPu1fXGwV4j3-Kk), [Itunes](https://itunes.apple.com/album/-/id1444457441), [Deezer](https://www.deezer.com/da/album/81167962), [Tidal](https://listen.tidal.com/album/99556066).

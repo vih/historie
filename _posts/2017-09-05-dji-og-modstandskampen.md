@@ -15,20 +15,22 @@ Der er antydningsvise referencer rundt omkring i Jubilæumsskriftet fra 1992, at
 - Nogle af politiets folk blev skjult på skolen, da tyskerne forsøgte at lukke det danske politi ned.
 - Der blev gemt våben under halmet på Nørremarksgården, som Svend Aage Thomsen ejede, og som som det fortælles om i [Bent Aalbæk-Nielsens erindringer](/mine-aar-paa-dji-bent-aalbaek/).
 - Thormod Petersen fortæller til Jubilæumsskriftet fra 1992, at Haugstrups "stærke" ord betød en del for eleverne på det tidspunkt.
-- Thormod Petersen har i årsskriftet fra 1945 skrevet en [glimrende artikel om det illegale arbejde under modstandskampen på DJI](/dji-illegale-periode/).
+- Thormod Petersen har i årsskriftet fra 1945 skrevet en glimrende artikel om [det illegale arbejde under modstandskampen på DJI](/dji-illegale-periode/).
 - Svend Aage Thomsen skriver om sine tanker ift. modstandskampen i årsskriftet fra 1945.
 
 Jeg har besluttet mig for at finde ud af i hvor høj udstrækning Den Jyske Idrætsskole var en del af modstandskampen. Artiklen er baseret på en række vidnesbyrd og en søgning på Vejle Stadsarkiv.
 
 ## Svend Aage Thomsen filmede en del af modstandskampen
 
-Birte skriver i en e-mail <q>Far fik filmene fra Danmarks Frihedsråd, og skulle bare filme. Sådan mener jeg bestemt det gik til med fotograferingen. Når far var afsted om natten vidste  mor ingentig, så hun ikke kunne afsløre noget.</q>. En del af disse film kan findes på Vejle Stadsarkiv, ligesom nogle af hans optagelser også er med i [Det gælder din frihed](http://filmcentralen.dk/alle/film/det-gaelder-din-frihed) fra 1946. Optagelser herfra blev også brugt i [De fem år](https://fjernleje.filmstriben.dk/film/9000001085/de-fem-ar).
+Birte skriver i en e-mail <q>Far fik filmene fra Danmarks Frihedsråd, og skulle bare filme. Sådan mener jeg bestemt det gik til med fotograferingen. Når far var afsted om natten vidste  mor ingentig, så hun ikke kunne afsløre noget.</q>.
 
-Både [Svend Aage Thomsen](/elevbrev-1945-svend-aage-thomsen/) og [Thormod Petersen](/dji-illegale-periode/) beskriver hvordan Svend Aage Thomsen dokumenterede modstandskampen.
+En del af disse film kan findes på Vejle Stadsarkiv. Nogle af Svend Aage Thomsens optagelser også er med i filmen [Det gælder din frihed](https://danmarkshistorien.dk/vis/materiale/filmen-det-gaelder-din-frihed-1946), som kan ses på [Filmcentralen](https://filmcentralen.dk/museum/danmark-paa-film/film/det-gaelder-din-frihed) fra 1946. Optagelser herfra blev også brugt i [De fem år](https://fjernleje.filmstriben.dk/film/9000001085/de-fem-ar).
+
+Både [Svend Aage Thomsen](/elevbrev-1945-svend-aage-thomsen/) og [Thormod Petersen](/dji-illegale-periode/) beskriver, hvordan Svend Aage Thomsen dokumenterede modstandskampen.
 
 ## Gemte våben og våbeninstruktion i Jomsborg
 
-I [filmen F86 fra Vejle Stadsarkiv om _Modstandsbevægelsen i Vejle arbejder_](https://arkiv.dk/vis/2271918) er der en række interessante klip fra Den Jyske Idrætssskole.
+I [filmen F86](https://arkiv.dk/vis/2271918) fra Vejle Stadsarkiv om _Modstandsbevægelsen i Vejle arbejder_ er der en række interessante klip fra Den Jyske Idrætssskole.
 
 - Fra 3:40 er Thormod Petersen (med skovl) angiveligt med ude i skoven og finde våbendepot.
 - Efter 6:00 minutter på F86 ser vi angiveligt på våbeninstruktion i Jomsborg.

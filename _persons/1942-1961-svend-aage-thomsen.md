@@ -7,9 +7,9 @@ start_date:
 end_date:
   year: 1961
 header:
-  teaser: //filweb.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8
+  teaser: https://filweb.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8
 media:
-  url: //filweb.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8
+  url: https://filweb.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8
   credit: arkiv.dk
   caption: "Svend Aage Thomsen"
   thumbnail: https://images.weserv.nl/?url=filweb.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8

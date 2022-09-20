@@ -28,7 +28,7 @@ chapters:
   - '00:00:12.0 Om udsendelsen'
   - '00:06:41.0 Afslutning'
   - '00:07:13.0 Intro'
-transcript: http://historie.vih.dk/assets/podcasts/thomassen-skolens-start.txt
+transcript: https://historie.vih.dk/assets/podcasts/thomassen-skolens-start.txt
 ---
 
 {% include podcast-player.html %}

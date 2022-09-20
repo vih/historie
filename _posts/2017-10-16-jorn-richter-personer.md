@@ -26,7 +26,7 @@ podcast_length: 30085120 # for mp3-file
 chapters:
   - '00:00:00.0 Intro'
   - '00:14:56.0 Talt outro'
-transcript: http://historie.vih.dk/assets/podcasts/richter-personer.txt
+transcript: https://historie.vih.dk/assets/podcasts/richter-personer.txt
 ---
 
 {% include podcast-player.html %}

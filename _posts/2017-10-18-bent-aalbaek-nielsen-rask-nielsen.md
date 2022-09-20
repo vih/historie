@@ -25,7 +25,7 @@ podcast_duration: "18:00" # for mp3-file
 podcast_length: 34570240 # for mp3-file
 chapters:
 - '00:00:00.000 Intro'
-transcript: http://historie.vih.dk/assets/podcasts/bent-aalbaek-nielsen-rask-nielsen.txt
+transcript: https://historie.vih.dk/assets/podcasts/bent-aalbaek-nielsen-rask-nielsen.txt
 ---
 
 {% include podcast-player.html %}

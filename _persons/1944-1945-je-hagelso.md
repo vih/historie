@@ -12,10 +12,10 @@ end_date:
 header:
   teaser: /assets/images/persons/jehagelsoe.png
 media: 
-  url: //www.vojensbilleder.dk/kendte/tejlert_hagelsoe.jpg
+  url: https://www.vojensbilleder.dk/kendte/tejlert_hagelsoe.jpg
   credit: "Vojens Billeder"
   caption: "Jens Ejlert Hagelsø"
-  thumbnail: //www.vojensbilleder.dk/kendte/tejlert_hagelsoe.jpg
+  thumbnail: https://www.vojensbilleder.dk/kendte/tejlert_hagelsoe.jpg
 category:
   - Medforstander
 tags:
@@ -25,7 +25,7 @@ excerpt: "Ansat som medforstander for Svend Aage Thomsen fra 1944-1945. J.E. Hag
 description: "J.E. Hagelsø var ansat som medforstander for Svend Aage Thomsen, så højskolen kunne få godkendelse efter højskoleloven. J.E. Hagelsø var forstander for Vojens Ungdomsskole, som var beslaglagt af tyskerne. Hagelsøs alvor og stærke ord betød meget for vinterholdet, som bl.a. talte en del modstandsfolk, fx Thormod Petersen (se Jubilæumsskrift fra 1992, s. 21)"
 sidebar:
   - title: Jens Ejlert Hagelsø
-    image: //www.vojensbilleder.dk/kendte/tejlert_hagelsoe.jpg
+    image: https://www.vojensbilleder.dk/kendte/tejlert_hagelsoe.jpg
     image_alt: Jens Ejlert Hagelsø
     text: "Ansat som medforstander for Svend Aage Thomsen fra 1944-1945. J.E. Hagelsø var egentlig forstander for Vojens Ungdomsskole, som var beslaglagt af tyskerne."
 ---

@@ -29,7 +29,7 @@ chapters:
   - '00:00:09.0 Talt intro'
   - '00:00:30.0 Præsentation af udsendelsen'
   - '00:21:59.0 Talt outro'
-transcript: http://historie.vih.dk/assets/podcasts/bent-aalbaek-nielsen-personer.txt
+transcript: https://historie.vih.dk/assets/podcasts/bent-aalbaek-nielsen-personer.txt
 ---
 
 {% include podcast-player.html %}

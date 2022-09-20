@@ -28,7 +28,7 @@ chapters:
   - '00:00:11.0 Talt intro'
   - '00:01:18.0 Knud Thomassens beretning'
   - '00:18:27.0 Talt outro'
-transcript: http://historie.vih.dk/assets/podcasts/thomassen-erindringer.txt
+transcript: https://historie.vih.dk/assets/podcasts/thomassen-erindringer.txt
 ---
 
 {% include podcast-player.html %}

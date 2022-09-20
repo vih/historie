@@ -99,21 +99,9 @@ lsolesen:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lars@vih.dk"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/lsolesen"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lsolesen/"
-    - label: "motionsplan.dk"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.motionsplan.dk"
-    - label: "legestue.net"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.legestue.net"
-    - label: "cykel-ruter.dk"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.cykel-ruter.dk"
   featured: true
 thormod_petersen:
   name: "Thormod Petersen"
@@ -134,7 +122,7 @@ signy_jensen:
   avatar: "/assets/images/authors/signy-jensen.png"
 mille_christensen:
   name: "Mille Sigsgaard Christensen"
-  bio: "Højskolelærer og musiklærer på Vejle Idrætshøjskole fra 2009."
+  bio: "Tidligere højskolelærer og musiklærer på Vejle Idrætshøjskole fra 2009-2019."
   avatar: "/assets/images/authors/mille-christensen.png"
   featured: true
 william_hansen:
@@ -357,4 +345,8 @@ kasper_nymand:
 michelle_moller_andersen:
   name: "Michelle Møller Andersen"
   bio: "Højskoleelev på Vejle Idrætshøjskole i foråret 2020 og unglærer i foråret 2021."
-  avatar: "/assets/images/authors/default.png"
+  avatar: "/assets/images/authors/default-profile.png"
+frederik_aamand_holm:
+  name: "Frederik Aamand Holm"
+  bio: "Musiklærer på Uldum Højskole - og skrev i løbet af 2021 HPU-projekt om FOMO blandt højskoleelever."
+  avatar: "/assets/images/authors/default-profile.png"

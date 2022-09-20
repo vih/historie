@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "mmistakes/minimal-mistakes@4.22.0"
+theme:            "minimal-mistakes-jekyll"
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Jekyll specific
@@ -17,7 +17,7 @@ title                    : "Vejle Idrætshøjskoles Historie"
 title_separator          : "-"
 name                     : "Vejle Idrætshøjskole"
 description              : "Vejle Idrætshøjskoles Historie."
-url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://historie.vih.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vih/historie" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -84,40 +84,34 @@ footer:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://twitter.com/vihdk"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
       url: "https://www.facebook.com/vihdk"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/vih/historie"
+    - label: "Facebook Historisk Gruppe"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/groups/655406751295188"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/vihdk"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/vih/historie"
 
 
 # Site Author
 author:
   name             : "Vejle Idrætshøjskole"
-  avatar           : "/assets/images/authors/vih-logo.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/authors/vih-logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til."
   location         : "Vejle"
   links            :
     - label: "E-mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:info@vih.dk"
+      url: "mailto:kontor@vih.dk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.vih.dk/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/vihdk"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/groups/655406751295188"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/vih/historie.git"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"
@@ -382,12 +376,12 @@ defaults:
 
 # Podcast
 podcast_language: "da-DK"
-podcast_site_url: http://historie.vih.dk
-podcast_url: http://historie.vih.dk/podcast
+podcast_site_url: https://historie.vih.dk
+podcast_url: https://historie.vih.dk/podcast
 podcast_album_art: /assets/podcasts/cover-stemmer.png
 podcast_title: Vejle Idrætshøjskoles Stemmer
 podcast_owner: Vejle Idrætshøjskole
-podcast_email: info@vih.dk
+podcast_email: kontor@vih.dk
 podcast_category: Vejle Idrætshøjskole
 podcast_subcategory:
  - Historie

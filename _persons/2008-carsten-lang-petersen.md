@@ -1,17 +1,17 @@
 ---
 title: Carsten Lang Petersen
 author_name: "carsten_lang_petersen"
-start_date: 
+start_date:
   year: 2008
 end_date:
   year: 2018
 header:
   teaser: /assets/images/persons/carsten-lang-petersen.png
-media: 
+media:
   url: http://dev.fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg
   credit: "Vejle Idrætshøjskoles arkiv"
   caption: "Carsten Lang Petersen"
-  thumbnail: //images.weserv.nl/?url=http://dev.fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg&w=100
+  thumbnail: https://images.weserv.nl/?url=http://dev.fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang.jpg&w=100
 category:
   - Bestyrelsesformænd
 tags:

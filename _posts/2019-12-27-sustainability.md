@@ -10,7 +10,7 @@ excerpt: "Viceforstander, Lars Olesen, fortæller om de bæredygtige tiltag, vi 
 header:
   overlay_color: "#2ae"
   overlay_image: https://drive.google.com/uc?id=1_olCzY-KVpRnIaL-3NHUaWo5Q2-Co4AL
-  teaser: //images.weserv.nl/?url=https://drive.google.com/uc?id=1_pbAFiF7wsyfObaGkZSZV2WIZE03mzTN&w=400
+  teaser: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1_pbAFiF7wsyfObaGkZSZV2WIZE03mzTN&w=400
 sidebar:
   nav: "yearbook-2019"
 toc: true
@@ -20,7 +20,7 @@ gallery:
     alt: "Bright Water - Eca-vand"
     title: "Bright Water - Eca-vand"
   - url: https://drive.google.com/uc?id=1_pbAFiF7wsyfObaGkZSZV2WIZE03mzTN
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1_pbAFiF7wsyfObaGkZSZV2WIZE03mzTN&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1_pbAFiF7wsyfObaGkZSZV2WIZE03mzTN&w=400
     alt: "Affaldssortering"
     title: "Affaldssortering"
 ---
@@ -51,7 +51,7 @@ Vi har fået etableret affaldssortering. Det har været vigtigt for os, at affal
 
 Samtidig har vi oprettet Affaldshjørnet udenfor, hvor vores pedeller sørger for affaldssorteringen og bortskaffelsen af affaldet på den mest rigtige måde sammen med vores affaldsfirma og den kommunale genbrugsplads.
 
-Desuden har vi fokus på at minimere vores affald. Vi har særlige mål om at reducere restaffaldet og madaffaldet. Restaffaldet sænkes naturligvis automatisk, når vi sorterer mere, men vi holder også øje med de absolutte mængder af affald. 
+Desuden har vi fokus på at minimere vores affald. Vi har særlige mål om at reducere restaffaldet og madaffaldet. Restaffaldet sænkes naturligvis automatisk, når vi sorterer mere, men vi holder også øje med de absolutte mængder af affald.
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3NZIHlMcR4eNd5cDyCKgkXYVLItBDmTu4zYtHHVWloujmNMNsjvcDGkD_QyOzeodEa4iEbtsJZP3U/pubchart?oid=2022940152&amp;format=image"></iframe>
 

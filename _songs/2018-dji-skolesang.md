@@ -4,7 +4,7 @@ author: sten_kaaloe
 composer: kristian_enevoldsen
 header:
   overlay_color: "#p0W9kDwB"
-  overlay_image: &image "//images.weserv.nl/?url=https://drive.google.com/uc?id=10ARwulcE0vAL4O16UsExEwu3P6MTP-QL&w=2000&a=attention"
+  overlay_image: &image "https://images.weserv.nl/?url=https://drive.google.com/uc?id=10ARwulcE0vAL4O16UsExEwu3P6MTP-QL&w=2000&a=attention"
   teaser: *image
 category:
   - Sange
@@ -22,7 +22,7 @@ permalink: /sang/2018/
 toc: true
 sidebar:
   - title: "Vejle Idrætshøjskoles Sange"
-    image: "//images.weserv.nl/?url=https://drive.google.com/uc?id=10k7zuB8CRXnnKxBye_kIzKdBnO5uKGwi&w=300&a=attention&t=square"
+    image: "https://images.weserv.nl/?url=https://drive.google.com/uc?id=10k7zuB8CRXnnKxBye_kIzKdBnO5uKGwi&w=300&a=attention&t=square"
     image_alt: "Vejle Idrætshøjskoles Sange"
     text: "Indspillet i 2018 af Mille Sigsgaard Christensen og Kristian Enevoldsen. **Køb den eller stream den fra din foretrukne musiktjeneste**, fx [Google Play](https://play.google.com/music/listen#/album/Birdaib4zktzgwthhtd4uxlafta), [Itunes](https://itunes.apple.com/album/-/id1444457441), [Deezer](https://www.deezer.com/da/album/81167962), [Tidal](https://listen.tidal.com/album/99556066), [Spotify](https://play.spotify.com/album/6vpvN8PtyRg7wYLUqIdlbI), [YouSee](https://musik.yousee.dk/album/202470120/vejle-idraetshojskoles-sange)."
     nav: songs
@@ -30,37 +30,37 @@ sidebar:
 
 ## Tekst
 
-**Tekst**: Sten Kaalø  
+**Tekst**: Sten Kaalø
 **Musik**: Kristian Enevoldsen
 
 {% include audio src="https://drive.google.com/uc?id=1O-nK8Z7XkdCI7nfV3YGxGAzKab__XMCw" %}
 
-Som grenen bryder ud af stammen,  
-og bladet springer af sit skud,  
-sådan er krop og tanke sammen,  
-et evigt samspil foldes ud.  
-//: Så svæv min sjæl i kroppens vinge,  
+Som grenen bryder ud af stammen,
+og bladet springer af sit skud,
+sådan er krop og tanke sammen,
+et evigt samspil foldes ud.
+//: Så svæv min sjæl i kroppens vinge,
 og løft dig krop mod tankens tinde. ://
 
-I fordums tider opstod legen,  
-og formed sig til kamp for sjov,  
-i ramme alvor – kamp til stregen,  
-så langt som hjertet gi'r os lov.  
-//: Så svæv min sjæl i kroppens vinge,  
+I fordums tider opstod legen,
+og formed sig til kamp for sjov,
+i ramme alvor – kamp til stregen,
+så langt som hjertet gi'r os lov.
+//: Så svæv min sjæl i kroppens vinge,
 og løft dig krop mod tankens tinde. ::/
 
-Og fælles er vi om det hele,  
-med sved og krop og tankens spring,  
-og alting må vi skønsomt dele,  
-så ingen står med ingenting.  
-//: Så svæv min sjæl i kroppens vinge,  
+Og fælles er vi om det hele,
+med sved og krop og tankens spring,
+og alting må vi skønsomt dele,
+så ingen står med ingenting.
+//: Så svæv min sjæl i kroppens vinge,
 og løft dig krop mod tankens tinde. ://
 
-Vorherres lille store kugle,  
-hvor måne, stjerner kigger ned,  
-med bølgeskvulp og sommerfugle,  
-er skabt - trods alt – til kærlighed.  
-//: Så svæv min sjæl i kroppens vinge,  
+Vorherres lille store kugle,
+hvor måne, stjerner kigger ned,
+med bølgeskvulp og sommerfugle,
+er skabt - trods alt – til kærlighed.
+//: Så svæv min sjæl i kroppens vinge,
 og løft dig krop mod tankens tinde. ::/
 
 ## Video

@@ -1,5 +1,6 @@
 ---
 title: "DJI og modstandskampen"
+permalink: /dji-og-modstandskampen/
 author: lsolesen
 tags:
   - modstandskampen
@@ -30,7 +31,7 @@ Både [Svend Aage Thomsen](/elevbrev-1945-svend-aage-thomsen/) og [Thormod Peter
 I [filmen F86 fra Vejle Stadsarkiv om _Modstandsbevægelsen i Vejle arbejder_](https://arkiv.dk/vis/2271918) er der en række interessante klip fra Den Jyske Idrætssskole.
 
 - Fra 3:40 er Thormod Petersen (med skovl) angiveligt med ude i skoven og finde våbendepot.
-- Efter 6:00 minutter på F86 ser vi angiveligt på våbeninstruktion i Jomsborg. 
+- Efter 6:00 minutter på F86 ser vi angiveligt på våbeninstruktion i Jomsborg.
 - Fra 22:00 minutter fjernes brædderne ved en seng, og et våbendepot kommer til syne nedenunder.
 
 [Thormod Petersen skriver](/dji-illegale-periode/) skriver at <q>men det fandtes under Gulvet med Nedgang under Ross Sørensens Seng, og han har hele Vinteren, uden at vide det, ligget paa store Mængder Sprængstof.</q>.
@@ -59,7 +60,7 @@ I sommeren 1944 fik Forstkandidat Erik Siegumfeldt ordre til at lave sabotage p�
 
 Trotylet var blevet anbragt i Idrætsskolens rensningsanlæg i Nørreskoven i et stort sandfilter. Fra Idrætsskolen fik man det vha. et salatfad transporteret til selve spræningsstedet.[^Christensen 1945, side 38]
 
-Disse begivenheder omtaler Bent Aalbæk-Nielsen netop også i [sine erindringer og henviser til film](/mine-aar-paa-dji-bent-aalbaek/). 
+Disse begivenheder omtaler Bent Aalbæk-Nielsen netop også i [sine erindringer og henviser til film](/mine-aar-paa-dji-bent-aalbaek/).
 
 Der er [billeder af Tirsbæksprængningen på Vejle Stadsarkiv](https://arkiv.dk/soeg?searchstring=tirsb%C3%A6k+sabotage&arkiv=321).
 
@@ -81,7 +82,7 @@ _Findes der et billede af 5. kompagni i Vejle - ligesom der gør med 2. kompagni
 
 ## Kan du hjælpe?
 
-Er der nogen af jer der har kendskab til dokumenter, billeder eller videomateriale, der understøtter erindringerne i denne artikel, som det er samlet fra en række forskellige kilder. 
+Er der nogen af jer der har kendskab til dokumenter, billeder eller videomateriale, der understøtter erindringerne i denne artikel, som det er samlet fra en række forskellige kilder.
 
 ## Referencer
 

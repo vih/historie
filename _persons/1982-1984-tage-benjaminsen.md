@@ -1,17 +1,17 @@
 ---
 title: Tage Benjaminsen
 author_name: "tage_benjaminsen"
-start_date: 
+start_date:
   year: 1982
 end_date:
   year: 1984
 header:
   teaser: /assets/images/persons/tage-benjaminsen-1982.jpg
-media: 
+media:
   url: //filweb.arkibas.dk/filer/visning/4f590955db935f8b97b63f90f0e7abf9
   credit: arkiv.dk
   caption: "Tage Benjaminsen"
-  thumbnail: //images.weserv.nl/?url=filweb.arkibas.dk/filer/visning/4f590955db935f8b97b63f90f0e7abf9
+  thumbnail: https://images.weserv.nl/?url=filweb.arkibas.dk/filer/visning/4f590955db935f8b97b63f90f0e7abf9
 category:
   - Forstander
 tags:

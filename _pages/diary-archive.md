@@ -3,6 +3,7 @@ layout: archive
 title: Dagbog
 permalink: /dagbog/
 classes: wide
+author_profile: true
 ---
 
 {% assign site_posts = site.posts | where: "tags", "dagbog" | sort: "date" %}

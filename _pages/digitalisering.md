@@ -7,11 +7,11 @@ header:
   caption: Vi er i fuld gang med at digitalisere VHS-båndene.
 ---
 
-Arkivet er fyldt med virkelig mange gamle medier med lyd- eller videoptagelser. Vi er i fuld gang med at digitalisere det, der er bevaringsværdigt, og i det hele taget finde ud af, hvad der er på båndene. 
+Arkivet er fyldt med virkelig mange gamle medier med lyd- eller videoptagelser. Vi er i fuld gang med at digitalisere det, der er bevaringsværdigt, og i det hele taget finde ud af, hvad der er på båndene.
 
 Vi har bl.a. haft [Videokopi.dk](http://videokopi.dk) til at digitalisere 8mm og 16mm smalfilm og nogle lydspoler.
 
-Du kan se, [hvad vi allerede har digitaliseret i dette oversigtsark](https://docs.google.com/spreadsheets/d/1GqQvhYoSPvYoLUYkfl5Z4lCnk1Wr9QpVEVJKrXJpwws/edit?usp=sharing).
+Du kan se, hvad vi allerede har digitaliseret i dette [oversigtsark](https://docs.google.com/spreadsheets/d/1NiYGnxMSxMYApRA5TVJ9GPKww3iycFe2t95IOEZUcAw/edit?usp=sharing).
 
 Så snart tingene er identificeret og digitaliseret er planen at aflevere det til Vejle Stadsarkiv, så det kan blive opbevaret fornuftigt.
 

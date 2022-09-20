@@ -1,17 +1,17 @@
 ---
 title: Lars Kjærsgård
 author_name: "lars_kjærsgård"
-start_date: 
+start_date:
   year: 2007
 end_date:
   year: 2009
 header:
   teaser: /assets/images/persons/lars-kjaersgaard.jpg
-media: 
+media:
   url: https://drive.google.com/uc?id=0B5v4mAibvkKXR1VBeEEwVUhMa1E
   credit: "Vejle Idrætshøjskoles arkiv"
   caption: "Lars Kjærsgård"
-  thumbnail: //images.weserv.nl/?url=drive.google.com/uc?id=0B5v4mAibvkKXR1VBeEEwVUhMa1E&w=100
+  thumbnail: https://images.weserv.nl/?url=drive.google.com/uc?id=0B5v4mAibvkKXR1VBeEEwVUhMa1E&w=100
 category:
   - Forstander
 tags:

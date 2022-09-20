@@ -3,6 +3,7 @@ layout: single
 title: Gå selv på opdagelse
 permalink: /bidrag/
 comments: true
+author_profile: true
 ---
 
 Hvis du selv vil gå på opdagelse og finde ud af mere om Vejle Idrætshøjskoles historie, så er der forskellige måder du kan blive klogere på og hjælpe med historien på.

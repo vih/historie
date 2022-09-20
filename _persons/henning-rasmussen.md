@@ -1,17 +1,17 @@
 ---
 title: Henning Rasmussen
 author_name: "henning_rasmussen"
-#start_date: 
+#start_date:
 #  year: 1942
 #end_date:
 #  year: 1947
 header:
   teaser: /assets/images/authors/default-profile.png
-#media: 
+#media:
 #  url: http://www.vejlewiki.dk/images/2/2e/JensenNP1.jpg
 #  credit: "Vejle Wiki"
 #  caption: "N. P. Jensen"
-#  thumbnail: //images.weserv.nl/?url=www.vejlewiki.dk/images/2/2e/JensenNP1.jpg&w=100
+#  thumbnail: https://images.weserv.nl/?url=www.vejlewiki.dk/images/2/2e/JensenNP1.jpg&w=100
 category:
   - Væsentlige personer
 tags:

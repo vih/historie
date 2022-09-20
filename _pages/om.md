@@ -2,10 +2,9 @@
 layout: single
 title: Om denne side
 permalink: /om/
-author_profile: true
 toc: true
 author: lsolesen
-author_profile: false
+author_profile: true
 sitemap: false
 ---
 

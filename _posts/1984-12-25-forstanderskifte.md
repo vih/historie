@@ -1,5 +1,6 @@
 ---
 title: "Forstanderskifte - en milepæl"
+permalink: /årsskrift/forstanderskifte-1984/
 author: inger_engberg
 category:
   - Årsskrift

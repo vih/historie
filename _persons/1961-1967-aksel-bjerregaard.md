@@ -1,17 +1,17 @@
 ---
 title: Aksel Bjerregaard
 author_name: "aksel_bjerregaard"
-start_date: 
+start_date:
   year: 1961
 end_date:
   year: 1967
 header:
   teaser: //filweb.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25
-media: 
+media:
   url: //filweb.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25
   credit: arkiv.dk
   caption: "Aksel Bjerregaard"
-  thumbnail: //images.weserv.nl/?url=filweb.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25&w=100
+  thumbnail: https://images.weserv.nl/?url=filweb.arkibas.dk/filer/visning/a655e9b122816edd43a700ef88d6aa25&w=100
 category:
   - Forstander
 tags:

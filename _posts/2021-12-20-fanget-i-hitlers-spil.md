@@ -32,11 +32,15 @@ I afsnit 3 af serien er Svend Aage Thomsen, som var en af datidens største atle
 
 --- <cite>[DR.dk](https://www.dr.dk/drtv/episode/fanget-i-hitlers-spil-_-danske-sportsstjerners-dilemma_-medalje-eller-samvittighed_233712)</cite>
 
-Adam Holm og redaktionen bag programmet ringede til undertegnede for at få lidt flere informationer omkring Svend Aage Thomsen i almindelighed, men i særdeleshed hans forholden sig til det tyske rige og krigen.
+Adam Holm og redaktionen bag programmet ringede til mig for at få lidt flere informationer omkring Svend Aage Thomsen i almindelighed, men i særdeleshed hans forholden sig til det tyske rige og krigen.
 
-Svend Aage Thomsen har heldigvis skrevet en del i årsskrifterne fra 1942 - 1948 omkring krigen, og vi ved at en del af eleverne på vinterholdet 1944 var en af modstandsbevægelsen. Men vi har ikke så mange vidnesbyrd om Svend Aage Thomsen og krigen før årsskrifterne.
+Svend Aage Thomsen har heldigvis skrevet en del i årsskrifterne fra 1942 - 1948 omkring krigen, og vi ved at en nogle af eleverne på vinterholdet 1944 var en af modstandsbevægelsen.
 
-Jeg fortalte naturligvis, hvad jeg har kunnet grave frem i arkiverne, årsskrifterne og filmene. Men det er også rigtig interessant, at redaktionen har kigget på årene inden. Derfor bør du hvis du er det mindste interesseret i historie tage et kig i dokumentaren.
+Men vi har ikke så mange vidnesbyrd om Svend Aage Thomsen og krigen før årsskrifterne.
+
+Jeg fortalte naturligvis, hvad jeg har gravet frem i arkiverne, årsskrifterne og filmene.
+
+Men det er også rigtig interessant, at redaktionen bag dokumentaren har kigget på årene inden. Derfor bør du, hvis du er det mindste interesseret i historie, tage et kig i dokumentaren.
 
 ## Atleter klemt mellem sport og nazisme
 

@@ -63,7 +63,7 @@ Paa Lignende Vis har Skolen sine egne Afløbsforhold med store Rensningsanlæg, 
 
 Vejarbejder var ogsaa noget af det første. Den bLigtede Indkørselsvej til Hovedbygningen blev afslukket og Belægning kørt paa m. m.
 
-Under alt dette blev Grunden udgravet, og Murer meste ren kørte Materiale til og læskede Kalk, men saa kom den første større Vanskelighed. En af de Vanskeligheder, som der siden skulde komme saa rigeligt af. Al Brug af Cement udover det nødvendigste Boligbyggeri blev forbudt. Omgaaende indsendtes Ansøgning om Dispensation, men trods ihærdigt Slid paa Trapper i København blev Resultatet et Afslag. Alt imedens gik der en Maaned af den bedste Byggetid, og vi var nu midt i September. Hvad nu? Ved at granske i Loven kom det for Dagen, at saafremt vi kunde bygge med 32 Tdr. Cement, skulde der ingen Tilladelse til. Paa dette Grundlag gik vi i Gang med Byggearbejdet, og Cement forbruget blev skaaret ned, bl.a. ved at bruge Træ til Etageadskillelser og lave Kældergulve af Mursten. Den 15. September blev den første Sten nedlagt i Grunden.
+Under alt dette blev Grunden udgravet, og Murermesteren kørte Materiale til og læskede Kalk, men saa kom den første større Vanskelighed. En af de Vanskeligheder, som der siden skulde komme saa rigeligt af. Al Brug af Cement udover det nødvendigste Boligbyggeri blev forbudt. Omgaaende indsendtes Ansøgning om Dispensation, men trods ihærdigt Slid paa Trapper i København blev Resultatet et Afslag. Alt imedens gik der en Maaned af den bedste Byggetid, og vi var nu midt i September. Hvad nu? Ved at granske i Loven kom det for Dagen, at saafremt vi kunde bygge med 32 Tdr. Cement, skulde der ingen Tilladelse til. Paa dette Grundlag gik vi i Gang med Byggearbejdet, og Cement forbruget blev skaaret ned, bl.a. ved at bruge Træ til Etageadskillelser og lave Kældergulve af Mursten. Den 15. September blev den første Sten nedlagt i Grunden.
 
 ## Skydebanen i Bybækdalen
 
@@ -153,7 +153,7 @@ Badstuen var færdig den 22. August og er siden blevet flittigt benyttet. Bassin
 
 Ved fælles Anspaendelse under disse Krigsaar var det lykkedes at bringe Arbejdet saa vidt frem, at vi turde indbyde til Skolearbejde, selv om ikke alt endnu var fuldkomment.
 
-Hovedbygningen og Badstuen stod nye og indbydende, men her foruden maatte alle til Raadighed staaende Rum udnyttes til det yderste. Week-end Hytten, som vi selv havde bygget til Sommerbrug, fik installeret Kakkelovn og blev med godt Humør benyttet til Elev værelse, og min Bror konn til Hjælp og købte Skovhytten, som efter Ombygning gjorde god Fyldest som Lærerbolig. Om det saa an Kartoffelkælderen, saa blev den forfremmet til Cyklestald.
+Hovedbygningen og Badstuen stod nye og indbydende, men her foruden maatte alle til Raadighed staaende Rum udnyttes til det yderste. Week-end Hytten, som vi selv havde bygget til Sommerbrug, fik installeret Kakkelovn og blev med godt Humør benyttet til Elev værelse, og min Bror kom til Hjælp og købte Skovhytten, som efter Ombygning gjorde god Fyldest som Lærerbolig. Om det saa an Kartoffelkælderen, saa blev den forfremmet til Cyklestald.
 
 ## Status
 
@@ -164,7 +164,7 @@ I Løbet af Foraaret 44 kom der en Række Forespørgsler om Kursus til Afholdels
     alt="Jomsborg"
     caption="Jomsborg. Redaktøren af dette site går ud fra, at det er Jomsborg Svend Aage Thomsen refererer til. Hvis det ikke er rigtigt, brug rigtig gerne kommentarerne." %}
 
-I Foraaret medforpagtede jeg endvidere Norremarksgaarden, vor Nabo mod Vest, hvorved vi fik et pænt Stuehus til Raadighed til Lærerbolig m. m. og i Udhusene god Plads til vore Husdyr.
+I Foraaret medforpagtede jeg endvidere Nørremarksgaarden, vor Nabo mod Vest, hvorved vi fik et pænt Stuehus til Raadighed til Lærerbolig m. m. og i Udhusene god Plads til vore Husdyr.
 
 Endvidere har det været os muligt at faa gennemført en Række Forbedringer, saaledes at vi nu alt i alt Staar rigtig godt udrustede og har god Plads til 45 Elever om Vinteren og op til 80 paa korte Kursus Om Sommeren.
 

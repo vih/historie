@@ -122,7 +122,7 @@ signy_jensen:
   avatar: "/assets/images/authors/signy-jensen.png"
 mille_christensen:
   name: "Mille Sigsgaard Christensen"
-  bio: "Højskolelærer og musiklærer på Vejle Idrætshøjskole fra 2009."
+  bio: "Tidligere højskolelærer og musiklærer på Vejle Idrætshøjskole fra 2009-2019."
   avatar: "/assets/images/authors/mille-christensen.png"
   featured: true
 william_hansen:
@@ -345,4 +345,8 @@ kasper_nymand:
 michelle_moller_andersen:
   name: "Michelle Møller Andersen"
   bio: "Højskoleelev på Vejle Idrætshøjskole i foråret 2020 og unglærer i foråret 2021."
+  avatar: "/assets/images/authors/default-profile.png"
+frederik_aamand_holm:
+  name: "Frederik Aamand Holm"
+  bio: "Musiklærer på Uldum Højskole - og skrev i løbet af 2021 HPU-projekt om FOMO blandt højskoleelever."
   avatar: "/assets/images/authors/default-profile.png"

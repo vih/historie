@@ -72,7 +72,7 @@ jobs:
           key: ${{ runner.os }}-${{ github.sha }}
       - name: 🎉 Deploy to GitHub Pages 🎊
         if: success()
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: gh-pages
           build_dir: _site
@@ -100,10 +100,10 @@ jobs:
           directory: "./_site"
           # The directory to scan
           arguments: |
-            --only-4xx true
+            --only-4xx
             --ignore-status-codes "400,403,409,429"
-            --allow-hash-href true
-            --ignore-empty-alt true
+            --allow-hash-href
+            --ignore-empty-alt
             --cache '{ "timeframe": { "external": "30d" } }'
   build_and_deploy_azure:
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')

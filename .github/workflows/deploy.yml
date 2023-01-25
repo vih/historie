@@ -31,13 +31,13 @@ jobs:
       # all the necessary files from our repo, including our custom actions
       # This action here is actually from a remote repo available from Githup itself
       - name: 🛎 Checkout master
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           fetch-depth: 1
       - name: ⚡️ Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends bats build-essential ca-certificates curl make shellcheck libgsl-dev libffi-dev minify
+          sudo apt-get install -y --no-install-recommends bats build-essential ca-certificates curl make shellcheck libgsl-dev libffi-dev minify liblapacke-dev libopenblas-dev libvips libvips-tools libvips-dev
           sudo gem install bundler:${{ env.BUNDLER_VERSION }}
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -89,7 +89,7 @@ jobs:
           key: ${{ runner.os }}-${{ github.sha }}
       - name: ⚡️ Cache HTMLProofer
         id: cache-htmlproofer
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: tmp/.htmlproofer
           key: ${{ runner.os }}-htmlproofer

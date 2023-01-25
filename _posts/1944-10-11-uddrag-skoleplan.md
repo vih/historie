@@ -2,8 +2,6 @@
 title: Uddrag af vor skoleplan
 author: svend_aage_thomsen
 permalink: /uddrag-skoleplan-1944/
-redirect_from:
-  - /årsskrift/uddrag-skoleplan/
 category:
   - Årsskrift
 tags:

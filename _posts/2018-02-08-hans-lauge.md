@@ -42,7 +42,7 @@ Hans Lauge kommer i podcastet til at sige, at han har været selvstændig erhver
 
 ## Mere om Hans Lauge
 
-Du kan følge Hans Lauges blog på [Facebook](http://facebook.com/hanslaugedk) og læse mere på [hans hjemmeside](http://hanslauge.dk).
+Du kan følge Hans Lauges blog på [Facebook](https://facebook.com/hanslaugedk) og læse mere på [hans hjemmeside](https://hanslauge.dk).
 
 ## Transkribering
 

@@ -15,7 +15,7 @@ header:
   teaser: *image
   actions:
   - label: "<i class='fas fa-money-bill-alt'></i> Besøg Elevforeningen"
-    url: "http://elevforeningen.vih.dk"
+    url: "https://elevforeningen.vih.dk"
 sidebar:
   nav: "yearbook-2019"
 toc: true

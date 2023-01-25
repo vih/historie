@@ -16,7 +16,7 @@ header:
   overlay_filter: rgba(26, 162, 221, 0.7)
   actions:
     - label: "<i class='fas fa-arrow-alt-circle-right'></i> Book din egen tid i testcenteret"
-      url: "http://testcenter.vih.dk" 
+      url: "https://testcenter.vih.dk" 
 toc: false
 sidebar:
   nav: "yearbook-2017"
@@ -67,4 +67,4 @@ Det er dog vores opfattelse, at testcentret besidder et potentiale for at kunne 
 
 I 2018 er planen altså fortsat at styrke den interne brug af testcenteret ift. undervisningen på idrætsskolerne, men også at få åbnet endnu mere op eksternt, så flere kan få øjnene op for vores fantastiske sted.
 
-[<i class='fas fa-money-bill-alt'></i> Bestil tid i testcenteret](http://testcenter.vih.dk){: .btn .btn--warning .btn--primary .btn--large}
+[<i class='fas fa-money-bill-alt'></i> Bestil tid i testcenteret](https://testcenter.vih.dk){: .btn .btn--warning .btn--primary .btn--large}

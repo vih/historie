@@ -22,7 +22,7 @@ Vejle Idrætshøjskole siger tak til alle, der har bidraget til sitets tilblivel
 
 ## Materialet på sitet
 
-Materialet på siden stammer hovedsageligt fra vores eget arkiv, men vi har også brugt masser af tid på at søge på [Arkiv.dk](http://arkiv.dk) og siddet på læsesalen på [Vejle Stadsarkiv](http://vejlestadsarkiv.dk) og gennemgå materialet.
+Materialet på siden stammer hovedsageligt fra vores eget arkiv, men vi har også brugt masser af tid på at søge på [Arkiv.dk](https://arkiv.dk) og siddet på læsesalen på [Vejle Stadsarkiv](https://vejlestadsarkiv.dk) og gennemgå materialet.
 
 ## Bidrag selv til sitet
 

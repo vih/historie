@@ -48,5 +48,5 @@ _Vi er først lige begyndt at lave biografier på nogle af de væsentlige person
 
 ## Referencer
 
-- [Inger Engberg i Kvindebiografisk Leksikon](http://www.kvinfo.dk/side/171/bio/802/)
+- [Inger Engberg i Kvindebiografisk Leksikon](https://www.kvinfo.dk/side/171/bio/802/)
 - [Inger Engberg på Wikipedia](https://da.wikipedia.org/wiki/Inger_Engberg)

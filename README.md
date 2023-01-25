@@ -1,4 +1,4 @@
-# [Vejle Idrætshøjskoles Historie](http://historie.vih.dk)
+# [Vejle Idrætshøjskoles Historie](https://historie.vih.dk)
 
 Site created in Jekyll based on [Minimal Made Mistakes theme](https://github.com/mmistakes/minimal-mistakes).
 

@@ -61,7 +61,7 @@ Samtidig har vi en masse trykklicheer, som vi helt ærligt ikke helt ved, hvad v
  
 ## Digitalisering af video og lydbånd
 
-Arkivet er fyldt med virkelig mange gamle medier med lyd- eller videoptagelser. Vi er i fuld gang med at digitalisere det, der er bevaringsværdigt, og i det hele taget finde ud af, hvad der er på båndene. Vi har bl.a. haft [Videokopi.dk](http://videokopi.dk) til at digitalisere 8mm og 16mm smalfilm og nogle lydspoler. Desuden fylder VHS-maskinen koblet til computeren på skrivebordet på viceforstanderens kontor. 
+Arkivet er fyldt med virkelig mange gamle medier med lyd- eller videoptagelser. Vi er i fuld gang med at digitalisere det, der er bevaringsværdigt, og i det hele taget finde ud af, hvad der er på båndene. Vi har bl.a. haft [Videokopi.dk](https://videokopi.dk) til at digitalisere 8mm og 16mm smalfilm og nogle lydspoler. Desuden fylder VHS-maskinen koblet til computeren på skrivebordet på viceforstanderens kontor. 
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/PvV_iGTm_pfPR66EPxt955I6nbiUq6sEDt8sOwbVPEFzlIfpqu9Lfu7xej8zL3ZpXtQZzkhsHZ4aQbgBSKGaZWraz10FnrUtwN6OGtxKcJKp6Dn-pUTQcMNFnxenYPNzgoyPJSFEfFE"
@@ -88,7 +88,7 @@ En ting er naturligvis at have styr på alle stumperne - så det er muligt at fi
 
 - **Websitet forsøger at give et overblik.** For at forstå historien kan det være lettere at lave nogle overskrifter for de [forskellige perioder](/perioder/) - eller nogle [tidslinjer](/tidslinjer/) hvor man kan hænge begivenhederne op på. Vi arbejder fortsat for at danne os dette overblik, og ideer og hjælp er meget velkommen.
 
-- **Websitet er bevaringsværdigt.** Websitet er lavet så det egentlig bare kan kopieres ud som filer og ikke kræver noget særligt for at kunne køre. _For de tekniske er det lavet i Jekyll, som er en statisk website generator, og det hostes hos [Github](http://github.com/vih/historie)._
+- **Websitet er bevaringsværdigt.** Websitet er lavet så det egentlig bare kan kopieres ud som filer og ikke kræver noget særligt for at kunne køre. _For de tekniske er det lavet i Jekyll, som er en statisk website generator, og det hostes hos [Github](https://github.com/vih/historie)._
 
 - **Websitet indeholder mange indgange.** Der er mange måder at være interesseret i historie på. Derfor har vi også forsøgt at give websitet mange forskellige indgange. Vi har lavet nye artikler, samlet nogle artikler og indholdsfortegnelser fra de gamle årsskrifter, vi har lavet podcast, vi har samlet noget videomateriale og der er nogle historiske billeder.
 

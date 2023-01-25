@@ -4,8 +4,8 @@ title: Skrivevejledning
 excerpt: "Vejle Idrætshøjskole vil meget gerne bringe din personlige højskolefortælling på hjemmesiden for at sikre eftertidens historiefortælling om skolen."
 permalink: /skrivevejledning/
 header:
-  overlay_image: http://www.publicdomainpictures.net/pictures/170000/velka/typewriter-1462562129n95.jpg
-  caption: "Billede: [Public Domain Pictures](http://www.publicdomainpictures.net)"
+  overlay_image: https://www.publicdomainpictures.net/pictures/170000/velka/typewriter-1462562129n95.jpg
+  caption: "Billede: [Public Domain Pictures](https://www.publicdomainpictures.net)"
 ---
 
 Vejle Idrætshøjskole vil meget gerne bringe din personlige højskolefortælling på hjemmesiden for at sikre eftertidens historiefortælling om skolen.

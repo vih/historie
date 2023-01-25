@@ -23,6 +23,6 @@ På side 66 i årsskriftet ønsker Niels P. Knudsen (45/46) "Glædelig jul og go
 Det fulde regnskab for talerstolen kan findes på side 84 i Årsskriftet fra 1958. Niels Peter Knudsen fik 2000 kroner for at lave talerstolen, og inklusiv alle ting omkring talerstolen med trykning af girokort, rejseudgifter, telefon, gebyrer mv. løb det samlede regnskab op i 2400,25 kroner, som er blevet indsamlet blandt tidligere elever.
 
 {% include figure 
-    image_path="//filweb.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8"
+    image_path="https://filweb.arkibas.dk/filer/visning/e5a2f9523f5a4503813fce7ac631abc8"
     alt="Svend Aage Thomsen på talerstolen"
     caption="Svend Aage Thomsen på talerstolen. Billede fra arkiv.dk" %}

@@ -160,7 +160,7 @@ bent_aalbaek_nielsen:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://www.aalbaek-nielsen.dk/"
+      url: "https://www.aalbaek-nielsen.dk/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/bent.aalbaeknielsen"
@@ -277,11 +277,11 @@ dy_plambeck:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://www.dyplambeck.dk/"
+      url: "https://www.dyplambeck.dk/"
 michael_bojesen:
   name: "Michael Bojesen"
   bio: "Komponist og har skrevet melodien til jubilæumssangen fra 2017."
-  avatar: "http://s3.amazonaws.com/static.musicsalesclassical.com/images/composer/img-1951.jpg"
+  avatar: "https://s3.amazonaws.com/static.musicsalesclassical.com/images/composer/img-1951.jpg"
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -293,7 +293,7 @@ astrid_hartvig:
 kristian_enevoldsen:
   name: "Kristian Enevoldsen"
   bio: "Pianist og komponist. Har bl.a. i 2018 skrevet et nyt bud på en melodi til jubilæumssangen fra 1993."
-  avatar: "http://blesstheday.dk/wp-content/uploads/2014/10/kristian_enevoldsen_200.jpg"
+  avatar: "https://blesstheday.dk/wp-content/uploads/2014/10/kristian_enevoldsen_200.jpg"
 martin_olsen:
   name: "Martin Olsen"
   bio: "Højskolelærer på Vejle Idrætshøjskole."

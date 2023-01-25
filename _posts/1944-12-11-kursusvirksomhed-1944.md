@@ -2,8 +2,6 @@
 title: Skolens kursusvirksomhed fra 3. juli 1943 til 1. november 1944
 author: svend_aage_thomsen
 permalink: /dagbog-kursusvirksomhed-1944/
-redirect_from: 
-  - /årsskrift/kursusvirksomhed-1944/
 category:
   - Årsskrift
 tags:

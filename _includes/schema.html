@@ -1,0 +1,128 @@
+{% if page.url == '/' %}
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      {% if site.social.type == "Organization" %}
+        "@type": "Organization",
+        "@id": "{{ site.url }}/#organization",
+        "legalName": {{ site.name | jsonify }},
+        "url": {{ '/' | absolute_url | jsonify }}{% if site.og_image %},
+        "logo": {{ site_og_image | jsonify }}{% endif %}{% if site.social.links %},
+        "sameAs": {{ site.social.links | jsonify }}{% endif %}
+      {% else %}
+        "@type": "Person",
+        "name": {{ site.social.name | default: site.name | jsonify }},
+        "url": {{ '/' | absolute_url | jsonify }}{% if site.social.links %},
+        "sameAs": {{ site.social.links | jsonify }}{% endif %}
+      {% endif %}
+    }
+</script>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "{{ site.url | absolute_url }}/#website",
+        "url": {{ site.url | absolute_url | jsonify }},
+        "name": {{ site.name | jsonify }},
+        "description": {{ site.description  | jsonify }},
+        "inLanguage": {{ site.locale | jsonify }}
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "{{ site.url | absolute_url }}/#primaryimage",
+        "inLanguage": {{ site.locale | jsonify }},
+        "url": {{ default: page.og_image | default: site.og_image | default: site.logo | absolute_url | jsonify }},
+        "contentUrl": {{ default: page.og_image | default: site.og_image | default: site.logo | absolute_url | jsonify }}
+      }
+    ]
+  }
+</script>
+{% endif %}
+
+<script type="application/ld+json">
+  {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}/#webpage",
+      "name": {{ seo_title | jsonify }},
+      "url": {{ site.url | absolute-url | jsonify }},
+      "description": {{ page.description | default: page.excerpt | strip_newlines | strip | jsonify }},
+      "isPartOf": { "@type": "WebSite", "@id": "{{ site.url }}/#website" },
+      "datePublished": {{ page.date | default: page.last_modified_at | jsonify }},
+      "dateModified": {{ page.last_modified_at | default: page.date | jsonify }},
+      {% if page.about %}
+      "about": {
+          "@type": "Thing",
+          "name": {{ page.about.name | jsonify }},
+          "url": {{ page.about.url | absolute_url | jsonify }}
+      },
+      {% endif %}
+      "inLanguage": {{ page.locale | default: site.locale | jsonify}},
+      "potentialAction": [
+        { "@type": "ReadAction", "target": [{{ page.url | absolute_url | jsonify }}] }
+      ]
+  }
+</script>
+
+{% if og_type == "article" %}
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "@id": "{{ page.url | absolute_url }}/#article",
+        "inLanguage": {{ site.locale | jsonify }},
+        "name": {{ page.title | jsonify }},
+        "headline": {{ seo_title | jsonify }},
+        "keywords": {{ page.tags | join: ',' | jsonify }},
+        "description": {{ page.excerpt | strip_newlines | strip | jsonify }},
+        "articleBody": {{ page.content | strip_html | jsonify }},
+        "image": [
+            {% if page_large_image %}
+                {{ page_large_image | absolute_url | jsonify }}
+            {% endif %}
+        ],
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": {{ page.url | absolute_url | jsonify }}
+        },
+        "datePublished": {{ page.date | jsonify }},
+        "dateModified": {{ page.last_modified_at | default: page.date | jsonify }},
+        "isAccessibleForFree": "True",
+        "author": {
+            "@type": "Person",
+            "name": {{ author.name | jsonify }},
+            "description": {{ author.bio | jsonify }},
+            {% if site.social.links %}"sameAs": [{% for link in author.links %}{% if link.url contains 'http' %}{{ link.url | jsonify }}{% if forloop.last == false %},{% endif %}{% endif %}{% endfor %}],{% endif %}
+            "image": {
+                "@type": "ImageObject",
+                "url": {{ author.avatar | absolute_url | jsonify }}
+            },
+            "publishingPrinciples": {{ "/om/" | absolute_url | jsonify }}
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": {{ site.name | jsonify }},
+            "description": {{ site.description | jsonify }},
+            "sameAs": {{ site.url | absolute_url | jsonify }},
+            "logo": {
+                "@type": "ImageObject",
+                "url": {{ site.logo | absolute_url | jsonify }}
+            },
+            "publishingPrinciples": {{ "/om/" | absolute_url | jsonify }}
+        }
+    }
+</script>
+{% endif %}
+
+{% if page.faq %}
+<script type="application/ld+json">
+    {
+        "@context":"https://schema.org",
+        "@type":"FAQPage",
+        "mainEntity":
+            [{% for item in page.faq %}{"@type":"Question","name":{{ item.question | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{item.answer | markdownify | remove: '<p>' | remove: '</p>' | replace: '"', "'" | jsonify }}}}{% if forloop.last == false %},{% endif %}{% endfor %}]
+    }
+</script>
+{% endif %}

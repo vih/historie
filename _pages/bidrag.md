@@ -8,7 +8,7 @@ author_profile: true
 
 Hvis du selv vil gå på opdagelse og finde ud af mere om Vejle Idrætshøjskoles historie, så er der forskellige måder du kan blive klogere på og hjælpe med historien på.
 
-Der er skrevet rigtig meget om [Vejle Idrætshøjskoles](http://vih.dk) historie, men der er også rigtig meget materiale, som ikke er blevet kigget grundigt igennem.
+Der er skrevet rigtig meget om [Vejle Idrætshøjskoles](https://vih.dk) historie, men der er også rigtig meget materiale, som ikke er blevet kigget grundigt igennem.
 
 - **[Ideer](/ideer/)**. Har du ideer til sitet, så del dem rigtig gerne med os.
 - **[Fortæl din historie](/skrivevejledning/)**. Din højskolefortælling er rigtig vigtig for os, og vi leder efter fortællinger fra helt tilbage og helt op til dem, der netop er sluttet på højskolen.

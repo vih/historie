@@ -30,7 +30,7 @@ subtitle: Modstandskampen under 2. verdenskrig
 description: "Morgensamling om det illegale arbejde under 2. verdenskrig. Se bl.a. nogle klip skolens grundlægger, Svend Aage Thomsen, har filmet under krigen."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: https://drive.google.com/uc?id=1aG_G9S0X4VF31shRTUsp6CAXm6W1yZe3
+  mp3: https://drive.google.com/uc?id=1hVW6DMo2cw6LcbNRkxXwFnAe80Bn8q3s
 podcast_file_size: 50.0 MB # for mp3-file
 podcast_duration: "36:25" # for mp3-file
 podcast_length: 52457472 # for mp3-file

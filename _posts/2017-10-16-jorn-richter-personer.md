@@ -19,7 +19,7 @@ subtitle: Hvilke interessante personligheder er Jørn stødt på?
 description: "Interview med Jørn Richter om de personligheder, han er stødt ind i som lærer på Vejle Idrætshøjskole."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: https://drive.google.com/uc?id=1571Juz3KUFuL1_dC-qHj85rc4fG9HS3E
+  mp3: https://drive.google.com/uc?id=1pYbCeSpsdOt6TwkS2bt9pLPiOE8kYx-h
 podcast_file_size: 28.6 MB # for mp3-file
 podcast_duration: "15:40" # for mp3-file
 podcast_length: 30085120 # for mp3-file

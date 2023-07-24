@@ -21,7 +21,7 @@ subtitle: Om udviklingen af menneskesyn, idrætssyn og værdigrundlag
 description: "Interview med Jørn Richter om, hvordan menneskesynet og idrætssynet i hans tid som højskolelærer fra 1973 - 2005 blev sat på dagsorden på Den Jyske Idrætsskole og Vejle Idrætshøjskole."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: https://drive.google.com/uc?id=1Lbs739Me93s6vm3Ih_2GdRyp3zoL6vqq
+  mp3: https://drive.google.com/uc?id=1IIrlzcpHDkyqqtTk-He8wyWazpfvTEtE
 podcast_file_size: 27.2 MB # for mp3-file
 podcast_duration: "16:30" # for mp3-file
 podcast_length: 27204281 # for mp3-file

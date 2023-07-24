@@ -19,7 +19,7 @@ subtitle: Hvordan kom familien til Den Jyske Idrætsskole?
 description: "Interview med Bent Aalbæk-Nielsen om, hvordan Rask Nielsen, skolens tredje medforstander, kom til Vejle Idrætshøjskole."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: https://drive.google.com/uc?id=1yO3Hjf5zohtY5gt9FRYxzODk581Uvs9B
+  mp3: https://drive.google.com/uc?id=1plU5XGRaRIu5KwF6-eSsiCfarWvlw2yN
 podcast_file_size: 32.9 MB # for mp3-file
 podcast_duration: "18:00" # for mp3-file
 podcast_length: 34570240 # for mp3-file

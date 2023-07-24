@@ -24,7 +24,7 @@ subtitle: "... og lidt om højskoledagen"
 description: "Interview med Inger Christensen som i mange år boet i Skovhytten fra 1978 - 2004 og været involveret i højskoledagen, som blev startet af Signe Troelsen."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: https://drive.google.com/uc?id=15eHI6uulcHebhG9sXaMmzp89RVHCidAd
+  mp3: https://drive.google.com/uc?id=1Bnr82DJ-BD08LbkYOH0ZNGxCSZmQD2SI
 podcast_file_size: 25.0 MB # for mp3-file
 podcast_duration: "13:40" # for mp3-file
 podcast_length: 26259456 # for mp3-file

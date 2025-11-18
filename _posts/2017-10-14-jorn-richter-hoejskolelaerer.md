@@ -19,7 +19,7 @@ subtitle: Hvad har Jørn lagt vægt på som højskolelærer?
 description: "Interview med Jørn Richter om, hvordan hvordan han ser på det at være højskolelærer."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: https://drive.google.com/uc?id=14-2sKflPsIMSgQ9q41n_Llr3VRgyopjl
+  mp3: https://historie.vih.dk//assets/podcasts/hoejskolelaerer.mp3
 podcast_file_size: 36.6 MB # for mp3-file
 podcast_duration: "20:01" # for mp3-file
 podcast_length: 38440960 # for mp3-file

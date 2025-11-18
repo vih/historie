@@ -19,7 +19,7 @@ subtitle: Hvilke interessante elever er Jørn stødt på?
 description: "Interview med Jørn Richter om de elever, han er stødt ind i som lærer på Vejle Idrætshøjskole."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: https://drive.google.com/uc?id=1hfqNEcvVuBhFJ0LpmziCROMp63NYeQPj
+  mp3: https://historie.vih.dk//assets/podcasts/richter-eleverne.mp3
 podcast_file_size: 36.6 MB # for mp3-file
 podcast_duration: "24:08" # for mp3-file
 podcast_length: 38440960 # for mp3-file

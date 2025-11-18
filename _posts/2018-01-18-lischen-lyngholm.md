@@ -23,7 +23,7 @@ subtitle: "... og lidt om at være den første der lader piger springe til gymna
 description: "Interview med Lischen Lyngholm, der var højskolelærer på Den Jyske Idrætsskole fra 1968 - 1993. Hun fortæller om, hvordan hun startede som faglærer i gymnastik, men langsomt fandt nye veje ind i højskolelærerlivet."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: https://historie.vih.dk/assets/podcasts/lischen-lyngholm.mp3
+  mp3: https://historie.vih.dk//assets/podcasts/lischen-lyngholm.mp3
 podcast_file_size: 56.8 MB # for mp3-file
 podcast_duration: "39:12" # for mp3-file
 podcast_length: 61509231 # for mp3-file

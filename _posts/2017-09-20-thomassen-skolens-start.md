@@ -19,7 +19,7 @@ subtitle: Hvad var Svend Aage Thomsens bevæggrunde
 description: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens baggrund for at starte skolen."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: https://drive.google.com/uc?id=1sKzcsvaWiAkES_VQUWcz8YAR15Wumys3
+  mp3: https://historie.vih.dk//assets/podcasts/skolens-start.mp3
 podcast_file_size: 13.8 MB # for mp3-file
 podcast_duration: "07:32" # for mp3-file
 podcast_length: 14474118 # for mp3-file

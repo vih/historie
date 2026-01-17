@@ -266,6 +266,10 @@ martin_madsen:
   bio: "Højskolelærer og ansvarlig for testcenteret på Vejle Idrætsskoler."
   avatar: "/assets/images/authors/martin-madsen.jpg"
   featured: true
+anders_krintel:
+  name: "Anders Krintel"
+  bio: "Højskolelærer og musiklærer på Vejle Idrætshøjskole fra 2001 - 2007."
+  avatar: "/assets/images/authors/default-profile.png"
 elmo_pedersen:
   name: "Elmo Pedersen"
   bio: "Højskolelærer ?."

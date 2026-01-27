@@ -1,0 +1,191 @@
+Styrkeløft:
+  title: Styrkeløft
+  url: /styrkeloeft/
+Eksplosivitet:
+  title: Eksplosivitet
+  url: /eksplosivitet/
+Kost & Ernæring:
+  title: Kost & Ernæring
+  url: /kost-ernaering/
+Kosttilskud:
+  title: Kosttilskud
+  url: /kosttilskud/
+Træningsøvelser:
+  title: Træningsøvelser
+  url: /traeningsoevelser/
+Træning:
+  title: Træning
+  url: /traening/
+Styrketræning:
+  title: Styrketræning
+  url: /styrketraening/
+Styrketræningsprogrammer:
+  title: Styrketræningsprogrammer
+  url: /styrketraeningsprogrammer/
+Kondition:
+  title: Kondition
+  url: /kondition/
+Konditionstests:
+  title: Konditionstests
+  url: /kondition/tests/
+Pulstræning:
+  title: Pulstræning
+  url: /pulstraening/
+Gang:
+  title: Gang
+  url: /gang/
+Yoga:
+  title: Yoga
+  url: /yoga/
+Løb:
+  title: Løb
+  url: /loebesiden/
+Løbetests:
+  title: Løbetests
+  url: /tests/loeb/
+Discgolf:
+  title: Discgolf
+  url: /discgolf/
+Løbeprogrammer:
+  title: Løbeprogrammer
+  url: /loebeprogrammer/
+Cykling:
+  title: Cykling
+  url: /cykling/
+Cykeltests:
+  title: Cykeltests
+  url: /tests/cykling/
+Springtræning:
+  title: Springtræning
+  url: /springtraening/
+Springtests:
+  title: Spring & Hoppetests
+  url: /springtests-hoppehoejde/
+
+Kalorieberegnere:
+  title: Kalorieberegnere
+  url: /kalorieberegner/
+Beregnere:
+  title: Beregnere
+  url: /beregnere/
+Hastighed:
+  title: Hastighed
+  url: /hastighed/
+Tests:
+  title: Tests
+  url: /tests/
+Vurderingsværktøjer:
+  title: Vurderingsværktøjer
+  url: /vurderingsvaerktoejer/
+Fedtprocent:
+  title: Fedtprocent
+  url: /maal-fedtprocent/
+Kropskomposition:
+  title: Kropskomposition
+  url: /kropskomposition/
+Restitution:
+  title: Restitution
+  url: /restitution/
+Hypertrofi:
+  title: Hypertrofi
+  url: /hypertrofi-metoder/
+Søvn:
+  title: Søvn
+  url: /soevn/
+
+# Øvelser
+
+Brystøvelser:
+  title: Bryst
+  url: /brystoevelser/
+
+Maveøvelser:
+  title: Mave
+  url: /maveoevelser/
+
+Armøvelser:
+  title: Arme
+  url: /arme-triceps-biceps/
+
+Skulderøvelser:
+  title: Skulder
+  url: /skulderoevelser/
+
+Rygøvelser:
+  title: Ryg
+  url: /rygoevelser/
+
+Benøvelser:
+  title: Ben
+  url: /benoevelser/
+
+Baglårsøvelser:
+  title: Baglår
+  url: /artikel/traener-du-dine-haser/
+
+Balleøvelser:
+  title: Balle
+  url: /balleoevelser/
+
+Balanceøvelser:
+  title: Balance
+  url: /balance/
+
+Strækøvelser:
+  title: Strækøvelser
+  url: /udstraekning-udspaending/
+
+Mobilitet:
+  title: Mobilitet
+  url: /udstraekning-udspaending/
+
+Armstrækninger:
+  title: Armstrækninger
+  url: /armbojninger-eller-armstraekninger-pushups/
+
+Kropshævninger:
+  title: Kropshævninger
+  url: /chinup-vs-pullup/
+
+Squat:
+  title: Squat
+  url: /squat/
+
+Lunges:
+  title: Lunges
+  url: /lunges/
+
+Dødløft:
+  title: Dødløft
+  url: /doedloeft/
+
+Rows:
+  title: Rows
+  url: /rows/
+
+Foamrolling:
+  title: Foamrolling
+  url: /foamrolling-foamroller-lacrossebolde/
+
+SMR:
+  title: SMR
+  url: /foamrolling-foamroller-lacrossebolde/
+
+Cardiomaskiner:
+  title: Cardiomaskiner
+  url: /bedste-cardiomaskiner/
+
+# Anatomi
+
+Anatomi:
+  title: Anatomi
+  url: /anatomi/
+Muskler:
+  title: Muskler
+  url: /muskler/
+Led:
+  title: Led
+  url: /led/
+Mavemuskler:
+  title: Mave
+  url: /muskler/mave/

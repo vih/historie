@@ -22,6 +22,15 @@ toc: true
     alt="Oversigtsbillede over skolen fra 1940'erne eller 1950'erne"
     caption="Oversigtsbillede over skolen fra 1940'erne eller 1950'erne" %}
 
+## 1958
+
+{% include figure
+    image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXWDQ3bEZVT0lJSUk"
+    alt="Luftfoto - Den Jyske Idrætsskole, Vejle, ca. 1958"
+    caption="Luftfoto - Den Jyske Idrætsskole, Vejle, ca. 1958 - [arkiv.dk](https://arkiv.dk/vis/5282526)" %}
+
+
+
 ## Efter 1958
 
 {% include figure

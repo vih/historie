@@ -18,11 +18,21 @@ toc: true
 
 Sådan lød den klare melding fra far til søn. – Stenhuggeren fra Bredal, Svend Aage Thomsen, løftede opgaven - Og døde for den.
 
-Svend Aage Thomsen som ung var en levende illustration til "Jyden han er stærk og sejg” – et blondt ansigt af jysk hjertelighed og fysisk bevidsthed med et Staænk af Selvkritisk irOni i Smilet. Frisuren var blanke, støbte krøller som velplejede maskindele, påklædningen gerne grå Sweater med opklappet nakkekrave og brune havebuk Ser. Den Jyske Idrætsskole er solidt funderet på hans blå øjnes troværdighed. Den er groet frem indefra og fik det sidste skub, da hans far blev gal i hovedet og udbrød: "Så byg da den idrætsskole, du går og fabler om, dreng." Det var en dag, hvor Svend Aage funderede over problemerne i dansk idræt. Misforholdet mellem de mange stadionanlæg, befolket med frisk ungdom - og den kendsgerning, at der var alt for få til at fortælle de unge mennesker, hvordan de skulle få det bedst mulige ud af faciliteterne.
+Svend Aage Thomsen som ung var en levende illustration til "Jyden han er stærk og sejg” – et blondt ansigt af jysk hjertelighed og fysisk bevidsthed med et Stænk af Selvkritisk ironi i Smilet.
+
+Frisuren var blanke, støbte krøller som velplejede maskindele, påklædningen gerne grå Sweater med opklappet nakkekrave og brune havebuk Ser. Den Jyske Idrætsskole er solidt funderet på hans blå øjnes troværdighed. Den er groet frem indefra og fik det sidste skub, da hans far blev gal i hovedet og udbrød: 
+
+> "Så byg da den idrætsskole, du går og fabler om, dreng."
+
+Det var en dag, hvor Svend Aage funderede over problemerne i dansk idræt. Misforholdet mellem de mange stadionanlæg, befolket med frisk ungdom - og den kendsgerning, at der var alt for få til at fortælle de unge mennesker, hvordan de skulle få det bedst mulige ud af faciliteterne.
 
 ## Svend Aage havde en plan
 
-Den unge stenhugger havde været i andre lande, hvor han oplevede, at man uddannede lærere til at tage sig af idrætsungdommen. Impulserne blev bygget sammen med hans egne ideer og voksede til en plan. En plan om en idrætSSkole. Ole Christian Thomsen blev kaldt _Ole Opfinder_, fordi han havde konstrueret en grusspreder og en kloakrenser, men sønnens opfindelse var langt sværere at realisere. Den blev årsag til mange familiære diskussioner, indtil den dag, hvor farmand skar igennem. Svend Aage Thomsen blev født 20. februar 1911 i Bredal ved Vejle og uddannede sig som Stenhugger hos Vejles navnkundige billedhugger Hansen-Jakobsen. Ved DJIs indvielse 5. december 1943 kunne Svend Aage Thomsen have benævnt sig selv entreprenør, bygherre, forstander og billedkunstner, men selvros gav han sig aldrig af med. Han var såmænd sparsommelig nok, når det drejede sig om rosende ord til andre, Han var autodidakt uden formel uddannelsesmæssig kompetence. Han fik en delingsføreruddannelse på Gymnastikhøjskolen i Ollerup, der primært sigtede mod at lede gymnastikken på landet.
+Den unge stenhugger havde været i andre lande, hvor han oplevede, at man uddannede lærere til at tage sig af idrætsungdommen. Impulserne blev bygget sammen med hans egne ideer og voksede til en plan. En plan om en idrætSSkole. Ole Christian Thomsen blev kaldt _Ole Opfinder_, fordi han havde konstrueret en grusspreder og en kloakrenser, men sønnens opfindelse var langt sværere at realisere.
+
+Den blev årsag til mange familiære diskussioner, indtil den dag, hvor farmand skar igennem. Svend Aage Thomsen blev født 20. februar 1911 i Bredal ved Vejle og uddannede sig som Stenhugger hos Vejles navnkundige billedhugger Hansen-Jakobsen. Ved DJIs indvielse 5. december 1943 kunne Svend Aage Thomsen have benævnt sig selv entreprenør, bygherre, forstander og billedkunstner, men selvros gav han sig aldrig af med. Han var såmænd sparsommelig nok, når det drejede sig om rosende ord til andre.
+
+Han var autodidakt uden formel uddannelsesmæssig kompetence. Han fik en delingsføreruddannelse på Gymnastikhøjskolen i Ollerup, der primært sigtede mod at lede gymnastikken på landet.
 
 Hans egen dybtfølte idrætserfaring kom fra atletikken på meget højt nationalt niveau, men i øvrigt med stor all-round erfaring fra mange idrætsgrene.
 
@@ -38,7 +48,7 @@ På et stykke papir redegjorde Svend Aage Thomsen i august 1941 for DJIs virksom
 
 > "Skolen skal i første række være et sted, hvor man kan lære det grundlæggende i al idræt og frugtbargøre de fremskridt, der på det idrætslige område fremkommer såvel i indland som i udland. ... vil lægge vægt på den rent idrætslige uddannnelse, skal den også være åben for enhver sund åndelig påvirkning. Videnskabsmænd, højskolemænd delagtiggøre eleverne i de kulturelle og åndelige spørgsmål...”
 
-Den Jyske Idrætsskole kom på skinner, og toget rullede af sted med 20.000 elever i de første 15 år. Dertil kom kursister, som tog korte ture. Men skolen blev aldrig bygget færdig, som den var planlagt. Det Var kun hovedbygningen, og der var ingen ordentlig gymnastiksal - for slet ikke at tale om en idrætshal.
+Den Jyske Idrætsskole kom på skinner, og toget rullede af sted med 20.000 elever i de første 15 år. Dertil kom kursister, som tog korte ture. Men skolen blev aldrig bygget færdig, som den var planlagt. Det var kun hovedbygningen, og der var ingen ordentlig gymnastiksal - for slet ikke at tale om en idrætshal.
 
 Imens skød andre skoler op omkring DJI. Det pinte Svend Aage Thomsen i en grad, som ingen forstod dengang. Hans datter Birte fortæller:
 
@@ -53,7 +63,7 @@ Imens skød andre skoler op omkring DJI. Det pinte Svend Aage Thomsen i en grad,
 
 Kong Frederik og Svend Aage Thomsen var de to hovedpersoner, da DJI blev udvidet for tre millioner kroner og genindviet i 1958. 20. februar 1961 blev Svend Aage Thomsen hyldet og fejret som den 50 årige idealist, der viede sit liv til idrætten, først som aktiv og siden som lederen af det store foretagende, han selv skabte, for at andre kunne få del i de glæder, han selv oplevede på sportsbanerne.
 
-> "Thomsen har naturligvis ikke skabt Skolen alene. Men det er ham, der har skabt den særegne ånd, hvori skolen drives, og hvormed han og hans medarbejdere Smitter enhver elev eller kursist, som møder med et åbent sind og en ærlig vilje til at modtage", hed det blandt andet i hyldestartiklerne.
+> "Thomsen har naturligvis ikke skabt skolen alene. Men det er ham, der har skabt den særegne ånd, hvori skolen drives, og hvormed han og hans medarbejdere smitter enhver elev eller kursist, som møder med et åbent sind og en ærlig vilje til at modtage", hed det blandt andet i hyldestartiklerne.
 
 {% include figure
     image_path="https://drive.google.com/uc?id=0B5v4mAibvkKXWGdPdWxtSnpXcHM"
@@ -64,7 +74,7 @@ Kong Frederik og Svend Aage Thomsen var de to hovedpersoner, da DJI blev udvidet
 
 Selv sagde han:
 
-> "50, det er ikke noget værd at Snakke om. Kom igen, når jegbliver 70. så vil jeg sige noget Nu er jeg først lige begyndt på det hele."
+> "50, det er ikke noget værd at snakke om. Kom igen, når jeg bliver 70. så vil jeg sige noget. Nu er jeg først lige begyndt på det hele."
 
 Men kun fem uger efter fødselsdagen døde Svend Aage Thomsen. Der var ridestævne i skoven, Sønnen Bjarne deltog, og farmand tog en tørn som post. Pludselig blev han dårlig, og idrætslægen Froden Henriksen fra Horsens blev tilkaldt. Om aftenen satte en hjertelammelse en stopper for Svend Aage Thomsens liv.
 
@@ -74,18 +84,18 @@ I juli 1966 blev Knud Nellemoses smukke mindesten over Svend Aage Thomsen afslø
 
 ## Drøm og handling hører sammen
 
-> “Svend Aage Thomsen bevarede evnen til at drømme og til - af drømmene - at skabe liv og virkelighed. Livet lærte ham, at for at drømmen kunne blive til Virkelighed, måtte der bagved være tro på, at det kunne lykkes. Men han Vidste også og viste i sin gerning at drøm 09 handling hører Sammen. Han drømte stort, men han satte hele sin vilje og evne bag ved og gennem drøm. handling skabte han.
-
-Den Jyske Idrætsskole er manges værk, men uden Svend Aage Thomsen og uden hans stærke tro og ukuelige vilje til at virkeliggøre drømmen, var Skolen ikke blevet til.”
+> “Svend Aage Thomsen bevarede evnen til at drømme og til - af drømmene - at skabe liv og virkelighed. Livet lærte ham, at for at drømmen kunne blive til virkelighed, måtte der bagved være tro på, at det kunne lykkes. Men han vidste også og viste i sin gerning at drøm 09 handling hører sammen. Han drømte stort, men han satte hele sin vilje og evne bag ved og gennem drøm. Handling skabte han.
+>
+> Den Jyske Idrætsskole er manges værk, men uden Svend Aage Thomsen og uden hans stærke tro og ukuelige vilje til at virkeliggøre drømmen, var skolen ikke blevet til.”
 
 Ved samme anledning talte datteren Birte Christensen på familiens vegne, hvor hun bl.a. nævnte sin fars og skolens motto:
 
-> "Hvor der er vilje, er der også en Vej".
+> "Hvor der er vilje, er der også en vej."
 
 Hendes og broderen Bjarnes opvækst på DJI foregik med behersket hensyntagen til privatlivets fred. Forstander-familien delte - eller måtte dele – fritiden med elever, kursister og personale. Arbejde og fritid gik ud i eet, og der var ingen grænser mellem arbejdsplads og hjem. Birte Christensen siger idag om sin far:
 
 > "Som far var han meget kærlig, men samtidig forventede han, at Bjarne Og jeg gik foran med et godt eksempel. Det kunne godt være lidt af et pres men det gav OS en god ballast og kom os til gode senere.
-
+> 
 > Far havde gennem hele arbejdet med skolen sin trofaste hjælp og Støtte i Vores mor, og at det var en gerning, de stod sammen om, undlod far heller aldrig at give udtryk for.
 
 {% include figure
@@ -99,7 +109,7 @@ Hendes og broderen Bjarnes opvækst på DJI foregik med behersket hensyntagen ti
 
 Birte hedder nu Christensen er 53 år og overlærer på Spurvelund skolen i Odense. Hun bor Sammen i sin mand i Blommenslyst. Bjarne Thomsen er 47, gift og har tre børn. Han er produktionschef hos Micro Matic i Odense og bor i Middelfart.
 
-Ingrid Thomsen døde i 1968, 64 år gammel, under en ferie i Spa men med sønnen Bjarne.
+Ingrid Thomsen døde i 1968, 64 år gammel, under en ferie i Spanien med sønnen Bjarne.
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/4cP177ztTneQLWQwigVSRTcqFstj4R7ZX-S1XMU0cqnI6-GJY-9eMINRA28fhIZmYOfi-ML00P85Dwvhx9wHmZdLbrDK7y3Vq07mj-evF8oKR9AdWl5_CYXUx_9gr2ABXlJL0f94ni8"

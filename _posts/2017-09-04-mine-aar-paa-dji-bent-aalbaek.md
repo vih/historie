@@ -56,8 +56,23 @@ Når sneen dækkede området, gik turen jævnligt på ski rundt på Nørreskoven
 
 Allerede under krigen var min far begyndt at tage ud som foredragsholder ved utallige foreningsarrangementer i forsamlingshusene, på skoler, og hvor mennesker ellers mødtes dengang. Før krigen havde han rejst en del i Sydeuropa og på Balkan, og han havde fra disse ture en meget stor samling af lysbilleder. Med krigen og besættelsen og de lukkede grænser var der opstået et vældigt behov for at høre om, hvad det egentlig var, der skete ude i verden, baggrunden for det og en vurdering af det. Det kunne far give i en grad, så han hurtigt blev meget efterspurgt som foredragsholder. Og ud over den politiske orientering kunne han så efter "kaffe"­bordet, hvor man drak krigstidens surrogat med et stykke franskbrød med ost og en småkage til, vise sine lysbilleder, eller han læste en historie af en af de gode og gerne humoristiske forfattere.
 
-Denne foredragsvirksomhed fortsatte han med også efter krigen, og der blev stadig oftere sendt bud efter ham. Til sidst blev det for meget for ham at klare ved siden af skolearbejdet. Ofte kom han først hjem et stykke hen på natten, og klokken syv om morgenen skulle han så igen stille på skolen til morgenmad sammen med eleverne. Det kunne han ikke blive ved med at klare, og nu måtte han vælge. Det blev i første omgang en mere begrænset foredragsvirksomhed og dermed en afsked med Idrætsskolen.
+Denne foredragsvirksomhed fortsatte han med også efter krigen, og der blev stadig oftere sendt bud efter ham. 
 
-Egentlig havde det allerede forinden været bestemt, at far skulle stoppe på Idrætsskolen, når sommerskolen sluttede til august 1948. Dels var der kommet nye ledelsesbestemmelser for højskoler, som gjorde det muligt, at Svend Aage Thomsen nu kunne være eneforstander, og dels var Gymnastikhøjskolen i Ollerup på det tidspunkt færdigrestaureret efter årene med tyske soldater og flygtninge, og Niels Buhk havde opfordret far til at vende tilbage, når et nyt hold elever skulle begynde til oktober. Sådan kom det imidlertid ikke til at gå, for i løbet af sommeren og efteråret blev det klart, at fars helbredstilstand ikke gjorde det muligt med et fast job som underviser. Og da min morfar døde i efteråret 1948, besluttede mine forældre at flytte ind i et hus, som han ejede i Jelling, men som hidtil havde været udlejet.
+Dagen efter min konfirmation i foråret 1948, da jeg kom hjem fra en "blå mandag"-udflugt sammen med de andre konfirmander og vores præst, pastor Jørgen Hansen, fik jeg at vide, at far var blevet indlagt på det private Maria Hospital i Vejle.
+
+Efterhånden blev jeg klar over, at årsagen var et overforbrug af de såkaldte ferietabletter, der for en tid havde gjort det muligt for ham at undervise på Idrætsskolen om dagen og tage ud og holde foredrag om aftenen.
+
+Til sidst blev det for meget for ham at klare ved siden af skolearbejdet. Ofte kom han først hjem et stykke hen på natten, og klokken syv om morgenen skulle han så igen stille på skolen til morgenmad sammen med eleverne.
+
+Det kunne han ikke blive ved med at klare, og nu måtte han vælge. Det blev i første omgang en mere begrænset foredragsvirksomhed og dermed en afsked med Idrætsskolen.
+
+Egentlig havde det allerede forinden været bestemt, at far skulle stoppe på Idrætsskolen, når sommerskolen sluttede til august 1948. Dels var der kommet nye ledelsesbestemmelser for højskoler, som gjorde det muligt, at Svend Aage Thomsen nu kunne være eneforstander, og dels var Gymnastikhøjskolen i Ollerup på det tidspunkt færdigrestaureret efter årene med tyske soldater og flygtninge, og Niels Buhk havde opfordret far til at vende tilbage, når et nyt hold elever skulle begynde til oktober.
+
+Sådan kom det imidlertid ikke til at gå, for i løbet af sommeren og efteråret blev det klart, at fars helbredstilstand ikke gjorde det muligt med et fast job som underviser. Og da min morfar døde i efteråret 1948, besluttede mine forældre at flytte ind i et hus, som han ejede i Jelling, men som hidtil havde været udlejet.
 
 _Dette er en revideret version af den [oprindelige erindringsberetning fra Bent Aalbæk-Nielsens hjemmeside](https://aalbaek-nielsen.dk/den%20jyske%20idr%C3%A6tsskole.html). Bragt med tilladelse fra Bent Aalbæk-Nielsen._
+
+## Læs mere
+
+- Podcast med Bent-Aalbæk Nielsen: [Interessante personer på Jyske Idrætsskole](/podcast/bent-aalbaek-nielsen-personer/)
+- Podcast med Bent-Aalbæk Nielsen: [Om Rask Nielsen](/podcast/bent-aalbaek-nielsen-rask-nielsen/)

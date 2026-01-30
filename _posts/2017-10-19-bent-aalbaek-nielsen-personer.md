@@ -2,6 +2,7 @@
 title: Bent Aalbæk-Nielsen om interessante personer
 excerpt: "Interview med Bent Aalbæk-Nielsen om de interessante personer, han husker fra den tid, hvor hans far, Rask Nielsen (skolens tredje medforstander) var på Den Jyske Idrætsskole."
 author: lsolesen
+permalink: /podcast/bent-aalbaek-nielsen-personer/
 category:
   - Podcast
 tags:
@@ -35,6 +36,11 @@ transcript: https://historie.vih.dk/assets/podcasts/bent-aalbaek-nielsen-persone
 {% include podcast-player.html %}
 
 {{ page.excerpt }}
+
+## Læs mere
+
+- Bent-Aalbæk Nielsen: [Mine år på den Jyske Idrætsskole](/mine-aar-paa-dji-bent-aalbaek/)
+- Podcast med Bent-Aalbæk Nielsen: [Om Rask Nielsen](/podcast/bent-aalbaek-nielsen-rask-nielsen/)
 
 _Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen._
 {: .notice--info}

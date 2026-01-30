@@ -16,7 +16,7 @@ Den 16. juni 1942 tog vi det første spadestik til den jyske Idrætsskole. 3. ju
 
 Planerne var stærkt beskåret, grundet besættelsen nes ugunst. Resultatet kender I så godt, men skola alligevel været en god ramme om et rigt og pulserend i næsten femten år. 
 
-Mine årlige kommentarer om mulighederne for en for dig gørelse af skolen har været præget af mere eller minden optimisme. F. eks. 1949. Da troede vi, at nu skulle det ske men vore ønsker gik ikke i opfyldelse. Der skulle gå endnu otte år, inden vi kom i gang med de nye bygninger. 
+Mine årlige kommentarer om mulighederne for en for dig gørelse af skolen har været præget af mere eller mindre optimisme. F. eks. 1949. Da troede vi, at nu skulle det ske men vore ønsker gik ikke i opfyldelse. Der skulle gå endnu otte år, inden vi kom i gang med de nye bygninger. 
 
 Til gengæld må vi indrømme, at vi ikke for femten år siden turde drømme om, at skolen skulle få den størrelse og hensigtsmæssige udformning, som resultat af mange års overvejelse, studier og besvær har givet den. 
 

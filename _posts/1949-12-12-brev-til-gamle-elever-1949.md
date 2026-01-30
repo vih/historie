@@ -18,7 +18,7 @@ I Aarsskriftet 1945 skrev jeg: Vi troede i vor Optimisme, at naar Krigen først 
 
 Til at arbejde med det nye er der indenfor Skolens Bestyrelse dannet et Byggeudvalg, som har til Opgave at fremskaffe Tegninger og iværksætte Byggeriet hurtigst muligt.
 
-Aarsskrift 1946: Hvornaar vi kommer i Gang med det nye Byggeri, er der vel ingen, der kan udtale sig om under disse vanskelige Byggeforhold, men vi haaher at have alt klart den Dag, der byder sig Mulighed for det.
+Aarsskrift 1946: Hvornaar vi kommer i Gang med det nye Byggeri, er der vel ingen, der kan udtale sig om under disse vanskelige Byggeforhold, men vi haaber at have alt klart den Dag, der byder sig Mulighed for det.
 
 Aarsskrift 1947: Med Udvidelsen har det lange Udsigter, Byggesituationen er vanskeligere end nogensinde før.
 

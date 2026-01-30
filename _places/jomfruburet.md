@@ -9,4 +9,6 @@ header:
     alt="Jomfruburet"
     caption="Jomfruburet" %}
 
+Jomfruburet nævnes i Svend Aage Thomsens [Et Tilbageblik på Den Jyske Idrætsskoles Tilblivelse](/tilblivelsen/) og i [Knud Thomassens 25 års jubilæums](/årsskrift/knud-thomassen-25-aar/).
+
 Er der nogen der kender mere til placeringen og brugen af jomfruburet, så brug rigtig gerne kommentarerne.

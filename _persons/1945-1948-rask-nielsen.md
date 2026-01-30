@@ -30,7 +30,23 @@ sidebar:
     text: "Ansat som medforstander for Svend Aage Thomsen fra 1945-1948. Han kom fra en stilling som lærer på Ollerup Gymnastikhøjskole, som blev okkuperet af tyskerne. I 1948 tog Rask tilbage til Ollerup."
 ---
 
-{{ page.description }}
+Rask Nielsen var medforstander for Svend Aage Thomsen. Han kom fra en stilling som lærer på Ollerup Gymnastikhøjskole. Fra 1944 blev Ollerup Gymnastiskhøjskole også okkuperet af tyskerne. I 1948 tog Rask tilbage til Ollerup. Herfra var Svend Aage Nielsen godkendt som eneforstander.
+
+Faktisk skriver Aalbæk-Nielsen, at Rask ikke tog tilbage til Ollerup, selvom det var bestemt. Han kunne ikke længere undervise pga. sit helbred. Måske forårsaget af "ferietabletter".
+
+https://aalbaek-nielsen.dk/den%20jyske%20idr%C3%A6tsskole.html
+
+🧠 I kontekst med Rask Nielsen
+
+Når du nævner, at Rask Nielsen tog “ferietabletter” for at kunne klare arbejde og foredragsvirksomhed, passer det godt sammen med, hvad vi ved om tiden:
+
+Mange voksne brugte amfetaminlignende stimulerende piller i 1930’erne og 1940’erne for at modvirke træthed og øge produktivitet i hverdagen.
+
+Det var ikke ualmindeligt, at personer med aktivt arbejdsliv, fysisk krævende opgaver eller mange offentlige optrædener brugte sådanne piller for at kunne deltage i mere uden at føle sig drænet.
+
+Der var på det tidspunkt ikke den samme medicinske og sociale skepsis over for stimulansbrug, som der kom senere, fordi videnskaben først senere kortlagde afhængighedsrisikoen og bivirkningerne.
+
+
 
 _Vi er først lige begyndt at lave biografier på nogle af de væsentlige personligheder på Vejle Idrætshøjskole. Vi vil være rigtig taknemmelige for al den hjælp, vi kan få._
 {: .notice--info}

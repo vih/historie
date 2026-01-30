@@ -2,6 +2,7 @@
 title: Bent Aalbæk-Nielsen om Rask Nielsen
 excerpt: "Interview med Bent Aalbæk-Nielsen om, hvordan Rask Nielsen, skolens tredje medforstander, kom til Vejle Idrætshøjskole."
 author: lsolesen
+permalink: /podcast/bent-aalbaek-nielsen-rask-nielsen/
 category:
   - Podcast
 tags:
@@ -31,6 +32,11 @@ transcript: https://historie.vih.dk/assets/podcasts/bent-aalbaek-nielsen-rask-ni
 {% include podcast-player.html %}
 
 {{ page.excerpt }}
+
+## Læs mere
+
+- Bent-Aalbæk Nielsen: [Mine år på den Jyske Idrætsskole](/mine-aar-paa-dji-bent-aalbaek/)
+- Podcast med Bent-Aalbæk Nielsen: [Interessante personer på Jyske Idrætsskole](/podcast/bent-aalbaek-nielsen-personer/)
 
 _Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen._
 {: .notice--info}

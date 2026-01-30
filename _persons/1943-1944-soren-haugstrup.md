@@ -22,7 +22,7 @@ tags:
   - Søren Haugstrup Jensen
   - forstander
 excerpt: "Ansat som medforstander for Svend Aage Thomsen fra 1943 til 1944. Han var egentlig lærer på Ry Højskole, som var beslaglagt af tyskerne."
-description: "Haugstrup var ansat som medforstander for Svend Aage Thomsen. Han var egentlig lærer på Ry Højskole, som var beslaglagt af tyskerne. Haugstrup var ikke idrætsmand, men højskolemand og cand. mag. i dansk og tysk. Han og hans kone, Karen, boede i Skovhytten. (se Jubilæumsskrift fra 1992, side 17)"
+description: "Haugstrup var ansat som medforstander for Svend Aage Thomsen. Haugstrup var egentlig lærer på Ry Højskole, som var beslaglagt af tyskerne. Haugstrup var ikke idrætsmand, men højskolemand og cand. mag. i dansk og tysk. Han og hans kone, Karen, boede i Skovhytten. (se Jubilæumsskrift fra 1992, side 17)"
 sidebar:
   - title: Søren Haugstrup Jensen
     image: /assets/images/persons/haugstrup.jpg
@@ -30,7 +30,7 @@ sidebar:
     text: "Ansat som medforstander for Svend Aage Thomsen fra 1943 til 1944. Han var egentlig forstander på Ry Højskole, som var beslaglagt af tyskerne."
 ---
 
-{{ page.description }}
+Haugstrup var ansat som medforstander for Svend Aage Thomsen. Haugstrup var egentlig lærer på Ry Højskole, som var beslaglagt af tyskerne. Haugstrup var ikke idrætsmand, men højskolemand og cand. mag. i dansk og tysk. Han og hans kone, Karen, boede i Skovhytten. (se Jubilæumsskrift fra 1992, side 17)
 
 {% include figure image_path="https://hojskolehistorie.dk/media/18329/grundvig-hoejskole-faellesbillede.jpg" caption="Søren Haugstrup Jensen foran Ry Højskole, hvor han oprindeligt var forstander. Kilde: [hojskolehistorie.dk](https://hojskolehistorie.dk/erindringer/hoejskoler-i-danmark/grundtvigs-hoejskole-1958-59)." alt="Søren Haugstrup Jensen foran Ry Højskole, hvor han oprindeligt var forstander." %}
 

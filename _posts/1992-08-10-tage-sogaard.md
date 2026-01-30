@@ -33,7 +33,7 @@ Forholdet udviklede sig imidlertid hurtigt efter skolens afslutning. Tage Søgaa
 
 > Det var hårdt at komme igennem og stå model til de beskyldninger. Men een ting holdt mig psykisk oppe, det, at jeg vidste, at beskyldningerne var usande. Jeg kendte mit ansvar som forstander og levede op til det. Det må folk så tro eller lade være. Der lå noget ganske andet bag - nemlig en magtkamp mellem skolens anden forstander, Aksel Bjerregaard, forretningsføreren, Viktor Nielsen, bestyrelsen og mig, uddyber Tage Søgaard.
 
-Magtkampen på skolen fulgte i årene efter Svend Aage Thomsens pludselige død i 1960. Tage Søgaard blev konstitueret som daglig leder, inden den egentlige afgørelse om forstander-stillingen i efteråret skulle træffes i bestyrelsen. Dansk Idræts-Forbund havde i flere omgange hjulpet Svend Aage Thomsen, når økonomien havde det værst på Den Jyske Idrætsskole. Med pengene fulgte naturligt en vis indflydelse på skolens hverdag. DIFs daværende formand, Leo Frederiksen kaldet "Løven", så gerne Aksel Bjerregaard ansat på Den Jyske Idrætsskole.
+Magtkampen på skolen fulgte i årene efter Svend Aage Thomsens pludselige død i 1961. Tage Søgaard blev konstitueret som daglig leder, inden den egentlige afgørelse om forstander-stillingen i efteråret skulle træffes i bestyrelsen. Dansk Idræts-Forbund havde i flere omgange hjulpet Svend Aage Thomsen, når økonomien havde det værst på Den Jyske Idrætsskole. Med pengene fulgte naturligt en vis indflydelse på skolens hverdag. DIFs daværende formand, Leo Frederiksen kaldet "Løven", så gerne Aksel Bjerregaard ansat på Den Jyske Idrætsskole.
 
 > DIF havde dengang ansat Aksel Bjeregaard som en slags træner-konsulent, men havde nærmest fortrudt oprettelsen af stillingen og så derfor gerne en jobmulighed i Vejle. Jeg begik mit livs største dumhed, da jeg accepterede en deling af forstander-jobbet, hvor Aksel skulle tage sig af kursusvirksomheden, mens jeg skulle varetage den egentlige højskole, siger Tage Søgaard.
 
@@ -70,7 +70,7 @@ Bitterheden spores, mens vi sidder overfor hinanden i sofaen i den smagfulde stu
 
 ## Erklæret professionel for 100 kr. af JBU
 
-Som 23-årig søgte han job på skolen Vejle Nordjyden med stort talent for bold havde kort forinden oplevet at blive erklæret professionel af Jydsk Boldspil-Union. Han modtog 100 kr. pr. måned som spillende træner i Arden. Det var i 1944. Han fortsatte som såkaldt "cykelvikar" på skoler og som træner i klubben indtil ansættelsen i Vejle og fastholdt interessen for boldspil - specielt fodbold. Tage Søgaard var en efterspurgt instruktør i DBU helt frem til 1972, da han stod af ræset - både som instruktør og træner på topplan i fodbold og håndbold
+Som 23-årig søgte han job på skolen i Vejle. Nordjyden med stort talent for bold havde kort forinden oplevet at blive erklæret professionel af Jydsk Boldspil-Union. Han modtog 100 kr. pr. måned som spillende træner i Arden. Det var i 1944. Han fortsatte som såkaldt "cykelvikar" på skoler og som træner i klubben indtil ansættelsen i Vejle og fastholdt interessen for boldspil - specielt fodbold. Tage Søgaard var en efterspurgt instruktør i DBU helt frem til 1972, da han stod af ræset - både som instruktør og træner på topplan i fodbold og håndbold
 
 > Vi købte sommerhus i Tversted, og det var at træffe et valg. Man kan ikke få det fulde udbytte af et sommerhus, hvis man samtidig skal passe et trænerjob ordentligt, mener Tage Søgaard, der bl.a. gjorde Kolding IF til divisionshold fodbold for første gang og også i starten af 50’er var træner i den norske storklub Sandefjord.
 

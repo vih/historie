@@ -13,7 +13,7 @@ header:
   overlay_color: "#2ae"
   actions:
     - label: "<i class='fas fa-money-bill-alt'></i> Støt projektet"
-      url: "https://fond.vih.dk"
+      url: "https://www.vih.dk/fond/"
 toc: true
 sidebar:
   nav: "yearbook-2017"
@@ -112,4 +112,4 @@ Der har efterfølgende været proces med arkitekterne omkring skærpelse af proj
 
 Status er, at vi stadig arbejder med den målsætning at etablere det nye område til brug i 2018.
 
-[<i class='fas fa-money-bill-alt'></i> Giv bidrag til projektet](https://fond.vih.dk){: .btn .btn--warning .btn--primary .btn--large}
+[<i class='fas fa-money-bill-alt'></i> Giv bidrag til projektet](https://www.vih.dk/fond/){: .btn .btn--warning .btn--primary .btn--large}

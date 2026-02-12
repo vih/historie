@@ -6,24 +6,6 @@ category:
   - Årsskrift
 tags:
   - Årsskrift 2021
-excerpt: "Højskolelærerne er sammen med eleverne fra efterårsholdet 2021 dykket ned i den generation, vi møder på højskolen lige nu. De er repræsentanter for Generation Z, men hvad betyder det for et højskoleophold. Det har viceforstander, Lars Olesen, samlet op på."
-header:
-  overlay_color: "#1aa2dd"
-  teaser: &image //images.weserv.nl/?url=https://drive.google.com/uc?id=1kelR1tTkENy6Ty8rcCT7k4jtKy6u85wK&w=300
-  overlay_image: //images.weserv.nl/?url=https://drive.google.com/uc?id=1kelR1tTkENy6Ty8rcCT7k4jtKy6u85wK&w=2000
-toc: true
-sidebar:
-  nav: "yearbook-2021"
----
-
----
-title: Højskole Generation Z
-permalink: /aarsskrift/2021/generation-z/
-author: lsolesen
-category:
-  - Årsskrift
-tags:
-  - Årsskrift 2021
 excerpt: "Højskolelærerne er sammen med eleverne fra efterårsholdet 2021 dykket ned i den generation, vi møder på højskolen lige nu. De er repræsentanter for Generation Z, men hvad betyder det for et højskoleophold? Viceforstander Lars Olesen har samlet sine observationer."
 header:
   overlay_color: "#1aa2dd"

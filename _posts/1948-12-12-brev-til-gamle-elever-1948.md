@@ -1,5 +1,8 @@
 ---
 title: Kære gamle Elever! fra Årsskrift 1948
+permalink: /dagbog/1948/
+redirect_from:
+  - /%C3%A5rsskrift/brev-til-gamle-elever-1948/
 author: svend_aage_thomsen
 category:
   - Årsskrift

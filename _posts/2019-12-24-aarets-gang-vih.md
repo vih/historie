@@ -117,4 +117,4 @@ Vi har en stærk, farverig, engageret og nærværende lærergruppe som til stadi
 
 Vi har en fantastisk elevforening på VIH. De arbejder godt med de faste ting og traditioner, derudover kommer de også med mange nye tiltag, som er med til at styrke VIH og sikre skolen for fremtiden. Den energi som leveres her af frivillige tidligere elever er noget ganske særligt og det sætter jeg i høj grad pris på.
 
-[<i class='fas fa-money-bill-alt'></i> Få medlemsskab af fonden](https://fond.vih.dk){: .btn .btn--warning .btn--primary .btn--large} [<i class='fas fa-money-bill-alt'></i> Giv bidrag til fonden](https://fond.vih.dk/bidrag){: .btn .btn--primary .btn--large}
+[<i class='fas fa-money-bill-alt'></i> Få medlemsskab af fonden](https://www.vih.dk/fond/){: .btn .btn--warning .btn--primary .btn--large} [<i class='fas fa-money-bill-alt'></i> Giv bidrag til fonden](https://www.vih.dk/fond//bidrag){: .btn .btn--primary .btn--large}

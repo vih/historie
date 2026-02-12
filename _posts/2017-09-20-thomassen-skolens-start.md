@@ -3,7 +3,7 @@ title: Knud Thomassen om skolens start (2/3)
 excerpt: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens baggrund for at starte skolen."
 author: lsolesen
 category:
-  - Podcast
+  - Podcasts
 tags:
   - Knud Thomassen
   - Svend Aage Thomsen

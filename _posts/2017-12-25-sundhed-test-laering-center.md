@@ -140,4 +140,4 @@ Højskolen modtog i alt 1.225.000 kr. til projektet. Foruden donationen på 1.00
 - Sydbank Fonden
 - Insero Fonden
 
-[<i class='fas fa-money-bill-alt'></i> Støt fremtidige projekter](https://fond.vih.dk){: .btn .btn--warning .btn--primary .btn--large}
+[<i class='fas fa-money-bill-alt'></i> Støt fremtidige projekter](https://www.vih.dk/fond/){: .btn .btn--warning .btn--primary .btn--large}

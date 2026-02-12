@@ -3,7 +3,7 @@ title: "Inger Christensen om det stråtækte hus"
 excerpt: "Interview med Inger Christensen som i mange år boet i Skovhytten fra 1978 - 2004 og været involveret i højskoledagen, som blev startet af Signe Troelsen."
 author: lsolesen
 category:
-  - Podcast
+  - Podcasts
 tags:
  - stråtækte hus
  - Højskoledagen

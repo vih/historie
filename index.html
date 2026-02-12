@@ -24,7 +24,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: https://images.weserv.nl/?url=drive.google.com/uc?id=1A2nqy7yE9Yrp2rheXUECOpj-6510XYv0&w=400&h=300&a=attention&fit=cover
     alt: "Højskolens begyndelse"
-    title: "Højskolens fra 1942-1948"
+    title: "Højskolens begyndelse i 1942"
     excerpt: "Tidligere forstander, Ole Worm, fremlægger historien fra 1942-1948 og skolens tilblivelse."
     url: "/dji-start/"
     btn_label: "Læs artiklen"
@@ -47,6 +47,8 @@ feature_row_2:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% comment %}
 
 {% assign site_posts = site.posts | where: "tags", "featured" | sort: "last_modified_at" | reverse %}
 
@@ -81,5 +83,7 @@ feature_row_2:
 </div>
 
 <h2>Genveje</h2>
+
+{% endcomment %}
 
 {% include feature_row %}

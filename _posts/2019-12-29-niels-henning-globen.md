@@ -16,9 +16,9 @@ header:
   caption: "Foto: Cille Nissen, elev 2014-2015"
   actions:
   - label: "<i class='fas fa-money-bill-alt'></i> Få medlemsskab af fonden"
-    url: "https://fond.vih.dk/medlem"
+    url: "https://www.vih.dk/fond//medlem"
   - label: "<i class='fas fa-money-bill-alt'></i> Giv bidrag til fonden"
-    url: "https://fond.vih.dk/bidrag"
+    url: "https://www.vih.dk/fond//bidrag"
 sidebar:
   nav: "yearbook-2019"
 toc: true

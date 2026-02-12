@@ -1,6 +1,7 @@
 ---
 title: &title Globen gennemgår en større renovering
 permalink: /aarsskrift/2020/globen/
+excerpt: "I foråret 2020 startede vi renoveringen af Globen og bygning af nye opholdsfaciliteter, bar og klasselokaler på højskolen. Det er netop blevet færdigt, så tingene står ret skarpe her op til jul."
 author: lsolesen
 header:
   overlay_image: https://drive.google.com/uc?id=1ssxzWE5cvU0vj3miu5cCPTzaeEyZUGuh
@@ -145,7 +146,7 @@ gallery_globen_inside_2021:
 
 I foråret 2020 startede vi renoveringen af Globen og bygning af nye opholdsfaciliteter, bar og klasselokaler på højskolen. Det er netop blevet færdigt, så tingene står ret skarpe her op til jul.
 
-I foråret skal vi vi gang med at renovere Globen indvendigt. Fondens midler er i øjeblikket reserveret til at hjælpe med at købe nye stole til Globen. Hvis du gerne vil [være medlem](https://fond.vih.dk/medlem/) af fonden og hjælpe med at få idrætsskolernes vartegn renoveret, så vil det betyde meget for os.
+I foråret skal vi vi gang med at renovere Globen indvendigt. Fondens midler er i øjeblikket reserveret til at hjælpe med at købe nye stole til Globen. Hvis du gerne vil [være medlem](https://www.vih.dk/fond/) af fonden og hjælpe med at få idrætsskolernes vartegn renoveret, så vil det betyde meget for os.
 
 ## Globen er renoveret udvendigt
 
@@ -161,7 +162,7 @@ I løbet af foråret 2021 er planen at gå i gang med en renovering af Globen in
 
 {% include gallery id="gallery_globen_inside" class="full" %}
 
-Skolen betaler selv hele renoveringen, men [Vejle Idrætsskolers Fond](https://fond.vih.dk/)s midler er lige nu også reserveret til at hjælpe med at betale for alle de nye omkring 180 stole, der skal sættes i Globen.
+Skolen betaler selv hele renoveringen, men [Vejle Idrætsskolers Fond](https://www.vih.dk/fond//)s midler er lige nu også reserveret til at hjælpe med at betale for alle de nye omkring 180 stole, der skal sættes i Globen.
 
 {% include gallery id="gallery_globen_new" class="full" %}
 
@@ -177,7 +178,7 @@ Nu er vi så klar til at gå i gang med renoveringen af Globen indvendigt krafti
 
 Måske vil du være medlem og støtte indkøbet af stole?
 
-[Få medlemsskab](https://fond.vih.dk/medlem/buy/){: .btn .btn--warning .btn--large } [Giv et enkeltbidrag](https://fond.vih.dk/bidrag/buy/){: .btn }
+[Få medlemsskab](https://www.vih.dk/fond/){: .btn .btn--warning .btn--large }
 
 ## Nye opholdsfaciliteter til højskolen
 
@@ -185,11 +186,11 @@ Det voksende elevtal på højskolen har gjort det nødvendigt at udbygge havestu
 
 {% include gallery id="gallery_havestue" class="full" %}
 
-[Få medlemsskab](https://fond.vih.dk/medlem/buy/){: .btn .btn--warning .btn--large } [Giv et enkeltbidrag](https://fond.vih.dk/bidrag/buy/){: .btn }
+[Få medlemsskab](https://www.vih.dk/fond/){: .btn .btn--warning .btn--large }
 
 ## Donér en stol til Globen
 
-Hvis du gerne vil donere en stol til Globen, så koster sådan en stol 3.982,- gode danske kroner. Du kan [donere en stol](https://fond.vih.dk/stot-globen-stol/) eller du kan blive [medlem af fonden](https://fond.vih.dk/medlem/) for 200,- årligt.
+Hvis du gerne vil donere en stol til Globen, så koster sådan en stol 3.982,- gode danske kroner. Du kan [donere en stol](https://www.vih.dk/fond/) eller du kan blive [medlem af fonden](https://www.vih.dk/fond/) for 200,- årligt.
 
 Du kan se vores foreløbige plan for de nye stole her.
 
@@ -197,4 +198,4 @@ Du kan se vores foreløbige plan for de nye stole her.
 
 Måske vil du være medlem og støtte indkøbet af stole?
 
-[Donér en stol](https://fond.vih.dk/stol/buy/){: .btn .btn--warning .btn--large } [Få medlemsskab](https://fond.vih.dk/medlem/buy/){: .btn } [Giv et enkeltbidrag](https://fond.vih.dk/bidrag/buy/){: .btn }
+[Få medlemsskab](https://www.vih.dk/fond/){: .btn }

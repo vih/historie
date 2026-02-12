@@ -4,7 +4,7 @@ excerpt: "Interview med Bent Aalbæk-Nielsen om, hvordan Rask Nielsen, skolens t
 author: lsolesen
 permalink: /podcast/bent-aalbaek-nielsen-rask-nielsen/
 category:
-  - Podcast
+  - Podcasts
 tags:
   - Rask Nielsen
   - Bent Aalbæk-Nielsen

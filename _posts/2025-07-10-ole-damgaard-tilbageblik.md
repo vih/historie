@@ -4,7 +4,7 @@ excerpt: "Interview med Ole Damgaard om sin tid som forstander på Vejle Idræts
 author: martin_davidsen
 permalink: /podcast/ole-damgaard-tilbageblik/
 category:
-  - Podcast
+  - Podcasts
 tags:
   - Ole Damgaard
 sidebar:

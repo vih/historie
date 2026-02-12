@@ -3,7 +3,7 @@ title: Jørn Richter om interessante personer
 excerpt: "Interview med Jørn Richter om de personligheder, han er stødt ind i som lærer på Vejle Idrætshøjskole."
 author: lsolesen
 category:
-  - Podcast
+  - Podcasts
 tags:
   - Jørn Richter
   - personer

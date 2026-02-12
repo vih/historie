@@ -3,7 +3,7 @@ title: "Lischen Lyngholm om at være<br>højskolelærer fra 1968 - 1993"
 excerpt: "Interview med Lischen Lyngholm, der var højskolelærer på Den Jyske Idrætsskole fra 1968 - 1993. Hun fortæller om, hvordan hun startede som faglærer i gymnastik, men langsomt fandt nye veje ind i højskolelærerlivet."
 author: lsolesen
 category:
-  - Podcast
+  - Podcasts
 tags:
  - Lischen Lyngholm
 header:

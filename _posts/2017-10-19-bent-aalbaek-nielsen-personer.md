@@ -4,7 +4,7 @@ excerpt: "Interview med Bent Aalbæk-Nielsen om de interessante personer, han hu
 author: lsolesen
 permalink: /podcast/bent-aalbaek-nielsen-personer/
 category:
-  - Podcast
+  - Podcasts
 tags:
   - Svend Aage Thomsen
   - Knud Thomassen

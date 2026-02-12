@@ -20,9 +20,9 @@ description: "Ole Damgaard kigger tilbage på sin tid som forstander på Vejle I
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
   mp3: https://historie.vih.dk//assets/podcasts/ole-damgaard.mp3
-podcast_file_size: 32.9 MB # for mp3-file
-podcast_duration: "18:00" # for mp3-file
-podcast_length: 34570240 # for mp3-file
+podcast_file_size: 42.2 MB # for mp3-file
+podcast_duration: "43:09" # for mp3-file
+podcast_length: 42202263 # for mp3-file
 chapters:
   - '00:00:00.000 Intro'
 transcript: https://historie.vih.dk/assets/podcasts/ole-damgaard.txt

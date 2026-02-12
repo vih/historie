@@ -177,3 +177,10 @@ yearbook-2020:
       url: "/aarsskrift/2020/lene-brask/"
     - title: "Du greb chancen"
       url: "/aarsskrift/2020/kasper-nymand/"
+
+yearbook-2021:
+  - title: Årsskrift 2021
+    url: /aarsskrift/2021/
+    children:
+    - title: "Indledning"
+      url: "/aarsskrift/2021/indledning/"

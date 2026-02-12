@@ -18,7 +18,7 @@ Elevholdet 1993/94, som sluttede den 30. april var skolens 51. elevhold, og den 
 
 DJI er kendt for at fastholde og nydimensionere idrætsdisciplinerne. Elever glæder sig hvert år til at prøve kræfter med dette kulturstof, men har også stadig lyst til at udfordre sig i idrætsområder. Friluftsliv og folkeidræt er de store magneter, men også børn og idræt og idræt og individ har nu så godt fodfæste, at skolen kan begynde at nyudvikle andre idrætsområder. 
 
-Skolen har også søgt at vise ansigtet udadtil gennem en række folkeidrætsdage, badmintondage, triatlondag for ele verne og for mange børn og vokse i Vejle. Skolens gymnastikhold har deltaget i enkelte opvisninger bla. i Vingsted og L94. 
+Skolen har også søgt at vise ansigtet udadtil gennem en række folkeidrætsdage, badmintondage, triatlondag for eleverne og for mange børn og vokse i Vejle. Skolens gymnastikhold har deltaget i enkelte opvisninger bla. i Vingsted og L94. 
 
 Blandt de mange foredragsholdere havde skolen den glæde, at undervisningsminister Ole Vig Jensen holdt foredrag for eleverne om den frie ungdomsuddannelse, som jo starter den 1. januar 1995. Selvom få elever direkte kunne se personlig nytte i denne uddannelse, var det berigende at høre en gammel højskolemand overbevise unge tilhørere om det ansvarlige i, at 3/4 samfundet aktivt påtager sig det ansvar at færre unge dropper ud af uddannelsessystemet. Højskolen må også her finde sin placering uden at spændes foran en uddannelsesvogn. 
 

@@ -56,7 +56,7 @@ _Hjælp meget gerne med at lave flere afsnit i udsendelsen, så man let kan spri
 
 ## Udskrift af udsendelse
 
-_Hjælp meget gerne med at transkribere udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen._
+_Hjælp meget gerne med at transkribere det sidste af udsendelsen, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen._
 {: .notice--info}
 
 _Morgenamlingen blev holdt 13. september 2017 for skolens elever._

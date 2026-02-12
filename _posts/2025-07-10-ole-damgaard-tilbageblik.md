@@ -1,5 +1,5 @@
 ---
-title: 15 år med hjertet i højskolen
+title: Ole Damgaard - 15 år med hjertet i højskolen
 excerpt: "Interview med Ole Damgaard om sin tid som forstander på Vejle Idrætshøjskole."
 author: martin_davidsen
 permalink: /podcast/ole-damgaard-tilbageblik/
@@ -24,11 +24,13 @@ podcast_file_size: 32.9 MB # for mp3-file
 podcast_duration: "18:00" # for mp3-file
 podcast_length: 34570240 # for mp3-file
 chapters:
-- '00:00:00.000 Intro'
+  - '00:00:00.000 Intro'
 transcript: https://historie.vih.dk/assets/podcasts/ole-damgaard.txt
 ---
 
 {% include podcast-player.html %}
+
+***
 
 **Efter 15 år som forstander på Vejle Idrætshøjskole takker Ole Damgaard af. Det markerer afslutningen på en markant æra, hvor skolen har udviklet sig fysisk, fagligt og menneskeligt. I en samtale med tidligere lærer og journalist Martin Davidsen reflekterer han over begyndelsen, udviklingen, højdepunkterne – og det svære farvel.**
 
@@ -119,3 +121,6 @@ Hvordan håber han, at de 15 år vil blive husket?
 > "Jeg håber, jeg har bidraget til, at VIH er et sted, hvor man møder mennesker og vokser. Og jeg håber, man vælger en ny forstander, som også vil være elevernes forstander."
 
 Et kapitel slutter. Men energien, relationerne og visionerne lever videre – præcis som det skal være på VIH.
+
+_Hjælp meget gerne med at transkribere det sidste af udsendelsen i kommentarerne, så podcastet bliver endnu lettere at bruge. Så har jeg nemlig tid til at lave endnu flere spændende afsnit i føljetonen._
+{: .notice--info}

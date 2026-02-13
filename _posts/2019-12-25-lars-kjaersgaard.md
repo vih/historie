@@ -3,10 +3,11 @@ title: Fokus på værdier og overlevelse
 permalink: /aarsskrift/2019/fokus-vaerdier-overlevelse/
 author: martin_davidsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2019
   - Lars Kjærsgaard
+  - featured
 excerpt: "Tidligere forstander, Lars Kjærsgaard, kigger tilbage på sin tid som forstander på Vejle Idrætshøjskole."
 header:
   overlay_color: "#2ae"

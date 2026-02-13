@@ -3,7 +3,7 @@ title: Årets gang på Vejle Idrætshøjskole 2020
 permalink: /aarsskrift/2020/dagbog/
 author: ole_damgaard
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2020
   - dagbog

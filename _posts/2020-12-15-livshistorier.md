@@ -3,7 +3,7 @@ title: Livshistorier på Vejle Idrætshøjskole
 permalink: /aarsskrift/2020/livshistorier/
 author: lsolesen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2020
 excerpt: "Viceforstander, Lars Olesen, fortæller om det arbejde og de samtaler, der har været på højskolen om et projekt omkring livshistorier, og hvordan den enkeltes livshistorie skal fylde på højskolen."

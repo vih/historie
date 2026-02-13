@@ -9,10 +9,10 @@ header:
   overlay_filter: 0
 toc: true
 category:
-  - Årsskrift
-  - Nybyggeri
+  - Årsskrifter
 tags:
   - Årsskrift 2020
+  - Nybyggeri
 gallery_globen:
   - url: https://drive.google.com/uc?id=1t63bvU_yv3IIXaqcx4Mv0Jv6d-Vit2TO
     image_path: https://drive.google.com/uc?id=1t63bvU_yv3IIXaqcx4Mv0Jv6d-Vit2TO

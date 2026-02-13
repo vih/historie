@@ -3,7 +3,7 @@ title: Axel Gyntlers erindringer om DJI
 permalink: /aarsskrift/2018/axel-gyntler/
 author: axel_gyntler
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2018
   - Svend Aage Thomsen

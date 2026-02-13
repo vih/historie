@@ -2,7 +2,7 @@
 title: Han blev symbolet på det bedste i idrætten
 author: grethe_schmidt
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - mindeord
   - Svend Aage Thomsen

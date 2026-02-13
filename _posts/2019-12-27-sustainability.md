@@ -3,7 +3,7 @@ title: Bæredygtighed på Vejle Idrætshøjskole
 permalink: /aarsskrift/2019/baeredygtighed/
 author: lsolesen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2019
 excerpt: "Viceforstander, Lars Olesen, fortæller om de bæredygtige tiltag, vi har lavet på Vejle Idrætshøjskole den seneste tid."

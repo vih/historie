@@ -2,7 +2,7 @@
 title: Aage Feldt in memoriam
 author: bjarne_hauger
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - mindeord
   - Årsskrift 1981

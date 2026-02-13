@@ -8,7 +8,7 @@ header:
   image: https://drive.google.com/uc?id=0B5v4mAibvkKXMHRVdU4zWUswa1E
   caption: Byggeplads anno 1942, da skolens hovedbygning tog form. I dag ville stilladsets opbygning give røde knopper hos Arbejdstilsynet.
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Jubilæumsskrift 1992
   - Svend Aage Thomsen

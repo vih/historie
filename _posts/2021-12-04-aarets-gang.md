@@ -3,7 +3,7 @@ title: Årets gang på Vejle Idrætshøjskole 2021
 permalink: /aarsskrift/2021/dagbog/
 author: ole_damgaard
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2021
   - dagbog

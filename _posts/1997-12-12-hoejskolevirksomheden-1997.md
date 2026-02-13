@@ -3,7 +3,7 @@ title: Højskolevirksomheden 1997
 author: ole_worm
 permalink: /dagbog/1997/
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1997
   - dagbog

@@ -3,7 +3,7 @@ title: &title "Livet som højskolelærer: Relationen til eleverne er altafgøren
 permalink: /aarsskrift/2020/hojskolelaereren/
 author: anne_vinternes
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2020
 excerpt: "Højskolelærer, Anne Vinternes, har i forbindelse med sine studier dykket ned i højskolelærerrollen. Her besvarer hun spørgsmålet: Hvad er egentlig det særlige ved at være højskolelærer på en idrætshøjskole?"

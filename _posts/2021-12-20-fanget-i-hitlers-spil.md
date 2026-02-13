@@ -3,9 +3,10 @@ title: Fanget i Hitlers spil
 permalink: /aarsskrift/2021/fanget-i-hitlers-spil/
 author: lsolesen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2021
+  - featured
 excerpt: "Lars Olesen, viceforstander, skriver om DR-dokumentaren Fanget i Hitlers spil fra DR2, som blev sendt i løbet af 2021."
 header:
   teaser: /assets/images/yearbooks/2021/svaat.jpg

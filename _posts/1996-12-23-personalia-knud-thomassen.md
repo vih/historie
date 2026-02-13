@@ -2,7 +2,7 @@
 title: "Personalia: Knud Thomassen død"
 author: ole_worm
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - mindeord
   - Årsskrift 1996

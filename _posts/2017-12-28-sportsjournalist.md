@@ -3,7 +3,7 @@ title: Fremtidens sportsjournalister snuser til faget i Vejle
 permalink: /aarsskrift/2017/sportsjournalist/
 author: martin_davidsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2017
   - pædagogik

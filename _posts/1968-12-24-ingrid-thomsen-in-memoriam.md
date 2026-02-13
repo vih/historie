@@ -2,7 +2,7 @@
 title: "Ingrid Thomsen in memoriam"
 author: otto_lassen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1968
   - Ingrid Thomsen

@@ -2,7 +2,7 @@
 title: Svend Aage Thomsen i fest og hverdag
 author: evald_andersen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - mindeord
   - Svend Aage Thomsen

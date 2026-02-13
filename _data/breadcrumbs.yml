@@ -1,6 +1,18 @@
 Årsskrifter:
   title: Årsskrifter
   url: /aarsskrifter/
-Podcasts:
-  title: Podcasts
+Podcast:
+  title: Podcast
   url: /podcast/
+Videoer:
+  title: Videoer
+  url: /video/
+Sange:
+  title: Sange
+  url: /sange/
+Tidslinjer:
+  title: Tidslinjer
+  url: /tidslinjer/
+Steder:
+  title: Steder
+  url: /steder/

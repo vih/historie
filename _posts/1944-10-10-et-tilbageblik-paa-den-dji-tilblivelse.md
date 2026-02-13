@@ -7,7 +7,7 @@ header:
   overlay_image: https://drive.google.com/uc?id=0B5v4mAibvkKXMHRVdU4zWUswa1E
   caption: Hovedbygningen på Den Jyske Idrætsskole er i gang.
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1944
 excerpt: "Svend Aage Thomsens egen beretning om, hvordan Den Jyske Idrætsskole blev en realitet."

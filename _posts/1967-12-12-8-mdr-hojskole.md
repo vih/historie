@@ -2,7 +2,7 @@
 title: "8 måneders idræt og højskole"
 author: bjarne_hauger
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1967
 excerpt: "Bjarne Hauger præsenterer 8 måneders skolen."

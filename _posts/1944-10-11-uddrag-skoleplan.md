@@ -3,7 +3,7 @@ title: Uddrag af vor skoleplan
 author: svend_aage_thomsen
 permalink: /uddrag-skoleplan-1944/
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1944
 excerpt: "Svend Aage Thomsens bringer et uddrag af den første skoleplan for Den Jyske Idrætsskole."

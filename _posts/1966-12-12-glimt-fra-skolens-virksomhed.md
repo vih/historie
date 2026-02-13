@@ -1,8 +1,9 @@
 ---
 title: "Glimt fra skolens virksomhed 1966"
+permalink: /dagbog/1966/
 author: aksel_bjerregaard
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årbog 1966
   - dagbog

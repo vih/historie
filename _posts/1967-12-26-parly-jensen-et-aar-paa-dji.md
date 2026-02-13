@@ -2,7 +2,7 @@
 title: "Et år, og så farvel..."
 author: parly_jensen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1967
   - Dansk Idræts-Forbund

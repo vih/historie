@@ -3,7 +3,7 @@ title: FOMO blandt højskoleelever – et HPU-projekt
 permalink: /aarsskrift/2021/fomo-hoejskoleelever/
 author: frederik_aamand_holm
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2021
 excerpt: "Frederik Aamand Holm, musiklærer på Uldum Højskole, var bl.a. forbi Vejle Idrætshøjskole i forbindelse med sit HPU-projekt og undersøgte FOMO blandt højskoleelever."

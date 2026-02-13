@@ -2,8 +2,9 @@
 title: "Hans Lauge - stemt af højskolen"
 excerpt: "Interview med Hans Lauge, som fra 1981 - 1993 var lærer på Den Jyske Idrætsskole. Hans fortæller om hvordan højskolen har påvirket hans liv."
 author: lsolesen
+permalink: /podcast/hans-lauge/
 category:
-  - Podcasts
+  - Podcast
 tags:
  - Hans Lauge
 header:

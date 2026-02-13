@@ -2,6 +2,8 @@
 title:  Globen
 header:
     teaser: https://drive.google.com/uc?id=0B5v4mAibvkKXYVQ5a3lmRUN1dVE
+category:
+  - Steder
 ---
 
 {% include figure 

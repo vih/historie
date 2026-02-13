@@ -2,7 +2,7 @@
 title: "Festlige begivenheder i årets løb - 1982"
 author: tage_benjaminsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1982
   - dagbog

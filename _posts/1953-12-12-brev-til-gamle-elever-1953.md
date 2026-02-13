@@ -3,7 +3,7 @@ title: Kære gamle Elever! fra Årsskrift 1953
 permalink: /dagbog/1953/
 author: svend_aage_thomsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1953
   - dagbog

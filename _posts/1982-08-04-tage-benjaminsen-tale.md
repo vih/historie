@@ -2,7 +2,7 @@
 title: "Tiltrædelsestale"
 author: tage_benjaminsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1982
 excerpt: "Tage Benjaminsens tiltrædelsestale 1982."

@@ -3,7 +3,7 @@ title: Årets gang 1993
 permalink: /dagbog/1993/
 author: ole_worm
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1993
   - dagbog

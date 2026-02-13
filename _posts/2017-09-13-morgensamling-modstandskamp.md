@@ -14,8 +14,8 @@ sidebar:
     image_alt: "Vejle Idrætshøjskoles Stemmer"
     text: "Podcast af og om menneskene på Vejle Idrætshøjskole. [Lyt til flere afsnit](/podcast/)"
 category:
-  - Podcasts
-  - Video
+  - Podcast
+  - Videoer
 tags:
   - Svend Aage Thomsen
   - Thormod Petersen

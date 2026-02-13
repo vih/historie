@@ -3,7 +3,7 @@ title: Højskole Generation Z
 permalink: /aarsskrift/2021/generation-z/
 author: lsolesen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2021
 excerpt: "Højskolelærerne er sammen med eleverne fra efterårsholdet 2021 dykket ned i den generation, vi møder på højskolen lige nu. De er repræsentanter for Generation Z, men hvad betyder det for et højskoleophold? Viceforstander Lars Olesen har samlet sine observationer."

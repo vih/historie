@@ -2,7 +2,7 @@
 title: "Kulturpause?"
 author: tage_søgård
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1963
 excerpt: "Tage Søgård fortæller om mødet med en afrikansk elev, og hvilke tanker det sætter i gang."

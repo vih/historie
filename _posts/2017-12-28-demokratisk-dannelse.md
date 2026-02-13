@@ -3,7 +3,7 @@ title: Når idrætten åbner for demokratisk læring
 permalink: /aarsskrift/2017/demokratisk-dannelse/
 author: lsolesen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2017
   - pædagogik

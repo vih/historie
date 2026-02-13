@@ -3,7 +3,7 @@ title: Højskoleånd, fællesskab og corona - et anderledes ophold
 permalink: /aarsskrift/2020/hoejskole-corona-elev/
 author: michelle_moller_andersen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2020
 excerpt: "Højskoleelev, Michelle Møller Andersen, samler op på elevernes oplevelse af at være på højskole i løbet af Corona-pandemien."

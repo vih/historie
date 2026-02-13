@@ -8,6 +8,7 @@ header:
   teaser: *image
 category:
   - Sange
+tags:
   - Officiel skolesang
 excerpt: "VIH-sangen skrevet af højskolelærer, Mille Sigsgaard, sammen med elever og lærere på forårsholdet 2010."
 permalink: /sang/2010/

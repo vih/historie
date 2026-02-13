@@ -2,7 +2,7 @@
 title: "Interview med Bjarne Hauger"
 author: finn_spanning
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1967
   - Bjarne Hauger

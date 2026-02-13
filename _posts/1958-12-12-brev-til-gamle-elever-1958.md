@@ -3,7 +3,7 @@ title: Kære gamle Elever! fra Årsskrift 1958
 permalink: /dagbog/1958/
 author: svend_aage_thomsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1958
   - dagbog

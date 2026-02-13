@@ -2,6 +2,8 @@
 title:  Jomfruburet
 header:
     teaser: https://lh3.googleusercontent.com/CwWBVcyPSv38OKMGniWDn1QCGNtd05t3hO3CpnM8WNTPrzh65Yd3NElibJTB8k-T3PBochx8BkuN6AotmqvUEssUYLFC_ZWuv67yglNt2OkGsL7_yIWCMJdwCctDVg8kRnHtgsOa7Kk
+category:
+  - Steder
 ---
 
 {% include figure 

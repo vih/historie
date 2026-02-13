@@ -1,9 +1,10 @@
 ---
 title: Knud Thomassen om skolens start (2/3)
 excerpt: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens baggrund for at starte skolen."
+permalink: /podcast/thomassen-skolens-start/
 author: lsolesen
 category:
-  - Podcasts
+  - Podcast
 tags:
   - Knud Thomassen
   - Svend Aage Thomsen
@@ -19,7 +20,7 @@ subtitle: Hvad var Svend Aage Thomsens bevæggrunde
 description: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens baggrund for at starte skolen."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: https://historie.vih.dk//assets/podcasts/skolens-start.mp3
+  mp3: https://historie.vih.dk/assets/podcasts/skolens-start.mp3
 podcast_file_size: 13.8 MB # for mp3-file
 podcast_duration: "07:32" # for mp3-file
 podcast_length: 14474118 # for mp3-file

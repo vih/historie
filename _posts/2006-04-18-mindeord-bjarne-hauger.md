@@ -2,7 +2,7 @@
 title: "Mindeord over Bjarne Hauger"
 author: henning_rasmussen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - mindeord
   - Årsskrift 2006

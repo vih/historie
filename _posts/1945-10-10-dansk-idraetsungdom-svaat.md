@@ -2,7 +2,7 @@
 title: Den Danske Idrætsungdom
 author: svend_aage_thomsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1945
   - modstandskampen

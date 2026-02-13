@@ -1,5 +1,7 @@
 ---
 title:  Wembley - kunstgræsbanen
+category:
+  - Steder
 ---
 
 Oprindeligt var kunstgræsbanen (fra 2003) en græsbane.

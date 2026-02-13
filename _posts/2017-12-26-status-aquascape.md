@@ -3,7 +3,7 @@ title: Status på AquaScape
 permalink: /aarsskrift/2017/status-aquascape/
 author: ole_damgaard
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2017
 excerpt: "Forstander, Ole Damgaard, fortæller om arbejdet med at få realiseret AquaScape og derved renoveret vores gamle svømmebad fra 1957 - og gøre Vejle Idrætshøjskole til samlingspunkt for den aktive Nørreskov."

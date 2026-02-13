@@ -3,7 +3,7 @@ title: Højskolevirksomheden 1995
 permalink: /dagbog/1995/
 author: ole_worm
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1995
   - dagbog

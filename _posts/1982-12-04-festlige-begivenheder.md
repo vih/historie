@@ -3,7 +3,7 @@ title: "Små og større forbedringer på DJI i 1982"
 permalink: /dagbog/1982/
 author: tage_benjaminsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1982
   - dagbog

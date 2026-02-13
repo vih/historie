@@ -2,7 +2,7 @@
 title: Brev
 author: astrid_hartvig
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1963
 excerpt: "Astrid Hartvigs brev til de tidligere elever fortæller, hvad hun mener sangen og det at synge kan bruges til i ens liv."

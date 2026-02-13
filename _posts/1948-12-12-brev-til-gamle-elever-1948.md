@@ -5,7 +5,7 @@ redirect_from:
   - /%C3%A5rsskrift/brev-til-gamle-elever-1948/
 author: svend_aage_thomsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1948
   - dagbog

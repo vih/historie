@@ -48,13 +48,11 @@ feature_row_2:
 
 {% include feature_row id="intro" type="center" %}
 
-{% comment %}
-
 {% assign site_posts = site.posts | where: "tags", "featured" | sort: "last_modified_at" | reverse %}
 
 {% if site_posts.size > 0 %}
 
-<h2>De mest populære sider</h2>
+<h2>Fremhævede sider</h2>
 
 <div class="feature__wrapper">
 
@@ -67,6 +65,8 @@ feature_row_2:
 </div>
 
 {% endif %}
+
+{% comment %}
 
 <h2>De nyeste indlæg</h2>
 
@@ -82,8 +82,8 @@ feature_row_2:
 
 </div>
 
-<h2>Genveje</h2>
-
 {% endcomment %}
+
+<h2>Genveje</h2>
 
 {% include feature_row %}

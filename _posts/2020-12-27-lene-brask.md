@@ -3,7 +3,7 @@ title: Mette flytter grænser
 permalink: /aarsskrift/2020/lene-brask/
 author: lene_brask
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2020
 excerpt: "Lene Brask, højskoleelev efteråret 2020, skrev om sin oplevelse i Det Gælder LIvet i forbindelse med eleverne delte deres betydningsfulde historier fra efteråret."

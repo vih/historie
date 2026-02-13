@@ -3,7 +3,7 @@ title: "Corona-nedlukning: Nærvær når man er sammen på afstand"
 permalink: /aarsskrift/2020/hoejskole-corona/
 author: lsolesen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2020
 excerpt: "Viceforstander, Lars Olesen, skriver med citater fra højskolelærere om, hvordan Corona-nedlukning og -pandemi har haft betydning for Vejle Idrætshøjskole."

@@ -3,7 +3,7 @@ title: Idrætsskole eller Folkehøjskole
 author: søren_haugstrup_jensen
 permalink: /haugstrups-tale-aabningsmoede/
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1944
   - højskole

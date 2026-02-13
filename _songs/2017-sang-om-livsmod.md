@@ -8,11 +8,10 @@ header:
   teaser: *image
 category:
   - Sange
-  - Officiel skolesang
-  - Årsskrift
 tags:
   - Jubilæum 2017
   - Årsskrift 2018
+  - Officiel skolesang
 excerpt: "Morgensang skrevet af Dy Plambeck og med musik af Michael Bojesen i forbindelse med højskolens 75 års jubilæum 2017/18 og efterskolens 10 års jubilæum."
 permalink: /sang/2017/
 sidebar:

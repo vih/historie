@@ -2,8 +2,9 @@
 title: Jørn Richter om at være højskolelærer?
 excerpt: "Interview med Jørn Richter om, hvordan hvordan han ser på det at være højskolelærer."
 author: lsolesen
+permalink: /podcast/jorn-richter-hoejskolelaerer/
 category:
-  - Podcasts
+  - Podcast
 tags:
   - Jørn Richter
   - højskolelærer

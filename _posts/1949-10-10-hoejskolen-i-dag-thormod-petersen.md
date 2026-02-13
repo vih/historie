@@ -2,7 +2,7 @@
 title: Højskolen i dag
 author: thormod_petersen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1949
   - højskolesyn

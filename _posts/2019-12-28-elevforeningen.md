@@ -3,7 +3,7 @@ title: Et tilbageblik på året der gik i Elevforeningen
 permalink: /aarsskrift/2019/elevforeningen/
 author: carl_emil_clausen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2019
   - elevforeningen

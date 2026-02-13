@@ -3,7 +3,7 @@ title: Kære gamle Elever! fra Årsskrift 1954
 permalink: /dagbog/1954/
 author: svend_aage_thomsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1954
   - dagbog

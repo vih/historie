@@ -2,6 +2,8 @@
 title:  Svømmebassin
 header:
     teaser: https://drive.google.com/uc?id=0B5v4mAibvkKXVEpVZ21tLUtyNWs
+category:
+  - Steder
 ---
 
 {% include figure 

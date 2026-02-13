@@ -3,7 +3,7 @@ title: Årets gang 1991
 permalink: /dagbog/1991/
 author: ole_worm
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1991
   - dagbog

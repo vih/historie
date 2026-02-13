@@ -2,7 +2,7 @@
 title: "Skolens nye forstander"
 author: otto_lassen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1967
   - Bjarne Hauger

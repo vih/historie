@@ -2,7 +2,7 @@
 title: 25 år på Den Jyske
 author: knud_thomassen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1967
 excerpt: "Knud Thomassen kigger tilbage på de første 25 år af skolens eksistens."

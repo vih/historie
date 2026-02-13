@@ -3,7 +3,7 @@ title: Det blev min verden - Birte Christensen husker tilbage
 permalink: /aarsskrift/2018/birte-christensen/
 author: birte_christensen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2018
   - Svend Aage Thomsen

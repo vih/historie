@@ -1,7 +1,7 @@
 ---
 title: "Nyt fra Den Jyske"
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1966
   - Tage Benjaminsen

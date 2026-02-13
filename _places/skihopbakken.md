@@ -2,6 +2,8 @@
 title:  Skihopbakken
 header:
     teaser: https://drive.google.com/uc?id=0B5v4mAibvkKXNkpIZzZEYl91SE0
+category:
+  - Steder
 ---
 
 {% include figure 

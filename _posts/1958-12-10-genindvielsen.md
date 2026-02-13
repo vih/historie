@@ -6,7 +6,7 @@ header:
   caption: Kongeskibet på vej ind i Vejle Havn fotograferet fra 1958 (affotograferet fra årsskriftet samme år)
 author: thormod_petersen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1958
 excerpt: "Kongen kom på besøg på Den Jyske Idrætsskole for at deltage i genindvielsen i 1958."

@@ -2,7 +2,7 @@
 title: "Circuittræning"
 author: aksel_bjerregaard
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1962
 excerpt: "Aksel Bjerregaard beskriver circuittræningen, som han var stor fortaler for."

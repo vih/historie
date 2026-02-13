@@ -3,7 +3,7 @@ title: Årets gang på Vejle Idrætshøjskole 2019
 permalink: /aarsskrift/2019/dagbog/
 author: ole_damgaard
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2019
   - dagbog

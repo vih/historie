@@ -2,7 +2,7 @@
 title: "Personalia: Inger Engberg takker af"
 author: ole_worm
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - bestyrelsen
   - Årsskrift 1996

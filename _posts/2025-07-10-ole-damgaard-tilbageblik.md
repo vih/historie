@@ -4,9 +4,10 @@ excerpt: "Interview med Ole Damgaard om sin tid som forstander på Vejle Idræts
 author: martin_davidsen
 permalink: /podcast/ole-damgaard-tilbageblik/
 category:
-  - Podcasts
+  - Podcast
 tags:
   - Ole Damgaard
+  - featured
 sidebar:
   - title: Vejle Idrætshøjskoles Stemmer
     image: /assets/podcasts/cover-stemmer.png
@@ -19,7 +20,7 @@ subtitle: Interview med Ole Damgaard om sin tid som forstander.
 description: "Ole Damgaard kigger tilbage på sin tid som forstander på Vejle Idrætshøjskole. 15 år ved roret på en skole, som har været i rivende udvikling."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: https://historie.vih.dk//assets/podcasts/ole-damgaard.mp3
+  mp3: https://historie.vih.dk/assets/podcasts/ole-damgaard.mp3
 podcast_file_size: 42.2 MB # for mp3-file
 podcast_duration: "43:09" # for mp3-file
 podcast_length: 42202263 # for mp3-file

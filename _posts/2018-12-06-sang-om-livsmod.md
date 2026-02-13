@@ -3,7 +3,7 @@ title: En Sang om Livsmod
 permalink: /aarsskrift/2018/en-sang-om-livsmod/
 author: peter_sebastian_petersen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2018
   - sange

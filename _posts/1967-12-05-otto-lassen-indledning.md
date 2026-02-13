@@ -3,7 +3,7 @@ title: "I anledning af..."
 author: otto_lassen
 permalink: /aarsskrift/1967/indledning/
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1967
 excerpt: "Otto Lassen kigger lidt tilbage på skolens historie i anledning af 25 års jubilæet."

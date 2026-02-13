@@ -2,7 +2,7 @@
 title: Præsentation af Tage Søgård og Aksel Bjerregaard
 author: otto_lassen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Aksel Bjerregaard
   - Tage Søgaard

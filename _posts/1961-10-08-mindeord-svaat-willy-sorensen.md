@@ -2,7 +2,7 @@
 title: Mindeord om Svend Aage Thomsen
 author: willy_sørensen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - mindeord
   - Svend Aage Thomsen

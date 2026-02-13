@@ -3,7 +3,7 @@ title: At tiltrække sig opmærksomhed
 permalink: /aarsskrift/2000/tiltraekke-opmaerksomhed/
 author: lsolesen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2000
 excerpt: "Årets gang på Vejle Idrætshøjskole"

@@ -3,7 +3,7 @@ title: Sibirien, Kaj og Olsen
 permalink: /dagbog/sibirien-poesi/
 author: jorn_richter
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2005
 excerpt: "Årets gang på Vejle Idrætshøjskole"

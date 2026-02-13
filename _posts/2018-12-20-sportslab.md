@@ -3,7 +3,7 @@ title: VIH Sportslab skaber samarbejde
 permalink: /aarsskrift/2018/sportslab/
 author: anne_vinternes
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2018
   - pædagogik

@@ -3,7 +3,7 @@ title: "Café Space giver plads til mange modeller"
 permalink: /aarsskrift/2020/cafe-space/
 author: mette_holst_nymand
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2020
 excerpt: "Mette Holst fortæller om Café Space, som er et nyt etableret frirum for samtale. Her inviterer lærere på skift til frivillige samtaler om det der rør sig i det enkelte menneske."

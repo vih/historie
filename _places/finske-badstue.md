@@ -2,6 +2,8 @@
 title:  Finske Badstue
 header:
     teaser: https://drive.google.com/uc?id=0B5v4mAibvkKXcnVOdGZTRlF0b2M
+category:
+  - Steder
 ---
 
 {% include figure 

@@ -2,7 +2,7 @@
 title: Den jyske Idrætsskole har mistet sin formand
 author: hans_erik_jensen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - mindeord
   - Årsskrift 1981

@@ -2,7 +2,7 @@
 title: Otto Lassen in memoriam
 author: mogens_bredfeldt
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - mindeord
   - Årsskrift 1972

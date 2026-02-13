@@ -2,6 +2,8 @@
 title:  Spisesal
 header:
     teaser: https://drive.google.com/uc?id=0B5v4mAibvkKXSE5mVlgyRGlSTWM
+category:
+  - Steder
 ---
 
 {% include figure 

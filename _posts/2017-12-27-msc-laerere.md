@@ -3,7 +3,7 @@ title: Det gjorde særligt indtryk på os...
 author: mette_holst_nymand
 permalink: /aarsskrift/2017/msc/
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2017
 excerpt: "Mette Holst Nymand, højskolelærer, har samlet nogle af de gode oplevelser som højskolelærerne på Vejle Idrætshøjskole har delt med hinanden fra foråret 2017. Nu kan I også læse dem."

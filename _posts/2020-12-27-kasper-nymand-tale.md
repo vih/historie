@@ -3,7 +3,7 @@ title: Du greb chancen
 permalink: /aarsskrift/2020/kasper-nymand/
 author: kasper_nymand
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2020
 excerpt: "Kasper Nymand, højskoleelev efteråret 2020, skrev denne tale til afslutningsmiddagen på højskolen. Han indleder talen med: Jeg må turde at træde ud, før det er for sent."

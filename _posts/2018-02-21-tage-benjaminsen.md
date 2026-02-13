@@ -2,8 +2,9 @@
 title: "Tage Benjaminsens fire møder"
 excerpt: "Interview med Tage Benjaminsen, som både har været elev, højskolelærer og forstander fra 1982-1984 på Den Jyske Idrætsskole."
 author: lsolesen
+permalink: /podcast/tage-benjaminsen/
 category:
-  - Podcasts
+  - Podcast
 tags:
  - Tage Benjaminsen
 header:

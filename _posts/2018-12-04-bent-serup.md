@@ -3,7 +3,7 @@ title: God mentalitet i en hård tid - Bent Serup
 permalink: /aarsskrift/2018/bent-serup/
 author: martin_davidsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2018
   - Bent Serup

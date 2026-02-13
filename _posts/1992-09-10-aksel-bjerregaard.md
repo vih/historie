@@ -4,7 +4,7 @@ authors:
   - klaus_hansen
   - ib_pilegaard
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Jubilæumsskrift 1992
   - Aksel Bjerregaard

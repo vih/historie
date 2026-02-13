@@ -3,7 +3,7 @@ title: Om Vejle Idrætsefterskole
 permalink: /aarsskrift/2017/efterskolens-start/
 author: per_jensen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2017
 excerpt: "Per Jensen, bestyrelsesmedlem, fortæller om, hvordan der endte med at blive etableret en idrætsefterskole på Vejle Idrætshøjskole i 2007, så der nu er to kostskoler under samme tag."

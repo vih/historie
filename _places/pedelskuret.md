@@ -1,5 +1,7 @@
 ---
 title:  Pedelskuret
+category:
+  - Steder
 ---
 
 Pedelskuret blev bygget i 1953 et sted på skolen - og det blev flyttet med håndkraft i 1957.

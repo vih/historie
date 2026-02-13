@@ -2,7 +2,7 @@
 title: Sangens Betydning
 author: elmo_pedersen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1946
   - højskolesang

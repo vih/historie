@@ -3,7 +3,7 @@ title: Og så var der Knud
 permalink: /dagbog/knud-poesi/
 author: jorn_richter
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2005
 excerpt: "Årets gang på Vejle Idrætshøjskole"

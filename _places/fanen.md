@@ -1,5 +1,7 @@
 ---
 title:  Fanen
+category:
+  - Steder
 ---
 
 Er der nogen der kender historien om højskolens fane, så brug meget gerne kommentarerne.

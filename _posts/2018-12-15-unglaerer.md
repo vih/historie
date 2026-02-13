@@ -3,7 +3,7 @@ title: Unglærer på Vejle Idrætshøjskole
 permalink: /aarsskrift/2018/unglaerer/
 author: lsolesen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2018
   - pædagogik

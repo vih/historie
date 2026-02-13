@@ -3,7 +3,7 @@ title: Et årti, 10 års eller deca jubilæum
 permalink: /aarsskrift/2019/thea-henriksen/
 author: thea_henriksen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2019
 excerpt: "Thea Henriksen fejrer i 2019 10 års jubilæum som højskolelærer. Det kigger hun lidt tilbage på i denne artikel."

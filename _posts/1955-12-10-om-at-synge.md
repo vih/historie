@@ -2,7 +2,7 @@
 title: Om at synge
 author: signe_troelsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1955
 excerpt: "Signe Troelsen skriver brev til tidligere elever om at synge."

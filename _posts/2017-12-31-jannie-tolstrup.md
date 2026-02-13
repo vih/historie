@@ -3,7 +3,7 @@ title: Hjem
 permalink: /aarsskrift/2017/hjem/
 author: jannie_tolstrup
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2017
   - tale

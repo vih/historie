@@ -3,7 +3,7 @@ title: Er sportsjournalister også en slags mennesker?
 author: svend_aage_thomsen
 permalink: /sportsjournalister/
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1959
   - sportsjournalister

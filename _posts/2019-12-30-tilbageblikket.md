@@ -3,7 +3,7 @@ title: "Tilbageblik: Tikampmester bygger Idrætsskole"
 permalink: /aarsskrift/2019/billedbladet-1943/
 author: lsolesen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2019
   - Svend Aage Thomsen

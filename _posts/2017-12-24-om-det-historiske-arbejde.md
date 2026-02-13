@@ -3,7 +3,7 @@ title: Arkivet danner baggrund for det historiske arbejde
 permalink: /aarsskrift/2017/historisk-arkiv/
 author: lsolesen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2017
 excerpt: "I et jubilæumsår kommer man automatisk til at tænke på historien, fortællingerne og oplevelserne, der er gået forud. Lars Olesen fortæller om arbejdet med arkivet, det historiske website og samarbejdet med Stadsarkivet."

@@ -3,7 +3,7 @@ title: Højskolevirksomheden 1990
 permalink: /dagbog/1990/
 author: ole_worm
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1990
   - dagbog

@@ -2,7 +2,7 @@
 title: "Personalia: Hans Erik Jensen død"
 author: ole_worm
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - mindeord
   - bestyrelsen

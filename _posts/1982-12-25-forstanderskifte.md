@@ -2,7 +2,7 @@
 title: "Forstanderskifte"
 author: hans_erik_jensen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1982
   - Tage Benjaminsen

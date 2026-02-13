@@ -3,7 +3,7 @@ title: Fællesskab og isolation, højskoleånd og nedlukning
 permalink: /aarsskrift/2021/unglaerer-under-corona-foraar-2021/
 author: michelle_moller_andersen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2021
 excerpt: "Michelle Møller, unglærer foråret 2021, fortæller om, hvordan det var at være unglærer under Corona-nedlukningen i foråret 2021."

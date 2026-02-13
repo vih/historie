@@ -2,7 +2,7 @@
 title: "Fremad"
 author: jens_ejlert_hagelsø
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1948
 excerpt: "Jens Ejlert Hagelsø skriver om fremtiden efter krigen."

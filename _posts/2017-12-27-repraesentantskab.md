@@ -3,7 +3,7 @@ title: Repræsentantskabet
 permalink: /aarsskrift/2017/repraesentantskab/
 author: carsten_lang_petersen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2017
 excerpt: "Bestyrelsesformand, Carsten Lang Petersen, fortæller om arbejdet med at modernisere repræsentantskabet og bestyrelsen på Vejle Idrætshøjskole, så det bliver mere dynamisk og tidsvarende."

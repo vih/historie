@@ -3,7 +3,7 @@ title: "Forstanderskifte - en milepæl"
 permalink: /årsskrift/forstanderskifte-1984/
 author: inger_engberg
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1984
   - Tage Benjaminsen

@@ -8,8 +8,6 @@ header:
   teaser: *image
 category:
   - Sange
-  - Officiel skolesang
-  - Årsskrift
 tags:
   - Årsskrift 1949
 excerpt: "Den oprindelige skolesang på Den Jyske Idrætsskole skrevet i 1949 af William O. Hansen og Karl-Olav Dahlbæk."

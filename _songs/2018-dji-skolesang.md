@@ -8,8 +8,6 @@ header:
   teaser: *image
 category:
   - Sange
-  - Officiel skolesang
-  - Årsskrift
 tags:
   - Jubilæum 1992
   - Årsskrift 1993
@@ -17,6 +15,7 @@ tags:
   - 75 års jubilæum
   - Jubilæum 2017
   - Årsskrift 2018
+  - Officiel skolesang
 excerpt: "Sang skrevet af Sten Kaalø i forbindelse med indvielsen af Globen i 1993. Melodi af Kristian Enevoldsen i 2018."
 permalink: /sang/2018/
 toc: true

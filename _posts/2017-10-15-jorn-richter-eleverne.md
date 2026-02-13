@@ -2,8 +2,9 @@
 title: Jørn Richter om eleverne
 excerpt: "Interview med Jørn Richter om de elever, han er stødt ind i som lærer på Vejle Idrætshøjskole."
 author: lsolesen
+permalink: /podcast/jorn-richter-eleverne/
 category:
-  - Podcasts
+  - Podcast
 tags:
   - Jørn Richter
   - eleverne

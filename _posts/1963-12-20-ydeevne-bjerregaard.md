@@ -2,7 +2,7 @@
 title: "Lidt om undersøgelse af idrætsudøveres ydeevne (testning)"
 author: aksel_bjerregaard
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1963
 excerpt: "Aksel Bjerregaard skriver lidt om testning af idrætsudøveres ydeevne i det nyanlagte arbejdslaboratorium."

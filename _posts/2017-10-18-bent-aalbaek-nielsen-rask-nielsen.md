@@ -4,7 +4,7 @@ excerpt: "Interview med Bent Aalbæk-Nielsen om, hvordan Rask Nielsen, skolens t
 author: lsolesen
 permalink: /podcast/bent-aalbaek-nielsen-rask-nielsen/
 category:
-  - Podcasts
+  - Podcast
 tags:
   - Rask Nielsen
   - Bent Aalbæk-Nielsen
@@ -20,7 +20,7 @@ subtitle: Hvordan kom familien til Den Jyske Idrætsskole?
 description: "Interview med Bent Aalbæk-Nielsen om, hvordan Rask Nielsen, skolens tredje medforstander, kom til Vejle Idrætshøjskole."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: https://historie.vih.dk//assets/podcasts/bent-aalbaek-nielsen-rask-nielsen.mp3
+  mp3: https://historie.vih.dk/assets/podcasts/bent-aalbaek-nielsen-rask-nielsen.mp3
 podcast_file_size: 32.9 MB # for mp3-file
 podcast_duration: "18:00" # for mp3-file
 podcast_length: 34570240 # for mp3-file

@@ -2,7 +2,7 @@
 title: "Krigen er afslutten, men-"
 author: rask_nielsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1945
 excerpt: "Rask Nielsen gør sig overvejelser om tiden efter krigen."

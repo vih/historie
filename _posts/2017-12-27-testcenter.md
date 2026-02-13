@@ -5,7 +5,7 @@ authors:
   - martin_madsen
   - jesper_emil_jacobsgaard
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2017
 excerpt: "De ansatte i Testcenteret fortæller om, hvordan testcenteret efterhånden arbejdet sig ind i skolens hverdag og hvad planerne er for de eksterne samarbejder i 2018."

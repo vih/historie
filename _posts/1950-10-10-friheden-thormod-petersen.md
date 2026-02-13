@@ -2,7 +2,7 @@
 title: Friheden
 author: thormod_petersen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1950
   - modstandskampen

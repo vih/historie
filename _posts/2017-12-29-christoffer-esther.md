@@ -5,7 +5,7 @@ authors:
   - christoffer_sand
   - esther_steingrimsdottir
 category:
-  - Årsskrift
+  - Årsskrifter
   - tale
 tags:
   - Årsskrift 2017

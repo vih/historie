@@ -3,7 +3,7 @@ title: Årets gang 1996
 permalink: /dagbog/1996/
 author: ole_worm
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1996
   - dagbog

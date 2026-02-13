@@ -3,7 +3,7 @@ title: Så udgiver vi igen årsskrift på Vejle Idrætshøjskole
 permalink: /aarsskrift/2017/indledning/
 author: lsolesen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2017
 excerpt: "Efter at have hvilet siden 2006 udsender vi igen årsskrift på Vejle Idrætshøjskole. Lars Olesen, viceforstander, fortæller lidt om baggrunden for at genopstarte årsskriftet."

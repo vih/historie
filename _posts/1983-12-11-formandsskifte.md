@@ -2,7 +2,7 @@
 title: Formandsskifte
 author: inger_engberg
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1981
   - Hans Erik Jensen

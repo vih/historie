@@ -2,8 +2,9 @@
 title: "Marie Lisby"
 excerpt: "Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003."
 author: lsolesen
+permalink: /podcast/marie-lisby/
 category:
-  - Podcasts
+  - Podcast
 tags:
  - Marie Lisby
  - kursuscenter

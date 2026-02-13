@@ -9,7 +9,7 @@ header:
     id: FQ3VqXMWrIM
     provider: youtube
 category:
-  - Video
+  - Videoer
 tags:
   - Carsten Lang Petersen
   - Hans Lauge

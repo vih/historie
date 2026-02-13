@@ -3,7 +3,7 @@ title: Mangfoldigheden bringes i spil
 permalink: /aarsskrift/2018/mangfoldighed/
 author: mette_holst_nymand
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2018
   - pædagogik

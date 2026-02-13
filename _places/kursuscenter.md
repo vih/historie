@@ -2,6 +2,8 @@
 title:  Kursuscenter
 header:
     teaser: https://drive.google.com/uc?id=0B5v4mAibvkKXNGw0Zzl1VnZ4bDA
+category:
+  - Steder
 ---
 
 {% include figure 

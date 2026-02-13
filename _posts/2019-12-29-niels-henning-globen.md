@@ -3,7 +3,7 @@ title: Niels Henning stemte for Globen
 permalink: /aarsskrift/2019/globen/
 author: lsolesen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2019
   - Globen
@@ -16,9 +16,7 @@ header:
   caption: "Foto: Cille Nissen, elev 2014-2015"
   actions:
   - label: "<i class='fas fa-money-bill-alt'></i> Få medlemsskab af fonden"
-    url: "https://www.vih.dk/fond//medlem"
-  - label: "<i class='fas fa-money-bill-alt'></i> Giv bidrag til fonden"
-    url: "https://www.vih.dk/fond//bidrag"
+    url: "https://www.vih.dk/fond/"
 sidebar:
   nav: "yearbook-2019"
 toc: true

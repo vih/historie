@@ -8,12 +8,11 @@ header:
   teaser: *image
 category:
   - Sange
-  - Officiel skolesang
-  - Årsskrift
 tags:
   - Jubilæum 1992
   - Årsskrift 1993
   - 50 års jubilæum
+  - Officiel skolesang
 excerpt: "Skolesang skrevet af Sten Kaalø i forbindelse med indvielsen af Den Jyske Idrætsskoles nye foredragssal, Globen, i 1993 med musik af Signy Jensen."
 permalink: /sang/1993/
 toc: true

@@ -3,7 +3,7 @@ title: Kære gamle Elever! fra Årsskrift 1949
 permalink: /dagbog/1949/
 author: svend_aage_thomsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1949
   - dagbog

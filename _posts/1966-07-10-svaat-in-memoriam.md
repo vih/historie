@@ -2,7 +2,7 @@
 title: Svend Aage Thomsen in memoriam
 author: thormod_petersen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - mindeord
   - Svend Aage Thomsen

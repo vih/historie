@@ -2,7 +2,7 @@
 title: Der er sædejord nok (en tænkt tale)
 author: alfred_thomsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1946
 excerpt: "Alfred Thomsen gør sig tanker om foreningslivet."

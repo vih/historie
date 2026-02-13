@@ -11,7 +11,7 @@ header:
     id: _GunyJNgzYI
     provider: youtube
 category:
-  - Video
+  - Videoer
 tags:
   - Ole Damgaard
   - Bjarne Thomsen
@@ -21,6 +21,7 @@ tags:
   - Pia Rask
   - Carsten Lang Petersen
   - Torben Espersen
+  - featured
 ---
 
 I anledning af skolens 75 års jubilæum kan du komme med på en rejse gennem Vejle Idrætshøjskoles historie. Du kommer til at høre små beretninger fra nuværende og tidligere personligheder på højskolen, se billeder fra skolens historie, overvære interviews, opleve korte film og synge de historiske sange. Det bliver historiske oplivende, opløftende og oplysende.

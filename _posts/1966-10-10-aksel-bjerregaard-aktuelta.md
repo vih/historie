@@ -1,7 +1,7 @@
 ---
 title: Aksel Bjerregaard bliver 50 år
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Aksel Bjerregaard
   - Årsskrift 1966

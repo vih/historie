@@ -7,7 +7,7 @@ header:
   image: https://lh3.googleusercontent.com/OOCTVD3dEsm7nMBuSIvy8AMGT1Xwz8nlY14RpZmx_aBPDgCT1ETnFvOq9J8MRf9QG2q4M3OQ7qdUk8pDQyWZueKHvAiEmQUVgXXcXr2wGN-7BnCNyR8iKiymjnzpy0lKoC_DcGqXdu8
   caption: Tage Søgaard er ved at ordne udstyr. Affotograferet fra Jubilæumsskriftet 1992.
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Jubilæumsskrift 1992
   - Tage Søgaard

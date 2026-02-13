@@ -3,7 +3,7 @@ title: V.I.H.
 permalink: /aarsskrift/2017/vih/
 author: laura_wobeser_sparre
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2017
   - tale

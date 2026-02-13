@@ -3,7 +3,7 @@ title: De store linjer siden 2006
 permalink: /aarsskrift/2017/historie-2006-2017/
 author: lsolesen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 2017
 excerpt: "Her får du de helt store historiske linjer siden 2006, hvor det seneste årsskrift blev udgivet. Du får også lejlighed til at hjælpe med vores hukommelse."

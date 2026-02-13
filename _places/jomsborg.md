@@ -2,6 +2,8 @@
 title:  Jomsborg
 header:
     teaser: https://drive.google.com/uc?id=0B5v4mAibvkKXc1ZhSmczNW1pLXc
+category:
+  - Steder
 ---
 
 {% include figure 

@@ -3,7 +3,7 @@ title: Kære gamle Elever! fra Årsskrift 1951
 permalink: /dagbog/1951/
 author: svend_aage_thomsen
 category:
-  - Årsskrift
+  - Årsskrifter
 tags:
   - Årsskrift 1951
   - dagbog

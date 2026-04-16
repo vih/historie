@@ -61,7 +61,7 @@ Samtidig har vi en masse trykklicheer, som vi helt ærligt ikke helt ved, hvad v
  
 ## Digitalisering af video og lydbånd
 
-Arkivet er fyldt med virkelig mange gamle medier med lyd- eller videoptagelser. Vi er i fuld gang med at digitalisere det, der er bevaringsværdigt, og i det hele taget finde ud af, hvad der er på båndene. Vi har bl.a. haft [Videokopi.dk](https://videokopi.dk) til at digitalisere 8mm og 16mm smalfilm og nogle lydspoler. Desuden fylder VHS-maskinen koblet til computeren på skrivebordet på viceforstanderens kontor. 
+Arkivet er fyldt med virkelig mange gamle medier med lyd- eller videoptagelser. Vi er i fuld gang med at digitalisere det, der er bevaringsværdigt, og i det hele taget finde ud af, hvad der er på båndene. Vi har bl.a. haft Videokopi.dk til at digitalisere 8mm og 16mm smalfilm og nogle lydspoler. Desuden fylder VHS-maskinen koblet til computeren på skrivebordet på viceforstanderens kontor. 
 
 {% include figure
     image_path="https://lh3.googleusercontent.com/PvV_iGTm_pfPR66EPxt955I6nbiUq6sEDt8sOwbVPEFzlIfpqu9Lfu7xej8zL3ZpXtQZzkhsHZ4aQbgBSKGaZWraz10FnrUtwN6OGtxKcJKp6Dn-pUTQcMNFnxenYPNzgoyPJSFEfFE"

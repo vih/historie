@@ -20,7 +20,7 @@ subtitle: Hvordan så Svend Aage Thomsens Idrætskarriere ud?
 description: "Knud Thomassen fortæller på en gammel kasettebåndsoptagelse fra arkivet om Svend Aage Thomsens idrætskarriere."
 image: /assets/podcasts/cover-stemmer.jpg
 media: # requires a mp3-entry
-  mp3: https://historie.vih.dk/assets/podcasts/svaat-karriere.mp3
+  mp3: https://historie.vih.dk/assets/podcasts/thomassen-svaat-karriere.mp3
 podcast_file_size: 25.9 MB # for mp3-file
 podcast_duration: "14:09" # for mp3-file
 podcast_length: 27200290 # for mp3-file

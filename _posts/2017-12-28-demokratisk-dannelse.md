@@ -24,7 +24,7 @@ sidebar:
 
 På Vejle Idrætshøjskole har lærerne defineret deres forståelse af demokratisk dannelse. Forståelsen tager udgangspunkt i, hvordan vi får besvaret spørgsmålet: ”Hvordan vil vi gerne leve sammen?”. Demokratisk dannelse handler om at turde stå foran andre, at alle får mulighed for at sige noget, at ville byde ind, at have mulighed for medbestemmelse og at være sit ansvar bevidst. Gennem tre konkrete eksempler fra idrætsundervisningen vises, hvordan den demokratiske dannelse sættes i spil i praksis gennem idrættens iboende kvaliteter. Idrætten behøver altså ikke at være noget andet, men kan løfte det lovmæssige krav om demokratisk dannelse i sig selv.
 
-[Køb Demokratisk Dannelse - højskolen til debat hos Saxo*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/demokratisk-dannelse_rasmus-kolby-rahbekrasmus-kolby-rahbek_haeftet_9788771298567){: .btn .btn--large .btn--danger}
+[Køb Demokratisk Dannelse - højskolen til debat hos Saxo*](https://webshop.hojskolerne.dk/shop/demokratisk-dannelse-291p.html){: .btn .btn--large .btn--danger}
 
 ## Forståelsen af demokratisk dannelse
 
@@ -137,6 +137,6 @@ Vejen til svarene på spørgsmålet om “Hvordan vil vi gerne leve sammen?” k
 
 > Det har især gjort indtryk på mig, at alle hjælper hinanden og altid er klar til at løfte den anden op, hvis der er brug for det. Gøre tårerne til latter. Gøre nederlag til sejr. Det bedste er, at alle er med til at gøre andres mørke dag til den bedste dag - og det allerbedste er, at man er en af dem. (Højskoleelev)
 
-_Artiklen har oprindeligt været bragt i Jonas Møller og Rasmus Kolby, red.: [Demokratisk Dannelse - højskolen til debat hos Saxo*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/demokratisk-dannelse_rasmus-kolby-rahbekrasmus-kolby-rahbek_haeftet_9788771298567), ISBN-13:9788771298567_
+_Artiklen har oprindeligt været bragt i Jonas Møller og Rasmus Kolby, red.: [Demokratisk Dannelse - højskolen til debat hos Saxo*](https://webshop.hojskolerne.dk/shop/demokratisk-dannelse-291p.html), ISBN-13:9788771298567_
 
-[Køb Demokratisk Dannelse - højskolen til debat hos Saxo*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/demokratisk-dannelse_rasmus-kolby-rahbekrasmus-kolby-rahbek_haeftet_9788771298567){: .btn .btn--large .btn--danger}
+[Køb Demokratisk Dannelse - højskolen til debat hos Saxo*](https://webshop.hojskolerne.dk/shop/demokratisk-dannelse-291p.html){: .btn .btn--large .btn--danger}

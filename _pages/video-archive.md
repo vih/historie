@@ -3,7 +3,7 @@ layout: category
 title: Videoer fra Vejle Idrætshøjskole
 excerpt: "Videoer fra Vejle Idrætshøjskole gennem tiderne."
 permalink: /video/
-taxonomy: Video
+taxonomy: Videoer
 sort_by: date
 sort_order: reverse
 author_profile: false

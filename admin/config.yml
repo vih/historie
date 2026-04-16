@@ -1,0 +1,277 @@
+backend:
+  name: github
+  repo: vih/historie
+  branch: master
+  api_root: https://api.github.com
+  site_domain: historie.netlify.app
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+  cms_label_prefix: netlify-cms/
+  open_authoring: true
+
+site_url: https://historie.vih.dk
+display_url: https://historie.vih.dk
+logo_url: https://historie.vih.dk/android-chrome-192x192.png
+
+show_preview_links: false
+
+editor:
+  preview: false
+
+publish_mode: editorial_workflow
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
+media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
+
+collections:
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Posts" # Used in the UI
+    folder: "_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false}
+      - {label: "Category", name: "category", widget: "list", allow_add: false}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: false}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - label: Header
+        name: header
+        widget: object
+        required: false
+        fields:
+          - {label: Overlay color, name: overlay_color, widget: string, required: false}
+          - {label: Overlay image, name: overlay_image, widget: string, required: false}
+          - {label: Teaser image, name: teaser, widget: string, required: false}
+          - {label: Caption, name: caption, widget: string, required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Show TOC", name: "toc", widget: "select", options: ["true", "false"], default: false, required: false}
+      - label: Sidebar
+        name: sidebar
+        widget: object
+        required: false
+        fields:
+          - {label: Sidebar Navigation, name: nav, widget: string, required: false}
+  - name: "persons" # Used in routes, e.g., /admin/collections/blog
+    label: "Personer" # Used in the UI
+    folder: "_persons" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false}
+      - {label: "Category", name: "category", widget: "list", allow_add: false}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: false}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - label: Header
+        name: header
+        widget: object
+        required: false
+        fields:
+          - {label: Overlay color, name: overlay_color, widget: string, required: false}
+          - {label: Overlay image, name: overlay_image, widget: string, required: false}
+          - {label: Teaser image, name: teaser, widget: string, required: false}
+          - {label: Caption, name: caption, widget: string, required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Show TOC", name: "toc", widget: "select", options: ["true", "false"], default: false, required: false}
+      - label: Sidebar
+        name: sidebar
+        widget: object
+        required: false
+        fields:
+          - {label: Sidebar Navigation, name: nav, widget: string, required: false}
+  - name: "places" # Used in routes, e.g., /admin/collections/blog
+    label: "Steder" # Used in the UI
+    folder: "_places" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false}
+      - {label: "Category", name: "category", widget: "list", allow_add: false}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: false}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - label: Header
+        name: header
+        widget: object
+        required: false
+        fields:
+          - {label: Overlay color, name: overlay_color, widget: string, required: false}
+          - {label: Overlay image, name: overlay_image, widget: string, required: false}
+          - {label: Teaser image, name: teaser, widget: string, required: false}
+          - {label: Caption, name: caption, widget: string, required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Show TOC", name: "toc", widget: "select", options: ["true", "false"], default: false, required: false}
+      - label: Sidebar
+        name: sidebar
+        widget: object
+        required: false
+        fields:
+          - {label: Sidebar Navigation, name: nav, widget: string, required: false}
+  - name: "songs" # Used in routes, e.g., /admin/collections/blog
+    label: "Sange" # Used in the UI
+    folder: "_songs" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false}
+      - {label: "Category", name: "category", widget: "list", allow_add: false}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: false}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - label: Header
+        name: header
+        widget: object
+        required: false
+        fields:
+          - {label: Overlay color, name: overlay_color, widget: string, required: false}
+          - {label: Overlay image, name: overlay_image, widget: string, required: false}
+          - {label: Teaser image, name: teaser, widget: string, required: false}
+          - {label: Caption, name: caption, widget: string, required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Show TOC", name: "toc", widget: "select", options: ["true", "false"], default: false, required: false}
+      - label: Sidebar
+        name: sidebar
+        widget: object
+        required: false
+        fields:
+          - {label: Sidebar Navigation, name: nav, widget: string, required: false}
+  - name: "yearbooks" # Used in routes, e.g., /admin/collections/blog
+    label: "Årsskrifter" # Used in the UI
+    folder: "_yearbooks" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false}
+      - {label: "Category", name: "category", widget: "list", allow_add: false}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: false}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - label: Header
+        name: header
+        widget: object
+        required: false
+        fields:
+          - {label: Overlay color, name: overlay_color, widget: string, required: false}
+          - {label: Overlay image, name: overlay_image, widget: string, required: false}
+          - {label: Teaser image, name: teaser, widget: string, required: false}
+          - {label: Caption, name: caption, widget: string, required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Show TOC", name: "toc", widget: "select", options: ["true", "false"], default: false, required: false}
+      - label: Sidebar
+        name: sidebar
+        widget: object
+        required: false
+        fields:
+          - {label: Sidebar Navigation, name: nav, widget: string, required: false}
+  - name: "faq" # Used in routes, e.g., /admin/collections/blog
+    label: "Ofte stillede spørgsmål" # Used in the UI
+    folder: "_faq" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false}
+      - {label: "Category", name: "category", widget: "list", allow_add: false}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: false}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - label: Header
+        name: header
+        widget: object
+        required: false
+        fields:
+          - {label: Overlay color, name: overlay_color, widget: string, required: false}
+          - {label: Overlay image, name: overlay_image, widget: string, required: false}
+          - {label: Teaser image, name: teaser, widget: string, required: false}
+          - {label: Caption, name: caption, widget: string, required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Show TOC", name: "toc", widget: "select", options: ["true", "false"], default: false, required: false}
+      - label: Sidebar
+        name: sidebar
+        widget: object
+        required: false
+        fields:
+          - {label: Sidebar Navigation, name: nav, widget: string, required: false}
+  - label: "Site options"
+    name: "settings"
+    editor:
+      preview: false
+    files:
+      - label: "Forsiden"
+        name: "index"
+        file: "index.html"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "select", options: ["splash"], default: "splash"}
+          - label: Header
+            name: header
+            widget: object
+            collapsed: true
+            required: false
+            fields:
+              - {label: "Image", name: "image", widget: "string", required: false}
+              - {label: "Overlay Image", name: "overlay_image", widget: "string", required: false}
+              - {label: "Teaser Image", name: "teaser", widget: "string", required: false}
+              - {label: "Caption", name: "caption", widget: "string", required: false}
+              - label: Actions
+                name: actions
+                widget: list
+                collapsed: true
+                required: false
+                fields:
+                  - {label: "Label", name: "label", widget: "string", required: false}
+                  - {label: "Url", name: "url", widget: "string", required: false}
+              - label: Video
+                name: video
+                widget: object
+                collapsed: true
+                required: false
+                fields:
+                  - {label: "Provider", name: "provider", widget: "select", options: ["youtube", "google-drive"], default: "", required: false}
+                  - {label: "ID", name: "id", widget: "string", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: Feature row
+            name: feature_row
+            widget: list
+            collapsed: true
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", required: false}
+              - {label: "Image", name: "image_path", widget: "string", required: false}
+              - {label: "Alt", name: "alt", widget: "string", required: false}
+              - {label: "Exerpt", name: "excerpt", widget: "text", required: false}
+              - {label: "Url", name: "url", widget: "string", required: false}
+              - {label: "Btn label", name: "btn_label", widget: "string", required: false}
+              - {label: "Btn class", name: "btn_class", widget: "select", options: ["btn--success", "btn--warning", "btn--danger", "btn--info"], default: "", required: false}
+          - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "dd-MM-YYYY", timeFormat: "HH:mm", required: false}
+          - label: Gallery
+            name: gallery
+            widget: list
+            collapsed: true
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", required: false}
+              - {label: "Alt", name: "alt", widget: "string", required: false}
+              - {label: "Image", name: "image_path", widget: "string", required: false}
+              - {label: "Url", name: "url", widget: "string", required: false}
+      - label: "Navigation Menu"
+        name: nav
+        file: "_data/navigation.yml"
+        fields:
+          - label: "Nav Items"
+            label_singular: "Nav Item"
+            name: main
+            widget: list
+            fields:
+              - {label: "Display Text", name: title, widget: string}
+              - {label: URL, name: url, widget: string}

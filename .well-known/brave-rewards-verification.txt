@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: vih.dk
+Token: c1965aeb1ce1cf40271ab7ef88c415f90f41d4764dc32df31de6cc667ce37dba
